@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* globals.css */
+html, body {
+  direction: ltr;
+  overflow-x: hidden;  /* keep your no-horizontal-scroll fix */
+  margin: 0;
+  padding: 0;
+}
