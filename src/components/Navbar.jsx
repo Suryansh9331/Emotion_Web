@@ -3212,6 +3212,369 @@
 // export default Navbar;
 
 
+
+
+
+
+
+
+
+
+
+
+// import React, { useState } from 'react';
+// import { Link } from 'react-router-dom';
+// import { Search, Menu, X, ChevronDown, ChevronRight, ExternalLink } from 'lucide-react';
+
+// const Navbar = () => {
+//   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+//   const [expandedItem, setExpandedItem] = useState(null);
+//   const [isSearchExpanded, setIsSearchExpanded] = useState(false);
+
+//   const navItems = [
+//     {
+//       id: 1,
+//       title: 'Birth control',
+//       leftColumn: [
+//         { label: 'Explore birth control options', to: '/birth-control/explore' },
+//         { label: 'Compare birth control', to: '/birth-control/compare' },
+//         { label: 'How to get birth control', to: '/birth-control/how-to' },
+//         { label: 'Birth control articles', to: '/birth-control/articles' },
+//         { label: 'Birth control reviews', to: '/birth-control/reviews' },
+//       ],
+//       rightColumn: {
+//         title: 'BIRTH CONTROL TYPES',
+//         items: [
+//           { label: 'IUD (Intrauterine Device)', to: '/types/iud' },
+//           { label: 'Implant (Nexplanon)', to: '/types/implant' },
+//           { label: 'Birth control shot (Depo-Provera)', to: '/types/birth-control-shot' },
+//           { label: 'Birth control ring', to: '/types/birth-control-ring' },
+//           { label: 'Birth control patch', to: '/types/patch' },
+//           { label: 'Birth control pill', to: '/types/birth-control-pill' },
+//           { label: 'Diaphragm', to: '/types/diaphragm' },
+//           { label: 'Condom', to: '/types/condom' },
+//           { label: 'Internal condom (FC2)', to: '/types/internal-condom' },
+//           { label: 'Cervical cap', to: '/types/cervical-cap' },
+//           { label: 'Fertility awareness methods', to: '/types/fertility-awareness' },
+//           { label: 'Spermicide and gel', to: '/types/spermicide-gell' },
+//           { label: 'Withdrawal (pull-out method)', to: '/types/withdrawal' },
+//           { label: 'Sterilization', to: '/types/sterilization' },
+//           { label: '"Not right now"', to: '/types/not-right-now' },
+//           { label: 'Emergency contraception', to: '/types/emergency-contraception' },
+//         ],
+//       },
+//     },
+//     {
+//       id: 2,
+//       title: 'Abortion',
+//       dropdownItems: [
+//         { label: 'Your options', to: '/abortion/options' },
+//         { label: 'Common questions', to: '/abortion/questions' },
+//         { label: 'Cost', to: '/abortion/cost' },
+//         { label: 'Support', to: '/abortion/support' },
+//       ],
+//     },
+//     {
+//       id: 3,
+//       title: 'Sex & relationships',
+//       dropdownItems: [
+//         { label: 'Dating', to: '/sex-relationships/dating' },
+//         { label: 'Communication', to: '/sex-relationships/communication' },
+//         { label: 'LGBTQ+', to: '/sex-relationships/lgbtq' },
+//         { label: 'Pleasure', to: '/sex-relationships/pleasure' },
+//       ],
+//     },
+//     {
+//       id: 4,
+//       title: 'Sexual health & wellness',
+//       dropdownItems: [
+//         { label: 'Periods & vaginal health', to: '/sexual-health/periods' },
+//         { label: 'Health care', to: '/sexual-health/health-care' },
+//         { label: 'Pregnancy & fertility', to: '/sexual-health/pregnancy' },
+//         { label: 'Sexually Transmitted Infections (STDs, STIs)', to: '/shw' },
+//       ],
+//     },
+//     {
+//       id: 5,
+//       title: 'Lifestyle & inspiration',
+//       dropdownItems: [
+//         { label: 'Entertainment', to: '/lifestyle/entertainment' },
+//         { label: 'Stories', to: '/lifestyle/stories' },
+//         { label: 'News', to: '/lifestyle/news' },
+//         { label: 'Resources', to: '/lifestyle/resources' },
+//       ],
+//     },
+//     {
+//       id: 6,
+//       title: 'Find health care',
+//       dropdownItems: [
+//         { label: 'Providers', to: '/find-health-care/providers' },
+//         { label: 'Telehealth', to: '/find-health-care/telehealth' },
+//         { label: 'Insurance', to: '/find-health-care/insurance' },
+//         { label: 'Free clinics', to: '/find-health-care/clinics' },
+//       ],
+//     },
+//   ];
+
+//   const TopBar = () => (
+//     <div className="bg-[#d9f5f0] py-2.5">
+//       <div className="container mx-auto px-6 flex justify-between items-center">
+//         <div className="text-sm">
+//           <span className="hidden sm:inline-block">Are you a provider? Visit </span>
+//           <Link to="/providers" className="font-medium text-[#333] hover:underline inline-flex items-center">
+//             Bedsider Providers
+//             <ExternalLink className="ml-1 h-3 w-3" />
+//           </Link>
+//         </div>
+//         <div className="flex items-center space-x-6 text-sm">
+//           <Link to="/signup" className="text-[#333] hover:underline">Sign Up</Link>
+//           <span>|</span>
+//           <Link to="/login" className="text-[#333] hover:underline">Log In</Link>
+//           <button className="bg-[#0c9a8d] text-white px-4 py-1.5 rounded hover:bg-[#0a8a7d] transition-colors">
+//             español
+//           </button>
+//         </div>
+//       </div>
+//     </div>
+//   );
+
+//   const MainLogo = () => (
+//     <div className="flex justify-center py-8">
+//       <Link to="/" className="flex flex-col items-center">
+//         <div className="text-[#333333] text-6xl font-bold tracking-wider">BEDSIDER</div>
+//         <div className="text-gray-500 text-sm italic mt-2">We&apos;ve got you covered</div>
+//       </Link>
+//     </div>
+//   );
+
+//   const NavItem = ({ item }) => {
+//     const [isHovered, setIsHovered] = useState(false);
+//     return (
+//       <div
+//         className="relative"
+//         onMouseEnter={() => setIsHovered(true)}
+//         onMouseLeave={() => setIsHovered(false)}
+//       >
+//         <button className="flex items-center px-4 py-4 text-[#333] hover:text-[#0c9a8d] transition-colors">
+//           {item.title}
+//           <ChevronDown className="ml-1.5 h-4 w-4" />
+//         </button>
+//         <div
+//           className={`absolute left-0 mt-0 bg-white shadow-lg rounded-b-lg overflow-hidden transition-all duration-300 origin-top z-50 ${
+//             isHovered ? 'opacity-100 transform scale-y-100' : 'opacity-0 transform scale-y-0 pointer-events-none'
+//           }`}
+//         >
+//           {item.id === 1 ? (
+//             <div className="flex min-w-[800px]">
+//               <div className="w-1/3 bg-[#f8f8f8] py-4">
+//                 {item.leftColumn.map((link, idx) => (
+//                   <Link
+//                     key={idx}
+//                     to={link.to}
+//                     className={`block px-6 py-2.5 text-[#333] hover:bg-white hover:text-[#0c9a8d] transition-colors ${
+//                       idx === item.leftColumn.length - 1 ? 'italic' : ''
+//                     }`}
+//                   >
+//                     {link.label}
+//                   </Link>
+//                 ))}
+//               </div>
+//               <div className="w-2/3 py-4">
+//                 <h3 className="px-6 py-2 text-sm font-semibold text-gray-500">
+//                   {item.rightColumn.title}
+//                 </h3>
+//                 <div className="grid grid-cols-2 gap-x-4">
+//                   {item.rightColumn.items.map((method, idx) => (
+//                     <Link
+//                       key={idx}
+//                       to={method.to}
+//                       className="px-6 py-2.5 text-[#333] hover:bg-[#f8f8f8] hover:text-[#0c9a8d] transition-colors"
+//                     >
+//                       {method.label}
+//                     </Link>
+//                   ))}
+//                 </div>
+//               </div>
+//             </div>
+//           ) : (
+//             <div className="py-2 w-64">
+//               {item.dropdownItems.map((link, idx) => (
+//                 <Link
+//                   key={idx}
+//                   to={link.to}
+//                   className="block px-6 py-2.5 text-[#333] hover:bg-[#f8f8f8] hover:text-[#0c9a8d] transition-colors"
+//                 >
+//                   {link.label}
+//                 </Link>
+//               ))}
+//             </div>
+//           )}
+//         </div>
+//       </div>
+//     );
+//   };
+
+//   const SearchBar = () => (
+//     <div className="relative flex items-center pl-4">
+//       {isSearchExpanded && (
+//         <input
+//           type="text"
+//           className="w-48 px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:border-[#0c9a8d] transition-all duration-300"
+//           placeholder="Search..."
+//           autoFocus
+//           onBlur={() => setIsSearchExpanded(false)}
+//         />
+//       )}
+//       <button
+//         className="ml-2 p-2 text-[#333] hover:text-[#0c9a8d] transition-colors flex items-center"
+//         onClick={() => setIsSearchExpanded(!isSearchExpanded)}
+//       >
+//         <Search className="h-5 w-5" />
+//         <span className="ml-2 hidden md:inline-block text-base">Search</span>
+//       </button>
+//     </div>
+//   );
+
+//   const MobileMenu = () => (
+//     <div className="md:hidden">
+//       <button className="p-4 text-[#333]" onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}>
+//         {isMobileMenuOpen ? <X size={28} /> : <Menu size={28} />}
+//       </button>
+
+//       {isMobileMenuOpen && (
+//         <div className="fixed inset-0 bg-white z-50 overflow-y-auto pt-16">
+//           <div className="container mx-auto px-6">
+//             <button
+//               className="absolute top-4 right-4 p-4 text-[#333]"
+//               onClick={() => setIsMobileMenuOpen(false)}
+//             >
+//               <X size={28} />
+//             </button>
+
+//             <div className="mt-6 border-t">
+//               {navItems.map(item => (
+//                 <div key={item.id} className="border-b">
+//                   <button
+//                     className="w-full py-5 px-4 flex justify-between items-center text-left"
+//                     onClick={() =>
+//                       setExpandedItem(expandedItem === item.id ? null : item.id)
+//                     }
+//                   >
+//                     <span className="font-medium text-lg">{item.title}</span>
+//                     {expandedItem === item.id ? <ChevronDown size={24} /> : <ChevronRight size={24} />}
+//                   </button>
+
+//                   {expandedItem === item.id && (
+//                     <div className="pb-4 pl-8">
+//                       {item.id === 1 ? (
+//                         <>
+//                           {item.leftColumn.map((link, idx) => (
+//                             <Link
+//                               key={idx}
+//                               to={link.to}
+//                               className="block py-3 text-[#333] hover:text-[#0c9a8d]"
+//                             >
+//                               {link.label}
+//                             </Link>
+//                           ))}
+//                           <h3 className="font-semibold mt-4 mb-2 text-gray-500">
+//                             {item.rightColumn.title}
+//                           </h3>
+//                           {item.rightColumn.items.map((method, idx) => (
+//                             <Link
+//                               key={idx}
+//                               to={method.to}
+//                               className="block py-3 text-[#333] hover:text-[#0c9a8d]"
+//                             >
+//                               {method.label}
+//                             </Link>
+//                           ))}
+//                         </>
+//                       ) : (
+//                         item.dropdownItems.map((link, idx) => (
+//                           <Link
+//                             key={idx}
+//                             to={link.to}
+//                             className="block py-3 text-[#333] hover:text-[#0c9a8d]"
+//                           >
+//                             {link.label}
+//                           </Link>
+//                         ))
+//                       )}
+//                     </div>
+//                   )}
+//                 </div>
+//               ))}
+//             </div>
+//             <div className="mt-8 space-y-6">
+//               <div className="flex justify-center">
+//                 <input
+//                   type="text"
+//                   className="w-full px-4 py-3 border border-gray-300 rounded-md focus:outline-none focus:border-[#0c9a8d]"
+//                   placeholder="Search..."
+//                 />
+//               </div>
+//               <div className="flex justify-center space-x-6">
+//                 <Link to="/signup" className="font-medium text-[#333] hover:text-[#0c9a8d]">
+//                   Sign Up
+//                 </Link>
+//                 <span>|</span>
+//                 <Link to="/login" className="font-medium text-[#333] hover:text-[#0c9a8d]">
+//                   Log In
+//                 </Link>
+//               </div>
+//               <div className="flex justify-center">
+//                 <button className="bg-[#0c9a8d] text-white px-6 py-3 rounded hover:bg-[#0a8a7d] transition-colors w-full">
+//                   español
+//                 </button>
+//               </div>
+//             </div>
+//           </div>
+//         </div>
+//       )}
+//     </div>
+//   );
+
+//   const NavMenu = () => (
+//     <div className="hidden md:block border-t border-b border-gray-200">
+//       <div className="container mx-auto px-6 flex justify-between items-center">
+//         <div className="flex">
+//           {navItems.slice(0, 5).map(item => <NavItem key={item.id} item={item} />)}
+//         </div>
+//         <div className="flex items-center">
+//           <NavItem item={navItems[5]} />
+//           <SearchBar />
+//         </div>
+//       </div>
+//     </div>
+//   );
+//   return (
+//     <header className="sticky top-0 left-0 right-0 z-40 bg-white shadow-sm">
+//       <TopBar />
+//       <div className="container mx-auto px-6 flex justify-between items-center">
+//         <div className="md:hidden"><MobileMenu /></div>
+//         <div className="flex-1"><MainLogo /></div>
+//         <div className="md:hidden w-12" /> {/* placeholder */}
+//       </div>
+//       <NavMenu />
+//     </header>
+//   );
+// };
+// export default Navbar;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { Search, Menu, X, ChevronDown, ChevronRight, ExternalLink } from 'lucide-react';
@@ -3307,33 +3670,182 @@ const Navbar = () => {
   ];
 
   const TopBar = () => (
-    <div className="bg-[#d9f5f0] py-2.5">
-      <div className="container mx-auto px-6 flex justify-between items-center">
-        <div className="text-sm">
-          <span className="hidden sm:inline-block">Are you a provider? Visit </span>
-          <Link to="/providers" className="font-medium text-[#333] hover:underline inline-flex items-center">
-            Bedsider Providers
-            <ExternalLink className="ml-1 h-3 w-3" />
+  <div className="bg-[#d9f5f0] py-2.5">
+    <div className="container mx-auto px-4 sm:px-6 flex flex-col sm:flex-row justify-between items-center space-y-2 sm:space-y-0 text-center sm:text-left">
+      <div className="text-sm text-[#333]">
+        <span className="hidden sm:inline-block">Are you a provider? Visit </span>
+        <Link
+          to="/providers"
+          className="font-medium text-[#333] hover:underline inline-flex items-center text-sm sm:text-base"
+        >
+          <span className="sm:hidden">Providers</span>
+          <span className="hidden sm:inline">Bedsider Providers</span>
+          <ExternalLink className="ml-1 h-3 w-3" />
+        </Link>
+      </div>
+
+      <div className="flex flex-col sm:flex-row items-center gap-2 sm:gap-6 text-sm">
+        <div className="flex items-center space-x-2 sm:space-x-3">
+          <Link to="/signup" className="text-[#333] hover:underline text-sm sm:text-base">
+            Sign Up
+          </Link>
+          <span className="hidden sm:inline">|</span>
+          <Link to="/login" className="text-[#333] hover:underline text-sm sm:text-base">
+            Log In
           </Link>
         </div>
-        <div className="flex items-center space-x-6 text-sm">
-          <Link to="/signup" className="text-[#333] hover:underline">Sign Up</Link>
-          <span>|</span>
-          <Link to="/login" className="text-[#333] hover:underline">Log In</Link>
-          <button className="bg-[#0c9a8d] text-white px-4 py-1.5 rounded hover:bg-[#0a8a7d] transition-colors">
-            español
-          </button>
-        </div>
+        <button className="bg-[#0c9a8d] text-white px-4 py-1.5 rounded hover:bg-[#0a8a7d] transition-colors text-sm sm:text-base">
+          español
+        </button>
       </div>
+    </div>
+  </div>
+);
+
+
+  const MainLogo = () => (
+    <div className="flex justify-center py-6">
+      <Link to="/" className="flex flex-col items-center text-center">
+        <div className="text-[#333333] text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold tracking-wide leading-tight">
+          BEDSIDER
+        </div>
+        <div className="text-gray-500 text-xs sm:text-sm italic mt-1">
+          We&apos;ve got you covered
+        </div>
+      </Link>
     </div>
   );
 
-  const MainLogo = () => (
-    <div className="flex justify-center py-8">
-      <Link to="/" className="flex flex-col items-center">
-        <div className="text-[#333333] text-6xl font-bold tracking-wider">BEDSIDER</div>
-        <div className="text-gray-500 text-sm italic mt-2">We&apos;ve got you covered</div>
-      </Link>
+  const SearchBar = () => (
+    <div className="relative flex items-center pl-4">
+      {isSearchExpanded && (
+        <input
+          type="text"
+          className="w-48 px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:border-[#0c9a8d] transition-all duration-300"
+          placeholder="Search..."
+          autoFocus
+          onBlur={() => setIsSearchExpanded(false)}
+        />
+      )}
+      <button
+        className="ml-2 p-2 text-[#333] hover:text-[#0c9a8d] transition-colors flex items-center"
+        onClick={() => setIsSearchExpanded(!isSearchExpanded)}
+      >
+        <Search className="h-5 w-5" />
+        <span className="ml-2 hidden md:inline-block text-base">Search</span>
+      </button>
+    </div>
+  );
+
+  const MobileMenu = () => (
+    <div className="lg:hidden">
+      <button className="p-4 text-[#333]" onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}>
+        {isMobileMenuOpen ? <X size={28} /> : <Menu size={28} />}
+      </button>
+
+      {isMobileMenuOpen && (
+        <div className="fixed inset-0 bg-white z-60 overflow-y-auto pt-16">
+          <div className="container mx-auto px-6">
+            <button
+              className="absolute top-4 right-4 p-4 text-[#333]"
+              onClick={() => setIsMobileMenuOpen(false)}
+            >
+              <X size={28} />
+            </button>
+
+            <div className="mt-6 border-t">
+              {navItems.map(item => (
+                <div key={item.id} className="border-b">
+                  <button
+                    className="w-full py-5 px-4 flex justify-between items-center text-left"
+                    onClick={() =>
+                      setExpandedItem(expandedItem === item.id ? null : item.id)
+                    }
+                  >
+                    <span className="font-medium text-lg">{item.title}</span>
+                    {expandedItem === item.id ? <ChevronDown size={24} /> : <ChevronRight size={24} />}
+                  </button>
+
+                  {expandedItem === item.id && (
+                    <div className="pb-4 pl-8">
+                      {item.id === 1 ? (
+                        <>
+                          {item.leftColumn.map((link, idx) => (
+                            <Link
+                              key={idx}
+                              to={link.to}
+                              className="block py-3 text-[#333] hover:text-[#0c9a8d]"
+                              onClick={() => {
+                                setIsMobileMenuOpen(false);
+                                setExpandedItem(null);
+                              }}
+                            >
+                              {link.label}
+                            </Link>
+                          ))}
+                          <h3 className="font-semibold mt-4 mb-2 text-gray-500">
+                            {item.rightColumn.title}
+                          </h3>
+                          {item.rightColumn.items.map((method, idx) => (
+                            <Link
+                              key={idx}
+                              to={method.to}
+                              className="block py-3 text-[#333] hover:text-[#0c9a8d]"
+                              onClick={() => {
+                                setIsMobileMenuOpen(false);
+                                setExpandedItem(null);
+                              }}
+                            >
+                              {method.label}
+                            </Link>
+                          ))}
+                        </>
+                      ) : (
+                        item.dropdownItems.map((link, idx) => (
+                          <Link
+                            key={idx}
+                            to={link.to}
+                            className="block py-3 text-[#333] hover:text-[#0c9a8d]"
+                            onClick={() => {
+                              setIsMobileMenuOpen(false);
+                              setExpandedItem(null);
+                            }}
+                          >
+                            {link.label}
+                          </Link>
+                        ))
+                      )}
+                    </div>
+                  )}
+                </div>
+              ))}
+            </div>
+            <div className="mt-8 space-y-6">
+              <div className="flex justify-center">
+                <input
+                  type="text"
+                  className="w-full px-4 py-3 border border-gray-300 rounded-md focus:outline-none focus:border-[#0c9a8d]"
+                  placeholder="Search..."
+                />
+              </div>
+              <div className="flex justify-center space-x-6">
+                <Link to="/signup" className="font-medium text-[#333] hover:text-[#0c9a8d]">
+                  Sign Up
+                </Link>
+                <span>|</span>
+                <Link to="/login" className="font-medium text-[#333] hover:text-[#0c9a8d]">
+                  Log In
+                </Link>
+              </div>
+              <div className="flex justify-center">
+                <button className="bg-[#0c9a8d] text-white px-6 py-3 rounded hover:bg-[#0a8a7d] transition-colors w-full">
+                  español
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 
@@ -3404,129 +3916,8 @@ const Navbar = () => {
     );
   };
 
-  const SearchBar = () => (
-    <div className="relative flex items-center pl-4">
-      {isSearchExpanded && (
-        <input
-          type="text"
-          className="w-48 px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:border-[#0c9a8d] transition-all duration-300"
-          placeholder="Search..."
-          autoFocus
-          onBlur={() => setIsSearchExpanded(false)}
-        />
-      )}
-      <button
-        className="ml-2 p-2 text-[#333] hover:text-[#0c9a8d] transition-colors flex items-center"
-        onClick={() => setIsSearchExpanded(!isSearchExpanded)}
-      >
-        <Search className="h-5 w-5" />
-        <span className="ml-2 hidden md:inline-block text-base">Search</span>
-      </button>
-    </div>
-  );
-
-  const MobileMenu = () => (
-    <div className="md:hidden">
-      <button className="p-4 text-[#333]" onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}>
-        {isMobileMenuOpen ? <X size={28} /> : <Menu size={28} />}
-      </button>
-
-      {isMobileMenuOpen && (
-        <div className="fixed inset-0 bg-white z-50 overflow-y-auto pt-16">
-          <div className="container mx-auto px-6">
-            <button
-              className="absolute top-4 right-4 p-4 text-[#333]"
-              onClick={() => setIsMobileMenuOpen(false)}
-            >
-              <X size={28} />
-            </button>
-
-            <div className="mt-6 border-t">
-              {navItems.map(item => (
-                <div key={item.id} className="border-b">
-                  <button
-                    className="w-full py-5 px-4 flex justify-between items-center text-left"
-                    onClick={() =>
-                      setExpandedItem(expandedItem === item.id ? null : item.id)
-                    }
-                  >
-                    <span className="font-medium text-lg">{item.title}</span>
-                    {expandedItem === item.id ? <ChevronDown size={24} /> : <ChevronRight size={24} />}
-                  </button>
-
-                  {expandedItem === item.id && (
-                    <div className="pb-4 pl-8">
-                      {item.id === 1 ? (
-                        <>
-                          {item.leftColumn.map((link, idx) => (
-                            <Link
-                              key={idx}
-                              to={link.to}
-                              className="block py-3 text-[#333] hover:text-[#0c9a8d]"
-                            >
-                              {link.label}
-                            </Link>
-                          ))}
-                          <h3 className="font-semibold mt-4 mb-2 text-gray-500">
-                            {item.rightColumn.title}
-                          </h3>
-                          {item.rightColumn.items.map((method, idx) => (
-                            <Link
-                              key={idx}
-                              to={method.to}
-                              className="block py-3 text-[#333] hover:text-[#0c9a8d]"
-                            >
-                              {method.label}
-                            </Link>
-                          ))}
-                        </>
-                      ) : (
-                        item.dropdownItems.map((link, idx) => (
-                          <Link
-                            key={idx}
-                            to={link.to}
-                            className="block py-3 text-[#333] hover:text-[#0c9a8d]"
-                          >
-                            {link.label}
-                          </Link>
-                        ))
-                      )}
-                    </div>
-                  )}
-                </div>
-              ))}
-            </div>
-            <div className="mt-8 space-y-6">
-              <div className="flex justify-center">
-                <input
-                  type="text"
-                  className="w-full px-4 py-3 border border-gray-300 rounded-md focus:outline-none focus:border-[#0c9a8d]"
-                  placeholder="Search..."
-                />
-              </div>
-              <div className="flex justify-center space-x-6">
-                <Link to="/signup" className="font-medium text-[#333] hover:text-[#0c9a8d]">
-                  Sign Up
-                </Link>
-                <span>|</span>
-                <Link to="/login" className="font-medium text-[#333] hover:text-[#0c9a8d]">
-                  Log In
-                </Link>
-              </div>
-              <div className="flex justify-center">
-                <button className="bg-[#0c9a8d] text-white px-6 py-3 rounded hover:bg-[#0a8a7d] transition-colors w-full">
-                  español
-                </button>
-              </div>
-            </div>
-          </div>
-        </div>
-      )}
-    </div>
-  );
-
   const NavMenu = () => (
-    <div className="hidden md:block border-t border-b border-gray-200">
+    <div className="hidden lg:block border-t border-b border-gray-200">
       <div className="container mx-auto px-6 flex justify-between items-center">
         <div className="flex">
           {navItems.slice(0, 5).map(item => <NavItem key={item.id} item={item} />)}
@@ -3538,18 +3929,18 @@ const Navbar = () => {
       </div>
     </div>
   );
+
   return (
-    <header className="sticky top-0 left-0 right-0 z-40 bg-white shadow-sm">
+    <header className="sticky top-0 left-0 right-0 z-60 bg-white shadow-sm">
       <TopBar />
       <div className="container mx-auto px-6 flex justify-between items-center">
-        <div className="md:hidden"><MobileMenu /></div>
+        <div className="lg:hidden"><MobileMenu /></div>
         <div className="flex-1"><MainLogo /></div>
-        <div className="md:hidden w-12" /> {/* placeholder */}
+        <div className="lg:hidden w-12" /> {/* placeholder */}
       </div>
       <NavMenu />
     </header>
   );
 };
+
 export default Navbar;
-
-
