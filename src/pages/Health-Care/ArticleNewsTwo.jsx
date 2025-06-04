@@ -2,7 +2,7 @@
 import { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { articleContentsTwo } from './data/articles';
-import SubscriptionForm from '../FriskyComponent';
+import SubscriptionForm from '../../components/FriskyComponent';
 
 const ArticleNewsTwo = () => {
   const { slug } = useParams();

@@ -1,4 +1,4 @@
-import SubscriptionForm from "../FriskyComponent"
+import SubscriptionForm from "../../components/FriskyComponent"
 import ArticlesSection from "./ArticleSection"
 import STIArticlesLayoutTwo from "./ArticleSectionTwo"
 import FourthComponent from "./fourthComponent"

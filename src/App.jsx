@@ -1,16 +1,16 @@
 // import React, { useState } from 'react';
 // import { ChevronDown, Search, Menu, X } from 'lucide-react';
 
-import Footer from "./components/Footer";
-import Navbar from "./components/Navbar";
-import ScrollToTop from "./components/ScrollToTop";
-import ArticleNews from "./components/SHW/ArticleNews";
-import ArticleNewsTwo from "./components/SHW/ArticleNewsTwo";
-import STIArticlesLayout from "./components/SHW/ArticleSection";
-import ArticleSectionTwo from "./components/SHW/ArticleSectionTwo";
-import ShwHome from "./components/SHW/ShwHome";
-import Home from "./Home";
-import DynamicTabsComponent from "./Components2/TabSection/Tabs";
+// import Footer from "./components/Footer";
+// import Navbar from "./components/Navbar";
+// import ScrollToTop from "./components/ScrollToTop";
+// import ArticleNews from "./components/SHW/ArticleNews";
+// import ArticleNewsTwo from "./components/SHW/ArticleNewsTwo";
+// import STIArticlesLayout from "./components/SHW/ArticleSection";
+// import ArticleSectionTwo from "./components/SHW/ArticleSectionTwo";
+// import ShwHome from "./components/SHW/ShwHome";
+// import Home from "./Home";
+// import DynamicTabsComponent from "./Components2/TabSection/Tabs";
 // import AppHome from "./AppHome"
 // import Footer from "./components/Footer"
 // import ShwHome from "./components/SHW/ShwHome"
@@ -2539,6 +2539,20 @@ import DynamicTabsComponent from "./Components2/TabSection/Tabs";
 
 // App.jsx
 
+import Footer from "./components/Footer";
+import Navbar from "./components/Navbar";
+import ScrollToTop from "./components/ScrollToTop";
+import ArticleNews from "./pages/SHW/ArticleNews";
+import ArticleNewsTwo from "./pages/SHW/ArticleNewsTwo";
+import STIArticlesLayout from "./pages/SHW/ArticleSection";
+import ArticleSectionTwo from "./pages/SHW/ArticleSectionTwo";
+import Home from "./Home";
+import DynamicTabsComponent from "./Components2/TabSection/Tabs";
+
+
+
+import ShwHome from "./pages/SHW/ShwHome"
+
 import UID from "./pages/IUD/IUD";
 import BCD from "./pages/Birth-Control-Shot/BCD";
 import Implant from "./pages/Implant/implant";
@@ -2555,7 +2569,9 @@ import Condom from "./pages/Condom/Condom";
 import CC from "./pages/CervicalCap/CC";
 import SAG from "./pages/Spermicide&Gell/SAG";
 import EC from "./pages/Emergency-contraception/EC";
-
+import PregnancyAndFertility from "./pages/Pregnancy-Fertility/PregnancyAndFertility"
+import HealthCare from "./pages/Health-Care/HealthCare"
+import PeriodsAndVagina from "./pages/PeriodsAndVagina/PeriodsAndVagina"
 const App = () => {
   return (
     <div className="flex flex-col min-h-screen">
@@ -2566,6 +2582,9 @@ const App = () => {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/shw" element={<ShwHome />} />
+          <Route path="/periods-and-vaginal-health" element={<PeriodsAndVagina />} />
+          <Route path="/pregnancy-and-fertility" element={<PregnancyAndFertility />} />
+          <Route path="/health-care" element={<HealthCare />} />
           <Route path="/articles" element={<STIArticlesLayout />} />
           <Route path="/articles/:slug" element={<ArticleNews />} />
           <Route path="/articles-two" element={<ArticleSectionTwo />} />

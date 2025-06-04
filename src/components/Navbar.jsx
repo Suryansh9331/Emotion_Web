@@ -3641,9 +3641,9 @@ const Navbar = () => {
       id: 4,
       title: 'Sexual health & wellness',
       dropdownItems: [
-        { label: 'Periods & vaginal health', to: '/sexual-health/periods' },
-        { label: 'Health care', to: '/sexual-health/health-care' },
-        { label: 'Pregnancy & fertility', to: '/sexual-health/pregnancy' },
+        { label: 'Periods & vaginal health', to: '/periods-and-vaginal-health' },
+        { label: 'Health care', to: '/health-care' },
+        { label: 'Pregnancy & fertility', to: '/pregnancy-and-fertility' },
         { label: 'Sexually Transmitted Infections (STDs, STIs)', to: '/shw' },
       ],
     },

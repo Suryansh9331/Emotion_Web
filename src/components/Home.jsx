@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { ChevronDown, Search, Menu, X } from 'lucide-react';
-// import Navbar from './Navbar';
+
 
 export default function BedsiderWebsite() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
