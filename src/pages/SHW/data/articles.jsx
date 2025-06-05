@@ -69,17 +69,76 @@ export const articleContents = {
     `,
   },
 
-  "everything-about-mpox": {
-    title: "Here's everything you need to know about mpox",
-    date: "Nov 20, 2022",
-    updated: "Feb 15, 2025",
-    content: `
-      <p>
-      You might remember that back in 2022 mpox (formerly called monkeypox) caused infections around the world, including in the U.S.; while not a new virus, it had typically been confined to limited regions until an unexplained global outbreak that year was brought under control through vaccination and behavior changes. In 2025 it’s back, with two known subtypes: clade II (the cause of the 2022 U.S. outbreak) and clade I, which is now spreading in the Democratic Republic of Congo and neighboring countries (Burundi, Rwanda, Uganda) but has not reached the U.S. To catch mpox you must have direct contact with an infected person’s lesions or with contaminated items (clothing, bedding, towels), close face-to-face respiratory exposure (such as kissing, cuddling, heavy breathing during sex), or—rarely—transmission in utero; once symptoms appear, usually 3–21 days after exposure, you remain contagious until all blisters heal, which can take several weeks, and although most infections are mild, the virus can occasionally mutate to be more transmissible or airborne. Initial flu-like signs (fever, headache, swollen lymph nodes, fatigue, body aches, chills, cough, sore throat, congestion) are typically followed 1–4 days later by a rash of bumps that progress to yellow-fluid blisters and then crust over, often appearing on the face, arms, legs (including palms and soles), and sometimes genitals; this rash can be itchy and painful, and while it heals in 2–4 weeks without treatment, complications or even death can occur. Although it’s unclear whether mpox spreads via semen or vaginal fluids, the close physical contact of sex clearly transmits the virus, so condom use is advised for 8–12 weeks after infection and any contaminated surfaces or objects—including sex toys—should be disinfected immediately.
-      </p>
-      <p>Prevention relies on the existing mpox vaccine (though the duration of protection from 2022 doses is unknown), and if you’ve been exposed you can receive post-exposure prophylaxis (PEP) with the vaccine within 3 days to 2 weeks to avert infection; if symptoms arise, seek testing through a health care provider, and while there is no mpox-specific treatment, some smallpox antivirals and immune therapies may be effective. Written by Robin Watkins, CNM, WHNP-BC—Senior Director, Health Care at Power to Decide, midwife and women’s health nurse practitioner in Washington, DC, who, when not caring for patients or teaching providers, enjoys biking the streets of DC and eating ice cream for dinner.</p>
-    `,
-  },
+ "everything-about-mpox": {
+  title: "Here's everything you need to know about mpox",
+  date: "Nov 20, 2022",
+  updated: "Feb 15, 2025",
+  content: `You might remember back in 2022, when people around the world, including in the U.S., were diagnosed with infections from mpox, previously called monkeypox. Mpox is back in the news in 2024.<br/>Here’s what you need to know:<br/><br/>
+
+<b>What is mpox?</b><br/>
+Mpox is a virus that can spread from person to person and from animals to people.<br/>
+It’s not a new virus (like COVID was in 2019), but it has generally been diagnosed in limited areas of the world.<br/>
+Researchers are not sure yet what caused the virus to spread and create outbreaks around the globe in 2022 or what’s causing this new outbreak.<br/>
+However, they do know that vaccination and changes people made to decrease their risk of getting mpox helped to stop the spread.<br/><br/>
+
+<b>What’s new in 2024?</b><br/>
+There are two subtypes of mpox, called clade I mpox and clade II mpox.<br/>
+The mpox outbreak in 2022 that spread in the US was caused by clade II mpox.<br/>
+The current outbreak in the Democratic Republic of Congo and several neighboring countries in central Africa, including Burundi, Rwanda, and Uganda, is caused by clade I mpox.<br/>
+So far, it hasn’t spread to the U.S. and the CDC doesn’t expect it to anytime soon.<br/><br/>
+
+<b>Could I get mpox?</b><br/>
+Right now, in 2024, clade I mpox is only known to be spreading in specific areas of the world.<br/>
+If you have recently visited or are in close contact with someone who has visited those areas in the last three weeks, it’s possible you could get mpox.<br/>
+There are a few main ways that we know of that mpox can pass from person to person.<br/>
+It’s also possible to get mpox from animals that are infected with the virus.<br/>
+The first way to get mpox is if someone touches the blisters of a person with mpox or touches surfaces or objects that have been contaminated with the mpox virus, such as clothing, bedding, or towels.<br/>
+It can also be passed through respiratory fluids from close face-to-face contact, like through heavy breathing during sex, or during kissing, cuddling, or close conversations.<br/>
+It’s also possible for a pregnant person to pass mpox through the placenta during pregnancy.<br/>
+Someone with mpox can pass the virus to other people from the time they first experience symptoms until the blisters are completely healed, which could take several weeks.<br/>
+It’s possible that the mpox virus that’s causing the current outbreak has mutated to be more transmissible or to be passed through the air without close physical contact, but we don’t know that for sure yet.<br/><br/>
+
+<b>How do I know if I have mpox?</b><br/>
+Symptoms from both subtypes of mpox are similar, but clade I mpox infections, which are responsible for the current outbreak, are more contagious and cause more serious infections than clade II mpox.<br/>
+They usually start between three days and three weeks after exposure to the virus.<br/>
+The most common symptoms are fever, headache, swollen lymph nodes, fatigue, body aches, and chills, as well as cough, sore throat, and congestion.<br/>
+The initial flu-like symptoms are usually followed one to four days later by a rash, although some people have developed a rash without having a fever or other symptoms first.<br/>
+The mpox rash is most likely to be on your face, arms, and legs, including the palms of your hands and soles of your feet, but it can be on other parts of your body, including your genitals.<br/>
+Over the course of five to seven days, the rash progresses from small bumps to larger blisters filled with yellow fluid before crusting over, drying out, and being replaced by new skin.<br/>
+The number and size of blisters can vary a lot from person to person, from one or just a few blisters to blisters covering the entire body.<br/>
+Unfortunately, the rash can be itchy and quite painful.<br/>
+While most mpox infections are mild and symptoms resolve on their own without treatment, it can take two to four weeks for the blisters to completely heal.<br/>
+In some cases, mpox can lead to complications and even death.<br/><br/>
+
+<b>Is mpox a sexually transmitted infection (STI)?</b><br/>
+It’s not yet known whether mpox is spread through semen, vaginal fluids, or blood.<br/>
+However, it is spread through close physical contact, which is often involved in sex.<br/>
+So mpox is definitely passing between sexual partners, but what isn’t clear is if it’s just from the close contact, or if semen or vaginal fluids are also contributing to passing mpox.<br/>
+It’s important to keep in mind that anyone who is exposed to the virus can get mpox, regardless of their age, what kind of sex they have, who they have sex with, or what their gender identity is.<br/><br/>
+
+<b>What can I do to prevent mpox?</b><br/>
+The good news is that we already have a vaccine available for mpox.<br/>
+But we don’t yet know if people who were vaccinated in 2022 are still protected in 2024.<br/>
+Until we know more about how mpox is passed (or not) during sex, the recommendation is to use condoms or internal condoms if you have sex with someone who has had mpox for eight to 12 weeks after the infection.<br/>
+We know that’s a big range, but scientists haven’t been able to narrow it down yet.<br/>
+Because mpox can be passed from contaminated surfaces and objects, including fabrics and sex toys, it’s also important to make sure you immediately disinfect any items and areas someone with mpox has used or touched.<br/><br/>
+
+<b>Can I do anything if I’ve been exposed to mpox?</b><br/>
+If you think you’ve been exposed to mpox, you can get an mpox post-exposure prophylaxis, or PEP, with the mpox vaccine within three days to two weeks of exposure to prevent infection.<br/>
+Contact a health care provider or your local health department to find out where you can get an mpox vaccine.<br/><br/>
+
+<b>What should I do if I think I have mpox?</b><br/>
+Contact a health care provider and ask if they can test you for mpox.<br/>
+There are tests for mpox and most health departments can now test for mpox, but you’ll need to see a health care provider to get tested.<br/>
+There are currently no treatments specifically for mpox, however treatments developed for smallpox, including anti-retroviral medications, and some immune therapies can be effective.<br/><br/>
+
+<b>Written by Robin Watkins, CNM, WHNP-BC</b><br/>
+Robin Watkins is the Senior Director, Health Care at Power to Decide.<br/>
+Robin is a midwife and women’s health nurse practitioner focused on helping other providers learn how to offer high-quality sexual and reproductive health care.<br/>
+Robin provides clinical care at a community health center in Washington, DC.<br/>
+When she is not talking sex, placing IUDs, or asking One Key Question, you can find her riding her bike on the streets of DC or eating ice cream for dinner.<br/><br/>`
+}
+,
 
   "chlamydia-its-not-as-pretty-as-it-sounds": {
     title: "Chlamydia: it's not as pretty as it sounds",
