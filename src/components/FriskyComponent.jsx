@@ -144,7 +144,7 @@ export default function SubscriptionForm() {
         {/* Form Section */}
         <div className="w-full md:w-1/2 p-8 md:p-12 flex flex-col justify-center">
           <h1 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4">Subscribe to Frisky Fridays</h1>
-          <p className="text-gray-600 mb-8 text-lg">Heat up your weekends with our best sex tips and so much more.</p>
+          <p className="text-gray-600 mb-8 text-lg">Get expert-backed sex tips and weekend insights delivered weekly to your inbox.</p>
 
           <form onSubmit={handleSubmit} className="space-y-4">
             <div className="space-y-2">

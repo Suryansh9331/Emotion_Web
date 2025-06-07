@@ -44,11 +44,11 @@ export default function BedsiderWebsite() {
             {/* Text Content */}
             <div className="text-center lg:text-left lg:ml-36">
               <h3 className="text-3xl sm:text-4xl font-bold text-gray-800 mb-6">
-                Check out your birth<br />control options.
+                Explore birth control options that<br />work for you.   
               </h3>
               <p className="text-gray-600 text-lg mb-8 leading-relaxed">
-                Find a method that fits your body and your life with<br />
-                our interactive method explorer.
+                Use our interactive tool to discover a method<br />
+                that matches your lifestyle and health needs.
               </p>
               <button className="bg-teal-600 text-white px-8 py-3 rounded hover:bg-teal-700 transition-colors font-medium">
                 explore birth control options

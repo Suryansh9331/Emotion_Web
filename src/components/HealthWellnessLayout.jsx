@@ -27,7 +27,7 @@ export default function HealthWellnessLayout() {
             </div>
             <div className="w-2/3 p-4">
               <div className="uppercase text-sm font-semibold text-gray-500 mb-1">Sexual Health & Wellness</div>
-              <h3 className="text-lg font-bold mb-2">You asked. We answered.</h3>
+              <h3 className="text-lg font-bold mb-2">Your questions, answered with medically-reviewed insights.</h3>
             </div>
           </div>
 
@@ -44,7 +44,7 @@ export default function HealthWellnessLayout() {
             </div>
             <div className="w-2/3 p-4">
               <div className="uppercase text-sm font-semibold text-gray-500 mb-1">Health Care</div>
-              <h3 className="text-lg font-bold mb-2">6 ways to advocate for yourself when seeking health care</h3>
+              <h3 className="text-lg font-bold mb-2">6 practical ways to speak up for your needs in medical settings</h3>
             </div>
           </div>
 
@@ -61,7 +61,7 @@ export default function HealthWellnessLayout() {
             </div>
             <div className="w-2/3 p-4">
               <div className="uppercase text-sm font-semibold text-gray-500 mb-1">Pregnancy & Fertility</div>
-              <h3 className="text-lg font-bold mb-2">8 ways you can support your pregnant BFF</h3>
+              <h3 className="text-lg font-bold mb-2">8 caring ways to support a friend during pregnancy.</h3>
             </div>
           </div>
 
@@ -79,7 +79,7 @@ export default function HealthWellnessLayout() {
             <div className="w-2/3 p-4">
               <div className="uppercase text-sm font-semibold text-gray-500 mb-1">Pregnancy & Fertility</div>
               <h3 className="text-lg font-bold mb-2">
-                How can I help? A doula's tips for when someone you love is trying to get pregnant
+                Doula-approved ways to support a loved one on their fertility journey.
               </h3>
             </div>
           </div>
@@ -125,7 +125,7 @@ export default function HealthWellnessLayout() {
               </div>
               <div className="w-2/3 p-4">
                 <div className="uppercase text-sm font-semibold text-gray-500 mb-1">Horoscopes</div>
-                <h3 className="text-lg font-bold mb-2">May 2025 horoscopes: Get ready for some springtime fun</h3>
+                <h3 className="text-lg font-bold mb-2">May 2025 horoscopes: What the stars say about your spring vibes</h3>
               </div>
             </div>
 
@@ -142,7 +142,7 @@ export default function HealthWellnessLayout() {
               </div>
               <div className="w-2/3 p-4">
                 <div className="uppercase text-sm font-semibold text-gray-500 mb-1">Inspiration</div>
-                <h3 className="text-lg font-bold mb-2">10 songs for your music festival playlist</h3>
+                <h3 className="text-lg font-bold mb-2">10 must-add tracks to elevate your festival playlist this season.</h3>
               </div>
             </div>
 
@@ -159,7 +159,7 @@ export default function HealthWellnessLayout() {
               </div>
               <div className="w-2/3 p-4">
                 <div className="uppercase text-sm font-semibold text-gray-500 mb-1">Inspiration</div>
-                <h3 className="text-lg font-bold mb-2">Ready to kick off your spring?</h3>
+                <h3 className="text-lg font-bold mb-2">Looking for a fresh start this spring? Let’s dive in.</h3>
               </div>
             </div>
 
@@ -176,7 +176,7 @@ export default function HealthWellnessLayout() {
               </div>
               <div className="w-2/3 p-4">
                 <div className="uppercase text-sm font-semibold text-gray-500 mb-1">Horoscopes</div>
-                <h3 className="text-lg font-bold mb-2">April 2025 horoscopes: Warm days, hot nights</h3>
+                <h3 className="text-lg font-bold mb-2">April 2025 horoscopes: What passion and change may lie ahead.</h3>
               </div>
             </div>
           </div>

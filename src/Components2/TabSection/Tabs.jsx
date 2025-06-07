@@ -2420,31 +2420,31 @@ const routeContentData = {
           id: "overview",
           title: "What is the birth control shot?",
           content:
-            "The birth control shot is an injection you get in your arm, belly, thigh, or butt that keeps you from getting pregnant. Both types of birth control shots contain progestin which is the synthetic version of progesterone, a hormone made by the body. The shot prevents pregnancy by stopping ovulation from happening, which means that the ovaries don’t release an egg. \n You need to get the shot every 13 to 15 weeks (around three months) to prevent pregnancy. There are two ways of doing that: you can get a version of the shot that goes into your muscle at your health care provider’s office, or you can use a different version of the shot that you can give yourself at home, that gets injected just under your skin. The in-office birth control shot is called Depo-Provera (but it’s often referred to as “Depo”) and the at-home birth control shot is called Depo-subQ Provera. \n Once you’ve gotten the shot, you’re set for birth control for three full months each time you get a dose—there’s nothing else you need to do during those three months to make the shot effective at preventing pregnancy.",
+            "The birth control shot is an injectable form of contraception—administered into the arm, abdomen, thigh, or buttocks—that prevents pregnancy. Both available formulations contain progestin, a synthetic counterpart to the body’s natural progesterone. By supplying progestin, the shot inhibits ovulation (i.e., the ovaries do not release an egg). To maintain effectiveness, you receive a dose every 13 to 15 weeks (about three months). You can choose between the intramuscular version, given at a healthcare provider’s office, or the subcutaneous version, which you can self-administer just under the skin at home. The in-office injection is known as Depo-Provera (often simply called “Depo”), while the at-home option is Depo-subQ Provera. Once you’ve had the shot, you remain protected against pregnancy for three full months with no additional steps needed.",
         },
         {
           id: "types",
           title: "Quick Facts",
           content:
-            "Very effective if you use it correctly. Lasts for months, is private, and is a good hormonal option for those who can't take estrogen.",
+            "When used properly, it’s highly reliable, provides protection for several months, remains discreet, and serves as an excellent hormonal choice for those who cannot use estrogen.",
         },
         {
           id: "effectiveness",
           title: "Effectiveness",
           content:
-            "The shot is very effective the way most people use it. Perfect use: Over 99% effective Typical use: 96% effective\n",
+            "When used in the typical way, the injection provides strong protection: with perfect use it’s over 99% effective, and with typical use it’s about 96% effective.\n",
         },
         {
           id: "choosing1",
           title: "Cost",
           content:
-            "Could range from $0 (with insurance) to $200 every three months.",
+            "Costs can range from nothing (with insurance) up to about $200 for a three-month supply.",
         },
         {
           id: "choosing2",
           title: "Side effects",
           content:
-            "Irregular bleeding, changes to appetite, weight gain, and bone thinning while you’re using the shot are the most common side effects.",
+            "The most common side effects include irregular bleeding, altered appetite, weight gain, and decreased bone density while using the shot.",
         },
         {
           id: "choosing3",
@@ -2455,24 +2455,24 @@ const routeContentData = {
           id: "choosing4",
           title: "Ongoing effort",
           content:
-            "You have to either go to a provider to get a shot or do your shot at home every 12 to 13 weeks.",
+            "You need to either visit a provider for the injection or self-administer it at home every 12 to 13 weeks.",
         },
         {
           id: "choosing5",
           title: "Types of birth control shots",
-          content: "",
+          content: "The injection does not guard against sexually transmitted infections.",
         },
         {
           id: "choosing6",
           title: "In-office shot (Depo-Provera)",
           content:
-            "Most people get their Depo shot at their health care provider’s office or at a health center. All you need to do is make and keep regular appointments with your provider. To get started on Depo, you will go to an appointment with your provider, you may have an exam (which is not required), and then you’ll get an injection into a muscle in your arm or in your butt. Every 13 to 15 weeks, you’ll see your provider again for another injection.",
+            "Most people receive their Depo injection at a clinic or health center. You simply schedule and keep routine appointments with your provider. To start on Depo, you’ll attend an appointment—your provider may perform an exam (though it’s not required)—and then administer a shot into the muscle of your arm or buttocks. Every 13 to 15 weeks, you’ll return for the next injection.",
         },
         {
           id: "choosing7",
           title: "At-home shot (Depo-subQ Provera)",
           content:
-            "With the at-home birth control shot (Depo-subQ Provera), you use a different version of the shot that has a very small needle, and you either inject yourself or have someone else inject you. With the at-home birth control shot, you’ll be injecting the medication just under your skin rather than into a muscle. That’s why the needle is smaller.If you choose the at-home birth control shot, you’ll need a prescription from a health care provider, and you’ll either pick up the shot at the pharmacy every three months or have it mailed to you if you’re using telehealth.",
+            "With the at-home option (Depo-subQ Provera), the medication comes in a version that uses a smaller needle so you—or someone you’ve been taught—can inject it just under your skin instead of into a muscle. You’ll need a prescription from your provider, and every 12–13 weeks you either pick up the dose at a pharmacy or have it mailed to you via telehealth.",
         },
       ],
     },
@@ -2484,25 +2484,25 @@ const routeContentData = {
           title:
             "What are the best methods to use if I don't want to have my period?",
           content:
-            "The hormonal IUDs, shot, implant, and progestin-only pill have all been shown to overall reduce periods for most people. For some people, that means they don’t get a period at all, but for others it can cause bleeding when you aren’t expecting it even if you have less total bleeding. You can use the pill or the ring continuously to intentionally skip your period altogether.",
+            "Hormonal IUDs, the birth control shot, implant, and progestin-only pills often reduce or stop periods for many users. Some individuals may stop bleeding entirely, while others might experience irregular spotting. Taking the pill or using the vaginal ring continuously is also a reliable way to skip periods altogether.",
         },
         {
           id: "faq-2",
           title: "Is it normal to feel moody because of the shot?",
           content:
-            "Everybody responds to birth control differently. If you feel like your birth control is changing your mood, it’s time to talk to your health care provider. It might be a matter of switching methods or deciding whether to avoid hormonal birth control altogether, or you may choose to wait it out since some negative side effects go away with time. The shot is effective for three months after you get it and it’s not possible to stop using it during that time, but a health care provider might have some tips for handling moodiness during that time. The bottom line: If the shot is making you feel blah, don’t settle. There are a lot of methods to choose from and sometimes it can take a few tries to get it right.",
+            "Hormonal birth control affects everyone differently. If you notice mood changes after receiving the shot, consult your healthcare provider. You may need to switch to a different method or consider non-hormonal options. Since the shot lasts for three months and can’t be reversed in that time, your provider may offer ways to manage mood swings during this period. Don’t hesitate to explore other methods that better suit your body",
         },
         {
           id: "faq-3",
-          title: "Will birth control make me gain weight?",
+          title: "Can birth control cause weight gain?",
           content:
-            "Most birth control methods will not cause weight gain. Everyone’s body responds to birth control differently, but research shows that the pill, patch, the hormonal IUD, the ring, and non-hormonal birth control methods like a copper IUD or condoms don’t cause weight gain (or loss). Studies do show that about 1 in 4 people who use the shot will gain some weight (around 5% of body weight).",
+            "Most forms of birth control don’t cause weight gain. Research shows that the pill, patch, ring, hormonal IUD, and non-hormonal methods like condoms or the copper IUD generally don’t affect body weight. However, about 1 in 4 people using the shot may experience a weight increase of around 5% of their body weight.",
         },
         {
           id: "faq-4",
-          title: "Does birth control cause blood clots?",
+          title: "Does using birth control increase the risk of blood clots?",
           content:
-            "Using a method of birth control with estrogen, like the pill, patch, or ring, increases the risk of forming a blood clot, but the risk is so low that if you don’t have any factors that increase your chances of having a blood clot, you can safely use all types of birth control. If you do have an increased risk of blood clots because you’ve had one before you’ve had a stroke or heart attack, or you have a medical condition that increases your risk of a blood clot, like high blood pressure, then adding birth control with estrogen to the mix increases your risk too much and it’s not recommended that you use birth control with estrogen in it. But that doesn’t mean there isn’t a birth control method for you! If you can’t take estrogen, you have quite a few options available to you. First you have the non-hormonal methods, like the copper IUD. You can also use any of the hormonal methods that only contain progestin, not estrogen, like the implant, mini-pill, shot, and hormonal IUDs, like Mirena, Skyla, Liletta, and Kyleena. These don’t increase your risk of blood clots and are all really good at preventing pregnancy. If you’re worried about blood clots or don’t know if you have risk factors, talk to a health care provider about which birth control methods are options for you.",
+            "Birth control methods containing estrogen, such as the pill, patch, or ring, slightly raise the risk of blood clots. If you have no underlying risk factors, they’re considered safe. However, if you’ve had a blood clot, stroke, heart attack, or have conditions like high blood pressure, you should avoid estrogen-based methods. Alternatives include non-hormonal options like the copper IUD and progestin-only methods like the mini-pill, implant, shot, or hormonal IUDs such as Mirena, Skyla, Liletta, and Kyleena.",
         },
         {
           id: "faq-5",
@@ -2919,10 +2919,10 @@ How to put on and take off the patch:\n
           content:
             "There are positives and negatives about each and every method of birth control. And everyone’s different—so what you experience may not be the same as what your friend experiences.",
         },
-       {
-  id: "choosing23",
-  title: "The Positive",
-  content: `There are actually lots of things about the patch that may be good for your body as well as your sex life:
+        {
+          id: "choosing23",
+          title: "The Positive",
+          content: `There are actually lots of things about the patch that may be good for your body as well as your sex life:
 
 • Easy to use—it’s like putting on a Band-Aid  
 • Doesn’t interrupt the heat of the moment  
@@ -2932,12 +2932,12 @@ How to put on and take off the patch:\n
 • Offers protection against some health problems, like endometrial and ovarian cancer, iron deficiency anemia, ovarian cysts, and pelvic inflammatory disease  
 • You don’t have to see a provider to stop using it. You can just take the patch off and be done.  
 • You only have to remember to do something once a week, not every day like you would with the pill.`
-},
+        },
 
-       {
-  id: "choosing24",
-  title: "The Negative",
-  content: `Everyone worries about side effects, but for many people, they’re not a problem. Most people who do experience side effects of the patch find that they usually go away with time. It can take a few months to adjust.
+        {
+          id: "choosing24",
+          title: "The Negative",
+          content: `Everyone worries about side effects, but for many people, they’re not a problem. Most people who do experience side effects of the patch find that they usually go away with time. It can take a few months to adjust.
 
 Side effects that will probably go away after two or three months:
 • Bleeding in between periods  
@@ -2954,20 +2954,20 @@ In addition to potential side effects, there are some disadvantages to using the
 • Not easy to hide  
 • You have to remember to do something once a week  
 • Doesn’t protect against STIs`
-} ,
-  {
+        },
+        {
           id: "choosing25",
           title: "Where can you get the birth control patch?",
           content:
             "",
         },
-  {
+        {
           id: "choosing26",
           title: "In person",
           content:
             "Because you need a prescription to get the birth control patch, you’ll need to meet with a health care provider, either via telehealth or in person. Some states let pharmacists prescribe the patch, but it’s worth doing some online research and/or calling ahead before heading to your local pharmacy.",
         },
-  {
+        {
           id: "choosing27",
           title: "Online",
           content:
@@ -2981,79 +2981,79 @@ In addition to potential side effects, there are some disadvantages to using the
       sections: [
         {
           id: "faq-1",
-          title: "Will the patch fall off?",
+          title: "Will the patch come off easily? ",
           content:
-            "Patches fall off only about 2-3% of the time—so not very often. But if the patch falls off or if you find that it’s not sticking correctly, no worries. Just put on a new patch. DO NOT use bandages, tape, or adhesive to make a non-sticky patch stick. The hormones that keep you from getting pregnant are mixed with the adhesive, so if it won’t stick, it’s also not going to be effective as birth control. Make sure you don’t use any powders, creams, or topical medications, on your skin where you put the patch. Even moisturizing after the shower can interfere with the patch sticking. If it still keeps falling off, maybe you want to try a method that goes on the inside. Maybe the implant, an IUD, or the ring. Go to Bedsider.org to see all your options.",
+            "The patch detaches in only about 2–3% of cases. If it falls off or doesn’t stick properly, replace it with a new patch immediately. Do not use adhesives or bandages to reattach it, as the hormones are part of the adhesive. Avoid creams, powders, or lotions on the application site to help it stick. If detachment continues, consider internal options like the ring, implant, or IUD.",
         },
-        {
+        { 
           id: "faq-2",
-          title: "If I'm using another method of birth control, do I still have to use condoms?",
+          title: "Do I still need condoms if I’m using another birth control method?",
           content:
-            "It depends on your situation. Unless you’re in a totally exclusive relationship and you and your partner have both been tested recently for every single STI, using condoms with whatever other birth control method you choose is a good idea. Basically, if there’s any chance you or your partner could have an STI, the only way to decrease the risk of transmitting it is by using condoms, internal condoms, dental dams, and/or PrEP, (a medication which decreases the risk of getting HIV.) Other forms of birth control don’t protect against STIs. Using a condom with another form of birth control is called dual protection. It means you’re being super-safe and protecting yourself against both pregnancy and STIs.",
+            "That depends. If you and your partner haven’t recently tested negative for all STIs, using condoms in addition to another birth control method is recommended. This practice, called dual protection, helps prevent both pregnancy and sexually transmitted infections.",
         },
         {
           id: "faq-3",
-          title: "Will birth control make me gain weight?",
+          title: "Can birth control lead to weight gain?",
           content:
-            "Most birth control methods will not cause weight gain. Everyone’s body responds to birth control differently, but research shows that the pill, patch, the hormonal IUD, the ring, and non-hormonal birth control methods like a copper IUD or condoms don’t cause weight gain (or loss). Studies do show that about 1 in 4 people who use the shot will gain some weight (around 5% of body weight).",
+            "Most people do not gain weight from birth control. The patch, pill, ring, hormonal IUD, and non hormonal options like condoms or the copper IUD don’t generally cause weight changes. However, roughly 25% of those using the shot may gain around 5% of their body weight.",
         },
         {
           id: "faq-4",
-          title: "Does birth control cause blood clots?",
+          title: "Can birth control cause blood clots?",
           content:
-            "Using a method of birth control with estrogen, like the pill, patch, or ring, increases the risk of forming a blood clot, but the risk is so low that if you don’t have any factors that increase your chances of having a blood clot, you can safely use all types of birth control. If you do have an increased risk of blood clots because you’ve had one before you’ve had a stroke or heart attack, or you have a medical condition that increases your risk of a blood clot, like high blood pressure, then adding birth control with estrogen to the mix increases your risk too much and it’s not recommended that you use birth control with estrogen in it. But that doesn’t mean there isn’t a birth control method for you! If you can’t take estrogen, you have quite a few options available to you. First you have the non-hormonal methods, like the copper IUD. You can also use any of the hormonal methods that only contain progestin, not estrogen, like the implant, mini-pill, shot, and hormonal IUDs, like Mirena, Skyla, Liletta, and Kyleena. These don’t increase your risk of blood clots and are all really good at preventing pregnancy.If you’re worried about blood clots or don’t know if you have risk factors, talk to a health care provider about which birth control methods are options for you.",
+            "Estrogen-based methods—like the pill, patch, or ring—can increase clot risk. If you’re generally healthy with no clot-related medical history, the risk remains low. People with a history of clots or high-risk conditions should avoid estrogen and consider alternatives like progestin-only methods or the copper IUD. Speak with your provider to determine the safest choice.",
         },
         {
           id: "faq-5",
-          title: "How can birth control help an ovarian cyst?",
+          title: "How does birth control help with ovarian cysts?",
           content:
-            "One of the main ways hormonal birth control prevents pregnancy is by stopping ovulation—meaning that the egg never leaves the ovary. The pill, the patch, the ring, and the shot are the methods that are the most reliable at blocking ovulation, so people using these methods may have fewer ovarian cysts. If you tend to get ovarian cysts, your provider may recommend one of these methods to prevent future cysts. The progestin-only pill, also called the mini-pill, has an unpredictable effect on ovulation and may actually lead to more cysts. These cysts almost always disappear on their own, but if you’ve had problems with cysts in the past, the mini-pill may not be the best birth control for you.",
+            "By preventing ovulation, the pill, patch, ring, and shot can reduce the formation of ovarian cysts. If you’re prone to cysts, these options may be beneficial. However, the mini-pill doesn’t reliably stop ovulation and could increase cyst formation in some users.",
         },
         {
           id: "faq-6",
-          title: "Does your weight affect how well your birth control works?",
+          title: " Does weight affect birth control effectiveness?",
           content:
-            "The effectiveness of almost all types of birth control will not be impacted by your weight. Two exceptions are the patch and emergency contraception. For the patch, Xulane may be less effective if you weigh more than 198 pounds. Twirla, the other patch option, may be less effective at preventing pregnancy if your BMI is 25 or greater, and it should not be used at all if your BMI is 30 or greater because of decreased effectiveness and a potentially increased risk of blood clots. When it comes to emergency contraception, over-the counter levonorgestrel-based emergency contraception, like Plan B One-Step, Next Choice One Dose, and others, may not be as effective in people who weigh 165 pounds or more. Ella, which is prescription-only emergency contraception, is equally effective in people who weigh between 165 and 194 pounds as it is in people who weigh under 165 pounds. But ella may not work as well if you weigh 195 pounds or more. The copper IUD and IUDs with 52mg of levonorgestrel (Mirena and Liletta) are the only emergency contraception options proven equally effective if you weigh 195 pounds or more. IUDs are also the most effective form of emergency contraception for everyone, regardless of weight.",
+            "For most methods, weight has no significant impact. However, the patch (Xulane) may be less effective for users over 198 pounds. Twirla is not recommended for those with a BMI over 30 due to reduced efficacy and higher clot risk. For emergency contraception, levonorgestrel-based pills may be less effective over 165 pounds. Ella is effective up to 194 pounds, but may be less reliable above that. Copper IUDs and hormonal IUDs (52mg) remain effective regardless of weight.",
         },
         {
           id: "faq-7",
-          title: "Does the patch come in more than one color?",
+          title: "Does the patch come in different skin tones?",
           content:
-            "Sorry to say, the answer is no. However, you can place the patch in one of the recommended locations that can’t be seen with clothes on if you don’t like the way it looks.",
+            "Currently, no. The patch is only available in one color. To minimize visibility, place it in a discreet area that remains covered by clothing",
         },
         {
           id: "faq-8",
           title: "How much does the patch cost?",
           content:
-            "Without insurance, the patch costs about $55 per month, a little more than other prescription methods. If you’re on Medicaid or have private insurance, you’ll probably just have to cover your copay. If you don’t have insurance and aren’t on Medicaid, check out clinics in your area that may give you a discount if you can’t afford the full price of the patch. To learn more about the cost of the patch, check out our patch details page.",
+            "Without insurance, the patch averages around $55 per month. Medicaid and private insurance often reduce this cost significantly. If uninsured, clinics may offer discounts based on income. Visit the patch details page to explore affordability options in your area.",
         },
         {
           id: "faq-10",
-          title: "What are some of the health benefits of the patch?",
+          title: "What are the health benefits of using the patch?",
           content:
-            "The patch can decrease blood loss during periods, and possibly reduce PMS symptoms and acne. There’s also the chance of a decreased risk of endometrial and ovarian cancer and benign breast conditions.",
+            "The patch can reduce menstrual blood flow, lessen PMS symptoms, and may improve acne. It may also lower your risk for endometrial and ovarian cancers, as well as certain benign breast conditions.",
         },
         {
           id: "faq-11",
-          title: "Does the patch protect against STIs?",
+          title: "Does the patch prevent STIs?",
           content:
-            "In a word, no. The best way to guard against sexually transmitted infections (STIs) if you’re having sex is still the good ol’ condom. If you’re concerned about both pregnancy and STIs, doubling up with the patch and condoms is a great option.",
+            "No. The patch does not offer STI protection. If STI prevention is a concern, use condoms along with the patch for safer protection.",
         },
         {
           id: "faq-12",
-          title: "I heard that hormone-filled pee is killing our fish and harming the environment. Is taking hormonal birth control bad for our water?",
+          title: "Is hormonal birth control harmful to aquatic life?",
           content:
-            "Any form of birth control is better than no birth control when it comes to the environment. But let’s look a little closer at the claim that hormones in birth control are getting into the environment through pee. The simple answer is: yes, it is. But—and this is a big but—it is small compared to other sources of estrogen. Current research finds that the contribution of EE2 (the primary active ingredient in the pill, the ring, and the patch) to the total amount of estrogen in of our waterways is small. Bigger—much bigger—sources of estrogen in the environment come from industrial and manufacturing processes; agricultural fertilizers and pesticides; the drugs we give livestock; and the waste and runoff produced by these sources. Simply removing hormones from contraceptives will not eliminate the environmental impacts of estrogenic compounds. It’s much better to buy organic food if you can and even better to tell Congress to do its job and regulate chemicals, than to forego birth control. From Mother Earth’s standpoint, any form of birth control is better than no birth control.For purists who don’t want to add any hormones to the environment or to their body, no matter how small, there are options for you. Natural latex condoms and the copper IUD are two frequently cited examples of ultra-green contraceptives.",
+            "Hormones from contraceptives do enter waterways, but their contribution is small compared to pollutants from agriculture and manufacturing. Eliminating hormonal birth control won’t solve environmental concerns. Eco-conscious users may prefer copper IUDs or latex condoms as hormone-free alternatives.",
         },
         {
           id: "faq-13",
-          title: "Does birth control work the minute I get it?",
+          title: "Is birth control instantly effective?",
           content:
-            "No, most forms of birth control are not effective immediately, so you want to check with you doctor before having unprotected sex. Until then, use a condom for added protection.",
+            "No, most birth control methods require a short activation period. Check with your provider about when protection begins, and use condoms in the meantime for added safety.",
         },
       ],
     },
-   reviews: {
+    reviews: {
       title: "Birth Control Method Reviews",
       sections: [
         {
@@ -3101,7 +3101,7 @@ In addition to potential side effects, there are some disadvantages to using the
   },
 
   "types/diaphragm": {
-      about: {
+    about: {
       title: "About Diaphragm",
       sections: [
         {
@@ -3116,11 +3116,11 @@ In addition to potential side effects, there are some disadvantages to using the
           content:
             "Very effective if you use it correctly. Lasts for months, is private, and is a good hormonal option for those who can't take estrogen.",
         },
-       {
-  id: "effectiveness1",
-  title: "Effectiveness",
-  content: "The diaphragm (used with spermicide) is pretty effective the way most people use it.\n\nPerfect use: 84% effective\n\nTypical use: 83% effective\n\n\nWhat are perfect use and typical use?",
-},
+        {
+          id: "effectiveness1",
+          title: "Effectiveness",
+          content: "The diaphragm (used with spermicide) is pretty effective the way most people use it.\n\nPerfect use: 84% effective\n\nTypical use: 83% effective\n\n\nWhat are perfect use and typical use?",
+        },
 
         {
           id: "effectiveness2",
@@ -3207,11 +3207,11 @@ In addition to potential side effects, there are some disadvantages to using the
           content:
             "Even though you do have to see a provider to start using the diaphragm, you don’t have to see one to stop using it. Because it’s a birth control method that you only use when you’re going to have sex, you are totally in control of stopping it.",
         },
-      {
-  id: "choosing15",
-  title: "You don’t need to hide your method.",
-  content: "The diaphragm isn’t one of the birth control methods that is easy to hide completely. First of all, you have to store your diaphragm in between uses, so someone you live with may be able to find it, depending on your circumstances.\n\nHiding it from a sexual partner is possible but may be difficult. Most partners can’t feel the diaphragm when it’s in. And because you can put your diaphragm in up to one hour before having sex, you may be able to avoid your partner knowing about it. But there are a few situations that would make it harder to hide from a sexual partner:\n\n1. If you want to have sex spontaneously, you will have to interrupt the action to put the diaphragm and spermicide in before penetration. And depending on what kind of spermicide you’re using, you may have to wait 10-15 minutes after inserting it for it to become effective.\n\n2. If you put the diaphragm in and then don’t have sex until one hour or more later, you will need to put more spermicide into your vagina (without taking the diaphragm out). That’s because most types of spermicide are only effective for one hour.\n\n3. If you want to have sex again while the diaphragm is still in, you will need to insert more spermicide into your vagina (without taking the diaphragm out) before each time you have sex.",
-},
+        {
+          id: "choosing15",
+          title: "You don’t need to hide your method.",
+          content: "The diaphragm isn’t one of the birth control methods that is easy to hide completely. First of all, you have to store your diaphragm in between uses, so someone you live with may be able to find it, depending on your circumstances.\n\nHiding it from a sexual partner is possible but may be difficult. Most partners can’t feel the diaphragm when it’s in. And because you can put your diaphragm in up to one hour before having sex, you may be able to avoid your partner knowing about it. But there are a few situations that would make it harder to hide from a sexual partner:\n\n1. If you want to have sex spontaneously, you will have to interrupt the action to put the diaphragm and spermicide in before penetration. And depending on what kind of spermicide you’re using, you may have to wait 10-15 minutes after inserting it for it to become effective.\n\n2. If you put the diaphragm in and then don’t have sex until one hour or more later, you will need to put more spermicide into your vagina (without taking the diaphragm out). That’s because most types of spermicide are only effective for one hour.\n\n3. If you want to have sex again while the diaphragm is still in, you will need to insert more spermicide into your vagina (without taking the diaphragm out) before each time you have sex.",
+        },
 
         {
           id: "choosing16",
@@ -3219,16 +3219,16 @@ In addition to potential side effects, there are some disadvantages to using the
           content:
             "Neither Milex nor Caya, the two kinds of diaphragms, contains latex, so they’re perfectly safe to use if you have a latex allergy.",
         },
-       {
-  id: "choosing17",
-  title: "You don’t have any of these risk factors.",
-  content: "The diaphragm isn’t recommended if:\n\n• You’re having sex multiple times a day with different partners. There are a couple of reasons for this. The first is that you have to leave the diaphragm in for six hours after sex, but you can’t leave it in for more than 24 hours, which may be impossible depending on how many times you’re having sex in a day. The second is that spermicide can affect the cells in your vagina and cervix that help to fight off infections, and using spermicide multiple times a day puts you at higher risk of getting a sexually transmitted infection (STI).\n\n• Using spermicide irritates your vagina or vulva.\n\n• You have a history of frequent urinary tract infections (UTIs).\n\n• It’s been less than six weeks since you’ve been pregnant, and your pregnancy lasted more than 14 weeks.",
-},
+        {
+          id: "choosing17",
+          title: "You don’t have any of these risk factors.",
+          content: "The diaphragm isn’t recommended if:\n\n• You’re having sex multiple times a day with different partners. There are a couple of reasons for this. The first is that you have to leave the diaphragm in for six hours after sex, but you can’t leave it in for more than 24 hours, which may be impossible depending on how many times you’re having sex in a day. The second is that spermicide can affect the cells in your vagina and cervix that help to fight off infections, and using spermicide multiple times a day puts you at higher risk of getting a sexually transmitted infection (STI).\n\n• Using spermicide irritates your vagina or vulva.\n\n• You have a history of frequent urinary tract infections (UTIs).\n\n• It’s been less than six weeks since you’ve been pregnant, and your pregnancy lasted more than 14 weeks.",
+        },
 
-{
-  id: "choosing18",
-  title: "How do you use the diaphragm?",
-  content: `Inserting a diaphragm may seem difficult, but it just takes a bit of practice to get it right. If you’re using a Milex diaphragm, your provider will show you how to do it when you see them to get your prescription. If you’re using Caya, a visit to your provider is optional, but they can check the fit and help you learn how to put it in and take it out.
+        {
+          id: "choosing18",
+          title: "How do you use the diaphragm?",
+          content: `Inserting a diaphragm may seem difficult, but it just takes a bit of practice to get it right. If you’re using a Milex diaphragm, your provider will show you how to do it when you see them to get your prescription. If you’re using Caya, a visit to your provider is optional, but they can check the fit and help you learn how to put it in and take it out.
 
 The diaphragm can be inserted just before sex, but it can also go in up to one hour before you have sex, which means it doesn’t have to interrupt the moment. (Just remember that if you’re still having sex or haven’t started having sex yet, and it has been more than an hour since you put in the diaphragm, you’ll need to put more spermicide into your vagina.)
 
@@ -3279,7 +3279,7 @@ But no matter when the diaphragm and spermicide go in, you have to leave the dia
 5. Don’t use the diaphragm during your period—it increases the risk of toxic shock syndrome.
 
 6. Never leave the diaphragm in for more than 24 hours.`
-},
+        },
 
         {
           id: "choosing19",
@@ -3305,10 +3305,10 @@ But no matter when the diaphragm and spermicide go in, you have to leave the dia
           content:
             "There are positives and negatives about each and every method of birth control. And everyone’s different—so what you experience may not be the same as what your friend experiences.",
         },
-      {
-  id: "choosing23",
-  title: "The Positive",
-  content: `There are lots of things about birth control that are good for your body as well as your sex life. Here are some of the benefits of the diaphragm:
+        {
+          id: "choosing23",
+          title: "The Positive",
+          content: `There are lots of things about birth control that are good for your body as well as your sex life. Here are some of the benefits of the diaphragm:
 
 • You can put the diaphragm in up to an hour in advance of having sex.
 
@@ -3319,13 +3319,13 @@ But no matter when the diaphragm and spermicide go in, you have to leave the dia
 • It doesn’t affect your hormones.
 
 • You can use it while you’re breastfeeding.`
-},
+        },
 
 
-      {
-  id: "choosing24",
-  title: "The Negative",
-  content: `It’s normal to think about side effects, but for many people, they’re not a problem. However, some side effects may include:
+        {
+          id: "choosing24",
+          title: "The Negative",
+          content: `It’s normal to think about side effects, but for many people, they’re not a problem. However, some side effects may include:
 
 • Vaginal irritation caused by the spermicide that you use with the diaphragm  
 • Frequent urinary tract infections
@@ -3336,15 +3336,15 @@ In addition to potential side effects, there may be some disadvantages to using 
 • Requires a prescription  
 • Offers no protection against STIs, and spermicides that are used with the diaphragm can cause irritation and increase the risk of getting an STI  
 • May require an in-person visit to your provider, depending on which diaphragm you get, if you give birth or your weight changes by more than 15 pounds`
-},
+        },
 
-  {
+        {
           id: "choosing25",
           title: "Where can you get the birth control patch?",
           content:
             "",
         },
-  {
+        {
           id: "choosing26",
           title: "",
           content:
@@ -3437,7 +3437,7 @@ In addition to potential side effects, there may be some disadvantages to using 
   },
 
   "types/internal-condom": {
-about: {
+    about: {
       title: "About Internal-Condom",
       sections: [
         {
@@ -3452,14 +3452,14 @@ about: {
           content:
             "Very effective if you use it correctly. Lasts for months, is private, and is a good hormonal option for those who can't take estrogen.",
         },
-       {
-  id: "effectiveness1",
-  title: "Effectiveness",
-  content: `Internal condoms are pretty effective the way most people use them.\n
+        {
+          id: "effectiveness1",
+          title: "Effectiveness",
+          content: `Internal condoms are pretty effective the way most people use them.\n
 • Perfect use: 95% effective\n
 • Typical use: 79% effective\n\n
 What are perfect use and typical use?`
-},
+        },
 
         {
           id: "effectiveness2",
@@ -3552,10 +3552,10 @@ What are perfect use and typical use?`
           content:
             "If using an external condom just isn’t working for you or your partner, but you still want protection against STIs, the internal condom is the way to go.",
         },
-       {
-  id: "choosing16",
-  title: "How do you use internal condoms?",
-  content: `Internal condoms may take a bit of practice to use, but once you know how to do it, they’re actually pretty easy to use.\n
+        {
+          id: "choosing16",
+          title: "How do you use internal condoms?",
+          content: `Internal condoms may take a bit of practice to use, but once you know how to do it, they’re actually pretty easy to use.\n
 • How to insert an internal condom:\n
 1. Open the package. You’ll see what looks like a thin, tube-shaped bag, with an opening on one end and a flexible ring on the other end, which is closed.\n
 2. Add lube to the outside of the internal condom if you want, to make inserting it easier. You could also put some spermicide on the closed end as well if you want extra protection from pregnancy. Adding lube inside the internal condom too can make sex more pleasurable for the person with a penis, and it can also help prevent the condom from breaking.\n
@@ -3575,10 +3575,10 @@ What are perfect use and typical use?`
 2. Pull the condom out gently.\n
 3. Throw it away in a trash can (preferably one that is out of the reach of children and pets). Don’t flush it down the toilet.\n
 4. Make sure the partner with a penis washes their penis with soap and water if it’s going to come into contact with the vulva again.`
-},
+        },
 
-      
-      
+
+
         {
           id: "choosing19",
           title: "How much do internal condoms cost?",
@@ -3603,10 +3603,10 @@ What are perfect use and typical use?`
           content:
             "Every birth control method has pros and cons—and everyone’s experience is different.",
         },
-      {
-  id: "choosing23",
-  title: "The Positive",
-  content: `There are lots of things about birth control that are good for your body as well as your sex life. Here are some of the benefits of the internal condom:\n
+        {
+          id: "choosing23",
+          title: "The Positive",
+          content: `There are lots of things about birth control that are good for your body as well as your sex life. Here are some of the benefits of the internal condom:\n
 • Benefits:\n
 1. They help protect you from STIs.\n
 2. The outer ring may stimulate the clit of the person with a vagina.\n
@@ -3614,25 +3614,25 @@ What are perfect use and typical use?`
 4. They can be used with oil-based lube (as well as water-based and silicone-based lube).\n
 5. They stay in place even if your partner loses their erection, unlike external condoms.\n
 6. Because internal condoms require a prescription, insurance may cover the cost.`
-},
-{
-  id: "choosing24",
-  title: "The Negative",
-  content: `Internal condoms may cause irritation for some people who are sensitive. In addition to this possible side effect, there are some disadvantages:\n
+        },
+        {
+          id: "choosing24",
+          title: "The Negative",
+          content: `Internal condoms may cause irritation for some people who are sensitive. In addition to this possible side effect, there are some disadvantages:\n
 • Disadvantages:\n
 1. They can be a little tricky to get the hang of.\n
 2. They may reduce sensitivity while you’re having sex.\n
 3. You have to remember to use one every time you have sex.\n
 4. They’re not as easy to get as external condoms because you need a prescription.`
-},
+        },
 
-  {
+        {
           id: "choosing25",
           title: "Where can you get internal condoms?",
           content:
             "You can visit a health care provider in person or via telehealth to get a prescription for internal condoms, and then you can pick up your prescription at a local pharmacy or have it mailed to you. You can also get them through the FC2 website, which offers a telehealth service to provide you with a prescription and ship the internal condoms to you. Some nonprofits and health centers will provide them for free. FC2 is the only FDA-approved internal condom in the U.S.. You may find other brands of internal condoms online, but they are not FDA-approved so we don’t know how well they work to prevent pregnancy or STIs.",
         },
- 
+
 
       ],
     },
@@ -3663,55 +3663,55 @@ What are perfect use and typical use?`
           content:
             "Yes, try using an internal condom. It’s a barrier method that’s inserted into the vagina (instead of covering the penis, like an external condom) that will help protect against sexually transmitted infections (STIs) as well.",
         },
-       {
+        {
           id: "faq-5",
           title: "What types of lube are safe to use with latex condoms?",
           content:
             "Both water-based and silicone-based lubricants are totally safe to use with latex condoms. Steer clear of oil-based lubricants (including massage oil, hand lotion, and Vaseline) that can cause condoms to break.",
         },
-       {
+        {
           id: "faq-6",
           title: "Can I reuse a condom?",
           content:
             "Condoms are definitely not reusable. You need to put on a new one each and every time you have sex.",
         },
-       {
+        {
           id: "faq-7",
           title: "What types of birth control are available over the counter?",
           content:
             "Condoms, internal condoms, spermicide, and emergency contraception are all available at your nearest pharmacy.",
         },
-       {
+        {
           id: "faq-8",
           title: "Do condoms prevent HPV?",
           content:
             "HPV cannot pass through a latex condom. But this is the kicker: HPV is frequently carried on skin not covered by condoms. So condoms can help prevent HPV, but they’re not a guarantee.",
         },
-       {
+        {
           id: "faq-9",
           title: "Can I tell if someone else has an STI?",
           content:
             "No. It’d be great if you could tell who had an STI (sexually transmitted infection, a.k.a. STD) and who didn’t, but the most common symptom of all STIs is no symptom at all. STIs are often asymptomatic or display such mild symptoms they go unnoticed and/or are mistaken for something else. For that reason, most people with an STI are unaware they have one.When STIs are asymptomatic or exhibiting mild symptoms, they’re still transmittable to others—and there’s no guarantee the STI will remain asymptomatic in the newly infected individual. Recognizable symptom or not, STIs can wreak havoc internally long before we’re aware of their effects; untreated asymptomatic STIs can pose long-term health risks like liver damage (eg. Hepatitis) and infertility (eg. Chlamydia and gonorrhea). To protect yourself against STIs, use condoms or internal condoms.",
         },
-       {
+        {
           id: "faq-10",
           title: "How common are STIs?",
           content:
             "1 in 2 people will contract a sexually transmitted infection (STI) by the time they reach the age of 25—some curable, some not. An astounding 20 million people in the U.S. contract an STI every year, and those are only the STIs which get reported. That number is likely much higher due to under-reporting and many STIs not getting reported at all—some are diagnosed visually, and others are not documented by the Centers for Disease Control and Prevention (CDC). Of the 30-plus STIs out there, the CDC only reports on about 8 of them. Things like pubic lice, scabies, and HPV infections among guys are not part of those numbers.",
         },
-       {
+        {
           id: "faq-11",
           title: "Is birth control available over the counter?",
           content:
             "In the U.S. the only forms of birth control available over the counter (OTC) are condoms, internal condoms, spermicide, the sponge, and emergency contraception pills. There’s been some debate about whether birth control pills should be sold OTC too as they are in many other countries, but for now you need a prescription. If you’re looking for a method that requires a prescription, visit your local health clinic or find the nearest one here.",
         },
-       {
+        {
           id: "faq-12",
           title: "I’ve heard the internal condom can be stimulating—is that true?",
           content:
             "It’s true the internal condom can provide protection and pleasure all in one. The internal ring can sometimes stimulate the head of your partner’s penis, while the outer ring can provide extra stimulation to the clitoris.",
         },
-      
+
       ],
     },
     reviews: {
@@ -3777,17 +3777,17 @@ What are perfect use and typical use?`
           content:
             "Very effective if you use it correctly. Lasts for months, is private, and is a good hormonal option for those who can't take estrogen.",
         },
-     {
-  id: "effectiveness1",
-  title: "Effectiveness",
-  content: `Pretty effective the way most people use them (but they’re not the easiest to use).
+        {
+          id: "effectiveness1",
+          title: "Effectiveness",
+          content: `Pretty effective the way most people use them (but they’re not the easiest to use).
 
 Perfect use: 95 to over 99% effective
 
 Typical use: 77 to 98% effective
 
 What are perfect use and typical use?`,
-},
+        },
 
 
         {
@@ -3875,11 +3875,11 @@ What are perfect use and typical use?`,
           content:
             "You don’t need to see a provider to start or stop using FAMs. But if you do stop using a fertility awareness method, and you don’t want to be pregnant, make sure you have another method of birth control in place. If you’re interested in a FAM and want to make sure you’re using it correctly, some family planning clinics, health care providers, and other organizations offer in-person and online classes to help you learn how to use FAMs correctly. You can also speak to your provider directly for help.",
         },
-      {
-  id: "choosing15",
-  title: "You feel comfortable talking to your partner(s) about sex.",
-  content: "Choosing to use a FAM to prevent pregnancy will be more effective if you have open communication with any sexual partners, both before and during sex. So you’ll need to feel comfortable talking in detail about sex so that you and your partner can agree on how you’ll handle sex on fertile days.",
-},
+        {
+          id: "choosing15",
+          title: "You feel comfortable talking to your partner(s) about sex.",
+          content: "Choosing to use a FAM to prevent pregnancy will be more effective if you have open communication with any sexual partners, both before and during sex. So you’ll need to feel comfortable talking in detail about sex so that you and your partner can agree on how you’ll handle sex on fertile days.",
+        },
 
         {
           id: "choosing16",
@@ -3887,77 +3887,77 @@ What are perfect use and typical use?`,
           content:
             "Though FAMs do involve tracking your menstrual cycle on a calendar or in other ways, it is possible to do so in a way that people you live with will not be able to find out about. There are no prescriptions, pill packs, used condoms in the trash, or any other signs that you’re using a FAM that someone you live with could see. However, it is harder to hide that you’re using a FAM from a sexual partner because during fertile days, you will need to use a barrier method or the pull-out method, or avoid penis-in-vagina sex.",
         },
-       {
-  id: "choosing17",
-  title: "You have a menstrual cycle that is between 26 and 32 days.",
-  content: "An average cycle, from the first day of your period to the day before your next period, is 28 days. While it can be normal to have a menstrual between 21 and 35 days long, for fertility awareness methods to be effective, your cycle needs to be between 26 and 32 days long. If your cycle is shorter or longer than that more than twice during a year, fertility awareness methods won’t be effective.",
-},
+        {
+          id: "choosing17",
+          title: "You have a menstrual cycle that is between 26 and 32 days.",
+          content: "An average cycle, from the first day of your period to the day before your next period, is 28 days. While it can be normal to have a menstrual between 21 and 35 days long, for fertility awareness methods to be effective, your cycle needs to be between 26 and 32 days long. If your cycle is shorter or longer than that more than twice during a year, fertility awareness methods won’t be effective.",
+        },
 
-{
-  id: "choosing18",
-  title: "How do you use fertility awareness methods?",
-  content: `To use a fertility awareness method, the first step is to understand the phases of the menstrual cycle. Each phase is triggered by natural changes in your hormones. Every new menstrual cycle starts with your period. Day one of your period is day one of that cycle. An average cycle, from the first day of your period to the day before your next period, is 28 days, but it can be longer or shorter and still be considered normal.
+        {
+          id: "choosing18",
+          title: "How do you use fertility awareness methods?",
+          content: `To use a fertility awareness method, the first step is to understand the phases of the menstrual cycle. Each phase is triggered by natural changes in your hormones. Every new menstrual cycle starts with your period. Day one of your period is day one of that cycle. An average cycle, from the first day of your period to the day before your next period, is 28 days, but it can be longer or shorter and still be considered normal.
 
 During the first phase of your cycle, your uterus prepares for a potential pregnancy. Then you ovulate, which means that your body releases an egg from one of your ovaries, making it available for fertilization, which happens when the egg meets up with sperm. If fertilization doesn’t happen and a pregnancy doesn’t start, then after 14 days the lining of your uterus sheds—this is your period. If a pregnancy does start, the lining of your uterus doesn’t shed, meaning that you don’t get a period. A missed period is often the first sign of pregnancy people notice.
 
 You can only get pregnant from penis-in-vagina sex on six days during your menstrual cycle—the five days before you ovulate and the 24 hours after ovulation. These are your fertile days. You can prevent pregnancy by not having penis-in-vagina sex without using another birth control method on those days.`
-},
+        },
 
-{
-  id: "choosing19",
-  title: "Signs of fertility",
-  content: `All of the fertility awareness methods involve learning and tracking the signs that you are fertile so that you can avoid the kind of sex that can get you pregnant on your fertile days. There are a few different signs of fertility that you can track, and the most effective way to use fertility awareness methods is to track more than one of these signs at the same time.
+        {
+          id: "choosing19",
+          title: "Signs of fertility",
+          content: `All of the fertility awareness methods involve learning and tracking the signs that you are fertile so that you can avoid the kind of sex that can get you pregnant on your fertile days. There are a few different signs of fertility that you can track, and the most effective way to use fertility awareness methods is to track more than one of these signs at the same time.
 
 It’s important to know that no fertility awareness method can tell you for sure exactly when you’re ovulating. But if you track more than one sign of fertility, your chances of predicting when you’ll ovulate will be better.`
-},
+        },
 
-{
-  id: "choosing20",
-  title: "Menstrual cycle",
-  content: `If your menstrual cycle is regular, ovulation happens on approximately the same day every cycle. Having a regular menstrual cycle means that your cycle is between 26 and 32 days long and that your cycles are close to the same length every month. If you have a regular, 28-day cycle, ovulation is most likely happening in the middle of your cycle, between days 12 and 16. One way of preventing pregnancy is by tracking your menstrual cycles over a few months, determining when you think ovulation is happening, and then not having penis-in vagina sex without using another method of birth control on the days you’re most likely to be fertile, which are usually days 8 through 19. In order for this method to work for you, your menstrual cycle must be between 26 and 32 days long.`
-},
+        {
+          id: "choosing20",
+          title: "Menstrual cycle",
+          content: `If your menstrual cycle is regular, ovulation happens on approximately the same day every cycle. Having a regular menstrual cycle means that your cycle is between 26 and 32 days long and that your cycles are close to the same length every month. If you have a regular, 28-day cycle, ovulation is most likely happening in the middle of your cycle, between days 12 and 16. One way of preventing pregnancy is by tracking your menstrual cycles over a few months, determining when you think ovulation is happening, and then not having penis-in vagina sex without using another method of birth control on the days you’re most likely to be fertile, which are usually days 8 through 19. In order for this method to work for you, your menstrual cycle must be between 26 and 32 days long.`
+        },
 
-{
-  id: "choosing21",
-  title: "Cervical mucus",
-  content: `Cervical mucus (CM) is naturally produced by your body and changes over the course of your menstrual cycle in response to changes in your hormone levels. Cervical mucus comes out of your cervix and then leaves your vagina as discharge.
+        {
+          id: "choosing21",
+          title: "Cervical mucus",
+          content: `Cervical mucus (CM) is naturally produced by your body and changes over the course of your menstrual cycle in response to changes in your hormone levels. Cervical mucus comes out of your cervix and then leaves your vagina as discharge.
 
 You can monitor changes in your cervical mucus on a daily basis to check for the type of mucus that happens around the time of ovulation. To monitor your cervical mucus, you will put your finger or fingers inside your vagina, pull them out, and look at and feel the mucus left behind on them. While you have your cervical mucus on your fingers, you can rub the tips of your fingers together and separate your fingers to see and feel the consistency of the mucus.
 
 You can get pregnant from the time when your cervical mucus is clear, stretchy, and slippery (like the consistency of egg whites), until three days after you stop having this kind of mucus. Using cervical mucus to track fertility doesn’t rely on having a regular menstrual cycle, but it is most effective at preventing pregnancy when you are also tracking other signs of fertility.
 
 Keep in mind that infections like bacterial vaginosis, yeast, or STIs like trichomoniasis can change your discharge, making it hard to interpret your cervical mucus. If you know you have an infection or if you think you might, it’s best not to rely on your cervical mucus for predicting your fertile days.`
-},
-{
-  id: "choosing22",
-  title: "Basal body temperature (BBT)",
-  content: `Your basal body temperature (BBT) is your temperature when your body is completely at rest. BBT changes during your menstrual cycle in response to your hormone levels—it’s lower before ovulation and higher from the time you ovulate until you get your period. After you get your period your temperature will drop again. (And if your temperature doesn’t drop, that may be an early sign that you’re pregnant.)
+        },
+        {
+          id: "choosing22",
+          title: "Basal body temperature (BBT)",
+          content: `Your basal body temperature (BBT) is your temperature when your body is completely at rest. BBT changes during your menstrual cycle in response to your hormone levels—it’s lower before ovulation and higher from the time you ovulate until you get your period. After you get your period your temperature will drop again. (And if your temperature doesn’t drop, that may be an early sign that you’re pregnant.)
 
 To track your BBT, you’ll take your temperature around the same time every day (after at least six hours of uninterrupted sleep) before you get out of bed with a special, super accurate thermometer. Make sure you get a thermometer that reads to the hundredth decimal place (meaning that it shows two numbers after the decimal point, like 98.62), because the changes in your body temperature that you need to track over your cycle can be that tiny. You’ll write down your daily temperature for a few months, and once you determine what your baseline temperature is, having three continuous BBT measurements more than 0.40 degrees above your baseline indicates you have ovulated and are out of the fertile window after ovulation.
 
 That means that while you may be able to use BBT to confirm that you are in the phase of your cycle between ovulation and your period, it won’t tell you when you are in the five fertile days BEFORE you ovulate. That’s why this method works best when you’re also monitoring your cervical mucus and tracking your menstrual cycle on a calendar. This combination of fertility awareness methods will help you not only predict when you are going to ovulate before it happens but also know when you have ovulated, so you can avoid having sex on all of your fertile days.`
-},
-{
-  id: "choosing23",
-  title: "Hormones",
-  content: `Your hormones naturally rise and fall during your menstrual cycle, and two hormones—luteinizing hormone (LH) and one type of estrogen (EG3)—can be detected in your urine before ovulation. You can use over-the-counter urine test strips and digital kits that check for either LH only or for both LH and EG3 to predict when you are going to ovulate. One important thing to know about tracking your hormones in this way is that LH only rises 24 to 36 hours before ovulation, but you can get pregnant for five days leading up to ovulation. EG3 rises one or two days before LH and usually signals the start of the fertile window. So combining hormone tracking with another fertility sign, like cervical mucus, can make pregnancy prevention with fertility awareness more effective.`
-},
-{
-  id: "choosing24",
-  title: "Breastfeeding as birth control",
-  content: `Breastfeeding is another way to naturally suppress fertility. You can use this method if: 1) you’ve had a baby in the last six months, 2) your baby is fully or almost fully being breastfed with no breaks between breastfeeds that are longer than four to six hours, and 3) you haven’t had a period since before you were pregnant. Once any of those things changes, this method of birth control is no longer effective at preventing pregnancy.`
-},
-{
-  id: "choosing25",
-  title: "Ways of tracking fertility",
-  content: `You can increase the effectiveness of fertility awareness in preventing pregnancy by using more than one fertility sign to predict your fertile days. The most common combination of signs people use is basal body temperature and cervical mucus.
+        },
+        {
+          id: "choosing23",
+          title: "Hormones",
+          content: `Your hormones naturally rise and fall during your menstrual cycle, and two hormones—luteinizing hormone (LH) and one type of estrogen (EG3)—can be detected in your urine before ovulation. You can use over-the-counter urine test strips and digital kits that check for either LH only or for both LH and EG3 to predict when you are going to ovulate. One important thing to know about tracking your hormones in this way is that LH only rises 24 to 36 hours before ovulation, but you can get pregnant for five days leading up to ovulation. EG3 rises one or two days before LH and usually signals the start of the fertile window. So combining hormone tracking with another fertility sign, like cervical mucus, can make pregnancy prevention with fertility awareness more effective.`
+        },
+        {
+          id: "choosing24",
+          title: "Breastfeeding as birth control",
+          content: `Breastfeeding is another way to naturally suppress fertility. You can use this method if: 1) you’ve had a baby in the last six months, 2) your baby is fully or almost fully being breastfed with no breaks between breastfeeds that are longer than four to six hours, and 3) you haven’t had a period since before you were pregnant. Once any of those things changes, this method of birth control is no longer effective at preventing pregnancy.`
+        },
+        {
+          id: "choosing25",
+          title: "Ways of tracking fertility",
+          content: `You can increase the effectiveness of fertility awareness in preventing pregnancy by using more than one fertility sign to predict your fertile days. The most common combination of signs people use is basal body temperature and cervical mucus.
 
 To see the trends in your fertility signs needed to predict your fertile window, you’ll need to both pay attention to your body and keep track of your fertility signs. You can keep track of your fertility in a few ways, such as by using a paper calendar, a calendar on your phone or computer, a fertility-tracking app, like Natural Cycles, or by using CycleBeads, a handy string of colored beads that helps you count the days of your menstrual cycle. Depending on the fertility signs you are tracking, your preferences, and whether you need to keep your use of fertility awareness methods private, one of these methods of tracking may work better for you.
 
 Some period and fertility tracking apps keep your private data more secure than others, so be sure to review the privacy policy carefully. You may decide that it’s more secure for you to use a regular calendar than a special fertility-tracking app.
 
 Tracking your cycle for a few months before starting to rely on a FAM for pregnancy prevention can help you understand what’s normal for you and can make fertility awareness methods more effective. If you don’t want to get pregnant while you’re starting to track your cycles, you’ll need to use another method of birth control during that time, like condoms. During this time, it’s important that you’re not on a method of birth control that contains hormones. Being on a hormonal method will prevent you from learning about and tracking your body’s signs of fertility because you’re not fertile when you’re on hormonal birth control.`
-},
+        },
 
         {
           id: "choosing26",
@@ -3965,33 +3965,33 @@ Tracking your cycle for a few months before starting to rely on a FAM for pregna
           content:
             "Tracking your menstrual cycles and your cervical mucus is totally free. If you are going to track your BBT, you will need a special thermometer, which can cost about $10. Urine test strips and digital hormone tracking kits vary in price, but they can be expensive and insurance usually doesn’t cover them.",
         },
-     {
-  id: "choosing30",
-  title: "The Positive",
-  content: `There are actually lots of things about FAMs that may be good for you as well as your sex life.
+        {
+          id: "choosing30",
+          title: "The Positive",
+          content: `There are actually lots of things about FAMs that may be good for you as well as your sex life.
 
 • Some fertility awareness methods are free.
 • There’s no prescription necessary—you can start and stop using a FAM without seeing a provider.
 • FAMs can help you learn more about your body and how it works.`
-},
-{
-  id: "choosing31",
-  title: "The Negative",
-  content: `There are no side effects of fertility awareness methods, but there can be disadvantages, including:
+        },
+        {
+          id: "choosing31",
+          title: "The Negative",
+          content: `There are no side effects of fertility awareness methods, but there can be disadvantages, including:
 
 • Using a FAM requires planning and careful record-keeping.
 • Using a FAM requires abstaining from penis-in-vagina sex or using an alternate method of birth control when you have penis-in-vagina sex for at least a week per cycle.
 • FAMs are more effective if both partners participate, and not all partners will.
 • You can’t switch directly from a hormonal method to a FAM, because the hormones might still be in your system and could affect your cycle. So you’ll need to use a non-hormonal method for a few months until your cycle is regular and you can predict when your fertile days are.`
-},
+        },
 
-  {
+        {
           id: "choosing32",
           title: "Where can you get fertility awareness methods?",
           content:
             "You don’t need to go anywhere to get started with using a fertility awareness method. If you’re going to track your temperature, you can get the special thermometer you need from drugstores or online, and if you’re going to measure your hormones with test strips, you can get those at drugstores or online too.",
         },
- 
+
 
 
       ],
@@ -4047,10 +4047,10 @@ Tracking your cycle for a few months before starting to rely on a FAM for pregna
           content:
             "Amenorrhea is when you don’t get your period. It could be because you’re pregnant or just had a baby and are breastfeeding. In fact, lactational amenorrhea is a birth control method! Amenorrhea can also be a sign of problems with your hormone levels caused by stress or extremely low body weight.",
         },
-       
+
       ],
     },
-     reviews: {
+    reviews: {
       title: "Fertility Awareness Methods (FAMs)  Reviews",
       sections: [
         {
@@ -4119,10 +4119,10 @@ When it’s done correctly, withdrawal works to prevent pregnancy because withou
           content:
             "Very effective if you use it correctly. Lasts for months, is private, and is a good hormonal option for those who can't take estrogen.",
         },
-       {
-  id: "effectiveness1",
-  title: "Effectiveness",
-  content: `Pretty effective the way most people use it (but it’s hard to pull out on time every time).
+        {
+          id: "effectiveness1",
+          title: "Effectiveness",
+          content: `Pretty effective the way most people use it (but it’s hard to pull out on time every time).
 
 Perfect use: 96% effective
 
@@ -4130,7 +4130,7 @@ Typical use: 80% effective
 
 
 What are perfect use and typical use?`,
-},
+        },
 
         {
           id: "effectiveness2",
@@ -4229,22 +4229,22 @@ You want to keep your birth control private but not from your partner. Withdrawa
 
 However, if you don’t want your partner to know about your birth control, withdrawal is not a good option. Both partners need to be committed to pulling out.`,
         },
-      {
-  id: "choosing15",
-  title: "You’re looking for a super affordable method of pregnancy prevention.",
-  content: "Pulling out is free!",
-},
+        {
+          id: "choosing15",
+          title: "You’re looking for a super affordable method of pregnancy prevention.",
+          content: "Pulling out is free!",
+        },
 
-       
-{
-  id: "choosing18",
-  title: "How do you use withdrawal?",
-  content: `The withdrawal method is totally dependent on self-control. You have to make sure the penis is pulled out before ejaculation AND keep the semen away from the vulva. So it’s really important that the partner with a penis is able to tell when they are getting close to ejaculation.
+
+        {
+          id: "choosing18",
+          title: "How do you use withdrawal?",
+          content: `The withdrawal method is totally dependent on self-control. You have to make sure the penis is pulled out before ejaculation AND keep the semen away from the vulva. So it’s really important that the partner with a penis is able to tell when they are getting close to ejaculation.
 
 After the person with a penis pulls out, they can still ejaculate, it just needs to be away from their partner’s vagina and vulva.
 
 You may want to use spermicide or another method along with pulling out to make it more effective. You may also want to have some emergency contraception pills on hand in case the pull-out method doesn’t work as planned.`
-},
+        },
 
         {
           id: "choosing19",
@@ -4252,44 +4252,44 @@ You may want to use spermicide or another method along with pulling out to make 
           content:
             "Withdrawal is totally free.",
         },
-       
+
         {
           id: "choosing22",
           title: "What are the side effects and benefits of withdrawal?",
           content:
             "There are positives and negatives about each and every method of birth control. And everyone’s different—so what you experience may not be the same as what your friend experiences.",
         },
-     {
-  id: "choosing23",
-  title: "The Positive",
-  content: `Here are some of the benefits of the pull-out method:
+        {
+          id: "choosing23",
+          title: "The Positive",
+          content: `Here are some of the benefits of the pull-out method:
 
 • Free  
 • No prescription necessary  
 • No one (other than your partner) has to know you are using withdrawal  
 • Can be used while breastfeeding  
 • Can be used with another method to make it more effective`
-},
-{
-  id: "choosing24",
-  title: "The Negative",
-  content: `There are no side effects to withdrawal. But there are some disadvantages to think about:
+        },
+        {
+          id: "choosing24",
+          title: "The Negative",
+          content: `There are no side effects to withdrawal. But there are some disadvantages to think about:
 
 • Can be messy  
 • Difficult to do it every single time  
 • May be harder to do if you’ve been drinking or are high  
 • Not the most effective method  
 • Doesn’t protect against STIs`
-},
+        },
 
 
-  {
+        {
           id: "choosing25",
           title: "Where can you get it?",
           content:
             "You don’t need to go anywhere to get started with withdrawal. But you do need to talk with your partner before sex to make sure they understand what they need to do and are committed to doing it.",
         },
- 
+
 
       ],
     },
@@ -4388,7 +4388,7 @@ Taisha recommends getting tested with your partner before any sexual contact, li
   },
 
   "types/not-right-now": {
-     about: {
+    about: {
       title: "About 'Not Right Now' ",
       sections: [
         {
@@ -4502,10 +4502,10 @@ Just remember that you can still get or pass on sexually transmitted infections 
 
 `,
         },
-      {
-  id: "choosing12",
-  title: "How does “not right now” work?",
-  content: `If you’re using “not right now” as your method, it simply means you’re not having penis-in-vagina sex. And if you decide to start having penis-in-vagina sex, that’s totally cool, too. Just make sure you’re protected with another form of birth control if you don’t want to get pregnant, and that you have a plan for STI protection, like using a condom.
+        {
+          id: "choosing12",
+          title: "How does “not right now” work?",
+          content: `If you’re using “not right now” as your method, it simply means you’re not having penis-in-vagina sex. And if you decide to start having penis-in-vagina sex, that’s totally cool, too. Just make sure you’re protected with another form of birth control if you don’t want to get pregnant, and that you have a plan for STI protection, like using a condom.
 
 Tips for making “not right now” work:
 
@@ -4514,7 +4514,7 @@ Tips for making “not right now” work:
 • Be totally straightforward and clear when talking about your limits.  
 • If you want, you can explore other sexual activities you might enjoy just as much.  
 • Keep in mind that it might be harder to stick with “not right now” if you’ve been drinking or using drugs.`
-},
+        },
 
         {
           id: "choosing13",
@@ -4524,27 +4524,27 @@ Tips for making “not right now” work:
           content:
             `Not having penis-in-vagina sex is free!`,
         },
-      
-       
-      {
-  id: "choosing23",
-  title: "The Positive",
-  content: `There are lots of things about birth control that are good for your body as well as your sex life. Here are some of the benefits of using “not right now”:
+
+
+        {
+          id: "choosing23",
+          title: "The Positive",
+          content: `There are lots of things about birth control that are good for your body as well as your sex life. Here are some of the benefits of using “not right now”:
 
 • It’s free.  
 • If you aren’t having any type of sex, you are not at risk for STIs either.`
-},
+        },
 
-{
-  id: "choosing24",
-  title: "The Negative",
-  content: `“Not right now” doesn’t have any side effects, but there are some disadvantages:
+        {
+          id: "choosing24",
+          title: "The Negative",
+          content: `“Not right now” doesn’t have any side effects, but there are some disadvantages:
 
 • It can be difficult to keep up over time.  
 • It might be hard to stick to your plan if you’ve been drinking or using drugs.`
-},
+        },
 
-  {
+        {
           id: "choosing25",
           title: "Where can you get it?",
           content:
@@ -4583,10 +4583,10 @@ Either way, you might want to have some condoms and EC on hand just in case.`,
 
 Whatever you decide to do, if you’re going to start experimenting, you should definitely talk with your partner before the heat of the moment about how far you plan to go. Then make sure you both agree that you will stop if things start to heat up too much.`,
         },
-       
+
       ],
     },
-   reviews: {
+    reviews: {
       title: ` “Not right now” Reviews`,
       sections: [
         {
@@ -4846,15 +4846,15 @@ To stay safe, Tee recommends getting tested regularly and talking about STI and 
           content:
             "Very effective if you use it correctly. Lasts for months, is private, and is a good hormonal option for those who can't take estrogen.",
         },
-       {
-  id: "effectiveness1",
-  title: "Effectiveness",
-  content: `The pill is very effective the way most people use it.\n
+        {
+          id: "effectiveness1",
+          title: "Effectiveness",
+          content: `The pill is very effective the way most people use it.\n
 Perfect use: Over 99% effective\n
 Typical use: 93% effective\n
 What are perfect use and typical use? \n `
 
-},
+        },
 
         {
           id: "effectiveness2",
@@ -4903,7 +4903,7 @@ What are perfect use and typical use? \n `
           content:
             "This type of pill uses a combination of two types of hormones—estrogen and progestin—that work with your body to prevent ovulation. For most brands of combination birth control pills, a pill pack contains a series of pills that contain hormones followed by placebo pills, which don’t contain any hormones. How many pills with hormones and how many placebo pills are included in each pack depends on the brand of combination pills you’re using. Most people have bleeding that resembles a period when taking the placebo pills.",
         },
-        
+
       ],
     },
     faqs: {
@@ -5036,7 +5036,7 @@ What are perfect use and typical use? \n `
   },
 
   "types/condom": {
-about: {
+    about: {
       title: "About Condoms ",
       sections: [
         {
@@ -5051,12 +5051,12 @@ about: {
           content:
             "Very effective if you use it correctly. Lasts for months, is private, and is a good hormonal option for those who can't take estrogen.",
         },
-       {
-  id: "effectiveness1",
-  title: "Effectiveness",
-  content:
-    "Condoms are pretty effective the way most people use them.\n\nPerfect use: 98% effective\n\nTypical use: 87% effective\n\nWhat are perfect use and typical use?"
-},
+        {
+          id: "effectiveness1",
+          title: "Effectiveness",
+          content:
+            "Condoms are pretty effective the way most people use them.\n\nPerfect use: 98% effective\n\nTypical use: 87% effective\n\nWhat are perfect use and typical use?"
+        },
 
         {
           id: "effectiveness2",
@@ -5143,11 +5143,11 @@ about: {
           content:
             "Condoms are great in a pinch. If you don’t make it to the pharmacy for your pill refill on time, or you realize you’ve missed a pill (or missed a step with another form of hormonal birth control), you can always use a condom. For mistakes with hormonal birth control methods, as well as when you start on a hormonal birth control method, you may need to use condoms or another backup form of birth control for 7 days, so check with a provider or read the instructions that came with your hormonal method. You may also want to use emergency contraception if you make a mistake with your birth control and then have unprotected sex.V",
         },
-       
-       {
-  id: "choosing18",
-  title: "How do you use Condoms?",
-  content: `Once you get the hang of it, condoms are pretty easy to use, but it can take some practice to get there. And even experienced users make mistakes, so it’s good to refresh your memory on the correct way to use them once in a while.
+
+        {
+          id: "choosing18",
+          title: "How do you use Condoms?",
+          content: `Once you get the hang of it, condoms are pretty easy to use, but it can take some practice to get there. And even experienced users make mistakes, so it’s good to refresh your memory on the correct way to use them once in a while.
 
 - The most important thing to remember:\n
 1. If you’re relying on condoms for pregnancy and/or STI prevention, you have to use them every single time you have sex.\n
@@ -5181,27 +5181,27 @@ about: {
 6. Put on a new condom if you switch between types of sex (oral, vaginal, anal).\n
 
 - Some tips for using condoms made of different materials:`
-},
-   {
+        },
+        {
           id: "choosing19",
           title: "Latex Condoms",
           content:
             "These are the most commonly used condoms. Make sure not to use them with oil-based lube, which includes massage oil, coconut oil, some lotions, and petroleum jelly. Oil-based lube can cause latex condoms to break. Use water-based or silicone-based lube instead.",
         },
-  
-   {
+
+        {
           id: "choosing21",
           title: "Non-latex Condoms",
           content:
             "If you’re allergic to latex, these may be for you. They’re usually made from polyurethane, polyisoprene, or other synthetic materials, and they’re just as good at protecting you from STIs as latex condoms are. Most kinds of non-latex condoms cannot be used safely with oil-based lube because it can cause them to break. So your best bet will be water-based or silicone-based lube.",
         },
-   {
+        {
           id: "choosing22",
           title: "Spermicidal Condoms",
           content:
             "These condoms are lubricated with a chemical that kills sperm. Even though spermicide on its own can prevent pregnancy, spermicidal condoms aren’t actually any better than non-spermicidal condoms at preventing pregnancy. And if the spermicide used is nonoxynol-9, keep in mind that it may cause irritation, which increases the risk of getting HIV and other STIs. It can also increase the risk of urinary tract infections.",
         },
-   {
+        {
           id: "choosing23",
           title: "Natural membrane condoms",
           content:
@@ -5213,41 +5213,41 @@ about: {
           content:
             "Most insurance will not cover condoms. If you have a Flexible Spending Account through your workplace, you may be able to save a little bit of money by using it to pay for condoms.Condoms come in a variety of materials, shapes, sizes, colors, and textures, and prices vary depending on which kind you get. Most basic condoms cost around a dollar each, but condoms of different sizes, appearances, and materials might cost more. If you need help covering the cost of condoms, there may be options. Check with your local family planning clinics and find out if they offer free or low-cost condoms and other kinds of birth control (most do). Depending where you live, there may be other places where you can find free condoms.",
         },
-      
+
         {
           id: "choosing25",
           title: "What are the side effects and benefits of the Condoms",
           content:
             "There are positives and negatives about each and every method of birth control. And everyone’s different—so what you experience may not be the same as what your friend experiences.",
         },
-      {
-  id: "choosing26",
-  title: "The Positive",
-  content: `Here are some of the benefits of condoms:\n
+        {
+          id: "choosing26",
+          title: "The Positive",
+          content: `Here are some of the benefits of condoms:\n
 • Most kinds protect against STIs, including HIV.\n
 • No prescription needed.\n
 • Available in lots of places, sometimes for free.\n
 • You only have to deal with your birth control when you have sex—there’s no pill to remember to take every day.`
-},
+        },
 
 
-     {
-  id: "choosing27",
-  title: "The Negative",
-  content: `It’s normal to worry about negative side effects, but for many people, they’re not a problem. Potential side effects include:\n
+        {
+          id: "choosing27",
+          title: "The Negative",
+          content: `It’s normal to worry about negative side effects, but for many people, they’re not a problem. Potential side effects include:\n
 • Latex allergy. Only one or two out of every 100 people are allergic, but if you happen to be one of them, you can always use a non-latex condom instead.\n
 • Sensitivity to certain brands of lubricant. If the lube is causing irritation of any kind, try another kind.\n\n
 In addition to potential side effects, there may be some disadvantages to using condoms for some people:\n
 • Some people with penises say that condoms reduce feeling during sex.\n
 • You have to interrupt sex to put on a condom.`
-},
-  {
+        },
+        {
           id: "choosing28",
           title: "Where can you get condoms?",
           content:
             "\n You can buy condoms at all kinds of places—like drug stores, supermarkets, convenience stores, and gas stations. You can get them for free at some clinics and even some bars and clubs. You can also buy condoms online from vendors like Amazon, Walmart, and Target, plus specialty condom stores like Condomania and Condom Jungle.v",
         },
- 
+
       ],
     },
     faqs: {
@@ -5380,7 +5380,7 @@ In addition to potential side effects, there may be some disadvantages to using 
   },
 
   "types/cervical-cap": {
-   about: {
+    about: {
       title: "About Curvical Cap",
       sections: [
         {
@@ -5395,16 +5395,16 @@ In addition to potential side effects, there may be some disadvantages to using 
           content:
             "Very effective if you use it correctly. Lasts for months, is private, and is a good hormonal option for those who can't take estrogen.",
         },
-       {
-  id: "effectiveness1",
-  title: "Effectiveness",
-  content: `Internal condoms are pretty effective the way most people use them:\n
+        {
+          id: "effectiveness1",
+          title: "Effectiveness",
+          content: `Internal condoms are pretty effective the way most people use them:\n
 • Effectiveness Rates:\n
 1. Perfect use: 95% effective\n
 2. Typical use: 79% effective\n
 
 What are perfect use and typical use?`
-},
+        },
 
         {
           id: "effectiveness2",
@@ -5439,10 +5439,10 @@ What are perfect use and typical use?`
           title: "The cervical cap might be for you if...",
           content: "",
         },
-       {
-  id: "choosing7",
-  title: "Effectiveness at preventing pregnancy is NOT your top priority.",
-  content: `The cervical cap is not considered one of the most effective methods of birth control out there.
+        {
+          id: "choosing7",
+          title: "Effectiveness at preventing pregnancy is NOT your top priority.",
+          content: `The cervical cap is not considered one of the most effective methods of birth control out there.
 
 The effectiveness of the cervical cap depends on whether you’ve been pregnant and/or had a vaginal birth before:
 
@@ -5453,7 +5453,7 @@ The effectiveness of the cervical cap depends on whether you’ve been pregnant 
 But most people don’t use the cervical cap perfectly. Most people have trouble using their cervical cap correctly from time to time. The effectiveness of the cervical cap with typical use, which means how real people use it in real life, is more relevant for most people than its effectiveness with perfect use.
 
 We only have an average number for typical use that includes everyone using the cervical cap, regardless of whether they’ve had a full-term vaginal birth. With typical use, the cervical cap is 77% effective at preventing pregnancy. That means that, on average, 23 out of every 100 people using the cervical cap (but not perfectly) for a year will get pregnant.`
-},
+        },
 
         {
           id: "choosing8",
@@ -5498,18 +5498,18 @@ We only have an average number for typical use that includes everyone using the 
           id: "choosing14",
           title: "You don’t mind a method that requires a visit to your health care provider.",
           content:
-           "You need a prescription to get a cervical cap, which means you’ll have to see a health care provider, but you can use telehealth instead of having an in-person visit.",
+            "You need a prescription to get a cervical cap, which means you’ll have to see a health care provider, but you can use telehealth instead of having an in-person visit.",
         },
-      {
-  id: "choosing15",
-  title: "You want a method that you can stop without help from a provider.",
-  content: "Even though you have to see a provider to get started on the cervical cap, you don’t have to see one to stop using the cervical cap. Because it’s a birth control method that you only use when you’re going to have sex, you are totally in control of starting and stopping it.",
-},
+        {
+          id: "choosing15",
+          title: "You want a method that you can stop without help from a provider.",
+          content: "Even though you have to see a provider to get started on the cervical cap, you don’t have to see one to stop using the cervical cap. Because it’s a birth control method that you only use when you’re going to have sex, you are totally in control of starting and stopping it.",
+        },
 
-       {
-  id: "choosing16",
-  title: "You don’t need to hide your method.",
-  content: `The cervical cap isn’t one of the birth control methods that is easy to hide completely. First of all, because the cervical cap is reusable, you have to store it between uses, so someone you live with may be able to find it, depending on your circumstances.
+        {
+          id: "choosing16",
+          title: "You don’t need to hide your method.",
+          content: `The cervical cap isn’t one of the birth control methods that is easy to hide completely. First of all, because the cervical cap is reusable, you have to store it between uses, so someone you live with may be able to find it, depending on your circumstances.
 
 Hiding it from a sexual partner is possible but may be difficult. You can put in your cervical cap up to 40 hours before having sex, and you can leave it in for up to 48 hours, but if you’re going to have sex again while the cap is in, check to make sure it’s in place without removing it. So you may be able to avoid your partner knowing you have the cervical cap in. But there are a few situations that would make it harder to hide the cervical cap from a sexual partner:
 
@@ -5520,11 +5520,11 @@ Hiding it from a sexual partner is possible but may be difficult. You can put in
 3. If you want to have sex again while the cervical cap is still in, you will need to check that the cervical cap is still in the correct position (without taking the cervical cap out) before each time you have sex.
 
 4. Your partner may feel the cervical cap during sex, though most partners don’t.`
-},
-      {
-  id: "choosing17",
-  title: "You don’t have any of these risk factors.",
-  content: `Don’t use the cervical cap:
+        },
+        {
+          id: "choosing17",
+          title: "You don’t have any of these risk factors.",
+          content: `Don’t use the cervical cap:
   
 • During your period.
 • If you’ve given birth in the last six weeks.
@@ -5534,11 +5534,11 @@ Hiding it from a sexual partner is possible but may be difficult. You can put in
 • If you are HIV negative and your partner is HIV positive.
 • If using spermicide causes irritation to your vagina or vulva.
 • If you have a history of frequent urinary tract infections (UTIs).`
-},
-{
-  id: "choosing18",
-  title: "How do you use the cervical cap?",
-  content: `
+        },
+        {
+          id: "choosing18",
+          title: "How do you use the cervical cap?",
+          content: `
 The cervical cap can be inserted up to **40 hours before sex**, so you can put it in early, and it won’t get in the way of the moment.
 
 After having sex, you need to **leave it in for six hours** before removing it. You can leave it in for up to **48 hours**, but if you’re going to have sex again while the cap is in, **check to make sure it’s in place** without removing it.
@@ -5612,7 +5612,7 @@ Here’s how to put the cervical cap in:
 24. Don’t use powders or lubricants on the cervical cap.  
     *(Discoloration over time is normal — it will still work!)*.
 `
-},
+        },
 
 
         {
@@ -5639,10 +5639,10 @@ Here’s how to put the cervical cap in:
           content:
             "There are positives and negatives about each and every method of birth control. And everyone’s different—so what you experience may not be the same as what your friend experiences.",
         },
-      {
-  id: "choosing23",
-  title: "The Positive",
-  content: `
+        {
+          id: "choosing23",
+          title: "The Positive",
+          content: `
 There are some advantages to using the cervical cap, including:
 
 • You can put the cervical cap in up to **40 hours** before having sex.
@@ -5653,14 +5653,14 @@ There are some advantages to using the cervical cap, including:
 
 • It’s **safe to use while breastfeeding**.
 `
-},
+        },
 
 
 
-    {
-  id: "choosing24",
-  title: "The Negative",
-  content: `
+        {
+          id: "choosing24",
+          title: "The Negative",
+          content: `
 It’s normal to think about side effects, but for many people, they’re not a problem.
 
 Some side effects may include:
@@ -5684,16 +5684,16 @@ In addition to potential side effects, there may be some downsides to using the 
 
 • **Inserting more spermicide** can interrupt sex.
 `
-},
+        },
 
 
-  {
+        {
           id: "choosing25",
           title: "Where can you get the cervical cap?",
           content:
             "",
         },
-  {
+        {
           id: "choosing26",
           title: "",
           content:
@@ -5816,7 +5816,7 @@ In addition to potential side effects, there may be some downsides to using the 
   },
 
   "types/spermicide-gell": {
-   about: {
+    about: {
       title: "About Spermicide & Gell",
       sections: [
         {
@@ -5897,7 +5897,7 @@ What are perfect use and typical use?`,
 
 If you’re a diaphragm or cervical cap user, using spermicide as well is key to effective pregnancy prevention. On its own, over-the-counter spermicide does offer some pregnancy prevention, but using it with another method is much more effective.`,
         },
-              ],
+      ],
     },
 
     faqs: {
@@ -5945,7 +5945,7 @@ If you’re looking for a method that requires a prescription, visit your local 
         },
       ],
     },
-     reviews: {
+    reviews: {
       title: "Birth Control Method Reviews",
       sections: [
         {
@@ -6002,7 +6002,7 @@ They turned to this method because she found condoms to be painful and there are
   },
 
   "types/sterilization": {
-   about: {
+    about: {
       title: "About Sterilization",
       sections: [
         {
@@ -6079,7 +6079,7 @@ How tubal ligation is done depends partly on whether you’re doing it right aft
           content:
             `A vasectomy is a safe and effective sterilization procedure for people with testicles and penises. Vasectomies prevent pregnancy by permanently closing off the vas deferens, the tubes that carry sperm. That means sperm cannot get into the vagina during penis-in-vagina sex, and therefore pregnancy can’t happen.`,
         },
-              ],
+      ],
     },
     faqs: {
       title: "Birth Control FAQs",
@@ -6168,7 +6168,7 @@ While pregnancy’s not likely — and not recommended — after ablation, it ca
         },
       ],
     },
-   reviews: {
+    reviews: {
       title: "Birth Control Method Reviews",
       sections: [
         {
@@ -6225,7 +6225,7 @@ He found the procedure to be surprisingly quick and easy. Afterwards, his doctor
   },
 
   "types/emergency-contraception": {
-   about: {
+    about: {
       title: "About Emergency-Contraception ",
       sections: [
         {
@@ -6305,19 +6305,19 @@ You may know over-the-counter emergency contraception by the brand name Plan B, 
         },
         {
           id: "choosing8",
-          title:`Prescription EC pill (ella)`,
+          title: `Prescription EC pill (ella)`,
           content:
             `Ella is a different kind of emergency contraception pill than the kind you can get over the counter. You need a prescription to get it, but you may be able to get the prescription from a telehealth provider. There’s no age requirement to get ella. Ella may be less effective in people who weigh 195 pounds or more. It’s a better option than over-the-counter EC pills for people who weigh between 165 and 194 pounds.`,
         },
         {
           id: "choosing9",
-          title:`IUD as EC`,
+          title: `IUD as EC`,
           content:
             `The most effective type of emergency contraception is the IUD. If you get the non-hormonal/copper IUD (Paragard) or a hormonal IUD with 52mg of levonorgestrel (LILETTA or Mirena) inserted within five days of having unprotected sex, it’s over 99% effective at preventing pregnancy.
 
 If you want to, you can keep the IUD in for up to eight years if you have LILETTA and Mirena or up to 12 years if you have Paragard. You can also choose to have it removed once you’ve used it as EC. To use an IUD for EC, you’ll need to see a health care provider to have one inserted. IUDs work equally well as EC for everyone, regardless of weight.`,
         },
-              ],
+      ],
     },
     faqs: {
       title: "Birth Control FAQs",
@@ -6419,7 +6419,7 @@ When it comes to emergency contraception, over-the counter levonorgestrel-based 
         },
       ],
     },
-   
+
     reviews: {
       title: "Birth Control Method Reviews",
       sections: [
@@ -6437,7 +6437,7 @@ When it comes to emergency contraception, over-the counter levonorgestrel-based 
 
 Even though women are the ones who physically have to use emergency contraception, we asked a group of guys to talk about their experiences with it. Their stories are unique, but all of them were grateful that emergency contraception was available when they needed it.`,
         },
-       
+
       ],
     },
     articles: {
@@ -6473,121 +6473,120 @@ Even though women are the ones who physically have to use emergency contraceptio
           id: "overview",
           title: "What is an IUD?",
           content:
-            "The intrauterine device (IUD) is a small, T-shaped piece of plastic that you can have a health care provider put inside your uterus. The IUD makes it harder for sperm to move efficiently, preventing it from fertilizing an egg. In the U.S., there are five brands of IUDs available: Kyleena, LILETTA, Mirena, Paragard, and Skyla.IUDs can offer years of protection from pregnancy. How long they last depends on the type you get. Some last for up to three years and others last for up to 12 years. If you want to get pregnant or simply want to switch to a different method of birth control at any time, you can have the IUD removed. And if you have plans to get pregnant in the future, don’t worry—having an IUD now doesn’t affect your fertility in the future.While the IUD is safe and super effective at preventing pregnancy, it doesn’t offer protection against sexually transmitted infections (STIs). For STI protection, you can use condoms, internal condoms, dental dams, gloves, and/or PrEP (pre-exposure prophylaxis, which lowers the risk of getting HIV from sex). Three types of IUDs (LILETTA, Mirena, and Paragard) can also be used as emergency contraception if you get them within five days of having unprotected sex. These three types of IUDs are the most effective methods of emergency contraception, preventing pregnancy in over 99% of cases.",
+            " An intrauterine device (IUD) is a small, T-shaped piece of plastic that a healthcare professional inserts into the uterus.It works by preventing sperm from fertilizing an egg, making it an effective form of long- term birth control.In the United States, five FDA - approved IUD brands are available: Mirena, Kyleena, Skyla, LILETTA, and Paragard. IUDs provide continuous pregnancy prevention for several years, depending on the type.Some last up to 3 years, while others protect for as long as 12 years.You can have your IUD removed at any time if you wish to become pregnant or switch methods.Importantly, using an IUD will not impact your ability to conceive in the future. Although highly effective at preventing pregnancy, IUDs do not offer protection from sexually transmitted infections(STIs).To reduce STI risk, consider using barrier methods like condoms or dental dams, or preventive options like PrEP.Three IUDs—Paragard, LILETTA, and Mirena—can also serve as emergency contraception if inserted within five days of unprotected sex, preventing pregnancy in over 99% of cases.",
         },
         {
-          id: "types-1",
-          title: "Types of IUDs",
-          content:
-            "• Hormonal IUDs (Mirena, Skyla, Liletta, Kyleena) - release progestin\n• Copper IUD (Paragard) - hormone-free, uses copper to prevent pregnancy",
+  id: "types-1",
+    title: "Types of IUDs",
+      content:
+  "• Hormonal IUDs (Mirena, Skyla, Liletta, Kyleena) - release progestin\n• Copper IUD (Paragard) - hormone-free, uses copper to prevent pregnancy",
         },
-        {
-          id: "types-2",
-          title: "Hormonal IUD",
-          content:
-            "There are four hormonal IUDs available in the U.S.—Kyleena, LILETTA, Mirena, and Skyla. All of them are made of plastic and release a small amount of the hormone progestin. Progestin is a synthetic version of progesterone, which is a hormone your body makes naturally. The main way progestin prevents pregnancy is by thickening cervical mucus to keep sperm from reaching the uterus.The hormonal IUD may change your periods, making them irregular, lighter, or shorter, or it may stop your period entirely. How long you can use an IUD for depends on which one you get. The longest-lasting hormonal IUD (Mirena) prevents pregnancy for up to eight years, but you can have your IUD removed at any time.",
+{
+  id: "types-2",
+    title: "Hormonal IUD",
+      content: "These IUDs release a small dose of progestin, a synthetic hormone similar to the body’s natural progesterone. Progestin thickens cervical mucus to block sperm from reaching an egg.Hormonal IUDs may cause changes in menstrual cycles. Periods might become lighter, shorter, more irregular, or stop entirely. The protection period varies by brand, with Mirena offering up to 8 years of contraception.",
         },
-        {
-          id: "types-3",
-          title: "Non-hormonal/copper IUD",
-          content:
-            "There’s only one IUD without hormones available in the U.S. It’s called Paragard, and it’s made of plastic and a small amount of copper. Paragard works for up to 12 years, which is longer than any of the hormonal IUDs. It doesn’t change the timing of your periods or cause spotting (bleeding between periods), but it may cause increased bleeding and cramping when you get your period.",
+{
+  id: "types-3",
+    title: "Non-hormonal/copper IUD",
+      content:
+  "Paragard is the only non-hormonal IUD available in the U.S. It’s made of plastic and copper, which creates a sperm-toxic environment in the uterus. Paragard offers protection for up to 12 years.Unlike hormonal IUDs, it doesn’t alter your hormonal balance or stop your period. However, some users experience heavier bleeding or stronger cramps initially, which may improve over time.",
         },
       ],
     },
-    faqs: {
-      title: "IUD Frequently Asked Questions",
-      sections: [
-        {
-          id: "faq-1",
-          title:
-            "Does the non-hormonal/copper IUD (Paragard) cause copper toxicity?",
-          content:
-            "IUDs are safe for most people with a uterus, and copper toxicity is super rare. That said, it can happen, especially in people with Wilson’s Disease, a rare genetic condition which affects about 1 in every 30,000 to 40,000. Wilson’s Disease affects the body’s ability to process copper. Given how low the daily dose of copper is from the non-hormonal IUD, it is extremely unlikely that someone who does not have Wilson’s Disease would experience copper toxicity. So unless you have Wilson’s Disease, you don’t have to worry about copper toxicity from a copper IUD.",
-        },
-        {
-          id: "faq-2",
-          title: "Does IUD insertion hurt?",
-          content:
-            "Insertion involves some discomfort, similar to a strong menstrual cramp. The procedure is quick (5-10 minutes) and many providers offer pain management options.",
-        },
-        {
-          id: "faq-3",
-          title: "Can I get an IUD if I haven't had children?",
-          content:
-            "Yes! IUDs are safe and effective for people who haven't had children. This is an outdated myth that has been thoroughly debunked.",
-        },
-        {
-          id: "faq-4",
-          title: "Will my partner feel the IUD during sex?",
-          content:
-            "Your partner shouldn't feel the IUD itself. They might occasionally feel the strings, which soften over time. If this is bothersome, the strings can be trimmed.",
-        },
-        {
-          id: "faq-5",
-          title: "How will the IUD affect my periods?",
-          content:
-            "Hormonal IUDs often make periods lighter or may stop them completely. Copper IUDs may make periods heavier initially but this usually improves over time.",
-        },
-        {
-          id: "faq-6",
-          title: "Can the IUD get lost inside me?",
-          content:
-            "No, the IUD cannot get lost in your body. It stays in the uterus and cannot travel to other parts of your body.",
-        },
-        {
-          id: "faq-7",
-          title: "How quickly can I get pregnant after IUD removal?",
-          content:
-            "Fertility typically returns immediately after IUD removal. Many people can get pregnant within the first month after removal.",
-        },
-        {
-          id: "faq-8",
-          title: "How effective are IUDs at preventing pregnancy?",
-          content:
-            "The IUD is among the most effective methods out there. In fact, both types of IUD—Paragard and Mirena—are over 99% effective.In other words: Fewer than 1 out of 100 women will experience an accidental pregnancy during the first year of using an IUD.",
-        },
-      ],
+faqs: {
+  title: "IUD Frequently Asked Questions",
+    sections: [
+      {
+        id: "faq-1",
+        title:
+          "Does the non-hormonal/copper IUD (Paragard) cause copper toxicity?",
+        content:
+          " Copper IUDs are considered safe for nearly all individuals with a uterus. Copper toxicity is extremely rare and primarily a concern for those with Wilson’s Disease, a genetic disorder that impacts the body’s ability to process copper—affecting only about 1 in 30,000 to 40,000 people. The copper released by the IUD is minimal, and for people without this condition, the risk of copper buildup is virtually nonexistent.",
+      },
+      {
+        id: "faq-2",
+        title: "Is IUD insertion painful?",
+        content:
+          " You may feel temporary discomfort during insertion, often described as a strong menstrual cramp.  The process is quick—usually 5 to 10 minutes—and many healthcare providers offer options to  reduce pain.",
+      },
+      {
+        id: "faq-3",
+        title: " Can someone without children use an IUD?",
+        content:
+          "Yes, IUDs are safe and highly effective for individuals who haven’t had children. The belief that IUDs are only for those who’ve given birth is a myth that has long been disproven.",
+      },
+      {
+        id: "faq-4",
+        title: "Can a partner feel the IUD during intercourse?",
+        content:
+          " The IUD itself won’t be felt during sex. In rare cases, a partner may notice the strings, but these typically soften with time. If needed, a provider can trim the strings for added comfort.",
+      },
+      {  
+        id: "faq-5",
+        title: "What changes should I expect in my period with an IUD?",
+        content:
+          " Hormonal IUDs may lighten or even stop your periods. Copper IUDs can cause heavier bleeding at first, but this typically lessens as your body adjusts.",
+      },
+      {
+        id: "faq-6",
+        title: "Is it possible for the IUD to move or get lost?",
+        content:
+          " No, the IUD stays securely inside your uterus and cannot travel to other parts of your body. It does not migrate beyond its intended position.",
+      },
+      {
+        id: "faq-7",
+        title: "How soon can I conceive after removing an IUD?",
+        content:
+          "Most people regain fertility immediately following IUD removal. Pregnancy is possible as early as the first menstrual cycle after removal.",
+      },
+      {
+        id: "faq-8",
+        title: "Is the vaginal birth control ring a good option for you?",
+        content:
+          "We’ll connect you with either a local health provider or a trusted service that delivers birth control discreetly online.",
+      },
+    ],
     },
-    reviews: {
-      title: "IUD User Reviews & Experiences",
-      sections: [
-        {
-          id: "Does it hurt to get an IUD?",
-          title:
-            "You know, you kinda have to bear through it until your uterus is like, 'okay, we're friends, we're gonna work together.' ",
-          content: "Apr 24, 2017",
-        },
-      ],
+reviews: {
+  title: "IUD User Reviews & Experiences",
+    sections: [
+      {
+        id: "Does it hurt to get an IUD?",
+        title:
+          "You know, you kinda have to bear through it until your uterus is like, 'okay, we're friends, we're gonna work together.' ",
+        content: "Apr 24, 2017",
+      },
+    ],
     },
-    articles: {
-      title: "IUD Articles & Resources",
-      sections: [
-        {
-          id: "article-1",
-          title: "Complete IUD Guide: Everything You Need to Know",
-          content:
-            "Comprehensive guide covering all aspects of IUDs, from types and effectiveness to insertion and removal.",
-        },
-        {
-          id: "article-2",
-          title: "Hormonal vs. Copper IUD: Which is Right for You?",
-          content:
-            "Detailed comparison to help you decide between hormonal and non-hormonal IUD options.",
-        },
-        {
-          id: "article-3",
-          title: "What to Expect: IUD Insertion and Recovery",
-          content:
-            "Preparation tips, insertion process details, and aftercare instructions for IUD insertion.",
-        },
-        {
-          id: "article-4",
-          title: "IUD Myths Debunked by Medical Experts",
-          content:
-            "Addressing common misconceptions about IUDs with evidence-based medical information.",
-        },
-      ],
+articles: {
+  title: "IUD Articles & Resources",
+    sections: [
+      {
+        id: "article-1",
+        title: "Complete IUD Guide: Everything You Need to Know",
+        content:
+          "Comprehensive guide covering all aspects of IUDs, from types and effectiveness to insertion and removal.",
+      },
+      {
+        id: "article-2",
+        title: "Hormonal vs. Copper IUD: Which is Right for You?",
+        content:
+          "Detailed comparison to help you decide between hormonal and non-hormonal IUD options.",
+      },
+      {
+        id: "article-3",
+        title: "What to Expect: IUD Insertion and Recovery",
+        content:
+          "Preparation tips, insertion process details, and aftercare instructions for IUD insertion.",
+      },
+      {
+        id: "article-4",
+        title: "IUD Myths Debunked by Medical Experts",
+        content:
+          "Addressing common misconceptions about IUDs with evidence-based medical information.",
+      },
+    ],
     },
   },
 };
@@ -6824,11 +6823,10 @@ const DynamicTabsComponent = ({ contentData }) => {
               <button
                 key={tab}
                 onClick={() => setActiveTab(tab)}
-                className={`py-4 px-1 border-b-2 font-medium text-sm transition-colors whitespace-nowrap flex-shrink-0 ${
-                  activeTab === tab
-                    ? "border-teal-500 text-teal-600"
-                    : "border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300"
-                }`}
+                className={`py-4 px-1 border-b-2 font-medium text-sm transition-colors whitespace-nowrap flex-shrink-0 ${activeTab === tab
+                  ? "border-teal-500 text-teal-600"
+                  : "border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300"
+                  }`}
               >
                 {tab}
               </button>
@@ -6866,9 +6864,8 @@ const DynamicTabsComponent = ({ contentData }) => {
             >
               <span>Jump to section...</span>
               <svg
-                className={`w-5 h-5 transform transition-transform ${
-                  isMobileMenuOpen ? "rotate-180" : ""
-                }`}
+                className={`w-5 h-5 transform transition-transform ${isMobileMenuOpen ? "rotate-180" : ""
+                  }`}
                 fill="none"
                 stroke="currentColor"
                 viewBox="0 0 24 24"
@@ -6889,11 +6886,10 @@ const DynamicTabsComponent = ({ contentData }) => {
                     <button
                       key={section.id}
                       onClick={() => scrollToSection(section.id)}
-                      className={`block w-full text-left px-4 py-3 text-sm transition-colors border-b border-gray-100 last:border-b-0 ${
-                        activeSection === section.id
-                          ? "bg-teal-50 text-teal-600 font-medium"
-                          : "text-gray-600 hover:bg-gray-50 hover:text-teal-600"
-                      }`}
+                      className={`block w-full text-left px-4 py-3 text-sm transition-colors border-b border-gray-100 last:border-b-0 ${activeSection === section.id
+                        ? "bg-teal-50 text-teal-600 font-medium"
+                        : "text-gray-600 hover:bg-gray-50 hover:text-teal-600"
+                        }`}
                     >
                       {section.title}
                     </button>
@@ -6908,11 +6904,10 @@ const DynamicTabsComponent = ({ contentData }) => {
         <div className="hidden sm:block sm:w-60 md:w-72 lg:w-80 flex-shrink-0">
           <div
             ref={sidebarRef}
-            className={`bg-white rounded-lg border p-4 md:p-6 transition-all duration-200 ${
-              sidebarSticky && !isMobile
-                ? "fixed top-20 sm:w-52 md:w-64 lg:w-72"
-                : "static"
-            }`}
+            className={`bg-white rounded-lg border p-4 md:p-6 transition-all duration-200 ${sidebarSticky && !isMobile
+              ? "fixed top-20 sm:w-52 md:w-64 lg:w-72"
+              : "static"
+              }`}
           >
             <h3 className="font-semibold text-base md:text-lg text-teal-600 mb-3 md:mb-4 break-words">
               {getRouteDisplayName()}
@@ -6925,11 +6920,10 @@ const DynamicTabsComponent = ({ contentData }) => {
                 <button
                   key={section.id}
                   onClick={() => scrollToSection(section.id)}
-                  className={`block w-full text-left text-xs md:text-sm transition-colors hover:text-teal-600 break-words py-1 ${
-                    activeSection === section.id
-                      ? "text-teal-600 font-medium"
-                      : "text-gray-600"
-                  }`}
+                  className={`block w-full text-left text-xs md:text-sm transition-colors hover:text-teal-600 break-words py-1 ${activeSection === section.id
+                    ? "text-teal-600 font-medium"
+                    : "text-gray-600"
+                    }`}
                 >
                   {section.title}
                 </button>
