@@ -2542,16 +2542,41 @@
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import ScrollToTop from "./components/ScrollToTop";
+
 import ArticleNews from "./pages/SHW/ArticleNews";
 import ArticleNewsTwo from "./pages/SHW/ArticleNewsTwo";
 import STIArticlesLayout from "./pages/SHW/ArticleSection";
 import ArticleSectionTwo from "./pages/SHW/ArticleSectionTwo";
+
+import PFArticleNews from "./pages/Pregnancy-Fertility/ArticleNews";
+import PFArticleNewsTwo from "./pages/Pregnancy-Fertility/ArticleNewsTwo";
+import PFArticlesLayout from "./pages/Pregnancy-Fertility/ArticleSection";
+import PFArticlesLayoutTwo from "./pages/Pregnancy-Fertility/ArticleSectionTwo";
+
+import PVArticleNews from "./pages/PeriodsAndVagina/ArticleNews";
+import PVArticleNewsTwo from "./pages/PeriodsAndVagina/ArticleNewsTwo";
+import PVArticlesLayout from "./pages/PeriodsAndVagina/ArticleSection";
+import PVArticlesLayoutTwo from "./pages/PeriodsAndVagina/ArticleSectionTwo";
+
+import HCArticleNews from "./pages/Health-Care/ArticleNews";
+import HCArticleNewsTwo from "./pages/Health-Care/ArticleNewsTwo";
+import HCArticlesLayout from "./pages/Health-Care/ArticleSection";
+import HCArticlesLayoutTwo from "./pages/Health-Care/ArticleSectionTwo";
+
+// import ArticleNews from "./pages/SHW/ArticleNews";
+// import ArticleNewsTwo from "./pages/SHW/ArticleNewsTwo";
+// import STIArticlesLayout from "./pages/SHW/ArticleSection";
+// import ArticleSectionTwo from "./pages/SHW/ArticleSectionTwo";
+
+// import ArticleNews from "./pages/SHW/ArticleNews";
+// import ArticleNewsTwo from "./pages/SHW/ArticleNewsTwo";
+// import STIArticlesLayout from "./pages/SHW/ArticleSection";
+// import ArticleSectionTwo from "./pages/SHW/ArticleSectionTwo";
+
 import Home from "./Home";
 import DynamicTabsComponent from "./Components2/TabSection/Tabs";
 
-
-
-import ShwHome from "./pages/SHW/ShwHome"
+import ShwHome from "./pages/SHW/ShwHome";
 
 import UID from "./pages/IUD/IUD";
 import BCD from "./pages/Birth-Control-Shot/BCD";
@@ -2569,9 +2594,9 @@ import Condom from "./pages/Condom/Condom";
 import CC from "./pages/CervicalCap/CC";
 import SAG from "./pages/Spermicide&Gell/SAG";
 import EC from "./pages/Emergency-contraception/EC";
-import PregnancyAndFertility from "./pages/Pregnancy-Fertility/PregnancyAndFertility"
-import HealthCare from "./pages/Health-Care/HealthCare"
-import PeriodsAndVagina from "./pages/PeriodsAndVagina/PeriodsAndVagina"
+import PregnancyAndFertility from "./pages/Pregnancy-Fertility/PregnancyAndFertility";
+import HealthCare from "./pages/Health-Care/HealthCare";
+import PeriodsAndVagina from "./pages/PeriodsAndVagina/PeriodsAndVagina";
 const App = () => {
   return (
     <div className="flex flex-col min-h-screen">
@@ -2582,36 +2607,60 @@ const App = () => {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/shw" element={<ShwHome />} />
-          <Route path="/periods-and-vaginal-health" element={<PeriodsAndVagina />} />
-          <Route path="/pregnancy-and-fertility" element={<PregnancyAndFertility />} />
+          <Route
+            path="/periods-and-vaginal-health"
+            element={<PeriodsAndVagina />}
+          />
+          <Route
+            path="/pregnancy-and-fertility"
+            element={<PregnancyAndFertility />}
+          />
           <Route path="/health-care" element={<HealthCare />} />
+
+          {/* routes for dynamic dataloading for eachPages of Sexual health and wellnessLink of Navbar */}
           <Route path="/articles" element={<STIArticlesLayout />} />
           <Route path="/articles/:slug" element={<ArticleNews />} />
           <Route path="/articles-two" element={<ArticleSectionTwo />} />
           <Route path="/articles-two/:slug" element={<ArticleNewsTwo />} />
+
+          <Route path="/PFarticles" element={<PFArticlesLayout />} />
+          <Route path="/PFarticles/:slug" element={<PFArticleNews />} />
+          <Route path="/PFarticles-two" element={<PFArticlesLayoutTwo />} />
+          <Route path="/PFarticles-two/:slug" element={<PFArticleNewsTwo />} />
+
+          <Route path="/PVarticles" element={<PVArticlesLayout />} />
+          <Route path="/PVarticles/:slug" element={<PVArticleNews />} />
+          <Route path="/PVarticles-two" element={<PVArticlesLayoutTwo />} />
+          <Route path="/PVarticles-two/:slug" element={<PVArticleNewsTwo />} />
+
+          <Route path="/HCarticles" element={<HCArticlesLayout />} />
+          <Route path="/HCarticles/:slug" element={<HCArticleNews />} />
+          <Route path="/HCarticles-two" element={<HCArticlesLayoutTwo />} />
+          <Route path="/HCarticles-two/:slug" element={<HCArticleNewsTwo />} />
+
           {/* Redirect any unknown URL back to home */}
           <Route path="*" element={<Navigate to="/" replace />} />
 
           {/* Redirect any unknown URL back to home */}
-          
+
           {/* types  routes  in submenu bar  under birth control   navigation*/}
-         
+
           <Route path="types/iud" element={<UID />} />
           <Route path="types/birth-control-shot" element={<BCD />} />
           <Route path="types/implant" element={<Implant />} />
           <Route path="types/patch" element={<Patch />} />
           <Route path="types/diaphragm" element={<Diaphragm />} />
-          <Route path="types/Internal-condom" element={< InternalCondom/>} />
-          <Route path="types/fertility-awareness" element={< FAM/>} />
-          <Route path="types/withdrawal" element={< Withdrawal/>} />
-          <Route path="types/not-right-now" element={< NRN/>} />
-          <Route path="types/birth-control-ring" element={< BCR/>} />
-          <Route path="types/birth-control-pill" element={< BCP/>} />
-          <Route path="types/condom" element={< Condom/>} />
-          <Route path="types/cervical-cap" element={< CC/>} />
-          <Route path="types/spermicide-gell" element={< SAG/>} />
-          <Route path="types/sterilization" element={< SAG/>} />
-          <Route path="types/emergency-contraception" element={< EC/>} />
+          <Route path="types/Internal-condom" element={<InternalCondom />} />
+          <Route path="types/fertility-awareness" element={<FAM />} />
+          <Route path="types/withdrawal" element={<Withdrawal />} />
+          <Route path="types/not-right-now" element={<NRN />} />
+          <Route path="types/birth-control-ring" element={<BCR />} />
+          <Route path="types/birth-control-pill" element={<BCP />} />
+          <Route path="types/condom" element={<Condom />} />
+          <Route path="types/cervical-cap" element={<CC />} />
+          <Route path="types/spermicide-gell" element={<SAG />} />
+          <Route path="types/sterilization" element={<SAG />} />
+          <Route path="types/emergency-contraception" element={<EC />} />
         </Routes>
       </div>
 

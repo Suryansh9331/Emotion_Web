@@ -163,7 +163,7 @@ const STILayout = () => {
       </div>
 
       {/* Hero Section with Question Marks Background */}
-               <div className="relative rounded-lg overflow-hidden min-h-[400px] md:min-h-[500px] flex flex-col justify-center items-center p-8">
+               <div className="relative rounded-lg overflow-hidden min-h-[400px] md:min-h-[600px] flex flex-col justify-center items-center p-8">
            {/* Background image with brightness filter */}
            <img
              src="/SHW/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg"
@@ -172,10 +172,10 @@ const STILayout = () => {
            />
 
            {/* Optional extra overlay for stronger darkening */}
-           <div className="absolute inset-0 bg-gradient-to-b from-black to-transparent opacity-30" />
+           <div className="absolute inset-0 bg-gradient-to-b  to-transparent opacity-30" />
 
            {/* Content */}
-           <div className="relative z-10 text-center text-white max-w-4xl mx-auto md:ml-32 md:mt-48">
+           <div className="relative z-10 text-left text-white max-w-4xl mx-auto md:ml-22 md:mt-48">
              <p className="text-sm md:text-base font-semibold tracking-wider uppercase mb-6 opacity-90">
                FAQS - SEXUALLY TRANSMITTED INFECTIONS (STDS, STIS)
              </p>

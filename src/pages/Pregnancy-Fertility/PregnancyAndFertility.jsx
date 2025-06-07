@@ -1,14 +1,14 @@
 import SubscriptionForm from "../../components/FriskyComponent";
-import ArticlesSection from "./ArticleSection";
-import STIArticlesLayoutTwo from "./ArticleSectionTwo";
+import PFArticlesLayout from "./ArticleSection";
+import PFArticlesLayoutTwo from "./ArticleSectionTwo";
 import FourthComponent from "./fourthComponent";
 
 const PregnancyAndFertility = () => {
   return (
     <div>
       <FourthComponent />
-      <ArticlesSection />
-      <div className="relative rounded-lg overflow-hidden min-h-[400px] md:min-h-[500px] flex flex-col justify-center items-center p-8">
+      <PFArticlesLayout />
+      <div className="relative rounded-lg overflow-hidden min-h-[400px] md:min-h-[600px] flex flex-col justify-center items-center p-8">
         {/* Background image with brightness filter */}
         <img
           src="/SHW/provider_perspectives_header-44b4f94e01ec610c3de2b52585ef601d43bb8196a7253ae8e24896c8838e3.jpg"
@@ -17,10 +17,10 @@ const PregnancyAndFertility = () => {
         />
 
         {/* Optional extra overlay for stronger darkening */}
-        <div className="absolute inset-0 bg-gradient-to-b from-black to-transparent opacity-30" />
+        <div className="absolute inset-0 bg-gradient-to-b from- to-transparent opacity-20" />
 
         {/* Content */}
-        <div className="relative z-10 text-center text-white max-w-4xl mx-auto md:ml-32 md:mt-48">
+        <div className="relative z-10 text-left text-white max-w-full mx-auto md:ml-32 md:mt-48">
           <p className="text-sm md:text-base font-semibold tracking-wider uppercase mb-6 opacity-90">
             Pregnancy & fertility{" "}
           </p>
@@ -29,7 +29,7 @@ const PregnancyAndFertility = () => {
           </h2>
         </div>
       </div>
-      <STIArticlesLayoutTwo />
+      <PFArticlesLayoutTwo />
       <div className="grid lg:grid-cols-2 gap-12 items-center lg:ml-6 md:ml-12">
         {/* Images Grid */}
         <img

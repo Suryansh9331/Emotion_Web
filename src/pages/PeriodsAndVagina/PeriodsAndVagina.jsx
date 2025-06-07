@@ -1,26 +1,26 @@
 import SubscriptionForm from "../../components/FriskyComponent";
-import ArticlesSection from "./ArticleSection";
-import STIArticlesLayoutTwo from "./ArticleSectionTwo";
+import PVArticlesLayout from "./ArticleSection";
+import PVArticleLayoutTwo from "./ArticleSectionTwo";
 import FourthComponent from "./fourthComponent";
 
 const PeriodsAndVagina = () => {
   return (
     <div>
       <FourthComponent />
-      <ArticlesSection />
-      <div className="relative rounded-lg overflow-hidden min-h-[400px] md:min-h-[500px] flex flex-col justify-center items-center p-8">
+      <PVArticlesLayout />
+      <div className="relative rounded-lg overflow-hidden min-h-[400px] md:min-h-[600px] flex flex-col justify-center items-center p-8">
         {/* Background image with brightness filter */}
         <img
-          src="/SHW/provider_perspectives_header-44b4f94e01ec610c3de2b52585ef601d43bb8196a7253ae8e24896c8838e3.jpg"
+          src="https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1kvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2e2ec34af76ee9ac485c280864670dc8b542265c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/MicrosoftTeams-image%20(1).png"
           alt=""
           className="absolute inset-0 w-full h-full object-cover filter brightness-50"
         />
 
         {/* Optional extra overlay for stronger darkening */}
-        <div className="absolute inset-0 bg-gradient-to-b from-black to-transparent opacity-30" />
+        <div className="absolute inset-0 bg-gradient-to-b  to-transparent opacity-30" />
 
         {/* Content */}
-        <div className="relative z-10 text-center text-white max-w-4xl mx-auto md:ml-32 md:mt-48">
+        <div className="relative z-10 text-left text-white max-w-full mx-auto md:ml-22 md:mt-48">
           <p className="text-sm md:text-base font-semibold tracking-wider uppercase mb-6 opacity-90">
              Periods & vaginal health{" "}
           </p>
@@ -30,7 +30,7 @@ const PeriodsAndVagina = () => {
           </h2>
         </div>
       </div>
-      <STIArticlesLayoutTwo />
+      <PVArticleLayoutTwo />
       <div className="grid lg:grid-cols-2 gap-12 items-center lg:ml-6 md:ml-12">
         {/* Images Grid */}
         <img

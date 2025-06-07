@@ -900,7 +900,7 @@
 
  
 import { Link } from 'react-router-dom';
-import { articles } from './data/articles';
+import { PVarticles } from './data/articles';
 
 const QuestionPattern = () => (
   <div className="w-full h-full bg-gradient-to-br from-teal-300 to-teal-400 flex flex-wrap items-center justify-center p-6">
@@ -937,15 +937,15 @@ const ArticleCard = ({ category, title, subtitle, image, hasQuestionPattern }) =
     </div>
   </div>
 );
-const STIArticlesLayout = () => {
+const PVArticlesLayout = () => {
   return (
     <div className="min-h-screen bg-gray-50 py-8">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="space-y-0">
-          {articles.map(article => (
+          {PVarticles.map(article => (
             <Link
               key={article.slug}
-              to={`/articles/${article.slug}`}
+              to={`/PVarticles/${article.slug}`}
             >
               <ArticleCard {...article} />
             </Link>
@@ -955,4 +955,4 @@ const STIArticlesLayout = () => {
     </div>
   );
 };
-export default STIArticlesLayout;
+export default PVArticlesLayout;

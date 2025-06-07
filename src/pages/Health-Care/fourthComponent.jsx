@@ -158,20 +158,20 @@ const STILayout = () => {
       </div>
 
       {/* Hero Section with Question Marks Background */}
-      <div className="relative rounded-lg overflow-hidden min-h-[400px] md:min-h-[500px] flex flex-col justify-center items-center p-8">
+      <div className="relative rounded-lg overflow-hidden min-h-[400px] md:min-h-[600px] flex flex-col justify-center items-center p-8">
         {/* Background image with brightness filter */}
         <img
-          src="/SHW/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg"
+          src="https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1ZzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3c2d0bc03edebb107f0c81709d2e858e0e923e29/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1489462526.jpg"
           alt=""
           className="absolute inset-0 w-full h-full object-cover filter brightness-50"
         />
 
         {/* Optional extra overlay for stronger darkening */}
-        <div className="absolute inset-0 bg-gradient-to-b from-black to-transparent opacity-30" />
+        <div className="absolute inset-0 bg-gradient-to-b from-black to-transparent opacity-0" />
 
         {/* Content */}
-        <div className="relative z-10 text-center text-white max-w-4xl mx-auto md:ml-32 md:mt-48">
-          <p className="text-sm md:text-base font-semibold tracking-wider uppercase mb-6 opacity-90">
+        <div className="relative z-10 text-left text-white max-w-full mx-auto md:ml-32 md:mt-48">
+          <p className="text-sm md:text-base font-bold tracking-wider uppercase mb-6 opacity-90">
             Health care
           </p>
           <h2 className="text-2xl md:text-4xl lg:text-5xl font-bold leading-tight">

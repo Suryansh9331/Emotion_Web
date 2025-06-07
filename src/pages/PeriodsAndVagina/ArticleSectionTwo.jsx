@@ -152,7 +152,7 @@
 
 // src/components/ArticleSectionTwo.jsx
 import { Link } from 'react-router-dom';
-import { articlesTwo } from './data/articles';
+import { PVarticlesTwo } from './data/articles';
 
 const QuestionPattern = () => (
   <div className="w-full h-full bg-gradient-to-br from-teal-300 to-teal-400 flex flex-wrap items-center justify-center p-6">
@@ -197,14 +197,14 @@ const ArticleCard = ({ category, title, subtitle, image, hasQuestionPattern }) =
   </div>
 );
 
-const ArticleSectionTwo = () => (
+const PVArticlesLayoutTwo = () => (
   <div className="min-h-screen bg-gray-50 py-8">
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
       <div className="space-y-0">
-        {articlesTwo.map(article => (
+        {PVarticlesTwo.map(article => (
           <Link
             key={article.slug}
-            to={`/articles-two/${article.slug}`}
+            to={`/PVarticles-two/${article.slug}`}
           >
             <ArticleCard {...article} />
           </Link>
@@ -214,4 +214,4 @@ const ArticleSectionTwo = () => (
   </div>
 );
 
-export default ArticleSectionTwo;
+export default PVArticlesLayoutTwo;
