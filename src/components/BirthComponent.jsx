@@ -31,10 +31,11 @@ const BirthControlLayout = () => {
             </div>
           </div> */}
           <img src='/reproductive-health-supplies-coalition-bymICwLq-E4-unsplash.jpg' alt='img1' className='w-44 h-44'/>
-          <div className="flex-1">
+        <div className="flex-1">
             <p className="text-gray-400 text-xs uppercase tracking-wide mb-1">BIRTH CONTROL PILL</p>
             <h3 className="text-gray-800 font-medium text-sm md:text-base leading-tight">
-              20 ways OTC birth control pills change the game
+              {/* 20 ways OTC birth control pills change the game */}
+              20 ways over-the-counter pills are changing access and control
             </h3>
           </div>
         </div>
@@ -55,7 +56,8 @@ const BirthControlLayout = () => {
           <div className="flex-1">
             <p className="text-gray-400 text-xs uppercase tracking-wide mb-1">IUD</p>
             <h3 className="text-gray-800 font-medium text-sm md:text-base leading-tight">
-              Lorde is answering our birth control prayers
+              {/* Lorde is answering our birth control prayers*/}
+              How public voices are shaping awareness about IUD benefits.
             </h3>
           </div>
         </div>
@@ -66,7 +68,7 @@ const BirthControlLayout = () => {
           <div className="flex-1">
             <p className="text-gray-400 text-xs uppercase tracking-wide mb-1">BIRTH CONTROL</p>
             <h3 className="text-gray-800 font-medium text-sm md:text-base leading-tight">
-              We're saying "Thanks, Birth Control!" louder than ever this year
+             Why this year calls for more gratitude toward birth control options.
             </h3>
           </div>
         </div>
@@ -77,7 +79,8 @@ const BirthControlLayout = () => {
           <div className="flex-1">
             <p className="text-gray-400 text-xs uppercase tracking-wide mb-1">BIRTH CONTROL PILL</p>
             <h3 className="text-gray-800 font-medium text-sm md:text-base leading-tight">
-              Everything you need to know about Opill, the new over-the-counter birth control pill
+              {/* Everything you need to know about Opill, the new over-the-counter birth control pill */}
+              A complete guide to Opill, the latest non-prescription birth control pill available.
             </h3>
           </div>
         </div>

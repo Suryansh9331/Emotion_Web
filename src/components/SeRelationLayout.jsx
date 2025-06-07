@@ -20,7 +20,8 @@ const SexRelationshipsLayout = () => {
             <div className="flex-1">
               <p className="text-gray-500 text-sm uppercase tracking-wide mb-2">MASTURBATION</p>
               <h3 className="text-lg md:text-xl font-semibold text-gray-800 leading-tight">
-                5 surprising benefits of masturbation you need to know
+                {/* 5 surprising benefits of masturbation you need to know */}
+                Discover 5 lesser-known health benefits of regular masturbation
               </h3>
             </div>
           </div>
@@ -31,18 +32,18 @@ const SexRelationshipsLayout = () => {
             <div className="flex-1">
               <p className="text-gray-500 text-sm uppercase tracking-wide mb-2">DATING & HOOKUPS</p>
               <h3 className="text-lg md:text-xl font-semibold text-gray-800 leading-tight">
-                6 date ideas for new relationships
+              6 creative date ideas perfect for starting new relationships.
               </h3>
             </div>
           </div>
-
           {/* Second Row - Left */}
           <div className="bg-white rounded-lg shadow-sm p-6 flex flex-col sm:flex-row gap-4">
             <img src='/couple in bed photo.jpg' alt='' className='h-56 w-56'/>
             <div className="flex-1">
               <p className="text-gray-500 text-sm uppercase tracking-wide mb-2">BOUNDARIES & CONSENT</p>
               <h3 className="text-lg md:text-xl font-semibold text-gray-800 leading-tight">
-                How setting boundaries can make sex even better
+                {/* How setting boundaries can make sex even better */}
+                How healthy boundaries can improve communication and sexual comfort.
               </h3>
             </div>
           </div>
@@ -53,7 +54,7 @@ const SexRelationshipsLayout = () => {
             <div className="flex-1">
               <p className="text-gray-500 text-sm uppercase tracking-wide mb-2">RELATIONSHIPS</p>
               <h3 className="text-lg md:text-xl font-semibold text-gray-800 leading-tight">
-                What to do when you've been Friend Zoned
+               How to respond when you're stuck in the friend zone.
               </h3>
             </div>
           </div>

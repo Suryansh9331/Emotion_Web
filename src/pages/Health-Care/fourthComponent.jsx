@@ -174,8 +174,8 @@ const STILayout = () => {
           <p className="text-sm md:text-base font-bold tracking-wider uppercase mb-6 opacity-90">
             Health care
           </p>
-          <h2 className="text-2xl md:text-4xl lg:text-5xl font-bold leading-tight">
-            6 ways to advocate for yourself when seeking health care{" "}
+          <h2 className="text-2xl md:text-4xl lg:text-5xl font-bold leading-tight"> 
+6 practical ways to speak up for your needs in medical settings{" "}
           </h2>
         </div>
       </div>

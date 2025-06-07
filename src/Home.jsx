@@ -5,6 +5,7 @@ import HealthWellnessLayout from "./components/HealthWellnessLayout"
 import BedsiderWebsite from "./components/Home"
 import SexRelationshipsLayout from "./components/SeRelationLayout"
 
+
 const Home = () => {
   return (
     <div>
@@ -14,7 +15,6 @@ const Home = () => {
       <SexRelationshipsLayout/>
       <SubscriptionForm/>
       <HealthWellnessLayout/>
-
     </div>
   )
 }

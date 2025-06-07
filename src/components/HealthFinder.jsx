@@ -26,7 +26,9 @@ const HealthcareFinder = () => {
           </h2>
           
           <p className="text-gray-600 mb-6 flex-grow text-sm leading-relaxed">
-            Whether you need a new birth control prescription, STI testing, a Pap smear, or any other reproductive health service, our clinic finder will help you locate a health care provider near you.
+            Need birth control, STI testing, a Pap test, or other reproductive care? Our locator helps you find 
+clinics near you fast.
+            {/* Whether you need a new birth control prescription, STI testing, a Pap smear, or any other reproductive health service, our clinic finder will help you locate a health care provider near you. */}
           </p>
           
           <button className="bg-teal-600 hover:bg-teal-700 text-white font-medium py-3 px-6 rounded-md transition-colors duration-200 w-full sm:w-auto">
@@ -45,7 +47,9 @@ const HealthcareFinder = () => {
           </h2>
           
           <p className="text-gray-600 mb-6 flex-grow text-sm leading-relaxed">
-            Depending on where you live, you may not even have to leave your house to get birth control.
+            In many locations, you can get birth control without leaving home — safe, simple, and delivered to 
+your door.
+            {/* Depending on where you live, you may not even have to leave your house to get birth control. */}
           </p>
           
           <button className="bg-teal-600 hover:bg-teal-700 text-white font-medium py-3 px-6 rounded-md transition-colors duration-200 w-full sm:w-auto">
@@ -64,7 +68,8 @@ const HealthcareFinder = () => {
           </h2>
           
           <p className="text-gray-600 mb-6 flex-grow text-sm leading-relaxed">
-            Abortion is a common and safe medical procedure that lets you end a pregnancy. Our national directory will help you find your nearest abortion providers.
+             Abortion is a legal, safe procedure to end pregnancy. Use our directory to find trusted providers in 
+your area.
           </p>
           
           <button className="bg-teal-600 hover:bg-teal-700 text-white font-medium py-3 px-6 rounded-md transition-colors duration-200 w-full sm:w-auto inline-flex items-center justify-center gap-2">
