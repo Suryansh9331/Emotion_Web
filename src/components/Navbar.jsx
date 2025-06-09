@@ -6,12 +6,12 @@
 // // // // // // //   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 // // // // // // //   const [expandedItem, setExpandedItem] = useState(null);
 // // // // // // //   const [isSearchExpanded, setIsSearchExpanded] = useState(false);
-  
+
 // // // // // // //   useEffect(() => {
 // // // // // // //     const handleScroll = () => {
 // // // // // // //       setIsScrolled(window.scrollY > 50);
 // // // // // // //     };
-    
+
 // // // // // // //     window.addEventListener('scroll', handleScroll);
 // // // // // // //     return () => window.removeEventListener('scroll', handleScroll);
 // // // // // // //   }, []);
@@ -59,14 +59,14 @@
 // // // // // // //             <ExternalLink className="ml-1 h-3 w-3" />
 // // // // // // //           </a>
 // // // // // // //         </div>
-        
+
 // // // // // // //         <div className="flex items-center space-x-4">
 // // // // // // //           <div className="text-sm">
 // // // // // // //             <a href="#" className="text-[#333] hover:underline">Sign Up</a>
 // // // // // // //             <span className="mx-1">|</span>
 // // // // // // //             <a href="#" className="text-[#333] hover:underline">Log In</a>
 // // // // // // //           </div>
-          
+
 // // // // // // //           <button className="bg-[#0c9a8d] text-white px-3 py-1 rounded text-sm hover:bg-[#0a8a7d] transition-colors">
 // // // // // // //             español
 // // // // // // //           </button>
@@ -90,9 +90,9 @@
 
 // // // // // // //   const NavItem = ({ title, children }) => {
 // // // // // // //     const [isHovered, setIsHovered] = useState(false);
-    
+
 // // // // // // //     return (
-// // // // // // //       <div 
+// // // // // // //       <div
 // // // // // // //         className="relative"
 // // // // // // //         onMouseEnter={() => setIsHovered(true)}
 // // // // // // //         onMouseLeave={() => setIsHovered(false)}
@@ -101,10 +101,10 @@
 // // // // // // //           {title}
 // // // // // // //           <ChevronDown className="ml-1 h-4 w-4" />
 // // // // // // //         </button>
-        
+
 // // // // // // //         <div className={`absolute left-0 mt-0 w-64 bg-white shadow-lg rounded-b-lg overflow-hidden transition-all duration-300 origin-top z-50 ${
-// // // // // // //           isHovered 
-// // // // // // //             ? 'opacity-100 max-h-96 transform scale-y-100' 
+// // // // // // //           isHovered
+// // // // // // //             ? 'opacity-100 max-h-96 transform scale-y-100'
 // // // // // // //             : 'opacity-0 max-h-0 transform scale-y-0 pointer-events-none'
 // // // // // // //         }`}>
 // // // // // // //           <div className="py-2">
@@ -116,8 +116,8 @@
 // // // // // // //   };
 
 // // // // // // //   const DropdownItem = ({ title }) => (
-// // // // // // //     <a 
-// // // // // // //       href="#" 
+// // // // // // //     <a
+// // // // // // //       href="#"
 // // // // // // //       className="block px-4 py-2 text-[#333] hover:bg-[#f5f5f5] hover:text-[#0c9a8d] transition-colors"
 // // // // // // //     >
 // // // // // // //       {title}
@@ -135,8 +135,8 @@
 // // // // // // //           onBlur={() => setIsSearchExpanded(false)}
 // // // // // // //         />
 // // // // // // //       )}
-      
-// // // // // // //       <button 
+
+// // // // // // //       <button
 // // // // // // //         className="ml-2 p-1 text-[#333] hover:text-[#0c9a8d] transition-colors"
 // // // // // // //         onClick={() => setIsSearchExpanded(!isSearchExpanded)}
 // // // // // // //       >
@@ -148,40 +148,40 @@
 
 // // // // // // //   const MobileMenu = () => (
 // // // // // // //     <div className="md:hidden">
-// // // // // // //       <button 
-// // // // // // //         className="p-2 text-[#333]" 
+// // // // // // //       <button
+// // // // // // //         className="p-2 text-[#333]"
 // // // // // // //         onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
 // // // // // // //       >
 // // // // // // //         {isMobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
 // // // // // // //       </button>
-      
+
 // // // // // // //       {isMobileMenuOpen && (
 // // // // // // //         <div className="fixed inset-0 bg-white z-50 overflow-y-auto pt-16">
 // // // // // // //           <div className="container mx-auto px-4">
-// // // // // // //             <button 
-// // // // // // //               className="absolute top-4 right-4 p-2 text-[#333]" 
+// // // // // // //             <button
+// // // // // // //               className="absolute top-4 right-4 p-2 text-[#333]"
 // // // // // // //               onClick={() => setIsMobileMenuOpen(false)}
 // // // // // // //             >
 // // // // // // //               <X size={24} />
 // // // // // // //             </button>
-            
+
 // // // // // // //             <div className="mt-4 border-t">
 // // // // // // //               {navItems.map(item => (
 // // // // // // //                 <div key={item.id} className="border-b">
-// // // // // // //                   <button 
+// // // // // // //                   <button
 // // // // // // //                     className="w-full py-4 px-2 flex justify-between items-center text-left"
 // // // // // // //                     onClick={() => setExpandedItem(expandedItem === item.id ? null : item.id)}
 // // // // // // //                   >
 // // // // // // //                     <span className="font-medium">{item.title}</span>
 // // // // // // //                     {expandedItem === item.id ? <ChevronDown size={20} /> : <ChevronRight size={20} />}
 // // // // // // //                   </button>
-                  
+
 // // // // // // //                   {expandedItem === item.id && (
 // // // // // // //                     <div className="pb-4 pl-4">
 // // // // // // //                       {item.dropdownItems.map((dropdownItem, idx) => (
-// // // // // // //                         <a 
-// // // // // // //                           key={idx} 
-// // // // // // //                           href="#" 
+// // // // // // //                         <a
+// // // // // // //                           key={idx}
+// // // // // // //                           href="#"
 // // // // // // //                           className="block py-2 text-[#333] hover:text-[#0c9a8d]"
 // // // // // // //                         >
 // // // // // // //                           {dropdownItem}
@@ -192,7 +192,7 @@
 // // // // // // //                 </div>
 // // // // // // //               ))}
 // // // // // // //             </div>
-            
+
 // // // // // // //             <div className="mt-6 space-y-4">
 // // // // // // //               <div className="flex justify-center">
 // // // // // // //                 <input
@@ -201,13 +201,13 @@
 // // // // // // //                   placeholder="Search..."
 // // // // // // //                 />
 // // // // // // //               </div>
-              
+
 // // // // // // //               <div className="flex justify-center space-x-4">
 // // // // // // //                 <a href="#" className="font-medium text-[#333] hover:text-[#0c9a8d]">Sign Up</a>
 // // // // // // //                 <span>|</span>
 // // // // // // //                 <a href="#" className="font-medium text-[#333] hover:text-[#0c9a8d]">Log In</a>
 // // // // // // //               </div>
-              
+
 // // // // // // //               <div className="flex justify-center">
 // // // // // // //                 <button className="bg-[#0c9a8d] text-white px-4 py-2 rounded hover:bg-[#0a8a7d] transition-colors w-full">
 // // // // // // //                   español
@@ -233,7 +233,7 @@
 // // // // // // //               </NavItem>
 // // // // // // //             ))}
 // // // // // // //           </div>
-          
+
 // // // // // // //           <div className="flex items-center space-x-2">
 // // // // // // //             <NavItem title={navItems[5].title}>
 // // // // // // //               {navItems[5].dropdownItems.map((dropdownItem, idx) => (
@@ -270,8 +270,6 @@
 
 // // // // // // // export default Navbar;
 
-
-
 // // // // // // import React, { useState, useEffect } from 'react';
 // // // // // // import { Search, Menu, X, ChevronDown, ChevronRight, ExternalLink } from 'lucide-react';
 
@@ -280,12 +278,12 @@
 // // // // // //   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 // // // // // //   const [expandedItem, setExpandedItem] = useState(null);
 // // // // // //   const [isSearchExpanded, setIsSearchExpanded] = useState(false);
-  
+
 // // // // // //   useEffect(() => {
 // // // // // //     const handleScroll = () => {
 // // // // // //       setIsScrolled(window.scrollY > 50);
 // // // // // //     };
-    
+
 // // // // // //     window.addEventListener('scroll', handleScroll);
 // // // // // //     return () => window.removeEventListener('scroll', handleScroll);
 // // // // // //   }, []);
@@ -334,14 +332,14 @@
 // // // // // //               <ExternalLink className="ml-1 h-3 w-3" />
 // // // // // //             </a>
 // // // // // //           </div>
-          
+
 // // // // // //           <div className="flex items-center space-x-6">
 // // // // // //             <div className="text-sm">
 // // // // // //               <a href="#" className="text-[#333] hover:underline">Sign Up</a>
 // // // // // //               <span className="mx-2">|</span>
 // // // // // //               <a href="#" className="text-[#333] hover:underline">Log In</a>
 // // // // // //             </div>
-            
+
 // // // // // //             <button className="bg-[#0c9a8d] text-white px-4 py-1.5 rounded text-sm hover:bg-[#0a8a7d] transition-colors">
 // // // // // //               español
 // // // // // //             </button>
@@ -366,9 +364,9 @@
 
 // // // // // //   const NavItem = ({ title, children }) => {
 // // // // // //     const [isHovered, setIsHovered] = useState(false);
-    
+
 // // // // // //     return (
-// // // // // //       <div 
+// // // // // //       <div
 // // // // // //         className="relative"
 // // // // // //         onMouseEnter={() => setIsHovered(true)}
 // // // // // //         onMouseLeave={() => setIsHovered(false)}
@@ -377,10 +375,10 @@
 // // // // // //           {title}
 // // // // // //           <ChevronDown className="ml-1.5 h-4 w-4" />
 // // // // // //         </button>
-        
+
 // // // // // //         <div className={`absolute left-0 mt-0 w-64 bg-white shadow-lg rounded-b-lg overflow-hidden transition-all duration-300 origin-top z-50 ${
-// // // // // //           isHovered 
-// // // // // //             ? 'opacity-100 max-h-96 transform scale-y-100' 
+// // // // // //           isHovered
+// // // // // //             ? 'opacity-100 max-h-96 transform scale-y-100'
 // // // // // //             : 'opacity-0 max-h-0 transform scale-y-0 pointer-events-none'
 // // // // // //         }`}>
 // // // // // //           <div className="py-2">
@@ -392,8 +390,8 @@
 // // // // // //   };
 
 // // // // // //   const DropdownItem = ({ title }) => (
-// // // // // //     <a 
-// // // // // //       href="#" 
+// // // // // //     <a
+// // // // // //       href="#"
 // // // // // //       className="block px-6 py-2.5 text-[#333] hover:bg-[#f5f5f5] hover:text-[#0c9a8d] transition-colors text-base"
 // // // // // //     >
 // // // // // //       {title}
@@ -411,8 +409,8 @@
 // // // // // //           onBlur={() => setIsSearchExpanded(false)}
 // // // // // //         />
 // // // // // //       )}
-      
-// // // // // //       <button 
+
+// // // // // //       <button
 // // // // // //         className="ml-2 p-2 text-[#333] hover:text-[#0c9a8d] transition-colors flex items-center"
 // // // // // //         onClick={() => setIsSearchExpanded(!isSearchExpanded)}
 // // // // // //       >
@@ -424,40 +422,40 @@
 
 // // // // // //   const MobileMenu = () => (
 // // // // // //     <div className="md:hidden">
-// // // // // //       <button 
-// // // // // //         className="p-4 text-[#333]" 
+// // // // // //       <button
+// // // // // //         className="p-4 text-[#333]"
 // // // // // //         onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
 // // // // // //       >
 // // // // // //         {isMobileMenuOpen ? <X size={28} /> : <Menu size={28} />}
 // // // // // //       </button>
-      
+
 // // // // // //       {isMobileMenuOpen && (
 // // // // // //         <div className="fixed inset-0 bg-white z-50 overflow-y-auto pt-16">
 // // // // // //           <div className="container mx-auto px-6">
-// // // // // //             <button 
-// // // // // //               className="absolute top-4 right-4 p-4 text-[#333]" 
+// // // // // //             <button
+// // // // // //               className="absolute top-4 right-4 p-4 text-[#333]"
 // // // // // //               onClick={() => setIsMobileMenuOpen(false)}
 // // // // // //             >
 // // // // // //               <X size={28} />
 // // // // // //             </button>
-            
+
 // // // // // //             <div className="mt-6 border-t">
 // // // // // //               {navItems.map(item => (
 // // // // // //                 <div key={item.id} className="border-b">
-// // // // // //                   <button 
+// // // // // //                   <button
 // // // // // //                     className="w-full py-5 px-4 flex justify-between items-center text-left"
 // // // // // //                     onClick={() => setExpandedItem(expandedItem === item.id ? null : item.id)}
 // // // // // //                   >
 // // // // // //                     <span className="font-medium text-lg">{item.title}</span>
 // // // // // //                     {expandedItem === item.id ? <ChevronDown size={24} /> : <ChevronRight size={24} />}
 // // // // // //                   </button>
-                  
+
 // // // // // //                   {expandedItem === item.id && (
 // // // // // //                     <div className="pb-4 pl-8">
 // // // // // //                       {item.dropdownItems.map((dropdownItem, idx) => (
-// // // // // //                         <a 
-// // // // // //                           key={idx} 
-// // // // // //                           href="#" 
+// // // // // //                         <a
+// // // // // //                           key={idx}
+// // // // // //                           href="#"
 // // // // // //                           className="block py-3 text-[#333] hover:text-[#0c9a8d] text-base"
 // // // // // //                         >
 // // // // // //                           {dropdownItem}
@@ -468,7 +466,7 @@
 // // // // // //                 </div>
 // // // // // //               ))}
 // // // // // //             </div>
-            
+
 // // // // // //             <div className="mt-8 space-y-6">
 // // // // // //               <div className="flex justify-center">
 // // // // // //                 <input
@@ -477,13 +475,13 @@
 // // // // // //                   placeholder="Search..."
 // // // // // //                 />
 // // // // // //               </div>
-              
+
 // // // // // //               <div className="flex justify-center space-x-6 text-base">
 // // // // // //                 <a href="#" className="font-medium text-[#333] hover:text-[#0c9a8d]">Sign Up</a>
 // // // // // //                 <span>|</span>
 // // // // // //                 <a href="#" className="font-medium text-[#333] hover:text-[#0c9a8d]">Log In</a>
 // // // // // //               </div>
-              
+
 // // // // // //               <div className="flex justify-center">
 // // // // // //                 <button className="bg-[#0c9a8d] text-white px-6 py-3 rounded hover:bg-[#0a8a7d] transition-colors w-full text-base">
 // // // // // //                   español
@@ -509,7 +507,7 @@
 // // // // // //               </NavItem>
 // // // // // //             ))}
 // // // // // //           </div>
-          
+
 // // // // // //           <div className="flex items-center">
 // // // // // //             <NavItem title={navItems[5].title}>
 // // // // // //               {navItems[5].dropdownItems.map((dropdownItem, idx) => (
@@ -548,8 +546,6 @@
 
 // // // // // // export default Navbar;
 
-
-
 // // // // // import React, { useState, useEffect } from 'react';
 // // // // // import { Search, Menu, X, ChevronDown, ChevronRight, ExternalLink } from 'lucide-react';
 
@@ -558,12 +554,12 @@
 // // // // //   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 // // // // //   const [expandedItem, setExpandedItem] = useState(null);
 // // // // //   const [isSearchExpanded, setIsSearchExpanded] = useState(false);
-  
+
 // // // // //   useEffect(() => {
 // // // // //     const handleScroll = () => {
 // // // // //       setIsScrolled(window.scrollY > 50);
 // // // // //     };
-    
+
 // // // // //     window.addEventListener('scroll', handleScroll);
 // // // // //     return () => window.removeEventListener('scroll', handleScroll);
 // // // // //   }, []);
@@ -612,14 +608,14 @@
 // // // // //               <ExternalLink className="ml-1 h-3 w-3" />
 // // // // //             </a>
 // // // // //           </div>
-          
+
 // // // // //           <div className="flex items-center space-x-6">
 // // // // //             <div className="text-sm">
 // // // // //               <a href="#" className="text-[#333] hover:underline">Sign Up</a>
 // // // // //               <span className="mx-2">|</span>
 // // // // //               <a href="#" className="text-[#333] hover:underline">Log In</a>
 // // // // //             </div>
-            
+
 // // // // //             <button className="bg-[#0c9a8d] text-white px-4 py-1.5 rounded text-sm hover:bg-[#0a8a7d] transition-colors">
 // // // // //               español
 // // // // //             </button>
@@ -644,9 +640,9 @@
 
 // // // // //   const NavItem = ({ title, children }) => {
 // // // // //     const [isHovered, setIsHovered] = useState(false);
-    
+
 // // // // //     return (
-// // // // //       <div 
+// // // // //       <div
 // // // // //         className="relative"
 // // // // //         onMouseEnter={() => setIsHovered(true)}
 // // // // //         onMouseLeave={() => setIsHovered(false)}
@@ -655,10 +651,10 @@
 // // // // //           {title}
 // // // // //           <ChevronDown className="ml-1.5 h-4 w-4" />
 // // // // //         </button>
-        
+
 // // // // //         <div className={`absolute left-0 mt-0 w-64 bg-white shadow-lg rounded-b-lg overflow-hidden transition-all duration-300 origin-top z-50 ${
-// // // // //           isHovered 
-// // // // //             ? 'opacity-100 max-h-96 transform scale-y-100' 
+// // // // //           isHovered
+// // // // //             ? 'opacity-100 max-h-96 transform scale-y-100'
 // // // // //             : 'opacity-0 max-h-0 transform scale-y-0 pointer-events-none'
 // // // // //         }`}>
 // // // // //           <div className="py-2">
@@ -670,8 +666,8 @@
 // // // // //   };
 
 // // // // //   const DropdownItem = ({ title }) => (
-// // // // //     <a 
-// // // // //       href="#" 
+// // // // //     <a
+// // // // //       href="#"
 // // // // //       className="block px-6 py-2.5 text-[#333] hover:bg-[#f5f5f5] hover:text-[#0c9a8d] transition-colors text-base"
 // // // // //     >
 // // // // //       {title}
@@ -689,8 +685,8 @@
 // // // // //           onBlur={() => setIsSearchExpanded(false)}
 // // // // //         />
 // // // // //       )}
-      
-// // // // //       <button 
+
+// // // // //       <button
 // // // // //         className="ml-2 p-2 text-[#333] hover:text-[#0c9a8d] transition-colors flex items-center"
 // // // // //         onClick={() => setIsSearchExpanded(!isSearchExpanded)}
 // // // // //       >
@@ -702,40 +698,40 @@
 
 // // // // //   const MobileMenu = () => (
 // // // // //     <div className="md:hidden">
-// // // // //       <button 
-// // // // //         className="p-4 text-[#333]" 
+// // // // //       <button
+// // // // //         className="p-4 text-[#333]"
 // // // // //         onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
 // // // // //       >
 // // // // //         {isMobileMenuOpen ? <X size={28} /> : <Menu size={28} />}
 // // // // //       </button>
-      
+
 // // // // //       {isMobileMenuOpen && (
 // // // // //         <div className="fixed inset-0 bg-white z-50 overflow-y-auto pt-16">
 // // // // //           <div className="container mx-auto px-6">
-// // // // //             <button 
-// // // // //               className="absolute top-4 right-4 p-4 text-[#333]" 
+// // // // //             <button
+// // // // //               className="absolute top-4 right-4 p-4 text-[#333]"
 // // // // //               onClick={() => setIsMobileMenuOpen(false)}
 // // // // //             >
 // // // // //               <X size={28} />
 // // // // //             </button>
-            
+
 // // // // //             <div className="mt-6 border-t">
 // // // // //               {navItems.map(item => (
 // // // // //                 <div key={item.id} className="border-b">
-// // // // //                   <button 
+// // // // //                   <button
 // // // // //                     className="w-full py-5 px-4 flex justify-between items-center text-left"
 // // // // //                     onClick={() => setExpandedItem(expandedItem === item.id ? null : item.id)}
 // // // // //                   >
 // // // // //                     <span className="font-medium text-lg">{item.title}</span>
 // // // // //                     {expandedItem === item.id ? <ChevronDown size={24} /> : <ChevronRight size={24} />}
 // // // // //                   </button>
-                  
+
 // // // // //                   {expandedItem === item.id && (
 // // // // //                     <div className="pb-4 pl-8">
 // // // // //                       {item.dropdownItems.map((dropdownItem, idx) => (
-// // // // //                         <a 
-// // // // //                           key={idx} 
-// // // // //                           href="#" 
+// // // // //                         <a
+// // // // //                           key={idx}
+// // // // //                           href="#"
 // // // // //                           className="block py-3 text-[#333] hover:text-[#0c9a8d] text-base"
 // // // // //                         >
 // // // // //                           {dropdownItem}
@@ -746,7 +742,7 @@
 // // // // //                 </div>
 // // // // //               ))}
 // // // // //             </div>
-            
+
 // // // // //             <div className="mt-8 space-y-6">
 // // // // //               <div className="flex justify-center">
 // // // // //                 <input
@@ -755,13 +751,13 @@
 // // // // //                   placeholder="Search..."
 // // // // //                 />
 // // // // //               </div>
-              
+
 // // // // //               <div className="flex justify-center space-x-6 text-base">
 // // // // //                 <a href="#" className="font-medium text-[#333] hover:text-[#0c9a8d]">Sign Up</a>
 // // // // //                 <span>|</span>
 // // // // //                 <a href="#" className="font-medium text-[#333] hover:text-[#0c9a8d]">Log In</a>
 // // // // //               </div>
-              
+
 // // // // //               <div className="flex justify-center">
 // // // // //                 <button className="bg-[#0c9a8d] text-white px-6 py-3 rounded hover:bg-[#0a8a7d] transition-colors w-full text-base">
 // // // // //                   español
@@ -787,7 +783,7 @@
 // // // // //               </NavItem>
 // // // // //             ))}
 // // // // //           </div>
-          
+
 // // // // //           <div className="flex items-center">
 // // // // //             <NavItem title={navItems[5].title}>
 // // // // //               {navItems[5].dropdownItems.map((dropdownItem, idx) => (
@@ -823,7 +819,6 @@
 // // // // // };
 
 // // // // // export default Navbar;
-
 
 // // // // import React, { useState } from 'react';
 // // // // import { Search, Menu, X, ChevronDown, ChevronRight, ExternalLink } from 'lucide-react';
@@ -904,14 +899,14 @@
 // // // //               <ExternalLink className="ml-1 h-3 w-3" />
 // // // //             </a>
 // // // //           </div>
-          
+
 // // // //           <div className="flex items-center space-x-6">
 // // // //             <div className="text-sm">
 // // // //               <a href="#" className="text-[#333] hover:underline">Sign Up</a>
 // // // //               <span className="mx-2">|</span>
 // // // //               <a href="#" className="text-[#333] hover:underline">Log In</a>
 // // // //             </div>
-            
+
 // // // //             <button className="bg-[#0c9a8d] text-white px-4 py-1.5 rounded text-sm hover:bg-[#0a8a7d] transition-colors">
 // // // //               español
 // // // //             </button>
@@ -936,9 +931,9 @@
 
 // // // //   const NavItem = ({ item }) => {
 // // // //     const [isHovered, setIsHovered] = useState(false);
-    
+
 // // // //     return (
-// // // //       <div 
+// // // //       <div
 // // // //         className="relative"
 // // // //         onMouseEnter={() => setIsHovered(true)}
 // // // //         onMouseLeave={() => setIsHovered(false)}
@@ -947,19 +942,19 @@
 // // // //           {item.title}
 // // // //           <ChevronDown className="ml-1.5 h-4 w-4" />
 // // // //         </button>
-        
+
 // // // //         <div className={`absolute left-0 mt-0 bg-white shadow-lg rounded-b-lg overflow-hidden transition-all duration-300 origin-top z-50 ${
-// // // //           isHovered 
-// // // //             ? 'opacity-100 transform scale-y-100' 
+// // // //           isHovered
+// // // //             ? 'opacity-100 transform scale-y-100'
 // // // //             : 'opacity-0 transform scale-y-0 pointer-events-none'
 // // // //         }`}>
 // // // //           {item.id === 1 ? (
 // // // //             <div className="flex min-w-[800px]">
 // // // //               <div className="w-1/3 bg-[#f8f8f8] py-4">
 // // // //                 {item.leftColumn.map((link, idx) => (
-// // // //                   <a 
+// // // //                   <a
 // // // //                     key={idx}
-// // // //                     href="#" 
+// // // //                     href="#"
 // // // //                     className={`block px-6 py-2.5 text-[#333] hover:bg-white hover:text-[#0c9a8d] transition-colors ${
 // // // //                       idx === item.leftColumn.length - 1 ? 'italic' : ''
 // // // //                     }`}
@@ -974,9 +969,9 @@
 // // // //                 </h3>
 // // // //                 <div className="grid grid-cols-2 gap-x-4">
 // // // //                   {item.rightColumn.items.map((method, idx) => (
-// // // //                     <a 
+// // // //                     <a
 // // // //                       key={idx}
-// // // //                       href="#" 
+// // // //                       href="#"
 // // // //                       className="px-6 py-2.5 text-[#333] hover:bg-[#f8f8f8] hover:text-[#0c9a8d] transition-colors"
 // // // //                     >
 // // // //                       {method}
@@ -988,9 +983,9 @@
 // // // //           ) : (
 // // // //             <div className="py-2 w-64">
 // // // //               {item.dropdownItems.map((item, idx) => (
-// // // //                 <a 
+// // // //                 <a
 // // // //                   key={idx}
-// // // //                   href="#" 
+// // // //                   href="#"
 // // // //                   className="block px-6 py-2.5 text-[#333] hover:bg-[#f8f8f8] hover:text-[#0c9a8d] transition-colors"
 // // // //                 >
 // // // //                   {item}
@@ -1014,8 +1009,8 @@
 // // // //           onBlur={() => setIsSearchExpanded(false)}
 // // // //         />
 // // // //       )}
-      
-// // // //       <button 
+
+// // // //       <button
 // // // //         className="ml-2 p-2 text-[#333] hover:text-[#0c9a8d] transition-colors flex items-center"
 // // // //         onClick={() => setIsSearchExpanded(!isSearchExpanded)}
 // // // //       >
@@ -1027,42 +1022,42 @@
 
 // // // //   const MobileMenu = () => (
 // // // //     <div className="md:hidden">
-// // // //       <button 
-// // // //         className="p-4 text-[#333]" 
+// // // //       <button
+// // // //         className="p-4 text-[#333]"
 // // // //         onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
 // // // //       >
 // // // //         {isMobileMenuOpen ? <X size={28} /> : <Menu size={28} />}
 // // // //       </button>
-      
+
 // // // //       {isMobileMenuOpen && (
 // // // //         <div className="fixed inset-0 bg-white z-50 overflow-y-auto pt-16">
 // // // //           <div className="container mx-auto px-6">
-// // // //             <button 
-// // // //               className="absolute top-4 right-4 p-4 text-[#333]" 
+// // // //             <button
+// // // //               className="absolute top-4 right-4 p-4 text-[#333]"
 // // // //               onClick={() => setIsMobileMenuOpen(false)}
 // // // //             >
 // // // //               <X size={28} />
 // // // //             </button>
-            
+
 // // // //             <div className="mt-6 border-t">
 // // // //               {navItems.map(item => (
 // // // //                 <div key={item.id} className="border-b">
-// // // //                   <button 
+// // // //                   <button
 // // // //                     className="w-full py-5 px-4 flex justify-between items-center text-left"
 // // // //                     onClick={() => setExpandedItem(expandedItem === item.id ? null : item.id)}
 // // // //                   >
 // // // //                     <span className="font-medium text-lg">{item.title}</span>
 // // // //                     {expandedItem === item.id ? <ChevronDown size={24} /> : <ChevronRight size={24} />}
 // // // //                   </button>
-                  
+
 // // // //                   {expandedItem === item.id && (
 // // // //                     <div className="pb-4 pl-8">
 // // // //                       {item.id === 1 ? (
 // // // //                         <>
 // // // //                           {item.leftColumn.map((link, idx) => (
-// // // //                             <a 
+// // // //                             <a
 // // // //                               key={idx}
-// // // //                               href="#" 
+// // // //                               href="#"
 // // // //                               className="block py-3 text-[#333] hover:text-[#0c9a8d]"
 // // // //                             >
 // // // //                               {link}
@@ -1072,9 +1067,9 @@
 // // // //                             {item.rightColumn.title}
 // // // //                           </h3>
 // // // //                           {item.rightColumn.items.map((method, idx) => (
-// // // //                             <a 
+// // // //                             <a
 // // // //                               key={idx}
-// // // //                               href="#" 
+// // // //                               href="#"
 // // // //                               className="block py-3 text-[#333] hover:text-[#0c9a8d]"
 // // // //                             >
 // // // //                               {method}
@@ -1083,9 +1078,9 @@
 // // // //                         </>
 // // // //                       ) : (
 // // // //                         item.dropdownItems.map((dropdownItem, idx) => (
-// // // //                           <a 
+// // // //                           <a
 // // // //                             key={idx}
-// // // //                             href="#" 
+// // // //                             href="#"
 // // // //                             className="block py-3 text-[#333] hover:text-[#0c9a8d]"
 // // // //                           >
 // // // //                             {dropdownItem}
@@ -1097,7 +1092,7 @@
 // // // //                 </div>
 // // // //               ))}
 // // // //             </div>
-            
+
 // // // //             <div className="mt-8 space-y-6">
 // // // //               <div className="flex justify-center">
 // // // //                 <input
@@ -1106,13 +1101,13 @@
 // // // //                   placeholder="Search..."
 // // // //                 />
 // // // //               </div>
-              
+
 // // // //               <div className="flex justify-center space-x-6">
 // // // //                 <a href="#" className="font-medium text-[#333] hover:text-[#0c9a8d]">Sign Up</a>
 // // // //                 <span>|</span>
 // // // //                 <a href="#" className="font-medium text-[#333] hover:text-[#0c9a8d]">Log In</a>
 // // // //               </div>
-              
+
 // // // //               <div className="flex justify-center">
 // // // //                 <button className="bg-[#0c9a8d] text-white px-6 py-3 rounded hover:bg-[#0a8a7d] transition-colors w-full">
 // // // //                   español
@@ -1134,7 +1129,7 @@
 // // // //               <NavItem key={item.id} item={item} />
 // // // //             ))}
 // // // //           </div>
-          
+
 // // // //           <div className="flex items-center">
 // // // //             <NavItem item={navItems[5]} />
 // // // //             <SearchBar />
@@ -1166,7 +1161,6 @@
 // // // // };
 
 // // // // export default Navbar;
-
 
 // // // import React, { useState } from 'react';
 // // // import { Search, Menu, X, ChevronDown, ChevronRight, ExternalLink } from 'lucide-react';
@@ -1358,14 +1352,14 @@
 // // //               <ExternalLink className="ml-1 h-3 w-3" />
 // // //             </a>
 // // //           </div>
-          
+
 // // //           <div className="flex items-center space-x-6">
 // // //             <div className="text-sm">
 // // //               <a href="#" className="text-[#333] hover:underline">Sign Up</a>
 // // //               <span className="mx-2">|</span>
 // // //               <a href="#" className="text-[#333] hover:underline">Log In</a>
 // // //             </div>
-            
+
 // // //             <button className="bg-[#0c9a8d] text-white px-4 py-1.5 rounded text-sm hover:bg-[#0a8a7d] transition-colors">
 // // //               español
 // // //             </button>
@@ -1390,9 +1384,9 @@
 
 // // //   const NavItem = ({ item }) => {
 // // //     const [isHovered, setIsHovered] = useState(false);
-    
+
 // // //     return (
-// // //       <div 
+// // //       <div
 // // //         className="relative"
 // // //         onMouseEnter={() => setIsHovered(true)}
 // // //         onMouseLeave={() => setIsHovered(false)}
@@ -1401,18 +1395,18 @@
 // // //           {item.title}
 // // //           <ChevronDown className="ml-1.5 h-4 w-4" />
 // // //         </button>
-        
+
 // // //         <div className={`absolute left-0 mt-0 bg-white shadow-lg rounded-b-lg overflow-hidden transition-all duration-300 origin-top z-50 ${
-// // //           isHovered 
-// // //             ? 'opacity-100 transform scale-y-100' 
+// // //           isHovered
+// // //             ? 'opacity-100 transform scale-y-100'
 // // //             : 'opacity-0 transform scale-y-0 pointer-events-none'
 // // //         }`}>
 // // //           <div className="flex min-w-[800px]">
 // // //             <div className="w-1/3 bg-[#f8f8f8] py-4">
 // // //               {item.leftColumn.map((link, idx) => (
-// // //                 <a 
+// // //                 <a
 // // //                   key={idx}
-// // //                   href="#" 
+// // //                   href="#"
 // // //                   className={`block px-6 py-2.5 text-[#333] hover:bg-white hover:text-[#0c9a8d] transition-colors ${
 // // //                     idx === item.leftColumn.length - 1 ? 'italic' : ''
 // // //                   }`}
@@ -1427,9 +1421,9 @@
 // // //               </h3>
 // // //               <div className="grid grid-cols-2 gap-x-4">
 // // //                 {item.rightColumn.items.map((method, idx) => (
-// // //                   <a 
+// // //                   <a
 // // //                     key={idx}
-// // //                     href="#" 
+// // //                     href="#"
 // // //                     className="px-6 py-2.5 text-[#333] hover:bg-[#f8f8f8] hover:text-[#0c9a8d] transition-colors"
 // // //                   >
 // // //                     {method}
@@ -1454,8 +1448,8 @@
 // // //           onBlur={() => setIsSearchExpanded(false)}
 // // //         />
 // // //       )}
-      
-// // //       <button 
+
+// // //       <button
 // // //         className="ml-2 p-2 text-[#333] hover:text-[#0c9a8d] transition-colors flex items-center"
 // // //         onClick={() => setIsSearchExpanded(!isSearchExpanded)}
 // // //       >
@@ -1467,40 +1461,40 @@
 
 // // //   const MobileMenu = () => (
 // // //     <div className="md:hidden">
-// // //       <button 
-// // //         className="p-4 text-[#333]" 
+// // //       <button
+// // //         className="p-4 text-[#333]"
 // // //         onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
 // // //       >
 // // //         {isMobileMenuOpen ? <X size={28} /> : <Menu size={28} />}
 // // //       </button>
-      
+
 // // //       {isMobileMenuOpen && (
 // // //         <div className="fixed inset-0 bg-white z-50 overflow-y-auto pt-16">
 // // //           <div className="container mx-auto px-6">
-// // //             <button 
-// // //               className="absolute top-4 right-4 p-4 text-[#333]" 
+// // //             <button
+// // //               className="absolute top-4 right-4 p-4 text-[#333]"
 // // //               onClick={() => setIsMobileMenuOpen(false)}
 // // //             >
 // // //               <X size={28} />
 // // //             </button>
-            
+
 // // //             <div className="mt-6 border-t">
 // // //               {navItems.map(item => (
 // // //                 <div key={item.id} className="border-b">
-// // //                   <button 
+// // //                   <button
 // // //                     className="w-full py-5 px-4 flex justify-between items-center text-left"
 // // //                     onClick={() => setExpandedItem(expandedItem === item.id ? null : item.id)}
 // // //                   >
 // // //                     <span className="font-medium text-lg">{item.title}</span>
 // // //                     {expandedItem === item.id ? <ChevronDown size={24} /> : <ChevronRight size={24} />}
 // // //                   </button>
-                  
+
 // // //                   {expandedItem === item.id && (
 // // //                     <div className="pb-4 pl-8">
 // // //                       {item.leftColumn.map((link, idx) => (
-// // //                         <a 
+// // //                         <a
 // // //                           key={idx}
-// // //                           href="#" 
+// // //                           href="#"
 // // //                           className="block py-3 text-[#333] hover:text-[#0c9a8d]"
 // // //                         >
 // // //                           {link}
@@ -1510,9 +1504,9 @@
 // // //                         {item.rightColumn.title}
 // // //                       </h3>
 // // //                       {item.rightColumn.items.map((method, idx) => (
-// // //                         <a 
+// // //                         <a
 // // //                           key={idx}
-// // //                           href="#" 
+// // //                           href="#"
 // // //                           className="block py-3 text-[#333] hover:text-[#0c9a8d]"
 // // //                         >
 // // //                           {method}
@@ -1523,7 +1517,7 @@
 // // //                 </div>
 // // //               ))}
 // // //             </div>
-            
+
 // // //             <div className="mt-8 space-y-6">
 // // //               <div className="flex justify-center">
 // // //                 <input
@@ -1532,13 +1526,13 @@
 // // //                   placeholder="Search..."
 // // //                 />
 // // //               </div>
-              
+
 // // //               <div className="flex justify-center space-x-6">
 // // //                 <a href="#" className="font-medium text-[#333] hover:text-[#0c9a8d]">Sign Up</a>
 // // //                 <span>|</span>
 // // //                 <a href="#" className="font-medium text-[#333] hover:text-[#0c9a8d]">Log In</a>
 // // //               </div>
-              
+
 // // //               <div className="flex justify-center">
 // // //                 <button className="bg-[#0c9a8d] text-white px-6 py-3 rounded hover:bg-[#0a8a7d] transition-colors w-full">
 // // //                   español
@@ -1560,7 +1554,7 @@
 // // //               <NavItem key={item.id} item={item} />
 // // //             ))}
 // // //           </div>
-          
+
 // // //           <div className="flex items-center">
 // // //             <NavItem item={navItems[5]} />
 // // //             <SearchBar />
@@ -1592,7 +1586,6 @@
 // // // };
 
 // // // export default Navbar;
-
 
 // // import React, { useState } from 'react';
 // // import { Search, Menu, X, ChevronDown, ChevronRight, ExternalLink } from 'lucide-react';
@@ -1784,14 +1777,14 @@
 // //               <ExternalLink className="ml-1 h-3 w-3" />
 // //             </a>
 // //           </div>
-          
+
 // //           <div className="flex items-center space-x-4 lg:space-x-6">
 // //             <div className="text-sm">
 // //               <a href="#" className="text-[#333] hover:underline">Sign Up</a>
 // //               <span className="mx-2">|</span>
 // //               <a href="#" className="text-[#333] hover:underline">Log In</a>
 // //             </div>
-            
+
 // //             <button className="bg-[#0c9a8d] text-white px-3 py-1.5 rounded text-sm hover:bg-[#0a8a7d] transition-colors">
 // //               español
 // //             </button>
@@ -1816,9 +1809,9 @@
 
 // //   const NavItem = ({ item }) => {
 // //     const [isHovered, setIsHovered] = useState(false);
-    
+
 // //     return (
-// //       <div 
+// //       <div
 // //         className="relative"
 // //         onMouseEnter={() => setIsHovered(true)}
 // //         onMouseLeave={() => setIsHovered(false)}
@@ -1827,18 +1820,18 @@
 // //           {item.title}
 // //           <ChevronDown className="ml-1 h-4 w-4" />
 // //         </button>
-        
+
 // //         <div className={`absolute left-0 mt-0 bg-white shadow-lg rounded-b-lg overflow-hidden transition-all duration-300 origin-top z-50 ${
-// //           isHovered 
-// //             ? 'opacity-100 transform scale-y-100' 
+// //           isHovered
+// //             ? 'opacity-100 transform scale-y-100'
 // //             : 'opacity-0 transform scale-y-0 pointer-events-none'
 // //         }`}>
 // //           <div className="flex md:min-w-[600px] lg:min-w-[800px]">
 // //             <div className="w-1/3 bg-[#f8f8f8] py-4">
 // //               {item.leftColumn.map((link, idx) => (
-// //                 <a 
+// //                 <a
 // //                   key={idx}
-// //                   href="#" 
+// //                   href="#"
 // //                   className={`block px-4 lg:px-6 py-2.5 text-[#333] hover:bg-white hover:text-[#0c9a8d] transition-colors text-sm lg:text-base ${
 // //                     idx === item.leftColumn.length - 1 ? 'italic' : ''
 // //                   }`}
@@ -1853,9 +1846,9 @@
 // //               </h3>
 // //               <div className="grid grid-cols-2 gap-x-2 lg:gap-x-4">
 // //                 {item.rightColumn.items.map((method, idx) => (
-// //                   <a 
+// //                   <a
 // //                     key={idx}
-// //                     href="#" 
+// //                     href="#"
 // //                     className="px-4 lg:px-6 py-2.5 text-[#333] hover:bg-[#f8f8f8] hover:text-[#0c9a8d] transition-colors text-sm lg:text-base"
 // //                   >
 // //                     {method}
@@ -1880,8 +1873,8 @@
 // //           onBlur={() => setIsSearchExpanded(false)}
 // //         />
 // //       )}
-      
-// //       <button 
+
+// //       <button
 // //         className="ml-2 p-2 text-[#333] hover:text-[#0c9a8d] transition-colors flex items-center"
 // //         onClick={() => setIsSearchExpanded(!isSearchExpanded)}
 // //       >
@@ -1893,40 +1886,40 @@
 
 // //   const MobileMenu = () => (
 // //     <div className="lg:hidden">
-// //       <button 
-// //         className="p-4 text-[#333]" 
+// //       <button
+// //         className="p-4 text-[#333]"
 // //         onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
 // //       >
 // //         {isMobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
 // //       </button>
-      
+
 // //       {isMobileMenuOpen && (
 // //         <div className="fixed inset-0 bg-white z-50 overflow-y-auto pt-16">
 // //           <div className="container mx-auto px-4 md:px-6">
-// //             <button 
-// //               className="absolute top-4 right-4 p-4 text-[#333]" 
+// //             <button
+// //               className="absolute top-4 right-4 p-4 text-[#333]"
 // //               onClick={() => setIsMobileMenuOpen(false)}
 // //             >
 // //               <X size={24} />
 // //             </button>
-            
+
 // //             <div className="mt-6 border-t">
 // //               {navItems.map(item => (
 // //                 <div key={item.id} className="border-b">
-// //                   <button 
+// //                   <button
 // //                     className="w-full py-4 md:py-5 px-4 flex justify-between items-center text-left"
 // //                     onClick={() => setExpandedItem(expandedItem === item.id ? null : item.id)}
 // //                   >
 // //                     <span className="font-medium text-base md:text-lg">{item.title}</span>
 // //                     {expandedItem === item.id ? <ChevronDown size={20} /> : <ChevronRight size={20} />}
 // //                   </button>
-                  
+
 // //                   {expandedItem === item.id && (
 // //                     <div className="pb-4 pl-6 md:pl-8">
 // //                       {item.leftColumn.map((link, idx) => (
-// //                         <a 
+// //                         <a
 // //                           key={idx}
-// //                           href="#" 
+// //                           href="#"
 // //                           className="block py-2.5 md:py-3 text-[#333] hover:text-[#0c9a8d] text-sm md:text-base"
 // //                         >
 // //                           {link}
@@ -1936,9 +1929,9 @@
 // //                         {item.rightColumn.title}
 // //                       </h3>
 // //                       {item.rightColumn.items.map((method, idx) => (
-// //                         <a 
+// //                         <a
 // //                           key={idx}
-// //                           href="#" 
+// //                           href="#"
 // //                           className="block py-2.5 md:py-3 text-[#333] hover:text-[#0c9a8d] text-sm md:text-base"
 // //                         >
 // //                           {method}
@@ -1949,7 +1942,7 @@
 // //                 </div>
 // //               ))}
 // //             </div>
-            
+
 // //             <div className="mt-8 space-y-6">
 // //               <div className="flex justify-center">
 // //                 <input
@@ -1958,13 +1951,13 @@
 // //                   placeholder="Search..."
 // //                 />
 // //               </div>
-              
+
 // //               <div className="flex justify-center space-x-6">
 // //                 <a href="#" className="font-medium text-[#333] hover:text-[#0c9a8d] text-sm md:text-base">Sign Up</a>
 // //                 <span>|</span>
 // //                 <a href="#" className="font-medium text-[#333] hover:text-[#0c9a8d] text-sm md:text-base">Log In</a>
 // //               </div>
-              
+
 // //               <div className="flex justify-center">
 // //                 <button className="bg-[#0c9a8d] text-white px-6 py-3 rounded hover:bg-[#0a8a7d] transition-colors w-full text-sm md:text-base">
 // //                   español
@@ -1986,7 +1979,7 @@
 // //               <NavItem key={item.id} item={item} />
 // //             ))}
 // //           </div>
-          
+
 // //           <div className="flex items-center">
 // //             <NavItem item={navItems[5]} />
 // //             <SearchBar />
@@ -2018,8 +2011,6 @@
 // // };
 
 // // export default Navbar;
-
-
 
 // import React, { useState } from 'react';
 // import { Search, Menu, X, ChevronDown, ChevronRight, ExternalLink } from 'lucide-react';
@@ -2131,7 +2122,7 @@
 //       rightColumn: {
 //         title: '',
 //         items: [
-          
+
 //         ]
 //       }
 //     },
@@ -2202,14 +2193,14 @@
 //               <ExternalLink className="ml-1 h-3 w-3" />
 //             </a>
 //           </div>
-          
+
 //           <div className="flex items-center space-x-4 lg:space-x-6">
 //             <div className="text-sm">
 //               <a href="#" className="text-[#333] hover:underline">Sign Up</a>
 //               <span className="mx-2">|</span>
 //               <a href="#" className="text-[#333] hover:underline">Log In</a>
 //             </div>
-            
+
 //             <button className="bg-[#0c9a8d] text-white px-3 py-1.5 rounded text-sm hover:bg-[#0a8a7d] transition-colors">
 //               español
 //             </button>
@@ -2234,9 +2225,9 @@
 
 //   const NavItem = ({ item }) => {
 //     const [isHovered, setIsHovered] = useState(false);
-    
+
 //     return (
-//       <div 
+//       <div
 //         className="relative group"
 //         onMouseEnter={() => setIsHovered(true)}
 //         onMouseLeave={() => setIsHovered(false)}
@@ -2245,20 +2236,20 @@
 //           {item.title}
 //           <ChevronDown className="ml-1 h-4 w-4 transition-transform duration-200 group-hover:rotate-180" />
 //         </button>
-        
-//         <div 
+
+//         <div
 //           className={`absolute left-0 mt-0 bg-white shadow-lg rounded-b-lg overflow-hidden transition-all duration-300 origin-top z-50 transform ${
-//             isHovered 
-//               ? 'opacity-100 scale-y-100 translate-y-0' 
+//             isHovered
+//               ? 'opacity-100 scale-y-100 translate-y-0'
 //               : 'opacity-0 scale-y-95 translate-y-2 pointer-events-none'
 //           }`}
 //         >
 //           <div className="flex md:min-w-[600px] lg:min-w-[800px]">
 //             <div className="w-1/3 bg-[#f8f8f8] py-4">
 //               {item.leftColumn.map((link, idx) => (
-//                 <a 
+//                 <a
 //                   key={idx}
-//                   href="#" 
+//                   href="#"
 //                   className={`block px-4 lg:px-6 py-2.5 text-[#333] hover:bg-white hover:text-[#0c9a8d] transition-colors text-sm lg:text-base ${
 //                     idx === item.leftColumn.length - 1 ? 'italic' : ''
 //                   }`}
@@ -2273,9 +2264,9 @@
 //               </h3>
 //               <div className="grid grid-cols-2 gap-x-2 lg:gap-x-4">
 //                 {item.rightColumn.items.map((method, idx) => (
-//                   <a 
+//                   <a
 //                     key={idx}
-//                     href="#" 
+//                     href="#"
 //                     className="px-4 lg:px-6 py-2.5 text-[#333] hover:bg-[#f8f8f8] hover:text-[#0c9a8d] transition-colors text-sm lg:text-base"
 //                   >
 //                     {method}
@@ -2302,8 +2293,8 @@
 //           />
 //         )}
 //       </div>
-      
-//       <button 
+
+//       <button
 //         className="ml-2 p-2 text-[#333] hover:text-[#0c9a8d] transition-colors flex items-center"
 //         onClick={() => setIsSearchExpanded(!isSearchExpanded)}
 //       >
@@ -2315,32 +2306,32 @@
 
 //   const MobileMenu = () => (
 //     <div className="lg:hidden">
-//       <button 
+//       <button
 //         className="p-4 text-[#333] hover:text-[#0c9a8d] transition-colors"
 //         onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
 //       >
 //         {isMobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
 //       </button>
-      
-//       <div 
+
+//       <div
 //         className={`fixed inset-0 bg-white z-50 transition-transform duration-300 ease-in-out ${
 //           isMobileMenuOpen ? 'transform translate-x-0' : 'transform -translate-x-full'
 //         }`}
 //       >
 //         <div className="container mx-auto px-4 md:px-6 h-full overflow-y-auto">
 //           <div className="flex justify-end pt-4">
-//             <button 
+//             <button
 //               className="p-4 text-[#333] hover:text-[#0c9a8d] transition-colors"
 //               onClick={() => setIsMobileMenuOpen(false)}
 //             >
 //               <X size={24} />
 //             </button>
 //           </div>
-          
+
 //           <div className="mt-6 border-t">
 //             {navItems.map(item => (
 //               <div key={item.id} className="border-b">
-//                 <button 
+//                 <button
 //                   className="w-full py-4 md:py-5 px-4 flex justify-between items-center text-left group"
 //                   onClick={() => setExpandedItem(expandedItem === item.id ? null : item.id)}
 //                 >
@@ -2351,17 +2342,17 @@
 //                     <ChevronDown size={20} />
 //                   </div>
 //                 </button>
-                
-//                 <div 
+
+//                 <div
 //                   className={`overflow-hidden transition-all duration-300 ${
 //                     expandedItem === item.id ? 'max-h-[2000px] opacity-100' : 'max-h-0 opacity-0'
 //                   }`}
 //                 >
 //                   <div className="pb-4 pl-6 md:pl-8">
 //                     {item.leftColumn.map((link, idx) => (
-//                       <a 
+//                       <a
 //                         key={idx}
-//                         href="#" 
+//                         href="#"
 //                         className="block py-2.5 md:py-3 text-[#333] hover:text-[#0c9a8d] transition-colors text-sm md:text-base"
 //                       >
 //                         {link}
@@ -2371,9 +2362,9 @@
 //                       {item.rightColumn.title}
 //                     </h3>
 //                     {item.rightColumn.items.map((method, idx) => (
-//                       <a 
+//                       <a
 //                         key={idx}
-//                         href="#" 
+//                         href="#"
 //                         className="block py-2.5 md:py-3 text-[#333] hover:text-[#0c9a8d] transition-colors text-sm md:text-base"
 //                       >
 //                         {method}
@@ -2384,7 +2375,7 @@
 //               </div>
 //             ))}
 //           </div>
-          
+
 //           <div className="mt-8 space-y-6">
 //             <div className="flex justify-center">
 //               <input
@@ -2393,7 +2384,7 @@
 //                 placeholder="Search..."
 //               />
 //             </div>
-            
+
 //             <div className="flex justify-center space-x-6">
 //               <a href="#" className="font-medium text-[#333] hover:text-[#0c9a8d] transition-colors text-sm md:text-base">
 //                 Sign Up
@@ -2403,7 +2394,7 @@
 //                 Log In
 //               </a>
 //             </div>
-            
+
 //             <div className="flex justify-center">
 //               <button className="bg-[#0c9a8d] text-white px-6 py-3 rounded hover:bg-[#0a8a7d] transition-colors w-full text-sm md:text-base">
 //                 español
@@ -2424,7 +2415,7 @@
 //               <NavItem key={item.id} item={item} />
 //             ))}
 //           </div>
-          
+
 //           <div className="flex items-center">
 //             <NavItem item={navItems[5]} />
 //             <SearchBar />
@@ -2453,8 +2444,6 @@
 //   );
 // };
 // export default Navbar;
-
-
 
 // src/components/Navbar.jsx
 
@@ -2565,7 +2554,7 @@
 //         { label: 'Sexually Transmitted Infections',            to: '/shw' },
 //         { label: 'View all',                 to: '/wellness' },
 //       ],
-      
+
 //        rightColumn: {
 //         title: 'FEATURED CONTENT',
 //         items: [
@@ -2575,7 +2564,7 @@
 //               { label: 'Community events',         to: '/wellness/sti-prevention' },
 //                { label:   'Educational videos',         to: '/wellness/sti-prevention' },
 //                 { label:  'Resource library',           to: '/wellness/sti-prevention' },
-         
+
 //         ]
 //       }
 //     },
@@ -2865,12 +2854,6 @@
 
 // export default Navbar;
 
-
-
-
-
-
-
 // import React, { useState } from 'react';
 // import { Search, Menu, X, ChevronDown, ChevronRight, ExternalLink } from 'lucide-react';
 
@@ -2950,14 +2933,14 @@
 //               <ExternalLink className="ml-1 h-3 w-3" />
 //             </a>
 //           </div>
-          
+
 //           <div className="flex items-center space-x-6">
 //             <div className="text-sm">
 //               <a href="#" className="text-[#333] hover:underline">Sign Up</a>
 //               <span className="mx-2">|</span>
 //               <a href="#" className="text-[#333] hover:underline">Log In</a>
 //             </div>
-            
+
 //             <button className="bg-[#0c9a8d] text-white px-4 py-1.5 rounded text-sm hover:bg-[#0a8a7d] transition-colors">
 //               español
 //             </button>
@@ -2982,9 +2965,9 @@
 
 //   const NavItem = ({ item }) => {
 //     const [isHovered, setIsHovered] = useState(false);
-    
+
 //     return (
-//       <div 
+//       <div
 //         className="relative"
 //         onMouseEnter={() => setIsHovered(true)}
 //         onMouseLeave={() => setIsHovered(false)}
@@ -2993,19 +2976,19 @@
 //           {item.title}
 //           <ChevronDown className="ml-1.5 h-4 w-4" />
 //         </button>
-        
+
 //         <div className={`absolute left-0 mt-0 bg-white shadow-lg rounded-b-lg overflow-hidden transition-all duration-300 origin-top z-50 ${
-//           isHovered 
-//             ? 'opacity-100 transform scale-y-100' 
+//           isHovered
+//             ? 'opacity-100 transform scale-y-100'
 //             : 'opacity-0 transform scale-y-0 pointer-events-none'
 //         }`}>
 //           {item.id === 1 ? (
 //             <div className="flex min-w-[800px]">
 //               <div className="w-1/3 bg-[#f8f8f8] py-4">
 //                 {item.leftColumn.map((link, idx) => (
-//                   <a 
+//                   <a
 //                     key={idx}
-//                     href="#" 
+//                     href="#"
 //                     className={`block px-6 py-2.5 text-[#333] hover:bg-white hover:text-[#0c9a8d] transition-colors ${
 //                       idx === item.leftColumn.length - 1 ? 'italic' : ''
 //                     }`}
@@ -3020,9 +3003,9 @@
 //                 </h3>
 //                 <div className="grid grid-cols-2 gap-x-4">
 //                   {item.rightColumn.items.map((method, idx) => (
-//                     <a 
+//                     <a
 //                       key={idx}
-//                       href="#" 
+//                       href="#"
 //                       className="px-6 py-2.5 text-[#333] hover:bg-[#f8f8f8] hover:text-[#0c9a8d] transition-colors"
 //                     >
 //                       {method}
@@ -3034,9 +3017,9 @@
 //           ) : (
 //             <div className="py-2 w-64">
 //               {item.dropdownItems.map((item, idx) => (
-//                 <a 
+//                 <a
 //                   key={idx}
-//                   href="#" 
+//                   href="#"
 //                   className="block px-6 py-2.5 text-[#333] hover:bg-[#f8f8f8] hover:text-[#0c9a8d] transition-colors"
 //                 >
 //                   {item}
@@ -3060,8 +3043,8 @@
 //           onBlur={() => setIsSearchExpanded(false)}
 //         />
 //       )}
-      
-//       <button 
+
+//       <button
 //         className="ml-2 p-2 text-[#333] hover:text-[#0c9a8d] transition-colors flex items-center"
 //         onClick={() => setIsSearchExpanded(!isSearchExpanded)}
 //       >
@@ -3073,42 +3056,42 @@
 
 //   const MobileMenu = () => (
 //     <div className="md:hidden">
-//       <button 
-//         className="p-4 text-[#333]" 
+//       <button
+//         className="p-4 text-[#333]"
 //         onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
 //       >
 //         {isMobileMenuOpen ? <X size={28} /> : <Menu size={28} />}
 //       </button>
-      
+
 //       {isMobileMenuOpen && (
 //         <div className="fixed inset-0 bg-white z-50 overflow-y-auto pt-16">
 //           <div className="container mx-auto px-6">
-//             <button 
-//               className="absolute top-4 right-4 p-4 text-[#333]" 
+//             <button
+//               className="absolute top-4 right-4 p-4 text-[#333]"
 //               onClick={() => setIsMobileMenuOpen(false)}
 //             >
 //               <X size={28} />
 //             </button>
-            
+
 //             <div className="mt-6 border-t">
 //               {navItems.map(item => (
 //                 <div key={item.id} className="border-b">
-//                   <button 
+//                   <button
 //                     className="w-full py-5 px-4 flex justify-between items-center text-left"
 //                     onClick={() => setExpandedItem(expandedItem === item.id ? null : item.id)}
 //                   >
 //                     <span className="font-medium text-lg">{item.title}</span>
 //                     {expandedItem === item.id ? <ChevronDown size={24} /> : <ChevronRight size={24} />}
 //                   </button>
-                  
+
 //                   {expandedItem === item.id && (
 //                     <div className="pb-4 pl-8">
 //                       {item.id === 1 ? (
 //                         <>
 //                           {item.leftColumn.map((link, idx) => (
-//                             <a 
+//                             <a
 //                               key={idx}
-//                               href="#" 
+//                               href="#"
 //                               className="block py-3 text-[#333] hover:text-[#0c9a8d]"
 //                             >
 //                               {link}
@@ -3118,9 +3101,9 @@
 //                             {item.rightColumn.title}
 //                           </h3>
 //                           {item.rightColumn.items.map((method, idx) => (
-//                             <a 
+//                             <a
 //                               key={idx}
-//                               href="#" 
+//                               href="#"
 //                               className="block py-3 text-[#333] hover:text-[#0c9a8d]"
 //                             >
 //                               {method}
@@ -3129,9 +3112,9 @@
 //                         </>
 //                       ) : (
 //                         item.dropdownItems.map((dropdownItem, idx) => (
-//                           <a 
+//                           <a
 //                             key={idx}
-//                             href="#" 
+//                             href="#"
 //                             className="block py-3 text-[#333] hover:text-[#0c9a8d]"
 //                           >
 //                             {dropdownItem}
@@ -3143,7 +3126,7 @@
 //                 </div>
 //               ))}
 //             </div>
-            
+
 //             <div className="mt-8 space-y-6">
 //               <div className="flex justify-center">
 //                 <input
@@ -3152,13 +3135,13 @@
 //                   placeholder="Search..."
 //                 />
 //               </div>
-              
+
 //               <div className="flex justify-center space-x-6">
 //                 <a href="#" className="font-medium text-[#333] hover:text-[#0c9a8d]">Sign Up</a>
 //                 <span>|</span>
 //                 <a href="#" className="font-medium text-[#333] hover:text-[#0c9a8d]">Log In</a>
 //               </div>
-              
+
 //               <div className="flex justify-center">
 //                 <button className="bg-[#0c9a8d] text-white px-6 py-3 rounded hover:bg-[#0a8a7d] transition-colors w-full">
 //                   español
@@ -3210,17 +3193,6 @@
 //   );
 // };
 // export default Navbar;
-
-
-
-
-
-
-
-
-
-
-
 
 // import React, { useState } from 'react';
 // import { Link } from 'react-router-dom';
@@ -3562,22 +3534,16 @@
 // };
 // export default Navbar;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
-import { Search, Menu, X, ChevronDown, ChevronRight, ExternalLink } from 'lucide-react';
+import React, { useState } from "react";
+import { Link } from "react-router-dom";
+import {
+  Search,
+  Menu,
+  X,
+  ChevronDown,
+  ChevronRight,
+  ExternalLink,
+} from "lucide-react";
 
 const Navbar = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -3587,121 +3553,148 @@ const Navbar = () => {
   const navItems = [
     {
       id: 1,
-      title: 'Birth control',
+      title: "Birth control",
       leftColumn: [
-        { label: 'Explore birth control options', to: '/birth-control/explore' },
-        { label: 'Compare birth control', to: '/birth-control/compare' },
-        { label: 'How to get birth control', to: '/birth-control/how-to' },
-        { label: 'Birth control articles', to: '/birth-control/articles' },
-        { label: 'Birth control reviews', to: '/birth-control/reviews' },
+        {
+          label: "Explore birth control options",
+          to: "/birth-control/explore",
+        },
+        { label: "Compare birth control", to: "/birth-control/compare" },
+        { label: "How to get birth control", to: "/birth-control/how-to" },
+        { label: "Birth control articles", to: "/birth-control/articles" },
+        { label: "Birth control reviews", to: "/birth-control/reviews" },
       ],
       rightColumn: {
-        title: 'BIRTH CONTROL TYPES',
+        title: "BIRTH CONTROL TYPES",
         items: [
-          { label: 'IUD (Intrauterine Device)', to: '/types/iud' },
-          { label: 'Implant (Nexplanon)', to: '/types/implant' },
-          { label: 'Birth control shot (Depo-Provera)', to: '/types/birth-control-shot' },
-          { label: 'Birth control ring', to: '/types/birth-control-ring' },
-          { label: 'Birth control patch', to: '/types/patch' },
-          { label: 'Birth control pill', to: '/types/birth-control-pill' },
-          { label: 'Diaphragm', to: '/types/diaphragm' },
-          { label: 'Condom', to: '/types/condom' },
-          { label: 'Internal condom (FC2)', to: '/types/internal-condom' },
-          { label: 'Cervical cap', to: '/types/cervical-cap' },
-          { label: 'Fertility awareness methods', to: '/types/fertility-awareness' },
-          { label: 'Spermicide and gel', to: '/types/spermicide-gell' },
-          { label: 'Withdrawal (pull-out method)', to: '/types/withdrawal' },
-          { label: 'Sterilization', to: '/types/sterilization' },
-          { label: '"Not right now"', to: '/types/not-right-now' },
-          { label: 'Emergency contraception', to: '/types/emergency-contraception' },
+          { label: "IUD (Intrauterine Device)", to: "/types/iud" },
+          { label: "Implant (Nexplanon)", to: "/types/implant" },
+          {
+            label: "Birth control shot (Depo-Provera)",
+            to: "/types/birth-control-shot",
+          },
+          { label: "Birth control ring", to: "/types/birth-control-ring" },
+          { label: "Birth control patch", to: "/types/patch" },
+          { label: "Birth control pill", to: "/types/birth-control-pill" },
+          { label: "Diaphragm", to: "/types/diaphragm" },
+          { label: "Condom", to: "/types/condom" },
+          { label: "Internal condom (FC2)", to: "/types/internal-condom" },
+          { label: "Cervical cap", to: "/types/cervical-cap" },
+          {
+            label: "Fertility awareness methods",
+            to: "/types/fertility-awareness",
+          },
+          { label: "Spermicide and gel", to: "/types/spermicide-gell" },
+          { label: "Withdrawal (pull-out method)", to: "/types/withdrawal" },
+          { label: "Sterilization", to: "/types/sterilization" },
+          { label: '"Not right now"', to: "/types/not-right-now" },
+          {
+            label: "Emergency contraception",
+            to: "/types/emergency-contraception",
+          },
         ],
       },
     },
     {
       id: 2,
-      title: 'Abortion',
+      title: "Abortion",
       dropdownItems: [
-        { label: 'Your options', to: '/abortion/options' },
-        { label: 'Common questions', to: '/abortion/questions' },
-        { label: 'Cost', to: '/abortion/cost' },
-        { label: 'Support', to: '/abortion/support' },
+        { label: "Your options", to: "/abortion/options" },
+        { label: "Common questions", to: "/abortion/questions" },
+        { label: "Cost", to: "/abortion/cost" },
+        { label: "Support", to: "/abortion/support" },
       ],
     },
     {
       id: 3,
-      title: 'Sex & relationships',
+      title: "Sex & relationships",
       dropdownItems: [
-        { label: 'Dating', to: '/sex-relationships/dating' },
-        { label: 'Communication', to: '/sex-relationships/communication' },
-        { label: 'LGBTQ+', to: '/sex-relationships/lgbtq' },
-        { label: 'Pleasure', to: '/sex-relationships/pleasure' },
+        { label: "Relationships", to: "/sex-relationships/Relationships" },
+        { label: "Masturbation", to: "/sex-relationships/Masturbation" },
+        {
+          label: "Boundaries & consent",
+          to: "/sex-relationships/BoundariesAndconsent",
+        },
+        { label: "Dating & hookups", to: "/sex-relationships/DatingAndHookup" },
+        { label: "Better Sex", to: "/sex-relationships/BetterSex" },
+        { label: "View all", to: "/sex-relationships/ViewAll" },
       ],
     },
     {
       id: 4,
-      title: 'Sexual health & wellness',
+      title: "Sexual health & wellness",
       dropdownItems: [
-        { label: 'Periods & vaginal health', to: '/periods-and-vaginal-health' },
-        { label: 'Health care', to: '/health-care' },
-        { label: 'Pregnancy & fertility', to: '/pregnancy-and-fertility' },
-        { label: 'Sexually Transmitted Infections (STDs, STIs)', to: '/shw' },
+        {
+          label: "Periods & vaginal health",
+          to: "/periods-and-vaginal-health",
+        },
+        { label: "Health care", to: "/health-care" },
+        { label: "Pregnancy & fertility", to: "/pregnancy-and-fertility" },
+        { label: "Sexually Transmitted Infections (STDs, STIs)", to: "/shw" },
       ],
     },
     {
       id: 5,
-      title: 'Lifestyle & inspiration',
+      title: "Lifestyle & inspiration",
       dropdownItems: [
-        { label: 'Entertainment', to: '/lifestyle/entertainment' },
-        { label: 'Stories', to: '/lifestyle/stories' },
-        { label: 'News', to: '/lifestyle/news' },
-        { label: 'Resources', to: '/lifestyle/resources' },
+        { label: "Entertainment", to: "/lifestyle/entertainment" },
+        { label: "Stories", to: "/lifestyle/stories" },
+        { label: "News", to: "/lifestyle/news" },
+        { label: "Resources", to: "/lifestyle/resources" },
       ],
     },
     {
       id: 6,
-      title: 'Find health care',
+      title: "Find health care",
       dropdownItems: [
-        { label: 'Providers', to: '/find-health-care/providers' },
-        { label: 'Telehealth', to: '/find-health-care/telehealth' },
-        { label: 'Insurance', to: '/find-health-care/insurance' },
-        { label: 'Free clinics', to: '/find-health-care/clinics' },
+        { label: "Providers", to: "/find-health-care/providers" },
+        { label: "Telehealth", to: "/find-health-care/telehealth" },
+        { label: "Insurance", to: "/find-health-care/insurance" },
+        { label: "Free clinics", to: "/find-health-care/clinics" },
       ],
     },
   ];
 
   const TopBar = () => (
-  <div className="bg-[#d9f5f0] py-2.5">
-    <div className="container mx-auto px-4 sm:px-6 flex flex-col sm:flex-row justify-between items-center space-y-2 sm:space-y-0 text-center sm:text-left">
-      <div className="text-sm text-[#333]">
-        <span className="hidden sm:inline-block">Are you a provider? Visit </span>
-        <Link
-          to="/providers"
-          className="font-medium text-[#333] hover:underline inline-flex items-center text-sm sm:text-base"
-        >
-          <span className="sm:hidden">Providers</span>
-          <span className="hidden sm:inline">Bedsider Providers</span>
-          <ExternalLink className="ml-1 h-3 w-3" />
-        </Link>
-      </div>
-
-      <div className="flex flex-col sm:flex-row items-center gap-2 sm:gap-6 text-sm">
-        <div className="flex items-center space-x-2 sm:space-x-3">
-          <Link to="/signup" className="text-[#333] hover:underline text-sm sm:text-base">
-            Sign Up
-          </Link>
-          <span className="hidden sm:inline">|</span>
-          <Link to="/login" className="text-[#333] hover:underline text-sm sm:text-base">
-            Log In
+    <div className="bg-[#d9f5f0] py-2.5">
+      <div className="container mx-auto px-4 sm:px-6 flex flex-col sm:flex-row justify-between items-center space-y-2 sm:space-y-0 text-center sm:text-left">
+        <div className="text-sm text-[#333]">
+          <span className="hidden sm:inline-block">
+            Are you a provider? Visit{" "}
+          </span>
+          <Link
+            to="/providers"
+            className="font-medium text-[#333] hover:underline inline-flex items-center text-sm sm:text-base"
+          >
+            <span className="sm:hidden">Providers</span>
+            <span className="hidden sm:inline">Bedsider Providers</span>
+            <ExternalLink className="ml-1 h-3 w-3" />
           </Link>
         </div>
-        <button className="bg-[#0c9a8d] text-white px-4 py-1.5 rounded hover:bg-[#0a8a7d] transition-colors text-sm sm:text-base">
-          español
-        </button>
+
+        <div className="flex flex-col sm:flex-row items-center gap-2 sm:gap-6 text-sm">
+          <div className="flex items-center space-x-2 sm:space-x-3">
+            <Link
+              to="/signup"
+              className="text-[#333] hover:underline text-sm sm:text-base"
+            >
+              Sign Up
+            </Link>
+            <span className="hidden sm:inline">|</span>
+            <Link
+              to="/login"
+              className="text-[#333] hover:underline text-sm sm:text-base"
+            >
+              Log In
+            </Link>
+          </div>
+          <button className="bg-[#0c9a8d] text-white px-4 py-1.5 rounded hover:bg-[#0a8a7d] transition-colors text-sm sm:text-base">
+            español
+          </button>
+        </div>
       </div>
     </div>
-  </div>
-);
-
+  );
 
   const MainLogo = () => (
     <div className="flex justify-center py-6">
@@ -3739,7 +3732,10 @@ const Navbar = () => {
 
   const MobileMenu = () => (
     <div className="lg:hidden">
-      <button className="p-4 text-[#333]" onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}>
+      <button
+        className="p-4 text-[#333]"
+        onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+      >
         {isMobileMenuOpen ? <X size={28} /> : <Menu size={28} />}
       </button>
 
@@ -3754,7 +3750,7 @@ const Navbar = () => {
             </button>
 
             <div className="mt-6 border-t">
-              {navItems.map(item => (
+              {navItems.map((item) => (
                 <div key={item.id} className="border-b">
                   <button
                     className="w-full py-5 px-4 flex justify-between items-center text-left"
@@ -3763,7 +3759,11 @@ const Navbar = () => {
                     }
                   >
                     <span className="font-medium text-lg">{item.title}</span>
-                    {expandedItem === item.id ? <ChevronDown size={24} /> : <ChevronRight size={24} />}
+                    {expandedItem === item.id ? (
+                      <ChevronDown size={24} />
+                    ) : (
+                      <ChevronRight size={24} />
+                    )}
                   </button>
 
                   {expandedItem === item.id && (
@@ -3829,11 +3829,17 @@ const Navbar = () => {
                 />
               </div>
               <div className="flex justify-center space-x-6">
-                <Link to="/signup" className="font-medium text-[#333] hover:text-[#0c9a8d]">
+                <Link
+                  to="/signup"
+                  className="font-medium text-[#333] hover:text-[#0c9a8d]"
+                >
                   Sign Up
                 </Link>
                 <span>|</span>
-                <Link to="/login" className="font-medium text-[#333] hover:text-[#0c9a8d]">
+                <Link
+                  to="/login"
+                  className="font-medium text-[#333] hover:text-[#0c9a8d]"
+                >
                   Log In
                 </Link>
               </div>
@@ -3863,7 +3869,9 @@ const Navbar = () => {
         </button>
         <div
           className={`absolute left-0 mt-0 bg-white shadow-lg rounded-b-lg overflow-hidden transition-all duration-300 origin-top z-50 ${
-            isHovered ? 'opacity-100 transform scale-y-100' : 'opacity-0 transform scale-y-0 pointer-events-none'
+            isHovered
+              ? "opacity-100 transform scale-y-100"
+              : "opacity-0 transform scale-y-0 pointer-events-none"
           }`}
         >
           {item.id === 1 ? (
@@ -3874,7 +3882,7 @@ const Navbar = () => {
                     key={idx}
                     to={link.to}
                     className={`block px-6 py-2.5 text-[#333] hover:bg-white hover:text-[#0c9a8d] transition-colors ${
-                      idx === item.leftColumn.length - 1 ? 'italic' : ''
+                      idx === item.leftColumn.length - 1 ? "italic" : ""
                     }`}
                   >
                     {link.label}
@@ -3900,11 +3908,23 @@ const Navbar = () => {
             </div>
           ) : (
             <div className="py-2 w-64">
-              {item.dropdownItems.map((link, idx) => (
+              {/* {item.dropdownItems.map((link, idx) => (
                 <Link
                   key={idx}
                   to={link.to}
                   className="block px-6 py-2.5 text-[#333] hover:bg-[#f8f8f8] hover:text-[#0c9a8d] transition-colors"
+                >
+                  {link.label}
+                </Link>
+              ))} */}
+
+              {item.dropdownItems.map((link, idx) => (
+                <Link
+                  key={idx}
+                  to={link.to}
+                  className={`block px-6 py-2.5 text-[#333] hover:bg-[#f8f8f8] hover:text-[#0c9a8d] transition-colors ${
+                    link.label.toLowerCase() === "view all" ? "italic" : ""
+                  }`}
                 >
                   {link.label}
                 </Link>
@@ -3920,7 +3940,9 @@ const Navbar = () => {
     <div className="hidden lg:block border-t border-b border-gray-200">
       <div className="container mx-auto px-6 flex justify-between items-center">
         <div className="flex">
-          {navItems.slice(0, 5).map(item => <NavItem key={item.id} item={item} />)}
+          {navItems.slice(0, 5).map((item) => (
+            <NavItem key={item.id} item={item} />
+          ))}
         </div>
         <div className="flex items-center">
           <NavItem item={navItems[5]} />
@@ -3934,8 +3956,12 @@ const Navbar = () => {
     <header className="sticky top-0 left-0 right-0 z-60 bg-white shadow-sm">
       <TopBar />
       <div className="container mx-auto px-6 flex justify-between items-center">
-        <div className="lg:hidden"><MobileMenu /></div>
-        <div className="flex-1"><MainLogo /></div>
+        <div className="lg:hidden">
+          <MobileMenu />
+        </div>
+        <div className="flex-1">
+          <MainLogo />
+        </div>
         <div className="lg:hidden w-12" /> {/* placeholder */}
       </div>
       <NavMenu />

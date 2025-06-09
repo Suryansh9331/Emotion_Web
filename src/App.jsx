@@ -2543,6 +2543,16 @@ import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import ScrollToTop from "./components/ScrollToTop";
 
+
+
+
+
+// import All  pages of Sex And Wellnes Section of main navbar (Fourth Section of main Navbar)
+import ShwHome from "./pages/SHW/ShwHome";
+import PregnancyAndFertility from "./pages/Pregnancy-Fertility/PregnancyAndFertility";
+import HealthCare from "./pages/Health-Care/HealthCare";
+import PeriodsAndVagina from "./pages/PeriodsAndVagina/PeriodsAndVagina";
+// now importing All required component for these above 4 pages 
 import ArticleNews from "./pages/SHW/ArticleNews";
 import ArticleNewsTwo from "./pages/SHW/ArticleNewsTwo";
 import STIArticlesLayout from "./pages/SHW/ArticleSection";
@@ -2563,20 +2573,67 @@ import HCArticleNewsTwo from "./pages/Health-Care/ArticleNewsTwo";
 import HCArticlesLayout from "./pages/Health-Care/ArticleSection";
 import HCArticlesLayoutTwo from "./pages/Health-Care/ArticleSectionTwo";
 
-// import ArticleNews from "./pages/SHW/ArticleNews";
-// import ArticleNewsTwo from "./pages/SHW/ArticleNewsTwo";
-// import STIArticlesLayout from "./pages/SHW/ArticleSection";
-// import ArticleSectionTwo from "./pages/SHW/ArticleSectionTwo";
 
-// import ArticleNews from "./pages/SHW/ArticleNews";
-// import ArticleNewsTwo from "./pages/SHW/ArticleNewsTwo";
-// import STIArticlesLayout from "./pages/SHW/ArticleSection";
-// import ArticleSectionTwo from "./pages/SHW/ArticleSectionTwo";
+// import All  pages of Sex And Relationship Section of main navbar (Third Section of main Navbar) 
+//1 .relationship page
+import Relationship from "./pages/Sex&Relationship/Realtionship/Relationship";
+// now importing All required component for these above  page
+import RSArticleNews from "./pages/Sex&Relationship/Realtionship/ArticleNews";
+import RSArticleNewsTwo from "./pages/Sex&Relationship/Realtionship/ArticleNewsTwo";
+import RSArticlesLayout from "./pages/Sex&Relationship/Realtionship/ArticleSection";
+import RSArticlesLayoutTwo from "./pages/Sex&Relationship/Realtionship/ArticleSectionTwo";
+
+
+// 2 .Masturbation page
+import Masturbation from "./pages/Sex&Relationship/Masturbation/Masturbation";
+// now importing All required component for these above  page
+import MBArticleNews from "./pages/Sex&Relationship/Masturbation/ArticleNews";
+import MBArticleNewsTwo from "./pages/Sex&Relationship/Masturbation/ArticleNewsTwo";
+import MBArticlesLayout from "./pages/Sex&Relationship/Masturbation/ArticleSection";
+import MBArticlesLayoutTwo from "./pages/Sex&Relationship/Masturbation/ArticleSectionTwo";
+
+
+// 3 .DatingAndHookup page
+import DatingAndHookup from "./pages/Sex&Relationship/DatingAndHookup/DatingAndHookup";
+// now importing All required component for these above  page
+import DAHArticleNews from "./pages/Sex&Relationship/DatingAndHookup/ArticleNews";
+import DAHArticleNewsTwo from "./pages/Sex&Relationship/DatingAndHookup/ArticleNewsTwo";
+import DAHArticlesLayout from "./pages/Sex&Relationship/DatingAndHookup/ArticleSection";
+import DAHArticlesLayoutTwo from "./pages/Sex&Relationship/DatingAndHookup/ArticleSectionTwo";
+
+// 4 . BoundariesAndconsent page
+import BoundariesAndconsent from "./pages/Sex&Relationship/BoundariesAndconsent/BoundariesAndconsent";
+// now importing All required component for these above  page
+import BACArticleNews from "./pages/Sex&Relationship/BoundariesAndconsent/ArticleNews";
+import BACArticleNewsTwo from "./pages/Sex&Relationship/BoundariesAndconsent/ArticleNewsTwo";
+import BACArticlesLayout from "./pages/Sex&Relationship/BoundariesAndconsent/ArticleSection";
+import BACArticlesLayoutTwo from "./pages/Sex&Relationship/BoundariesAndconsent/ArticleSectionTwo";
+
+// 5 . BetterSex page
+import BetterSex from "./pages/Sex&Relationship/BetterSex/BetterSex";
+// now importing All required component for these above  page
+import BSArticleNews from "./pages/Sex&Relationship/BetterSex/ArticleNews";
+import BSArticleNewsTwo from "./pages/Sex&Relationship/BetterSex/ArticleNewsTwo";
+import BSArticlesLayout from "./pages/Sex&Relationship/BetterSex/ArticleSection";
+import BSArticlesLayoutTwo from "./pages/Sex&Relationship/BetterSex/ArticleSectionTwo";
+
+
+// 6 . ViewAll page
+import ViewAll from "./pages/Sex&Relationship/ViewAll/ViewAll";
+// now importing All required component for these above  page
+import ViewAllArticleNews from "./pages/Sex&Relationship/ViewAll/ArticleNews";
+import ViewAllArticleNewsTwo from "./pages/Sex&Relationship/ViewAll/ArticleNewsTwo";
+import ViewAllArticlesLayout from "./pages/Sex&Relationship/ViewAll/ArticleSection";
+import ViewAllArticlesLayoutTwo from "./pages/Sex&Relationship/ViewAll/ArticleSectionTwo";
+
+
+
+
+
 
 import Home from "./Home";
 import DynamicTabsComponent from "./Components2/TabSection/Tabs";
 
-import ShwHome from "./pages/SHW/ShwHome";
 
 import UID from "./pages/IUD/IUD";
 import BCD from "./pages/Birth-Control-Shot/BCD";
@@ -2594,9 +2651,11 @@ import Condom from "./pages/Condom/Condom";
 import CC from "./pages/CervicalCap/CC";
 import SAG from "./pages/Spermicide&Gell/SAG";
 import EC from "./pages/Emergency-contraception/EC";
-import PregnancyAndFertility from "./pages/Pregnancy-Fertility/PregnancyAndFertility";
-import HealthCare from "./pages/Health-Care/HealthCare";
-import PeriodsAndVagina from "./pages/PeriodsAndVagina/PeriodsAndVagina";
+
+
+
+
+
 const App = () => {
   return (
     <div className="flex flex-col min-h-screen">
@@ -2617,6 +2676,56 @@ const App = () => {
           />
           <Route path="/health-care" element={<HealthCare />} />
 
+         
+          {/* Routes for All Subpages of main  Sex&Relationship Section of main Navbar  */}
+           {/*1. relationship page And its sub Aritcles */}
+          <Route path="/sex-relationships/Relationships" element={<Relationship />} />
+          <Route path="/sex-relationships/Relationships/articles" element={<RSArticlesLayout />} />
+          <Route path="/sex-relationships/Relationships/articles/:slug" element={<RSArticleNews />} />
+          <Route path="/sex-relationships/Relationships/articles-two" element={<RSArticlesLayoutTwo />} />
+          <Route path="/sex-relationships/Relationships/articles-two/:slug" element={<RSArticleNewsTwo />} />
+         
+
+          {/*2. Masturbation page And its sub Aritcles */}
+          <Route path="/sex-relationships/Masturbation" element={<Masturbation />} />
+          <Route path="/sex-relationships/Masturbation/articles" element={<MBArticlesLayout />} />
+          <Route path="/sex-relationships/Masturbation/articles/:slug" element={<MBArticleNews />} />
+          <Route path="/sex-relationships/Masturbation/articles-two" element={<MBArticlesLayoutTwo />} />
+          <Route path="/sex-relationships/Masturbation/articles-two/:slug" element={<MBArticleNewsTwo />} />
+         
+
+          {/*3. DatingAndHookup page And its sub Aritcles */}
+          <Route path="/sex-relationships/DatingAndHookup" element={<DatingAndHookup />} />
+          <Route path="/sex-relationships/DatingAndHookup/articles" element={<DAHArticlesLayout />} />
+          <Route path="/sex-relationships/DatingAndHookup/articles/:slug" element={<DAHArticleNews />} />
+          <Route path="/sex-relationships/DatingAndHookup/articles-two" element={<DAHArticlesLayoutTwo />} />
+          <Route path="/sex-relationships/DatingAndHookup/articles-two/:slug" element={<DAHArticleNewsTwo />} />
+         
+          
+          {/*4. BoundariesAndconsent page And its sub Aritcles */}
+          <Route path="/sex-relationships/BoundariesAndconsent" element={<BoundariesAndconsent />} />
+          <Route path="/sex-relationships/BoundariesAndconsent/articles" element={<BACArticlesLayout />} />
+          <Route path="/sex-relationships/BoundariesAndconsent/articles/:slug" element={<BACArticleNews />} />
+          <Route path="/sex-relationships/BoundariesAndconsent/articles-two" element={<BACArticlesLayoutTwo />} />
+          <Route path="/sex-relationships/BoundariesAndconsent/articles-two/:slug" element={<BACArticleNewsTwo />} />
+         
+          
+          {/*5. Better Sex page And its sub Aritcles */}
+          <Route path="/sex-relationships/BetterSex" element={<BetterSex />} />
+          <Route path="/sex-relationships/BetterSex/articles" element={<BSArticlesLayout />} />
+          <Route path="/sex-relationships/BetterSex/articles/:slug" element={<BSArticleNews />} />
+          <Route path="/sex-relationships/BetterSex/articles-two" element={<BSArticlesLayoutTwo />} />
+          <Route path="/sex-relationships/BetterSex/articles-two/:slug" element={<BSArticleNewsTwo />} />
+         
+          
+          {/*6. View all page And its sub Aritcles */}
+          <Route path="/sex-relationships/ViewAll" element={<ViewAll />} />
+          <Route path="/sex-relationships/ViewAll/articles" element={<ViewAllArticlesLayout />} />
+          <Route path="/sex-relationships/ViewAll/articles/:slug" element={<ViewAllArticleNews />} />
+          <Route path="/sex-relationships/ViewAll/articles-two" element={<ViewAllArticlesLayoutTwo />} />
+          <Route path="/sex-relationships/ViewAll/articles-two/:slug" element={<ViewAllArticleNewsTwo />} />
+         
+         
           {/* routes for dynamic dataloading for eachPages of Sexual health and wellnessLink of Navbar */}
           <Route path="/articles" element={<STIArticlesLayout />} />
           <Route path="/articles/:slug" element={<ArticleNews />} />
@@ -2640,8 +2749,6 @@ const App = () => {
 
           {/* Redirect any unknown URL back to home */}
           <Route path="*" element={<Navigate to="/" replace />} />
-
-          {/* Redirect any unknown URL back to home */}
 
           {/* types  routes  in submenu bar  under birth control   navigation*/}
 
