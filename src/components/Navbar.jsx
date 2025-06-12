@@ -3557,7 +3557,7 @@ const Navbar = () => {
       leftColumn: [
         {
           label: "Explore birth control options",
-          to: "/birth-control/explore",
+          to: "/birth-control-option",
         },
         { label: "Compare birth control", to: "/birth-control/compare" },
         { label: "How to get birth control", to: "/birth-control/how-to" },

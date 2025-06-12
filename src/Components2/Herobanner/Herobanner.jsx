@@ -357,6 +357,13 @@ import img16 from "../../assets/images/Emergency.png";
 
 const HeroBanner = () => {
   const routeData = {
+    "/birth-control-option": {
+      breadcrumb: "Birth control option > ",
+      title: "Find a method that's right for you.",
+      heading: "Birth Control",
+      image: null,
+      bgColor: "rgb(245,245,245)",
+    },
     "/types/iud": {
       breadcrumb: "Birth control > Birth control ring",
       title: "BIRTH CONTROL",
@@ -504,7 +511,7 @@ const HeroBanner = () => {
       className="w-2/3 h-2/3 object-contain"
     />
   ) : (
-    <span className="text-4xl md:text-5xl lg:text-6xl">💊</span>
+    <span className="text-4xl md:text-5xl lg:text-6xl"></span>
   )}
 </div>
 

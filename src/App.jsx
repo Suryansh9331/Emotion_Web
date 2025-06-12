@@ -2542,7 +2542,7 @@
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import ScrollToTop from "./components/ScrollToTop";
-
+import ExploreBirthControl from "./pages/ExploreBirthControl/ExploreBirtchControl";
 
 
 
@@ -2768,6 +2768,12 @@ const App = () => {
           <Route path="types/spermicide-gell" element={<SAG />} />
           <Route path="types/sterilization" element={<SAG />} />
           <Route path="types/emergency-contraception" element={<EC />} />
+          
+          
+          <Route path="/birth-control-option" element={<ExploreBirthControl />} />
+       
+       
+       
         </Routes>
       </div>
 
