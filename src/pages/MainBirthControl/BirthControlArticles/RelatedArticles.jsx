@@ -7,7 +7,7 @@ const RelatedArticles = () => {
       <div className="mb-8">
 
         <div className="mb-6">
-          <h2 className="text-2xl md:text-3xl text-[#028388] font-normal mb-1">RelatedArticles</h2>
+          <h2 className="text-2xl md:text-3xl text-[#028388] font-normal mb-1">You might like... </h2>
           <div className="w-16 h-0.5 bg-[#028388]"></div>
         </div>
       </div>
@@ -63,7 +63,7 @@ const RelatedArticles = () => {
         <div className="flex gap-4 bg-white rounded-lg p-4 shadow-sm">
           <img src='/230912_PTD_CapitolHill-04c.jpg' alt='' className='h-44 w-44'/>
           <div className="flex-1">
-            <p className="text-gray-400 text-xs uppercase tracking-wide mb-1">BIRTH CONTROL</p>
+            <p className="text-gray-400 text-xs uppercase tracking-wide mb-1">You might like...</p>
             <h3 className="text-gray-800 font-medium text-sm md:text-base leading-tight">
              Why this year calls for more gratitude toward birth control options.
             </h3>

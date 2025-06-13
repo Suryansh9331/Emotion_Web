@@ -7,35 +7,35 @@ const ExploreSection = () => {
       id: 1,
       title: "IUD",
       image: "https://www.bedsider.org/assets/twentyone/birth_control/method_images/iud-019120dc0ab2f0b68e7658d021ddb6eb31d95c5cd332a3d38b9946ec8015a5ee.png",
-      url: "/birth-control/iud",
+      url: "types/iud",
       filters: ["Most Effective", "Hormone free"]
     },
     {
       id: 2,
       title: "Implant (Nexplanon)",
       image: "https://www.bedsider.org/assets/twentyone/birth_control/method_images/implant_desktop-86fd6b420351ab086fda48ffcf78ceb046207ceecbb739d6893e1f53c46892c4.png", // Replace with actual URL
-      url: "/birth-control/implant",
+      url: "/types/implant",
       filters: ["Most Effective", "Side effects"]
     },
     {
       id: 3,
       title: "Birth control shot",
       image: "https://www.bedsider.org/assets/twentyone/birth_control/method_images/the_shot-32d7d165b0575ce536eccc9ce8c731433a0dc5e734108a23cb04251c1b9ee452.png", // Replace with actual URL
-      url: "/birth-control/shot",
+      url: "/types/birth-control-shot",
       filters: ["Most Effective", "Side effects", "Improves periods/bleeding"]
     },
     {
       id: 4,
       title: "Birth control patch",
       image: "https://www.bedsider.org/assets/twentyone/birth_control/method_images/the_patch-5fd2183cbc3210302a9873ea10e4926a5bd4d2b0e10b5d0c8b1cda383a4f85e4.png", // Replace with actual URL
-      url: "/birth-control/patch",
+      url: "/types/patch",
       filters: ["Side effects", "Privacy"]
     },
     {
       id: 5,
       title: "Birth control pill",
       image: "https://www.bedsider.org/assets/twentyone/birth_control/method_images/the_pill-14a1d6d26188a9c077865b5a5bfd371f181d95952f118ebea8c33cccfbeb688e.png", // Replace with actual URL
-      url: "/birth-control/pill",
+      url: "/types/birth-control-pill",
       filters: ["Side effects", "Improves periods/bleeding"]
     },
     // Row 2 - 7 items
@@ -43,49 +43,49 @@ const ExploreSection = () => {
       id: 6,
       title: "Sterilization",
       image: "https://www.bedsider.org/assets/twentyone/birth_control/method_images/sterilization_desktop-40bc045164be91baae2849f3c0e42ff5c6278b0fe0ef428b73cd1b883a2110cd.png", // Replace with actual URL
-      url: "/birth-control/sterilization",
+      url: "/types/sterilization",
       filters: ["Most Effective", "Hormone free"]
     },
     {
       id: 7,
       title: '"Not right now"',
       image: "https://www.bedsider.org/assets/twentyone/birth_control/method_images/not_right_now-8fd2ae5234fea8055b4debb374a61744328fac3d45c5c167d30d62f1629be921.png", // Replace with actual URL
-      url: "/birth-control/abstinence",
+      url: "/types/not-right-now",
       filters: ["Most Effective", "Hormone free", "Provides STI protection", "Privacy"]
     },
     {
       id: 8,
       title: "Condom",
       image: "https://www.bedsider.org/assets/twentyone/birth_control/method_images/condom-369d652674a8037b387784be6160b4f4b65d5d4c21bcff7f4bc66ebd78eeeae3.png", // Replace with actual URL
-      url: "/birth-control/condom",
+      url: "/types/condom",
       filters: ["Provides STI protection", "Hormone free", "Privacy"]
     },
     {
       id: 9,
       title: "Birth control ring",
       image: "https://www.bedsider.org/assets/twentyone/birth_control/method_images/the_ring-57f1cbe71bcf953ba882b4660ed336182c6b68acdf4012b59e11a1ce0657605a.png", // Replace with actual URL
-      url: "/birth-control/ring",
+      url: "/types/birth-control-ring",
       filters: ["Side effects", "Privacy"]
     },
     {
       id: 10,
       title: "Diaphragm",
       image: "https://www.bedsider.org/assets/twentyone/birth_control/method_images/diaphragm-b68c9bf3f35eb5c4268e220f874a7997715ca03b7d3db8da1aff03c8a031781d.png", // Replace with actual URL
-      url: "/birth-control/diaphragm",
+      url: "/types/diaphragm",
       filters: ["Hormone free", "Privacy"]
     },
     {
       id: 11,
       title: "Internal condom (FC2)",
       image: "https://www.bedsider.org/assets/twentyone/birth_control/method_images/internal_condom_desktop-b97e309a4c0a61b9c513395f5a6efc25569ad2235edbc73a9d22d4092ba8d9ff.png", // Replace with actual URL
-      url: "/birth-control/internal-condom",
+      url: "/types/Internal-condom",
       filters: ["Provides STI protection", "Hormone free", "Privacy"]
     },
     {
       id: 12,
       title: "Fertility awareness methods",
       image: "https://www.bedsider.org/assets/twentyone/birth_control/method_images/fertility_awareness_desktop-ac1c7f45b19ac51267c2ddaf47bc3714fe3b8af49efff2dae221834b7960e8e6.png", // Replace with actual URL
-      url: "/birth-control/fertility-awareness",
+      url: "/types/fertility-awareness",
       filters: ["Hormone free", "Privacy"]
     },
     // Row 3 - 4 items
@@ -93,28 +93,28 @@ const ExploreSection = () => {
       id: 13,
       title: "Spermicide and gel",
       image: "https://www.bedsider.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ3hvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7405a557225d214e0ed51a1887050c2967995406/Spermicide%20+%20Stretched%20+%20Cropped%20+%20Background2.png", // Replace with actual URL
-      url: "/birth-control/spermicide",
+      url: "/types/spermicide-gell",
       filters: ["Hormone free"]
     },
     {
       id: 14,
       title: "Cervical cap",
       image: "https://www.bedsider.org/assets/twentyone/birth_control/method_images/cervical_cap-baa30d32c0955c947a5fb9a5887c84753d0a78863a4f6399466f9b3fc7f9754b.png", // Replace with actual URL
-      url: "/birth-control/cervical-cap",
+      url: "/types/cervical-cap",
       filters: ["Hormone free", "Privacy"]
     },
     {
       id: 15,
       title: "Emergency contraception",
       image: "https://www.bedsider.org/assets/twentyone/birth_control/method_images/emergency_contraception-1d175d4ef1c488d2344c5afcaf07173ea2786dc5fab4c7acfeee520f9d1b704e.png", // Replace with actual URL
-      url: "/birth-control/emergency",
+      url: "/types/emergency-contraception",
       filters: ["Side effects", "Privacy"]
     },
     {
       id: 16,
       title: "Withdrawal (pull-out method)",
       image: "https://www.bedsider.org/assets/twentyone/birth_control/method_images/withdrawal-70f99f263e78eb1c231eec559b204b945917c781ae5de9f925290f07aba01ae9.png", // Replace with actual URL
-      url: "/birth-control/withdrawal",
+      url: "/types/withdrawal",
       filters: ["Hormone free", "Privacy"]
     }
   ];
@@ -145,7 +145,7 @@ const ExploreSection = () => {
   };
 
   const handleMethodClick = (url) => {
-    window.open(url, '_blank');
+    window.open(url, '_self');
   };
 
   // Create rows from filtered methods

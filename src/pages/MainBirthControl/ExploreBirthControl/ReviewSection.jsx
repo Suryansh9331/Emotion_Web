@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const BirthControlReviews = () => {
   const articles = [
@@ -7,21 +8,21 @@ const BirthControlReviews = () => {
       category: "CONDOM",
       title: "Why use condoms?",
       image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmdWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--df0163ef84bb955af19a8d40572928b3a08ebc8c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/1031.jpg",
-      url: "#condoms"
+      url: "/birth-control/reviews"
     },
     {
       id: 2,
       category: "SEXUALLY TRANSMITTED INFECTIONS (STDS, STIS)",
       title: "How do you protect against STIs?",
       image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdndWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e8c32577ae4a7fef4f9fc775e797070bb3f18e25/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/1029.jpg",
-      url: "#stis"
+      url: "/birth-control/reviews"
     },
     {
       id: 3,
       category: "IUD",
       title: "Ellie, 27, IUD",
       image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzRXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7a51c8a7b073b2045a9469eab7cb726b719279ef/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/1010.jpg",
-      ul: "#ellie-iud"
+      url: "/birth-control/reviews"
     }
   ];
 
@@ -120,11 +121,15 @@ const BirthControlReviews = () => {
             ))}
 
             {/* Watch All Reviews Button */}
-            <div className="pt-6">
-              <button className="w-full bg-[#028388] hover:bg-teal-700 text-white font-medium py-4 px-8 rounded-lg transition-all duration-200 text-base shadow-lg hover:shadow-xl transform hover:-translate-y-0.5">
-                watch all reviews
-              </button>
-            </div>
+           <div className="pt-6">
+  <Link
+    to="/birth-control/reviews"
+    className="block w-full text-center bg-[#028388] hover:bg-teal-700 text-white font-medium py-4 px-8 rounded-lg transition-all duration-200 text-base shadow-lg hover:shadow-xl transform hover:-translate-y-0.5"
+  >
+    watch all reviews
+  </Link>
+</div>
+
           </div>
         </div>
       </div>

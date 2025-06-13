@@ -1,8 +1,9 @@
 import { useState, useEffect } from "react";
 import { useParams, Link } from "react-router-dom";
-import { BSarticleContents } from "./data/articles";
+import { BCarticleContents } from "./Data/Articles";
+import { BCarticles } from "./Data/Articles";
 import SubscriptionForm from "../../../components/FriskyComponent";
-
+import RelatedArticles from "./RelatedArticles";
 // const BSArticleNews = () => {
 //   const { slug } = useParams();
 //   const [article, setArticle] = useState(null);
@@ -11,7 +12,7 @@ import SubscriptionForm from "../../../components/FriskyComponent";
 //     // simulate fetching data
 //     const load = async () => {
 //       // in real life, you might fetch(`/api/articles/${slug}`)
-//       const data = BSarticleContents[slug];
+//       const data = BCarticleContents[slug];
 //       setArticle(data || null);
 //     };
 //     load();
@@ -38,19 +39,11 @@ import SubscriptionForm from "../../../components/FriskyComponent";
 // };
 // export default BSArticleNews;
 
-
-
-
-
-
-
-
-
-
-
-const BSArticleNews = () => {
+const BCArticleNews = () => {
   const { slug } = useParams();
   const [PFarticle, setPFArticle] = useState(null);
+
+  const matchingArticle = BCarticles.find((article) => article.slug === slug);
 
   const [selectedFeedback, setSelectedFeedback] = useState(null);
   const handleFeedbackClick = (type) => {
@@ -61,11 +54,11 @@ const BSArticleNews = () => {
   useEffect(() => {
     const load = async () => {
       const cleanSlug = slug?.trim();
-      if (!cleanSlug || !BSarticleContents[cleanSlug]) {
+      if (!cleanSlug || !BCarticleContents[cleanSlug]) {
         setPFArticle(null);
         return;
       }
-      setPFArticle(BSarticleContents[cleanSlug]);
+      setPFArticle(BCarticleContents[cleanSlug]);
     };
     load();
   }, [slug]);
@@ -99,11 +92,13 @@ const BSArticleNews = () => {
       <div className="max-w-4xl mx-auto bg-white">
         {/* Back Navigation */}
         <div className="px-6 pt-6 pb-2">
+         
+
           <Link
-            to="/sex-relationships/BetterSex/articles"
+            to="/birth-control/articles/"
             className="text-[#058e8d] hover:underline text-sm font-medium"
           >
-           Sex & relationships &gt; BetterSex &gt; &gt;
+            Birth Control &gt; {matchingArticle?.category || "Unknown"} &gt;&gt;
           </Link>
         </div>
         {/* Article Title */}
@@ -115,9 +110,8 @@ const BSArticleNews = () => {
             {PFarticle.title}
           </h1>
         </div>
-       
-       
-                {/* Subtitle */}
+
+        {/* Subtitle */}
         {PFarticle.subtitle && (
           <div className="px-6 py-1">
             <p className="text-xl text-gray-600 italic font-medium">
@@ -129,7 +123,7 @@ const BSArticleNews = () => {
         {/* Author and Date Info */}
         <div className="px-6 py-3">
           <div className="text-sm text-gray-500">
-            <span className="font-medium">By {PFarticle.author}</span>
+            <span className="font-medium">{PFarticle.author}</span>
             <span className="mx-2">|</span>
             <span>{PFarticle.date}</span>
             <span className="mx-2">|</span>
@@ -337,10 +331,11 @@ const BSArticleNews = () => {
           </div>
         </div>
       </div>
+      <RelatedArticles />
 
       <SubscriptionForm />
     </>
   );
 };
 
-export default BSArticleNews;
+export default BCArticleNews;

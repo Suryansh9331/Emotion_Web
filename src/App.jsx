@@ -2542,8 +2542,15 @@
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import ScrollToTop from "./components/ScrollToTop";
-import ExploreBirthControl from "./pages/ExploreBirthControl/ExploreBirtchControl";
 
+
+//first sections import (Birth Control Section of main navbar)
+import ExploreBirthControl from "./pages/MainBirthControl/ExploreBirthControl/ExploreBirtchControl";
+import HowToGetBC from "./pages/MainBirthControl/HowToGetBC/HowToGetBC";
+
+
+import BirthControlArticles from "./pages/MainBirthControl/BirthControlArticles/BirthControlArticles";
+ import BCArticleNews from "./pages/MainBirthControl/BirthControlArticles/BCArticleNews" 
 
 
 
@@ -2651,6 +2658,7 @@ import Condom from "./pages/Condom/Condom";
 import CC from "./pages/CervicalCap/CC";
 import SAG from "./pages/Spermicide&Gell/SAG";
 import EC from "./pages/Emergency-contraception/EC";
+import BCreviews from "./pages/MainBirthControl/BCReviews.jsx/BCReviews";
 
 
 
@@ -2770,8 +2778,17 @@ const App = () => {
           <Route path="types/emergency-contraception" element={<EC />} />
           
           
+          
+          
           <Route path="/birth-control-option" element={<ExploreBirthControl />} />
-       
+          <Route path="/birth-control/how-to-get-birth-control" element={<HowToGetBC />} />
+          
+          <Route path="/birth-control/articles" element={<BirthControlArticles />} />
+          <Route path="/birth-control/articles/:slug" element={<BCArticleNews />} />
+
+
+          <Route path="/birth-control/reviews" element={< BCreviews/>} />
+
        
        
         </Routes>

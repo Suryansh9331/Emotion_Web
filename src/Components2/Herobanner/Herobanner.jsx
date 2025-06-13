@@ -357,6 +357,27 @@ import img16 from "../../assets/images/Emergency.png";
 
 const HeroBanner = () => {
   const routeData = {
+    "/birth-control/reviews": {
+      breadcrumb: "Birth control option > ",
+      title: "BIRTH CONTROL",
+      heading: "Birth control reviews",
+      image: null,
+      bgColor: "rgb(245,245,245)",
+    },
+    "/birth-control/articles": {
+      breadcrumb: "Birth control option > ",
+      title: "BIRTH CONTROL",
+      heading: "Birth control articles",
+      image: null,
+      bgColor: "rgb(245,245,245)",
+    },
+    "/birth-control/how-to-get-birth-control": {
+      breadcrumb: "Birth control option > ",
+      title: "How to get birth control",
+      heading: "Find a provider or get it delivered.",
+      image: null,
+      bgColor: "rgb(245,245,245)",
+    },
     "/birth-control-option": {
       breadcrumb: "Birth control option > ",
       title: "Find a method that's right for you.",

@@ -1,6 +1,6 @@
 
-import RouteNavbar from "../../Components2/RouteNavbar/RouteNavbar.jsx"
-import HeroBanner from "../../Components2/Herobanner/Herobanner.jsx";
+import RouteNavbar from "../../../Components2/RouteNavbar/RouteNavbar.jsx"
+import HeroBanner from "../../../Components2/Herobanner/Herobanner.jsx";
 import ExploreSection from "./ExploreSection.jsx";
 import HowToGet from "./HowToGet.jsx";
 import RelatedArticles from "./RelatedArticle.jsx";

@@ -29,7 +29,7 @@ const ThreeTabSection = () => {
   };
 
   return (
-    <div className="w-full max-w-full mx-auto p-24">
+    <div className="w-full max-w-full mx-auto py-4 lg:px-24 px-6">
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {cards.map((card, index) => (
           <div
@@ -38,9 +38,9 @@ const ThreeTabSection = () => {
             style={{ backgroundColor: card.color }}
             onClick={() => handleCardClick(card.url)}
           >
-            <div className="p-4 text-white h-full flex flex-col justify-between min-h-[100px]">
+            <div className="p-2 text-white h-full flex flex-col justify-between min-h-[50px]">
               <div>
-                <h2 className="text-4xl font-bold mb-4 leading-tight">
+                <h2 className="text-2xl font-bold mb-4 leading-tight">
                   {card.title}
                 </h2>
                 <p className="text-lg opacity-90 leading-relaxed">
