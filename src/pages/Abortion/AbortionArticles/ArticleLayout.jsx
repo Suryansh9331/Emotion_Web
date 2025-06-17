@@ -57,7 +57,7 @@
 // };
 // export default AbortionArticlesLayout;
 
-
+import  SubscriptionForm  from "./SubscriptionComponent"
 
 import { Link } from 'react-router-dom';
 import { Abortionarticles } from './Data/article';
@@ -80,7 +80,7 @@ const QuestionPattern = () => (
 );
 
 const ArticleCard = ({ category, title, subtitle, image, hasQuestionPattern }) => (
-  <div className="bg-white rounded-lg p-4 shadow-sm overflow-hidden hover:shadow-md transition-shadow duration-200 mb-6 cursor-pointer">
+  <div className="bg-white  p-4 shadow-sm overflow-hidden hover:shadow-md transition-shadow duration-200 mb-6 cursor-pointer">
     <div className="flex flex-col md:flex-row gap-4">
       <div className="w-full md:w-2/5 h-48 md:h-40 lg:h-48 lg:w-80 overflow-hidden ">
         {hasQuestionPattern ? (
@@ -108,16 +108,22 @@ const ArticleCard = ({ category, title, subtitle, image, hasQuestionPattern }) =
 
 const AbortionArticlesLayout = () => {
   return (
-    <div className="min-h-screen bg-[#f5f5f5] py-8 px-4 sm:px-6 md:px-10 lg:px-20 xl:px-32">
-      <div className="max-w-7xl mx-auto">
+    <div className="min-h-screen bg-[#f5f5f5] py-8    max-w-full">
+      <div className="max-w-6xl mx-auto">
         {Abortionarticles.map((article) => (
           <Link key={article.slug} to={`/abortion/articles/${article.slug}`}>
             <ArticleCard {...article} />
           </Link>
         ))}
+        
       </div>
+     
+
     </div>
-  );
+  
+    
+ 
+);
 };
 
 export default AbortionArticlesLayout;

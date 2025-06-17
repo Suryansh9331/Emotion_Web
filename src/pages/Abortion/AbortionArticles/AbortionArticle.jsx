@@ -13,6 +13,8 @@
 // export default AbortionArticles ;
 
 import AbortionArticlesLayout from './ArticleLayout';
+import SubscriptionForm from './SubscriptionComponent';
+import FooterBanner from './Footerbanner2'
 
 const AbortionArticles = () => {
   return (
@@ -41,6 +43,8 @@ const AbortionArticles = () => {
       </div>
       
       <AbortionArticlesLayout/>
+      <FooterBanner/>
+ <SubscriptionForm />
     </div>
   )
 }

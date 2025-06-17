@@ -284,7 +284,7 @@ const handleFeedbackClick = (type) => {
 </div>
       </div>
       
-      <SubscriptionForm />
+     
     </>
   );
 };
