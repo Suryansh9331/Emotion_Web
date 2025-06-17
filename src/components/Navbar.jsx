@@ -3599,10 +3599,12 @@ const Navbar = () => {
       id: 2,
       title: "Abortion",
       dropdownItems: [
-        { label: "Your options", to: "/abortion/options" },
-        { label: "Common questions", to: "/abortion/questions" },
-        { label: "Cost", to: "/abortion/cost" },
-        { label: "Support", to: "/abortion/support" },
+        { label: "All About Abortion", to: "/abortion/all-about-abortion" },
+        { label: "The abortion pill: What to expect", to: "/abortion/abortion-pill" },
+        { label: "The abortion procedure: What to expect", to: "/abortion/abortion-procedure" },
+        { label: "Pill vs. procedure:", to: "/abortion/abortion-pill-vs-procedure" },
+        { label: "Abortion FAQs", to: "/abortion/support" },
+        { label: "Abortion articles", to: "/abortion/support" },
       ],
     },
     {

@@ -357,6 +357,34 @@ import img16 from "../../assets/images/Emergency.png";
 
 const HeroBanner = () => {
   const routeData = {
+    "/abortion/abortion-pill-vs-procedure": {
+      breadcrumb: "Birth control option > ",
+      title: "ABORTION",
+      heading: "Pill vs. procedure: How to decide",
+      image: null,
+      bgColor: "rgb(245,245,245)",
+    },
+    "/abortion/abortion-procedure": {
+      breadcrumb: "Birth control option > ",
+      title: "ABORTION",
+      heading: "The abortion procedure:What to expect",
+      image: null,
+      bgColor: "rgb(245,245,245)",
+    },
+    "/abortion/abortion-pill": {
+      breadcrumb: "Birth control option > ",
+      title: "ABORTION",
+      heading: "The abortion pill: What to expect",
+      image: null,
+      bgColor: "rgb(245,245,245)",
+    },
+    "/abortion/all-about-abortion": {
+      breadcrumb: "Birth control option > ",
+      title: "ABORTION",
+      heading: "All about abortion",
+      image: null,
+      bgColor: "rgb(245,245,245)",
+    },
     "/birth-control/reviews": {
       breadcrumb: "Birth control option > ",
       title: "BIRTH CONTROL",

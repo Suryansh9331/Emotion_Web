@@ -2659,7 +2659,10 @@ import CC from "./pages/CervicalCap/CC";
 import SAG from "./pages/Spermicide&Gell/SAG";
 import EC from "./pages/Emergency-contraception/EC";
 import BCreviews from "./pages/MainBirthControl/BCReviews.jsx/BCReviews";
-
+import AllAboutAbortion from "./pages/Abortion/AllAboutAbortion/AllAboutAbortion";
+import AbortionPill from "./pages/Abortion/AbortionPill/Abortionpill";
+import AbortionProcedure from "./pages/Abortion/AbortionProcedure/AbortionProcedure";
+import PvsP from "./pages/Abortion/PillvsProcedusre/PvsP";
 
 
 
@@ -2788,6 +2791,10 @@ const App = () => {
 
 
           <Route path="/birth-control/reviews" element={< BCreviews/>} />
+          <Route path="/abortion/all-about-abortion" element={< AllAboutAbortion/>} />
+          <Route path="/abortion/abortion-pill" element={< AbortionPill/>} />
+          <Route path="/abortion/abortion-procedure" element={< AbortionProcedure/>} />
+          <Route path="/abortion/abortion-pill-vs-procedure" element={< PvsP/>} />
 
        
        
