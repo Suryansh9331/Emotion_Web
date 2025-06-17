@@ -2663,7 +2663,7 @@ import AllAboutAbortion from "./pages/Abortion/AllAboutAbortion/AllAboutAbortion
 import AbortionPill from "./pages/Abortion/AbortionPill/Abortionpill";
 import AbortionProcedure from "./pages/Abortion/AbortionProcedure/AbortionProcedure";
 import PvsP from "./pages/Abortion/PillvsProcedusre/PvsP";
-
+import AbortionFAQ from "./pages/Abortion/AbortionFAQ/FAQ";
 
 
 
@@ -2795,6 +2795,7 @@ const App = () => {
           <Route path="/abortion/abortion-pill" element={< AbortionPill/>} />
           <Route path="/abortion/abortion-procedure" element={< AbortionProcedure/>} />
           <Route path="/abortion/abortion-pill-vs-procedure" element={< PvsP/>} />
+          <Route path="/abortion/faqs" element={< AbortionFAQ/>} />
 
        
        

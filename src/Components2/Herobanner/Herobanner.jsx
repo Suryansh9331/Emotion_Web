@@ -357,6 +357,13 @@ import img16 from "../../assets/images/Emergency.png";
 
 const HeroBanner = () => {
   const routeData = {
+    "/abortion/faqs": {
+      breadcrumb: "Birth control option > ",
+      title: "ABORTION",
+      heading: "FAQs",
+      image: null,
+      bgColor: "rgb(245,245,245)",
+    },
     "/abortion/abortion-pill-vs-procedure": {
       breadcrumb: "Birth control option > ",
       title: "ABORTION",

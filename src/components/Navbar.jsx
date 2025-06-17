@@ -3603,7 +3603,7 @@ const Navbar = () => {
         { label: "The abortion pill: What to expect", to: "/abortion/abortion-pill" },
         { label: "The abortion procedure: What to expect", to: "/abortion/abortion-procedure" },
         { label: "Pill vs. procedure:", to: "/abortion/abortion-pill-vs-procedure" },
-        { label: "Abortion FAQs", to: "/abortion/support" },
+        { label: "Abortion FAQs", to: "/abortion/faqs" },
         { label: "Abortion articles", to: "/abortion/support" },
       ],
     },
