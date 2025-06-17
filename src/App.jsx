@@ -2664,7 +2664,8 @@ import AbortionPill from "./pages/Abortion/AbortionPill/Abortionpill";
 import AbortionProcedure from "./pages/Abortion/AbortionProcedure/AbortionProcedure";
 import PvsP from "./pages/Abortion/PillvsProcedusre/PvsP";
 import AbortionFAQ from "./pages/Abortion/AbortionFAQ/FAQ";
-
+import ArticleContent from "./pages/Abortion/AbortionArticles/ArticleContent";
+import AbortionArticles from "./pages/Abortion/AbortionArticles/AbortionArticle"
 
 
 const App = () => {
@@ -2797,6 +2798,8 @@ const App = () => {
           <Route path="/abortion/abortion-pill-vs-procedure" element={< PvsP/>} />
           <Route path="/abortion/faqs" element={< AbortionFAQ/>} />
 
+         <Route path="/abortion/articles" element={<AbortionArticles />} />
+         <Route path="/abortion/articles/:slug" element={<ArticleContent />} />
        
        
         </Routes>
