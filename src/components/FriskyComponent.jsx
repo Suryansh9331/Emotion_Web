@@ -113,7 +113,6 @@
 
 
 
-
 import { useState } from "react"
 
 export default function SubscriptionForm() {
@@ -128,7 +127,7 @@ export default function SubscriptionForm() {
   }
 
   return (
-    <div className="min-h-screen w-full bg-teal-600 flex items-center justify-center p-4">
+    <div className="min-h-auto w-full bg-teal-600 flex items-center justify-center p-8">
       <div className="bg-white rounded-lg overflow-hidden max-w-5xl w-full flex flex-col md:flex-row shadow-xl">
         {/* Image Section */}
         <div className="w-full md:w-1/2 relative">

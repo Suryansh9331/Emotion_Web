@@ -3639,7 +3639,7 @@ const Navbar = () => {
       id: 5,
       title: "Lifestyle & inspiration",
       dropdownItems: [
-        { label: "Entertainment", to: "/lifestyle/entertainment" },
+        { label: "Self-love & body positivity", to: "/lifestyle-and-inspiration/self-love-and-body-positivity" },
         { label: "Stories", to: "/lifestyle/stories" },
         { label: "News", to: "/lifestyle/news" },
         { label: "Resources", to: "/lifestyle/resources" },

@@ -2634,6 +2634,16 @@ import ViewAllArticlesLayout from "./pages/Sex&Relationship/ViewAll/ArticleSecti
 import ViewAllArticlesLayoutTwo from "./pages/Sex&Relationship/ViewAll/ArticleSectionTwo";
 
 
+// importing  pages for self love and lifestyle  and body positivity page 
+
+import SelfLove from "./pages/LifestyleAndInspiration/SelfLove/SelfLove";
+// now importing All required component for these above  page
+import SelfLoveArticleNews from "./pages/LifestyleAndInspiration/SelfLove/ArticleNews";
+import SelfLoveArticleNewsTwo from "./pages/LifestyleAndInspiration/SelfLove/ArticleNewsTwo";
+import SelfLoveArticlesLayout from "./pages/LifestyleAndInspiration/SelfLove/ArticleSection";
+import SelfLoveArticlesLayoutTwo from "./pages/LifestyleAndInspiration/SelfLove/ArticleSectionTwo";
+
+
 
 
 
@@ -2758,6 +2768,14 @@ const App = () => {
           <Route path="/HCarticles/:slug" element={<HCArticleNews />} />
           <Route path="/HCarticles-two" element={<HCArticlesLayoutTwo />} />
           <Route path="/HCarticles-two/:slug" element={<HCArticleNewsTwo />} />
+         
+         
+         {/* Self LOve And Body Positivity Section Pages */}
+          <Route path="/lifestyle-and-inspiration/self-love-and-body-positivity" element={<SelfLove />} />
+          <Route path="/lifestyle-and-inspiration/self-love-and-body-positivity/article" element={<SelfLoveArticlesLayout />} />
+          <Route path="/lifestyle-and-inspiration/self-love-and-body-positivity/articles/:slug" element={<SelfLoveArticleNews />} />
+          <Route path="/lifestyle-and-inspiration/self-love-and-body-positivity/article-two" element={<SelfLoveArticlesLayoutTwo />} />
+          <Route path="/lifestyle-and-inspiration/self-love-and-body-positivity/article-two/:slug" element={<SelfLoveArticleNewsTwo />} />
 
           {/* Redirect any unknown URL back to home */}
           <Route path="*" element={<Navigate to="/" replace />} />
