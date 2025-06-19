@@ -945,7 +945,7 @@ const InspirationArticlesLayout = () => {
           {Inspirationarticles.map(article => (
             <Link
               key={article.slug}
-              to={`/sex-relationships/Relationships/articles/${article.slug}`}
+              to={`/lifestyle-and-inspiration/Inspiration/articles/${article.slug}`}
             >
               <ArticleCard {...article} />
             </Link>

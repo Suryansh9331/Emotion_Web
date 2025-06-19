@@ -11,7 +11,7 @@ const Inspiration = () => {
       <div className="relative rounded-lg overflow-hidden min-h-[400px] md:min-h-[600px] flex flex-col justify-center items-center p-8">
         {/* Background image with brightness filter */}
         <img
-          src="https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHhwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--874145a538cc3b8db78b692285aa15827c2dcbd9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/how%20to%20help%20your%20long%20distance%20relationship%20thrive.jpg"
+          src="https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbFJyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0530b64d728ec4511c1544f8daef2e4cb1da2e69/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Vibe%20check%202025.jpg"
           alt=""
           className="absolute inset-0 w-full h-full object-cover filter brightness-70"
         />
@@ -25,7 +25,7 @@ const Inspiration = () => {
             Inspirations{" "}
           </p>
           <h2 className="text-2xl md:text-4xl lg:text-5xl font-bold leading-tight">
-            What to do when you've been Friend Zoned{" "}
+            Vibe check 2025: Leave these icks behind for the new year{" "}
           </h2>
         </div>
       </div>

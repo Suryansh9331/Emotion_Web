@@ -87,8 +87,8 @@ const handleFeedbackClick = (type) => {
      <div className="max-w-4xl mx-auto bg-white">
         {/* Back Navigation */}
         <div className="px-6 pt-6 pb-2">
-          <Link to="/sex-relationships/Relationships/articles-two" className="text-[#058e8d] hover:underline text-sm font-medium">
-             Sex & relationships &gt; Relationship &gt; &gt;
+          <Link to="/lifestyle-and-inspiration/Inspiration" className="text-[#058e8d] hover:underline text-sm font-medium">
+             Lifestyle & Inspirations &gt; Inspiration &gt; &gt;
           </Link>
         </div>
 
@@ -127,7 +127,7 @@ const handleFeedbackClick = (type) => {
         {PFarticle.image && (
           <div className="px-6 py-4">
             <img
-              srS={PFarticle.image}
+              src={PFarticle.image}
               alt={PFarticle.title}
               className="w-full h-64 md:h-96 object-cover rounded-none"
             />

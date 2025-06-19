@@ -86,14 +86,14 @@ const InspirationArticleNews = () => {
 
   return (
     <>
-      <div className="max-w-4xl mx-auto bg-[#f5f5f5]">
+      <div className="max-w-4xl mx-auto bg-white">
         {/* Back Navigation */}
         <div className="px-6 pt-6 pb-2">
           <Link
-            to="/sex-relationships/Relationships/articles"
+            to="/lifestyle-and-inspiration/Inspiration"
             className="text-[#058e8d] hover:underline text-sm font-medium"
           >
-             Sex & relationships &gt; Relationship &gt; &gt;
+             Lifestle & Inspiration &gt; Inspiration &gt; &gt;
           </Link>
         </div>
         {/* Article Title */}

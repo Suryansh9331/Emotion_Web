@@ -3642,7 +3642,7 @@ const Navbar = () => {
         { label: "Self-love & body positivity", to: "/lifestyle-and-inspiration/self-love-and-body-positivity" },
         { label: "Activism & Politics", to: "/lifestyle-and-inspiration/activism-politics" },
         { label: "Horoscope", to: "/lifestyle-and-inspiration/horoscopes" },
-        { label: "Inspiration", to: "/lifestyle-and-inspiration/inspiration" },
+        { label: "Inspiration", to: "/lifestyle-and-inspiration/Inspiration" },
       ],
     },
     {

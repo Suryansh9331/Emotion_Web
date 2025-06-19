@@ -204,7 +204,7 @@ const InspirationArticlesLayoutTwo = () => (
         {InspirationarticlesTwo.map(article => (
           <Link
             key={article.slug}
-            to={`/sex-relationships/Relationships/articles-two/${article.slug}`}
+            to={`/lifestyle-and-inspiration/Inspiration/articles-two/${article.slug}`}
           >
             <ArticleCard {...article} />
           </Link>
