@@ -1,13 +1,13 @@
 import SubscriptionForm from "../../../components/FriskyComponent";
-import SelfLoveArticlesLayout from "./ArticleSection";
-import SelfLoveArticlesLayoutTwo from "./ArticleSectionTwo";
+import InspirationArticlesLayout from "./ArticleSection";
+import InspirationArticlesLayoutTwo from "./ArticleSectionTwo";
 import FourthComponent from "./fourthComponent";
 import { Link } from "react-router-dom";
-const SelfLove = () => {
+const Inspiration = () => {
   return (
     <div>
       <FourthComponent />
-      <SelfLoveArticlesLayout />
+      <InspirationArticlesLayout />
       <div className="relative rounded-lg overflow-hidden min-h-[400px] md:min-h-[600px] flex flex-col justify-center items-center p-8">
         {/* Background image with brightness filter */}
         <img
@@ -22,14 +22,14 @@ const SelfLove = () => {
         {/* Content */}
         <div className="relative z-10 text-left text-white max-w-full mx-auto md:ml-32 md:mt-48">
           <p className="text-sm md:text-base font-semibold tracking-wider uppercase mb-6 opacity-90">
-            SelfLoves{" "}
+            Inspirations{" "}
           </p>
           <h2 className="text-2xl md:text-4xl lg:text-5xl font-bold leading-tight">
             What to do when you've been Friend Zoned{" "}
           </h2>
         </div>
       </div>
-      <SelfLoveArticlesLayoutTwo />
+      <InspirationArticlesLayoutTwo />
      <div className="min-h-auto bg-white ">
      
       <main className=" py-12 bg-[#e5e5e5]">
@@ -69,7 +69,7 @@ const SelfLove = () => {
     </div>
   );
 };
-export default SelfLove;
+export default Inspiration;
 
 // This code defines a React component for a Relationship page, which includes various sections such as articles, images, and a subscription form. It uses Tailwind CSS for styling and layout. The component is structured to provide a visually appealing and informative user experience related to relationships and health care topics.
 

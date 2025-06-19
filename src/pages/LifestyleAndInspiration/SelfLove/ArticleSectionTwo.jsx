@@ -204,7 +204,7 @@ const SelfLoveArticlesLayoutTwo = () => (
         {SelfLovearticlesTwo.map(article => (
           <Link
             key={article.slug}
-            to={`/sex-relationships/Relationships/articles-two/${article.slug}`}
+            to={`/lifestyle-and-inspiration/self-love-and-body-positivity/articles-two/${article.slug}`}
           >
             <ArticleCard {...article} />
           </Link>

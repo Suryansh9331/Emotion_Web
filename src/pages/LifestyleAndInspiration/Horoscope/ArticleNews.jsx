@@ -1,9 +1,9 @@
 import { useState, useEffect } from "react";
 import { useParams, Link } from "react-router-dom";
-import { SelfLovearticleContents } from "./data/articles";
+import { HoroscopearticleContents } from "./data/articles";
 import SubscriptionForm from "../../../components/FriskyComponent";
 
-// const SelfLoveArticleNews = () => {
+// const HoroscopeArticleNews = () => {
 //   const { slug } = useParams();
 //   const [article, setArticle] = useState(null);
 
@@ -11,7 +11,7 @@ import SubscriptionForm from "../../../components/FriskyComponent";
 //     // simulate fetching data
 //     const load = async () => {
 //       // in real life, you might fetch(`/api/articles/${slug}`)
-//       const data = SelfLovearticleContents[slug];
+//       const data = HoroscopearticleContents[slug];
 //       setArticle(data || null);
 //     };
 //     load();
@@ -22,7 +22,7 @@ import SubscriptionForm from "../../../components/FriskyComponent";
 //   return (
 //     <>
 //     <div className="max-w-3xl mx-auto p-6">
-//       <Link to="/SelfLovearticles" className="text-blue-500 hover:underline">&larr; Back to all articles</Link>
+//       <Link to="/Horoscopearticles" className="text-blue-500 hover:underline">&larr; Back to all articles</Link>
 //       <h1 className="text-3xl font-bold mt-4">{article.title}</h1>
 //       <div className="text-gray-500 text-sm mb-6">
 //         {article.date} &nbsp; Updated: {article.updated}
@@ -36,9 +36,9 @@ import SubscriptionForm from "../../../components/FriskyComponent";
 //     </>
 //   );
 // };
-// export default SelfLoveArticleNews;
+// export default HoroscopeArticleNews;
 
-const SelfLoveArticleNews = () => {
+const HoroscopeArticleNews = () => {
   const { slug } = useParams();
   const [PFarticle, setPFArticle] = useState(null);
 
@@ -51,11 +51,11 @@ const SelfLoveArticleNews = () => {
   useEffect(() => {
     const load = async () => {
       const cleanSlug = slug?.trim();
-      if (!cleanSlug || !SelfLovearticleContents[cleanSlug]) {
+      if (!cleanSlug || !HoroscopearticleContents[cleanSlug]) {
         setPFArticle(null);
         return;
       }
-      setPFArticle(SelfLovearticleContents[cleanSlug]);
+      setPFArticle(HoroscopearticleContents[cleanSlug]);
     };
     load();
   }, [slug]);
@@ -86,14 +86,14 @@ const SelfLoveArticleNews = () => {
 
   return (
     <>
-      <div className="max-w-4xl mx-auto bg-[#f5f5f5]">
+      <div className="max-w-4xl mx-auto bg-white">
         {/* Back Navigation */}
         <div className="px-6 pt-6 pb-2">
           <Link
-            to="/sex-relationships/Relationships/articles"
+            to="/lifestyle-and-inspiration/horoscopes"
             className="text-[#058e8d] hover:underline text-sm font-medium"
           >
-             Sex & relationships &gt; Relationship &gt; &gt;
+             Lifestyle & inspiration &gt; Horoscopes &gt; &gt;
           </Link>
         </div>
         {/* Article Title */}
@@ -333,4 +333,4 @@ const SelfLoveArticleNews = () => {
   );
 };
 
-export default SelfLoveArticleNews;
+export default HoroscopeArticleNews;

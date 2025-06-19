@@ -1,16 +1,16 @@
 // src/components/ArticleNewsTwo.jsx
 import { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { SelfLovearticleContentsTwo } from './data/articles';
+import { InspirationarticleContentsTwo } from './data/articles';
 import SubscriptionForm from "../../../components/FriskyComponent";
 
-// const SelfLoveArticleNewsTwo = () => {
+// const InspirationArticleNewsTwo = () => {
 //   const { slug } = useParams();
 //   const [article, setArticle] = useState(null);
 
 //   useEffect(() => {
 //     const load = async () => {
-//       const data = SelfLovearticleContentsTwo[slug];
+//       const data = InspirationarticleContentsTwo[slug];
 //       setArticle(data || null);
 //     };
 //     load();
@@ -23,7 +23,7 @@ import SubscriptionForm from "../../../components/FriskyComponent";
 //   return (
 //     <>
 //       <div className="max-w-3xl mx-auto p-6">
-//         <Link to="/SelfLovearticles-two" className="text-blue-500 hover:underline">
+//         <Link to="/Inspirationarticles-two" className="text-blue-500 hover:underline">
 //           &larr; Back to Section Two
 //         </Link>
 //         <h1 className="text-3xl font-bold mt-4">{article.title}</h1>
@@ -40,12 +40,12 @@ import SubscriptionForm from "../../../components/FriskyComponent";
 //   );
 // };
 
-// export default SelfLoveArticleNewsTwo;
+// export default InspirationArticleNewsTwo;
 
 
 
 
-const SelfLoveArticleNewsTwo = () => {
+const InspirationArticleNewsTwo = () => {
   const { slug } = useParams();
   const [PFarticle, setPFArticle] = useState(null);
 
@@ -60,11 +60,11 @@ const handleFeedbackClick = (type) => {
   useEffect(() => {
     const load = async () => {
       const cleanSlug = slug?.trim();
-      if (!cleanSlug || !SelfLovearticleContentsTwo[cleanSlug]) {
+      if (!cleanSlug || !InspirationarticleContentsTwo[cleanSlug]) {
         setPFArticle(null);
         return;
       }
-      setPFArticle(SelfLovearticleContentsTwo[cleanSlug]);
+      setPFArticle(InspirationarticleContentsTwo[cleanSlug]);
     };
     load();
   }, [slug]);
@@ -283,4 +283,4 @@ const handleFeedbackClick = (type) => {
   );
 };
 
-export default SelfLoveArticleNewsTwo;
+export default InspirationArticleNewsTwo;

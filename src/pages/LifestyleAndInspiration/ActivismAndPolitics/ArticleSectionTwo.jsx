@@ -152,7 +152,7 @@
 
 // src/components/ArticleSectionTwo.jsx
 import { Link } from 'react-router-dom';
-import { SelfLovearticlesTwo } from './data/articles';
+import { ActivismAndPoliticsarticlesTwo } from './data/articles';
 
 const QuestionPattern = () => (
   <div className="w-full h-full bg-gradient-to-br from-teal-300 to-teal-400 flex flex-wrap items-center justify-center p-6">
@@ -197,14 +197,14 @@ const ArticleCard = ({ category, title, subtitle, image, hasQuestionPattern }) =
   </div>
 );
 
-const SelfLoveArticlesLayoutTwo = () => (
+const ActivismAndPoliticsArticlesLayoutTwo = () => (
   <div className="min-h-screen bg-[#f5f5f5] py-8">
     <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
       <div className="space-y-0">
-        {SelfLovearticlesTwo.map(article => (
+        {ActivismAndPoliticsarticlesTwo.map(article => (
           <Link
             key={article.slug}
-            to={`/sex-relationships/Relationships/articles-two/${article.slug}`}
+            to={`/lifestyle-and-inspiration/activism-politics/articles-two/${article.slug}`}
           >
             <ArticleCard {...article} />
           </Link>
@@ -214,4 +214,4 @@ const SelfLoveArticlesLayoutTwo = () => (
   </div>
 );
 
-export default SelfLoveArticlesLayoutTwo;
+export default ActivismAndPoliticsArticlesLayoutTwo;

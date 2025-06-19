@@ -2644,6 +2644,31 @@ import SelfLoveArticlesLayout from "./pages/LifestyleAndInspiration/SelfLove/Art
 import SelfLoveArticlesLayoutTwo from "./pages/LifestyleAndInspiration/SelfLove/ArticleSectionTwo";
 
 
+import ActivismAndPolitics from "./pages/LifestyleAndInspiration/ActivismAndPolitics/ActivismAndPolitics";
+// now importing All required component for these above  page
+import ActivismAndPoliticsArticleNews from "./pages/LifestyleAndInspiration/ActivismAndPolitics/ArticleNews";
+import ActivismAndPoliticsArticleNewsTwo from "./pages/LifestyleAndInspiration/ActivismAndPolitics/ArticleNewsTwo";
+import ActivismAndPoliticsArticlesLayout from "./pages/LifestyleAndInspiration/ActivismAndPolitics/ArticleSection";
+import ActivismAndPoliticsArticlesLayoutTwo from "./pages/LifestyleAndInspiration/ActivismAndPolitics/ArticleSectionTwo";
+
+
+
+import Horoscope from "./pages/LifestyleAndInspiration/Horoscope/Horoscope";
+// now importing All required component for these above  page
+import HoroscopeArticleNews from "./pages/LifestyleAndInspiration/Horoscope/ArticleNews";
+import HoroscopeArticleNewsTwo from "./pages/LifestyleAndInspiration/Horoscope/ArticleNewsTwo";
+import HoroscopeArticlesLayout from "./pages/LifestyleAndInspiration/Horoscope/ArticleSection";
+import HoroscopeArticlesLayoutTwo from "./pages/LifestyleAndInspiration/Horoscope/ArticleSectionTwo";
+
+
+import Inspiration from "./pages/LifestyleAndInspiration/Inspiration/Inspiration";
+// now importing All required component for these above  page
+import InspirationArticleNews from "./pages/LifestyleAndInspiration/Inspiration/ArticleNews";
+import InspirationArticleNewsTwo from "./pages/LifestyleAndInspiration/Inspiration/ArticleNewsTwo";
+import InspirationArticlesLayout from "./pages/LifestyleAndInspiration/Inspiration/ArticleSection";
+import InspirationArticlesLayoutTwo from "./pages/LifestyleAndInspiration/Inspiration/ArticleSectionTwo";
+
+
 
 
 
@@ -2775,7 +2800,21 @@ const App = () => {
           <Route path="/lifestyle-and-inspiration/self-love-and-body-positivity/article" element={<SelfLoveArticlesLayout />} />
           <Route path="/lifestyle-and-inspiration/self-love-and-body-positivity/articles/:slug" element={<SelfLoveArticleNews />} />
           <Route path="/lifestyle-and-inspiration/self-love-and-body-positivity/article-two" element={<SelfLoveArticlesLayoutTwo />} />
-          <Route path="/lifestyle-and-inspiration/self-love-and-body-positivity/article-two/:slug" element={<SelfLoveArticleNewsTwo />} />
+          <Route path="/lifestyle-and-inspiration/self-love-and-body-positivity/articles-two/:slug" element={<SelfLoveArticleNewsTwo />} />
+      
+         {/* Self LOve And Body Positivity Section Pages */}
+          <Route path="/lifestyle-and-inspiration/activism-politics" element={<ActivismAndPolitics />} />
+          <Route path="/lifestyle-and-inspiration/activism-politics/article" element={<ActivismAndPoliticsArticlesLayout />} />
+          <Route path="/lifestyle-and-inspiration/activism-politics/articles/:slug" element={<ActivismAndPoliticsArticleNews />} />
+          <Route path="/lifestyle-and-inspiration/activism-politics/articles-two" element={<ActivismAndPoliticsArticlesLayoutTwo />} />
+          <Route path="/lifestyle-and-inspiration/activism-politics/articles-two/:slug" element={<ActivismAndPoliticsArticleNewsTwo />} />
+         
+         {/* Self LOve And Body Positivity Section Pages */}
+          <Route path="/lifestyle-and-inspiration/horoscopes" element={<Horoscope />} />
+          <Route path="/lifestyle-and-inspiration/horoscopes/article" element={<HoroscopeArticlesLayout />} />
+          <Route path="/lifestyle-and-inspiration/horoscopes/articles/:slug" element={<HoroscopeArticleNews />} />
+          <Route path="/lifestyle-and-inspiration/horoscopes/articles-two" element={<HoroscopeArticlesLayoutTwo />} />
+          <Route path="/lifestyle-and-inspiration/horoscopes/articles-two/:slug" element={<HoroscopeArticleNewsTwo />} />
 
           {/* Redirect any unknown URL back to home */}
           <Route path="*" element={<Navigate to="/" replace />} />

@@ -140,7 +140,7 @@ const STILayout = () => {
               Lifestyle & inspiration{"  "}
             </span>
             <span className="mx-2">›</span>
-            <span className="text-gray-500">Self-love & body positivity</span>
+            <span className="text-gray-500">Horoscopes</span>
           </div>
         </div>
       </div>
@@ -149,7 +149,7 @@ const STILayout = () => {
       <div className="bg-white py-8 px-4 sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto text-center">
          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-semibold text-[#028388] mb-2">
-            Self-love & body positivity
+           Horoscopes
           </h1>
           {/* Wavy underline */}
           <div className="flex justify-center mb-6">
@@ -163,8 +163,8 @@ const STILayout = () => {
               />
             </svg>
           </div>
-          <p className="text-lg sm:text-xl text-gray-600 font-light">
-            Love yourself as much as we love you.
+          <p className="text-lg sm:text-xl text-gray-600 font-semibold">
+            This is going to be your month.
           </p>
         </div>
       </div>
@@ -173,7 +173,7 @@ const STILayout = () => {
       <div className="relative rounded-lg overflow-hidden min-h-[400px] md:min-h-[600px] flex flex-col justify-center items-center p-8">
         {/* Background image with brightness filter */}
         <img
-          src="https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdTlzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f953648a613f4d32c61742b3bb67b7f6aff2637e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/no-revisions-LBcVO-ht5qM-unsplash.jpg"
+          src="https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdHhzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--902f7ae21635c2b832641c38f1343e8774b9aa16/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Gemini1280x672.jpg"
           alt=""
           className="absolute inset-0 w-full h-full object-cover filter brightness-50"
         />
@@ -184,10 +184,10 @@ const STILayout = () => {
         {/* Content */}
         <div className="relative z-10 text-left text-white max-w-full mx-auto md:ml-32 md:mt-48">
           <p className="text-sm md:text-base font-bold tracking-wider uppercase mb-6 opacity-90">
-            Self-love & body positivity
+           Horoscopes
           </p>
           <h2 className="text-2xl md:text-4xl lg:text-5xl font-bold leading-tight">
-            It’s never too late: A guide to coming out in your 20s and 30s{" "}
+           June 2025 horoscopes: Steamy nights, sultry vibes, and summer love{" "}
           </h2>
         </div>
       </div>

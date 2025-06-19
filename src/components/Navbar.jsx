@@ -3640,9 +3640,9 @@ const Navbar = () => {
       title: "Lifestyle & inspiration",
       dropdownItems: [
         { label: "Self-love & body positivity", to: "/lifestyle-and-inspiration/self-love-and-body-positivity" },
-        { label: "Stories", to: "/lifestyle/stories" },
-        { label: "News", to: "/lifestyle/news" },
-        { label: "Resources", to: "/lifestyle/resources" },
+        { label: "Activism & Politics", to: "/lifestyle-and-inspiration/activism-politics" },
+        { label: "Horoscope", to: "/lifestyle-and-inspiration/horoscopes" },
+        { label: "Inspiration", to: "/lifestyle-and-inspiration/inspiration" },
       ],
     },
     {

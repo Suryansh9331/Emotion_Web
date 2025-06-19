@@ -11,7 +11,7 @@ const SelfLove = () => {
       <div className="relative rounded-lg overflow-hidden min-h-[400px] md:min-h-[600px] flex flex-col justify-center items-center p-8">
         {/* Background image with brightness filter */}
         <img
-          src="https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHhwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--874145a538cc3b8db78b692285aa15827c2dcbd9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/how%20to%20help%20your%20long%20distance%20relationship%20thrive.jpg"
+          src="https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3htIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f90deb4e42c970ac256564ac126d6a442c5ce78c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/20190215_barbiedolls_0149.jpg"
           alt=""
           className="absolute inset-0 w-full h-full object-cover filter brightness-70"
         />
@@ -22,10 +22,10 @@ const SelfLove = () => {
         {/* Content */}
         <div className="relative z-10 text-left text-white max-w-full mx-auto md:ml-32 md:mt-48">
           <p className="text-sm md:text-base font-semibold tracking-wider uppercase mb-6 opacity-90">
-            SelfLoves{" "}
+          Self-love & body positivity {" "}
           </p>
           <h2 className="text-2xl md:text-4xl lg:text-5xl font-bold leading-tight">
-            What to do when you've been Friend Zoned{" "}
+           The 5 Barbie-inspired affirmations we’re STILL saying to ourselves daily{" "}
           </h2>
         </div>
       </div>

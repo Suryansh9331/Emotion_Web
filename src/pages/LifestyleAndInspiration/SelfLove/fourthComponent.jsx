@@ -163,7 +163,7 @@ const STILayout = () => {
               />
             </svg>
           </div>
-          <p className="text-lg sm:text-xl text-gray-600 font-light">
+          <p className="text-lg sm:text-xl text-gray-600 font-semibold">
             Love yourself as much as we love you.
           </p>
         </div>

@@ -1,17 +1,17 @@
 import SubscriptionForm from "../../../components/FriskyComponent";
-import SelfLoveArticlesLayout from "./ArticleSection";
-import SelfLoveArticlesLayoutTwo from "./ArticleSectionTwo";
+import HoroscopeArticlesLayout from "./ArticleSection";
+import HoroscopeArticlesLayoutTwo from "./ArticleSectionTwo";
 import FourthComponent from "./fourthComponent";
 import { Link } from "react-router-dom";
-const SelfLove = () => {
+const Horoscope = () => {
   return (
     <div>
       <FourthComponent />
-      <SelfLoveArticlesLayout />
+      <HoroscopeArticlesLayout />
       <div className="relative rounded-lg overflow-hidden min-h-[400px] md:min-h-[600px] flex flex-col justify-center items-center p-8">
         {/* Background image with brightness filter */}
         <img
-          src="https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHhwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--874145a538cc3b8db78b692285aa15827c2dcbd9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/how%20to%20help%20your%20long%20distance%20relationship%20thrive.jpg"
+          src="https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWRyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7e7687b744addd31da1e9cc6ee88b88bf4685567/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Sagittarius1280x672.jpg"
           alt=""
           className="absolute inset-0 w-full h-full object-cover filter brightness-70"
         />
@@ -22,14 +22,14 @@ const SelfLove = () => {
         {/* Content */}
         <div className="relative z-10 text-left text-white max-w-full mx-auto md:ml-32 md:mt-48">
           <p className="text-sm md:text-base font-semibold tracking-wider uppercase mb-6 opacity-90">
-            SelfLoves{" "}
+            Horoscopes{" "}
           </p>
           <h2 className="text-2xl md:text-4xl lg:text-5xl font-bold leading-tight">
-            What to do when you've been Friend Zoned{" "}
+          December 2024 horoscopes: Get lucky in love this winter{" "}
           </h2>
         </div>
       </div>
-      <SelfLoveArticlesLayoutTwo />
+      <HoroscopeArticlesLayoutTwo />
      <div className="min-h-auto bg-white ">
      
       <main className=" py-12 bg-[#e5e5e5]">
@@ -69,7 +69,7 @@ const SelfLove = () => {
     </div>
   );
 };
-export default SelfLove;
+export default Horoscope;
 
 // This code defines a React component for a Relationship page, which includes various sections such as articles, images, and a subscription form. It uses Tailwind CSS for styling and layout. The component is structured to provide a visually appealing and informative user experience related to relationships and health care topics.
 

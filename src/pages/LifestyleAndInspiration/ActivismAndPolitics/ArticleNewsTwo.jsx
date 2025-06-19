@@ -1,16 +1,16 @@
 // src/components/ArticleNewsTwo.jsx
 import { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { SelfLovearticleContentsTwo } from './data/articles';
+import { ActivismAndPoliticsarticleContentsTwo } from './data/articles';
 import SubscriptionForm from "../../../components/FriskyComponent";
 
-// const SelfLoveArticleNewsTwo = () => {
+// const ActivismAndPoliticsArticleNewsTwo = () => {
 //   const { slug } = useParams();
 //   const [article, setArticle] = useState(null);
 
 //   useEffect(() => {
 //     const load = async () => {
-//       const data = SelfLovearticleContentsTwo[slug];
+//       const data = ActivismAndPoliticsarticleContentsTwo[slug];
 //       setArticle(data || null);
 //     };
 //     load();
@@ -23,7 +23,7 @@ import SubscriptionForm from "../../../components/FriskyComponent";
 //   return (
 //     <>
 //       <div className="max-w-3xl mx-auto p-6">
-//         <Link to="/SelfLovearticles-two" className="text-blue-500 hover:underline">
+//         <Link to="/ActivismAndPoliticsarticles-two" className="text-blue-500 hover:underline">
 //           &larr; Back to Section Two
 //         </Link>
 //         <h1 className="text-3xl font-bold mt-4">{article.title}</h1>
@@ -40,12 +40,12 @@ import SubscriptionForm from "../../../components/FriskyComponent";
 //   );
 // };
 
-// export default SelfLoveArticleNewsTwo;
+// export default ActivismAndPoliticsArticleNewsTwo;
 
 
 
 
-const SelfLoveArticleNewsTwo = () => {
+const ActivismAndPoliticsArticleNewsTwo = () => {
   const { slug } = useParams();
   const [PFarticle, setPFArticle] = useState(null);
 
@@ -60,11 +60,11 @@ const handleFeedbackClick = (type) => {
   useEffect(() => {
     const load = async () => {
       const cleanSlug = slug?.trim();
-      if (!cleanSlug || !SelfLovearticleContentsTwo[cleanSlug]) {
+      if (!cleanSlug || !ActivismAndPoliticsarticleContentsTwo[cleanSlug]) {
         setPFArticle(null);
         return;
       }
-      setPFArticle(SelfLovearticleContentsTwo[cleanSlug]);
+      setPFArticle(ActivismAndPoliticsarticleContentsTwo[cleanSlug]);
     };
     load();
   }, [slug]);
@@ -87,8 +87,8 @@ const handleFeedbackClick = (type) => {
      <div className="max-w-4xl mx-auto bg-white">
         {/* Back Navigation */}
         <div className="px-6 pt-6 pb-2">
-          <Link to="/sex-relationships/Relationships/articles-two" className="text-[#058e8d] hover:underline text-sm font-medium">
-             Sex & relationships &gt; Relationship &gt; &gt;
+          <Link to="/lifestyle-and-inspiration/activism-politics" className="text-[#058e8d] hover:underline text-sm font-medium">
+             Lifestyle & inspiration &gt; Activism & Politics &gt; &gt;
           </Link>
         </div>
 
@@ -127,7 +127,7 @@ const handleFeedbackClick = (type) => {
         {PFarticle.image && (
           <div className="px-6 py-4">
             <img
-              srS={PFarticle.image}
+              src={PFarticle.image}
               alt={PFarticle.title}
               className="w-full h-64 md:h-96 object-cover rounded-none"
             />
@@ -283,4 +283,4 @@ const handleFeedbackClick = (type) => {
   );
 };
 
-export default SelfLoveArticleNewsTwo;
+export default ActivismAndPoliticsArticleNewsTwo;

@@ -1,17 +1,17 @@
 import SubscriptionForm from "../../../components/FriskyComponent";
-import SelfLoveArticlesLayout from "./ArticleSection";
-import SelfLoveArticlesLayoutTwo from "./ArticleSectionTwo";
+import ActivismAndPoliticsArticlesLayout from "./ArticleSection";
+import ActivismAndPoliticsArticlesLayoutTwo from "./ArticleSectionTwo";
 import FourthComponent from "./fourthComponent";
 import { Link } from "react-router-dom";
-const SelfLove = () => {
+const ActivismAndPolitics = () => {
   return (
     <div>
       <FourthComponent />
-      <SelfLoveArticlesLayout />
+      <ActivismAndPoliticsArticlesLayout />
       <div className="relative rounded-lg overflow-hidden min-h-[400px] md:min-h-[600px] flex flex-col justify-center items-center p-8">
         {/* Background image with brightness filter */}
         <img
-          src="https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHhwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--874145a538cc3b8db78b692285aa15827c2dcbd9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/how%20to%20help%20your%20long%20distance%20relationship%20thrive.jpg"
+          src="https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVVVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a6fe70ea4f665c8ee2d31776950cc6b10dccd441/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1047484626.jpg"
           alt=""
           className="absolute inset-0 w-full h-full object-cover filter brightness-70"
         />
@@ -22,14 +22,14 @@ const SelfLove = () => {
         {/* Content */}
         <div className="relative z-10 text-left text-white max-w-full mx-auto md:ml-32 md:mt-48">
           <p className="text-sm md:text-base font-semibold tracking-wider uppercase mb-6 opacity-90">
-            SelfLoves{" "}
+            ActivismAndPoliticss{" "}
           </p>
           <h2 className="text-2xl md:text-4xl lg:text-5xl font-bold leading-tight">
-            What to do when you've been Friend Zoned{" "}
+            Black Lives Matter: Here's how white people can show they really mean it{" "}
           </h2>
         </div>
       </div>
-      <SelfLoveArticlesLayoutTwo />
+      <ActivismAndPoliticsArticlesLayoutTwo />
      <div className="min-h-auto bg-white ">
      
       <main className=" py-12 bg-[#e5e5e5]">
@@ -69,7 +69,7 @@ const SelfLove = () => {
     </div>
   );
 };
-export default SelfLove;
+export default ActivismAndPolitics;
 
 // This code defines a React component for a Relationship page, which includes various sections such as articles, images, and a subscription form. It uses Tailwind CSS for styling and layout. The component is structured to provide a visually appealing and informative user experience related to relationships and health care topics.
 

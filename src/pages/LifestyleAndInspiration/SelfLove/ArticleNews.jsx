@@ -86,14 +86,14 @@ const SelfLoveArticleNews = () => {
 
   return (
     <>
-      <div className="max-w-4xl mx-auto bg-[#f5f5f5]">
+      <div className="max-w-4xl mx-auto bg-white">
         {/* Back Navigation */}
         <div className="px-6 pt-6 pb-2">
           <Link
-            to="/sex-relationships/Relationships/articles"
+            to="/lifestyle-and-inspiration/self-love-and-body-positivity"
             className="text-[#058e8d] hover:underline text-sm font-medium"
           >
-             Sex & relationships &gt; Relationship &gt; &gt;
+            Lifestyle & inspiration &gt; Self-love & body positivity &gt; &gt;
           </Link>
         </div>
         {/* Article Title */}
@@ -105,9 +105,8 @@ const SelfLoveArticleNews = () => {
             {PFarticle.title}
           </h1>
         </div>
-       
-       
-                {/* Subtitle */}
+
+        {/* Subtitle */}
         {PFarticle.subtitle && (
           <div className="px-6 py-1">
             <p className="text-xl text-gray-600 italic font-medium">
@@ -119,7 +118,7 @@ const SelfLoveArticleNews = () => {
         {/* Author and Date Info */}
         <div className="px-6 py-3">
           <div className="text-sm text-gray-500">
-            <span className="font-medium">By {PFarticle.author}</span>
+            <span className="font-medium"> {PFarticle.author}</span>
             <span className="mx-2">|</span>
             <span>{PFarticle.date}</span>
             <span className="mx-2">|</span>

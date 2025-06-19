@@ -1,47 +1,47 @@
-export const SelfLovearticles = [
+export const Horoscopearticles = [
   {
-    slug: "how-to-tell-your-provider-that-you-re-polyamorous",
-    category: "Health care",
-    title: "How to tell your provider that you’re polyamorous",
-      subtitle: "5 tips for getting through the awkwardness to get the best care possible",
+    slug: "2812-may-2025-horoscopes-get-ready-for-some-springtime-fun",
+    category: "Horoscope",
+    title: "May 2025 horoscopes: Get ready for some springtime fun",
+      subtitle: "It’s gonna be May",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWRvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ad46886c0f120f378d0d93710e1f6b611db21443/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Patient%20talk%20with%20doctor.jpghttps://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWRvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ad46886c0f120f378d0d93710e1f6b611db21443/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Patient%20talk%20with%20doctor.jpg",
+      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbzFzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a98f3f46d7d1371be8c767f9aa8cc3fa6c52bf02/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Taurus1280x672.jpg",
     hasQuestionPattern: false,
   },
   {
-    slug: "sexual-health-services-you-can-get-from-the-comfort-of-your-own-home",
-    category: "Health care",
+    slug: "2774-april-2025-horoscopes-warm-days-hot-nights",
+    category: "Horoscope",
     title:
-      "7 sexual health services you can get from the comfort of your own home",
-        subtitle: "Telehealth can make your life so much easier",
+      "April 2025 horoscopes: Warm days, hot nights",
+        subtitle: "Happy Aries season!",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjRVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bed2cccb37e1772149686042339cd81d367a0d72/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-726775319.jpg",
+      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazlzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cb302c2e6b9b6cde4200c1772cbf3064a2236420/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Aries1280-672.jpg",
     hasQuestionPattern: false,
   },
   {
-    slug: "the-best-tips-we-ve-ever-gotten-from-health-care-providers",
-    category: "Health care",
-    title: "The best tips we’ve ever gotten from health care providers",
-    subtitle: "Pass it on",
+    slug: "2769-march-2025-horoscopes-reconnect-with-your-pleasures",
+    category: "Horoscope",
+    title: "March 2025 horoscopes: Reconnect with your pleasures",
+    subtitle: "It's pisces season",
     image:
-      "/SHW/provider_perspectives_header-44b4f94e01ec610c3de2b52585ef601d43bb8196a7253ae8e24896c8838e3.jpg",
+      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdXhyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--98f87c2756753201e6c7390921942f5397699bf7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Pisces1280x672.jpg",
     hasQuestionPattern: false,
   },
   {
-    slug: "dreading-your-annual-exam-here-s-why-you-should-go",
-    category: "Health care",
-    title: "Dreading your annual exam? Here’s why you should go",
+    slug: "2764-february-2025-horoscopes-turn-fantasies-into-reality",
+    category: "Horoscope",
+    title: "February 2025 horoscopes: Turn fantasies into reality",
     subtitle:
-      "And how to make it work for you",
-    image: "/SHW/provider_perspectives_header-44b4f94e01ec610c3de2b52585ef601d43bb8196a7253ae8e24896c8838e3.jpg",
+      "Happy birthday, Aquarius!",
+    image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcHRyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--72c11c03c9ba99539855959d83db85283862c71e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Aquarius-rectangular-static-1280x672.jpg",
     hasQuestionPattern: false,
   },
   {
-    slug: "choosing-a-new-health-care-provider",
-    category: "Health care",
-    title: "Choosing a (new) health care provider",
-    subtitle: "Keep these questions in mind",
-    image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdUZCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--735724c4250dfa90e0f08a9ce768e493bf9630bb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/cropped%20patient%20final%20.jpg",
+    slug: "2727-your-2025-horoscopes-a-new-chapter-awaits",
+    category: "Horoscope",
+    title: "Your 2025 horoscopes: A new chapter awaits!",
+    subtitle: "Welcome new opportunities for love, reflection, and growth",
+    image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHRyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7cd99dbd363566f24c6b7de3fe4123c4ffdf790c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-2183055972.jpg",
     hasQuestionPattern: false,
   },
   
@@ -58,258 +58,365 @@ export const SelfLovearticles = [
 
 
 // Full article contents, keyed by slug
-export const SelfLovearticleContents = {
- "how-to-tell-your-provider-that-you-re-polyamorous": {
-  title: "How to tell your provider that you’re polyamorous",
-  subtitle: "How to tell your provider that you’re polyamorous",
-  author: "By : Kae Burdo",
-  date: "Jul 19, 2024",
-  updated: "Updated: Mar 23, 2025",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWRvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ad46886c0f120f378d0d93710e1f6b611db21443/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Patient%20talk%20with%20doctor.jpg",
-  showSocialIcons: true,
-  content: `I’ve been some flavor of consensually non-monogamous for over 15 years. During those years, I have had to come out as poly to psychiatrists, therapists, primary care physicians, surgeons, specialists, and nurse practitioners.<br><br>
-
-I’m lucky in that I live in a relatively progressive state and care very little what people think of my personal life, but back when I was a military spouse? I would have been horrified to try to broach the topic.<br><br>
-
-Whether you’re newly poly and coming out to a health care provider you’ve had for years, you’ve been poly for a long time and have a new provider, or anything in between, discussing your relationship orientation or sexual practices with your health care provider can be daunting. That said, it can be an important conversation to have in order to make sure you receive the care you need based on your personal risk factors and behaviors.<br><br>
-
-Keep in mind that for folk in rural areas it can often be harder to find accepting and nonjudgmental care than it is for those of us who live in urban areas. Remember, though, that your health care providers are bound by HIPAA, which means that even if they react poorly, they’re still required to keep patient confidentiality. If you’re concerned about being outed, know that they can’t share your private information without putting their career on the line.<br><br>
-
-Here are some tips for how to come out to your health care provider as polyamorous:<br><br>
-
-<b>1. Be sure that you want and need to have this conversation</b><br>
-It’s important to consider why you want to come out to your provider, and if the information is relevant to your care. Do you have multiple sexual partners currently? Do you need an STI test because you have a new sexual partner, but your provider knows you’re married? Does one of your potential partners have herpes, and you’d like to know how to protect yourself and your other partners?<br><br>
-
-If you identify as poly, but don’t currently have any behaviors outside of a monogamous relationship, the conversation may not be necessary (yet). Or perhaps you know it will be eventually, and just want to get it out of the way.<br><br>
-
-<b>2. Decide whether you want to stick with your current provider or find a new one</b><br>
-Whether you’ve been going to the same provider or practice since you were a kid like my wife, or you’ve just established a relationship with one as an adult, coming out as poly to a current provider has both benefits and drawbacks.<br><br>
-
-On the one hand, you may already have a sense of how open or judgmental your provider may be or what the best way might be to broach the conversation. On the other hand, it can be harder to have a potentially fraught conversation with someone you have a long history with, and the risk of them reacting poorly may feel higher stakes than it would with a provider you just met.<br><br>
-
-You may already know that you need or want to find a new provider, or your coming out conversation with your current provider may make it clear that you don’t want to work with them anymore. The first step in looking for a new provider is to try to find someone who is already knowledgeable about polyamory, currently has patients who are poly, or who is at least poly-friendly.<br><br>
-
-<b>3. Describe your behaviors, not your identity</b><br>
-Poly or non-monogamous can mean a lot of different things in practice, and using these terms without further explanation can lead your health care provider to make assumptions that may not be accurate.<br><br>
-
-Instead (or in addition), consider talking about the behaviors you engage in that may be relevant to your care. For example, you could share the number of current sexual partners you have, what genitals they have, your use of barriers and other safer sex practices, and anything else that seems relevant.<br><br>
-
-<b>4. Prepare a script and practice it beforehand</b><br>
-Write yourself a short script with the information you want to cover. Not sure what to say? Here’s a sample script that I’ve used in the past that might help:<br><br>
-
-“Dr. X, I think you should know that I currently (or may in the future) have multiple sexual partners. My partners have X genitalia. I do/do not use a barrier method of birth control with these partners (or I use barriers with X partner and not Y partner). I’m telling you this because I’d like to be able to discuss any risk factors I might have with this information in mind.”<br><br>
-
-Next, practice your script. It may feel a little ridiculous, but practicing what you want to say to your provider can help you feel prepared and confident when the time comes. Whether it’s with a partner or friend or by yourself, take the time to rehearse what you want to say, just like you might do for an interview.<br><br>
-
-<b>5. Know when to walk away</b><br>
-It’s an exhausting prospect, but if you go through all these steps, and your provider ends up being judgmental or negative about your choices, it’s important to know when to cut your losses and start again at step one.<br><br>
-
-If your provider is simply ignorant about polyamory, it’s up to you whether you want to take on the job of educating them about it or would prefer to find a new provider who has more experience with polyamory.<br><br>
-
-It can be a long and painstaking process, but finding a health care provider that you are comfortable honestly discussing your romantic and sexual life with is well worth the effort in the long run.<br><br>
-
-<b>Written by Kae Burdo</b><br><br>
-
-Kae Burdo is an award-winning writer with over 15 years of experience educating, building community, and advocating in the realm of alternative sexuality and relationships—from polyamory to kink to queer identities. Kae has a knack for turning tough topics into accessible chats, whether they’re unpacking climate change, dishing out personal finance tips, or diving into the diverse world of human sexuality.<br><br>
-
-When they’re not sparking important conversations about mental health, gender, intersectional feminism, relationship styles, or consent, Kae’s probably jet-setting to new locales, sipping on funky fruited sour beers, (cross-)stitching up a storm, or reading the latest faerie smut.`
-}
-,"sexual-health-services-you-can-get-from-the-comfort-of-your-own-home": {
-  title: "7 sexual health services you can get from the comfort of your own home",
-  subtitle: "Telehealth can make your life so much easier",
-  author: "By Emma McGowan",
-  date: "Mar 17, 2020",
-  updated: "Updated: May 18, 2023",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjRVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bed2cccb37e1772149686042339cd81d367a0d72/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-726775319.jpg",
-  showSocialIcons: true,
-  content: `One of the big advantages of telehealth is that it allows you to take care of more intimate health care stuff without having to actually go into the doctor’s office, look someone in the eye, and talk about why you need to get tested. (For example.)<br><br>
-
-While it’d be great if we lived in a world where everyone felt comfortable chatting with their health care provider about their sexual health—and a world where we could be guaranteed that all providers would be non-judgmental and knowledgeable about providing trauma-informed care—we just don’t yet.<br><br>
-
-Also, getting to the doctor is itself an obstacle for many. If you have to take time off work or get child care or drive an hour (or all of the above) to get tested for sexually transmitted infections (STIs), it may not be possible to pull it off, even if you’d like to.<br><br>
-
-Luckily, the internet has made it possible to access a range of sexual health services online. Not only can you now get things like condoms and pregnancy tests online, saving you a trip to the pharmacy, you can also meet with health care providers online, get prescriptions, and have medication delivered to you.<br><br>
-
-Here are some options you might want to check out if getting to the doctor is tough for you (or you just dread it):<br><br>
-
-<b>1. Birth control prescriptions and delivery</b><br>
-While we’re not at the point yet where we can buy birth control pills over the counter (we’re working on it!), you can get birth control prescribed by a telehealth provider and get your birth control delivered right to your door. There are a bunch of services out there for getting birth control pills without physically going to see a health care provider, including Hers, GoodRx, Lemonaid Health, Nurx, Pandia Health, Pill Club, PillPack, Planned Parenthood Direct, Prjkt Ruby, and Twentyeight Health. Some of these services also offer other types of hormonal BC options, like the patch and the ring.<br><br>
-
-<b>2. Emergency contraception prescriptions and delivery</b><br>
-If you need emergency contraception right now—maybe the condom broke or you just didn’t realize you were in the fertile part of your cycle—then it’s best to go to the pharmacy. But you can also get emergency contraception before you need it. And if you’re not interested in getting pregnant any time soon, why not stock up on the morning after pill so you have it in an emergency? So much less stressful. Many of the services listed above that offer birth control also offer emergency contraception.<br><br>
-
-<b>3. STI testing and treatment</b><br>
-STI testing is one of those tasks that no one really wants to do, but most everyone really should do. One way to make the whole process easier (and much less awkward) is getting a kit and doing it at home. For at-home STI testing, the telehealth company Nurx offers a variety of options, which you can tailor to your needs. They take most insurance, too! Other telehealth companies that offer at-home STI testing include LetsGetChecked, myLAB Box, and Everlywell.<br><br>
-
-In addition to testing, some telehealth services also offer treatment if it turns out you test positive for an STI. So as you’re deciding which company to use, it might be worth it to see if that’s also an option.<br><br>
-
-<b>4. Herpes medication</b><br>
-Whether you’re taking herpes medication continuously in order to reduce the likelihood of an outbreak or you’re taking it to shorten an outbreak that’s already started, you can get your herpes meds online. You can go to Roman, Nurx, and Hers for medication for both oral and genital herpes, while Lemonaid offers it for genital herpes only.<br><br>
-
-<b>5. Erectile dysfunction drugs</b><br>
-If you or your partner is struggling with erectile dysfunction (ED), it’s important to get checked out by a doctor. ED can be a sign of a health problem, so it’s definitely worth it to go in and get some tests done to rule out anything serious. But if you’ve already done that and just need to get a prescription for ED meds, Roman is a great site for that. (And they also offer treatment for premature ejaculation, genital herpes, and cold sores.)<br><br>
-
-<b>6. UTI treatment</b><br>
-Urinary tract infections (UTIs) can be an unfortunate side effect of sex, especially if you have a vulva. Luckily, you can now get diagnosed and treated with antibiotics for UTIs totally online. Check out Lemonaid, GoodRx, and Planned Parenthood Direct.<br><br>
-
-<b>7. Yeast infection and bacterial vaginosis treatment</b><br>
-If you’re itching away or having unusual discharge and have a sneaky suspicion you might have developed a yeast infection or bacterial vaginosis (BV), you can consult with a health care provider about your symptoms and get treatment via telehealth. For yeast infections, wisp offers one-time treatment or even lets you sign up for regular deliveries of antifungal medication. Another site, virtuwell, offers an appointment and treatment for $49 or less. BV is treated with antibiotics, which you can also get from wisp and virtuwell.<br><br>
-
-With the expansion of telehealth services, it’s easier than it’s ever been to take care of your sexual health. Check out the services we’ve described here to see which, if any, could make your life easier.<br><br>
-
-<b>Written by Emma McGowan</b><br><br>
-
-Emma McGowan is a veteran blogger who writes about startups and sex. She’s Bustle’s sex ed columnist at Sex IDK and a regular contributor to Bustle and Startups.co. Her work has appeared in Mashable, The Daily Dot’s The Kernel, Mic, and The Bold Italic. She’s a sex-positive feminist whose hobbies include making patterns and sewing, connecting with other women, and reading at least three books a week.`
-}
-,
-"the-best-tips-we-ve-ever-gotten-from-health-care-providers": {
-  title: "The best tips we’ve ever gotten from health care providers",
-  subtitle: "Pass it on",
+export const HoroscopearticleContents = {
+"2812-may-2025-horoscopes-get-ready-for-some-springtime-fun": {
+  title: "May 2025 horoscopes: Get ready for some springtime fun",
+  subtitle: "It’s gonna be May",
   author: "",
-  date: "May 05, 2023",
+  date: "Apr 25, 2025",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHRpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7046e9754e1f3814bd9b3498bdc59eb02f7f7cff/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1430317161.jpg",
+  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbzFzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a98f3f46d7d1371be8c767f9aa8cc3fa6c52bf02/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Taurus1280x672.jpg",
   showSocialIcons: true,
-  content: `Over the years we’ve passed along so much great advice and info from sexual and reproductive health care providers. Here are just a few of our favorite tips:<br><br>
+  content: `<b>The sensual vibes of Taurus season are reigning supreme during the first few weeks of May, but there’s still a whole lot of spiciness going on that promises red-hot sparks of passion in everyone’s love life.</b><br><br>
 
-<b>1. Your period is not going to attract sharks (and other vacation sex tips)</b><br>
-Great news! You can go swimming when you’re on your period with only the regular level of fear about shark attacks. You should also know that sand in your vagina is not a great idea. In this article, an expert answers all of your burning vacation sex questions.<br><br>
+Once Gemini season starts on May 20th, flirtations come to a climax, and we’ll be eager to put both our desires and feelings into words. Get ready to get out there and have some springtime fun!<br><br>
 
-<b>2. Vaginal discharge is completely normal</b><br>
-Did you know that it’s totally normal and expected for people with vaginas to have discharge after they go through puberty? Here’s everything you need to know about discharge, including what’s normal and what might be a sign to go get checked out.<br><br>
+<b>Taurus (April 20th - May 20th)</b><br>
+Happy birthday season, Taurus! Confidence doesn’t have to be flashy in order to be attractive. In fact, a hint of birthday sparkle is all you need to catch someone’s eye right now. Subtlety can be seductive, but practice expressing your romantic feelings more openly as the middle of the month approaches—especially under the steamy full moon on May 12th. The new moon two weeks later will put you in touch with your physical desires. Indulge your mind and body.<br><br>
 
-<b>3. You can start birth control right after an abortion</b><br>
-It may be hard to think about when you’re focused on getting an abortion, but you can actually get pregnant again pretty quickly after an abortion. This article answers some common questions about starting a birth control method after an abortion.<br><br>
+<b>Gemini (May 21st - June 20th)</b><br>
+Potential romantic connections within your social life are plentiful during the first third of the month, so make an effort to get out on the town and immerse yourself in the scene—especially before the mid-month full moon swoops in to jumble your schedule. Gemini season begins on May 20th, and the new moon in your sign later that week is the perfect time to make a sweet and sexy birthday wish. Step into the spotlight and soak up all that flirty attention.<br><br>
 
-<b>4. Using birth control now doesn’t affect your chances of getting pregnant in the future</b><br>
-There is so much misinformation out there about birth control. Thankfully, our experts are here to clear things up with a list of things your provider wishes you knew about birth control.<br><br>
+<b>Cancer (June 21st - July 22nd)</b><br>
+Social spring-fling energy is powerful this month, especially once the full moon peaks on May 12th and lights up your sex and dating zone. It’s the perfect time to dial up the passion and get your flirt on. Gemini season brings a more introspective vibe, giving you a chance to explore your desires solo or just spend some time thinking about what you want out of love in the season ahead. Set some romantic intentions under the new moon on May 26th.<br><br>
 
-<b>5. You don’t need ANY products at all to clean your vagina or vulva</b><br>
-Despite what the “feminine hygiene” aisle at your local drugstore would have you believe, your vagina does not need to be cleaned with anything at all, and your vulva can be cleaned with just water! Shocked? We’ve got more info where that came from.<br><br>
+<b>Leo (July 23rd - August 22nd)</b><br>
+Your work and social life are keeping you busy this month, but make room in your schedule for romance, because all sorts of fantasy-filled adventures are unfolding in your love life. The first week of May is the perfect time to get frisky and try something new in the bedroom, so let your imagination run wild. Once Gemini season starts, add a little adventure to your social life, as the new moon on May 26th is great for kicking off new flirtations.<br><br>
 
-<b>6. The morning after pill and the abortion pill are not the same thing</b><br>
-Lots of people mistakenly think the morning after pill (emergency contraception), the birth control pill, and the abortion pill are all one thing. They’re not! In this article, a provider walks through how each one works and how and when to use them.<br><br>
+<b>Virgo (August 23rd - September 22nd)</b><br>
+Spring is a time to let your freak flag fly and have some fun exploring your sexual side. Just don’t let relationship dynamics get too messy, as it’ll be easy for emotional lines to blur at the beginning of the month. The mid-month full moon inspires open and heartfelt conversations, so say what’s on your mind and be honest with your partner(s). Work picks up at the end of May, making stronger communication a major asset in relationships.<br><br>
 
-<b>7. It’s okay to get a new provider if yours isn’t working for you</b><br>
-Actually, it’s not just okay to get a new provider if yours isn’t right for you, it’s a good idea! Finding a provider that’s a good fit for you and for your needs is absolutely essential to getting the care you deserve. This article covers key things to look for when you’re checking out a new provider.`
+<b>Libra (September 23rd - October 22nd)</b><br>
+Your relationships are getting a little springtime glow up this month. The first week of May is an especially sweet time to get lost in a fantasy with your lovers and connect with them on a spiritual level. Emotions feel especially deep and intimate during the full moon on May 12th, but you’ll be ready to embrace romantic adventures once Gemini season starts a week later. The end-of-month full moon could bring a meaningful perspective shift in love, so keep your mind open.<br><br>
+
+<b>Scorpio (October 23rd - November 21st)</b><br>
+Commitment is on your mind this month, and once the full moon peaks in your sign on May 12th, you’ll be ready to put your desires into words. Feelings are bubbling up to the surface in your relationships now, so don’t be afraid to express what you hope to build with someone. The latter half of the month pulls you into an even more intimate headspace, so find a balance between sharing your vulnerable side and setting boundaries to protect your heart.<br><br>
+
+<b>Sagittarius (November 22nd - December 21st)</b><br>
+Romance and passion are everywhere you turn right now, and the first week of May is especially dreamy when it comes to love. Let your fantasies lead the way, toward the bedroom and beyond. Once Gemini season starts on May 20th, relationships take the front seat, and you’ll have a chance to bring more commitment to something that was previously lighthearted. Use the new moon on May 26th to get clear on exactly what you’re looking for in a partnership.<br><br>
+
+<b>Capricorn (December 22nd - January 19th)</b><br>
+Taurus season’s sensual vibe has you feeling especially romantic this month, and the full moon on May 12th is the perfect time to lean into your more flirtatious side. Send that racy text or talk to a partner about some of your passions. Don’t overbook yourself with dates during the latter half of the month, as your schedule could easily get overwhelming. The new moon on May 26th is the perfect time to take a break from the grind and let off some steam in the bedroom.<br><br>
+
+<b>Aquarius (January 20th - February 18th)</b><br>
+Flirtatious energy is all around you this month, and plenty of romantic words could be spoken through the whole beginning of May. Put your feelings into a playlist or a poem. Vibes get especially passionate and playful during the latter half of the month, so prioritize intimate time with your lover(s). The new moon on May 26th is the perfect time to strike up a new romance or spice up an existing one.<br><br>
+
+<b>Pisces (February 19th - March 19th)</b><br>
+Get lost in the magic of physical pleasure during the first week of May, as you’ll feel especially embodied in your sensuality. You might want to get extra adventurous during your solo or partnered playtime during the mid-month full moon, as it’ll light up your desire for new experiences. The new moon two weeks later hits much closer to home, and it’s a good time to slow down and embrace some softer and snugglier time with your romantic interest(s).<br><br>
+
+<b>Aries (March 20th - April 19th)</b><br>
+You’re attracting love and attention everywhere you go right now, thanks to alluring Venus gracing your sign with its seductive magic all month long. It’ll be easy to get lost in a fun fantasy during the first week of May, but emotions will get real under the mid-month full moon. Get in touch with your vulnerable side. The end of the month brings about an empowering new era in your heart, giving you everything you need to set boundaries in relationships and beyond.<br><br>`
+}
+
+,"2774-april-2025-horoscopes-warm-days-hot-nights": {
+  title: "April 2025 horoscopes: Warm days, hot nights",
+  subtitle: "Happy Aries season!",
+  author: "",
+  date: "Mar 28, 2025",
+  updated: "",
+  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazlzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cb302c2e6b9b6cde4200c1772cbf3064a2236420/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Aries1280-672.jpg",
+  showSocialIcons: true,
+  content: `<b>Spring has sprung</b>, so shake off the lingering chill of any cuffing season misfires and start embracing the refreshing and sensual magic of this brand new season.<br><br>
+
+As the month begins, both communication-focused Mercury and love planet Venus are still in full retrograde mode, so relationships continue to be subject to review, reassessment, and baggage from the past. But these backspins come to an end on April 7th and 12th respectively, so be ready to charge ahead when it comes to getting what you want out of love—especially once carnal planet Mars enters passionate Leo on April 18.<br><br>
+
+Summer’s not here yet, but this energy is red-hot.<br><br>
+
+<b>Aries (March 20th - April 19th)</b><br>
+Happy birthday season, Aries! You’re catching eyes and breaking hearts as the sun shines down on you for the first few weeks of the month. But the full moon on April 12th is all about your relationships, so use it to talk openly with your partners and smooth over any imbalances. Your libido gets a turbo-boost mid-month thanks to carnal Mars lighting up your sex and dating zone, but you’ll be even more inclined toward romance once amorous Venus hits your sign on April 30th.<br><br>
+
+<b>Taurus (April 20th - May 20th)</b><br>
+The first half of the month is full of social opportunities, so practice upping your flirting game if you’re single, or take your partners out with you to have fun with friends. Mixing things up and doing new things together will make your romantic connections feel fresh! But once your birthday season starts on April 19th, it’s time to fully prioritize your own pleasure—especially during the new moon in your sign on April 27th. Connect with your senses and make it luxurious.<br><br>
+
+<b>Gemini (May 21st - June 20th)</b><br>
+Career stress starts to dissipate once Mercury retrograde ends on April 7th, leaving you with more energy to devote toward all the pleasures of love and sex—especially during the full moon a week later, which brings all sorts of exciting romantic opportunities. Do some flirting and use your charms to make connections. Initiating a chat with a crush or lover gets easier when lusty Mars hits your communication zone mid-month, so indulge in a little dirty talk or have a heart-to-heart.<br><br>
+
+<b>Cancer (June 21st - July 22nd)</b><br>
+Lustful and libidinous Mars is wrapping up its tour of your sign during the first half of the month, so if you want to make the first move or try something new in the bedroom, capitalize on this red-hot period of confidence and be the initiator. You’ll be ready to leave your cocoon and get into social butterfly mode during the latter stretch of April, so use the end-of-month new moon as an excuse to plan a fun date night or get out to flirt with someone new.<br><br>
+
+<b>Leo (July 23rd - August 22nd)</b><br>
+You’re feeling hungry for new experiences this month, so experiment with something new in the bedroom or plan something out of the norm for a date. Communication gets crystal clear during the mid-month full moon, so if you need to have an important convo with a lover, it’s a great time to do so. Once passionate planet Mars enters your sign on April 18th, you’ll be oozing sex appeal, so don’t be afraid to make the first move and prioritize your desires.<br><br>
+
+<b>Virgo (August 23rd - September 22nd)</b><br>
+You’ve been doing a lot of reflection when it comes to your relationships and desires, but once the clarifying full moon hits on April 12th, it’ll feel like you’ve finally turned a corner. Take the lessons you’ve learned about love and start putting them into practice. The sensual vibes of Taurus season will bring out your adventurous side, giving you a taste for the unusual. Use the new moon on April 27th as an excuse to experiment in the bedroom.<br><br>
+
+<b>Libra (September 23rd - October 22nd)</b><br>
+You’re reevaluating your relationship dynamics and reconnecting with your deeper desires in love this month, and by the time the full moon rises in your sign on April 12th, you’ll be ready to say yes to pleasure. Remember: embracing balance in a partnership means prioritizing yourself, too! Talking through these feelings comes more easily starting mid-month, and you can use the new moon on April 27th as an opportunity to set firm but gentle boundaries to protect your heart as needed.<br><br>
+
+<b>Scorpio (October 23rd - November 21st)</b><br>
+When it comes to sex and dating, your tastes and preferences have probably been changing lately, so make sure you’re honoring your desires as they come this month. Spend some time connecting with your fantasies during the full moon on April 12th. The new moon two weeks later is bursting with romance and pleasure, so soften your heart to the possibility of new love or work on bringing more sensual connection to an existing partnership.<br><br>
+
+<b>Sagittarius (November 22nd - December 21st)</b><br>
+Aries season is turning the passion up to full volume through the first few weeks of this month, so follow your heart and let yourself indulge in whatever feels good. It’s a great time to chase after a springtime crush or pencil in some extra playtime with a lover. Speaking of playtime, your sex life starts getting spicier mid-month, as you’ll suddenly have a craving for more adventurous sensual experiences. Try something you’ve never done before and see how it feels.<br><br>
+
+<b>Capricorn (December 22nd - January 19th)</b><br>
+Venus retrograde may have you revisiting some challenging conversations with lovers during the first half of the month, but once the full moon hits on April 12th, you’ll be feeling a lot more clear-headed and able to steer things in a more productive direction. Trust your instincts in love. Intimacy becomes especially important mid-month, and the new moon on April 27th is the perfect time to focus on maximizing your pleasure and indulging in some sensual fun.<br><br>
+
+<b>Aquarius (January 20th - February 18th)</b><br>
+How can you shut off your thoughts and let yourself experience pure pleasure? The first half of this month is a great time to explore the answers to this question—especially under the fun and adventure-seeking full moon on April 12th. Experiment with something sexy and new. Spicing things up with a partner gets easier once carnal Mars hits your relationship zone a few days later, as you’ll feel inspired to take the lead and bring more passion into all of your romantic encounters.<br><br>
+
+<b>Pisces (February 19th - March 19th)</b><br>
+Both Venus and Mercury are retrograding in your sign as the month begins, so while you may feel a little overwhelmed by all the soul-searching and romantic realignment that’s taken place, you’ll start feeling a lot more clear-headed and confident by the time the full moon hits on April 12. Be ready to talk about all the beneath-the-surface feelings that may have come bubbling up to the surface. The new moon two weeks later brings even more sweetness to communication, making it easier to say what’s on your heart.<br><br>`
 }
 ,
-"dreading-your-annual-exam-here-s-why-you-should-go": {
-  title: "Dreading your annual exam? Here’s why you should go",
-  subtitle: "And how to make it work for you",
-  author: "By Jessica Cruz-Fehr",
-  date: "Mar 07, 2023",
+"2769-march-2025-horoscopes-reconnect-with-your-pleasures": {
+  title: "March 2025 horoscopes: Reconnect with your pleasures",
+  subtitle: "It's Pisces season",
+  author: "",
+  date: "Feb 28, 2025",
   updated: "",
-  image: "https://www.bedsider.org/assets/mobile/provider_perspectives_header-44b4f94e01ec610c3de2b52585ef601d43bb8196a7253ae8e24896c8838e380a.jpg",
+  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdXhyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--98f87c2756753201e6c7390921942f5397699bf7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Pisces1280x672.jpg",
   showSocialIcons: true,
-  content: `Are you dreading your “annual exam”? Not sure how often you need to see a health care provider? Wondering if you can avoid pelvic exams forever? Knowing more about what to expect and how to prepare can help. Even if there’s nothing wrong, you should still see a provider about your sexual and reproductive health needs every year.<br><br>
+  content: `<b>Big things are happening in the cosmos this month</b>, so get ready for some titillating twists and turns that’ll affect love, sex, and beyond.<br><br>
 
-Depending on where you live and your insurance, this provider might be someone who specializes in sexual and reproductive health care, like a gynecologist, nurse midwife, or nurse practitioner, or it could be your regular primary care provider.<br><br>
+Amorous Venus starts retrograding on March 1st, inspiring everyone to give their romantic life a makeover and reconnect with their pleasures. Two weeks later, Mercury retrograde joins the party, mixing signals when it comes to communication and scheduling.<br><br>
 
-Here are the most common questions I hear from patients about annual visits and the answers I give them:<br><br>
+This month also brings back-to-back eclipses that’ll wrap up some meaningful long-term cycles in relationships and kick off some new ones, too. And of course, the spring equinox hits on March 20th, heralding in a refreshing, flirty, and fertile new season ahead.<br><br>
 
-<b>There’s nothing wrong, so why am I here?</b><br>
-An annual check-in with your provider is a low-stress time to ask all of your questions, get sexual health screenings, like a Pap smear or an STI test, and get general health screenings, like a blood pressure check. Doing these “well visits,” or preventative health services, is a good way to find a provider that you trust. These visits can also help identify any issues and help take care of them before they become a problem.<br><br>
+<b>Pisces (February 19th - March 19th)</b><br>
+Happy birthday season, Pisces! Venus is retrograding through your pleasure zone all month, encouraging you to adjust the dynamics of your sex life to make sure your current needs are being met. If you want to make a move on a crush or spice up the passion with a partner, take initiative around March 7th. The mid-month lunar eclipse encourages you to release your need for control in relationships and give your hearts space to breathe. Try to stay present instead of obsessing over every detail.<br><br>
 
-Even better, under the Affordable Care Act, most of these preventative health services, like blood pressure screenings, Pap smears, and birth control, are covered at no cost to you.<br><br>
+<b>Aries (March 20th - April 19th)</b><br>
+Romantic Venus is retrograding in your sign all month, so expect to be rethinking your values and the way you pursue pleasure in relationships—and don’t be surprised if you find yourself revisiting love interests from the past. Aries season starts March 20th, so the spotlight is on you, and the solar eclipse at the end of the month is the perfect time to show off all the growth you’ve had over the past couple years.<br><br>
 
-If you don’t have a provider and need to find one, check out Bedsider’s clinic finder. Making an appointment is usually as easy as double-checking your insurance coverage with the clinic and telling them why you want to be seen.<br><br>
+<b>Taurus (April 20th - May 20th)</b><br>
+You’re feeling flirty and social through the whole first few weeks of the month, so if you’re looking to meet a fresh face, join a group or do some mingling with friends. The mid-month lunar eclipse is here to teach you free-spiritedness when it comes to sex and dating, so work on letting go of your need to control what other people think and just enjoy the ride. If it’s meant to be, there’s no need to cling onto it.<br><br>
 
-<b>If I don’t need a Pap every year, why do I still need to see my provider?</b><br>
-Pap smears screen for cervical cancer and cervical cells that are precancerous. Everyone over the age of 21 should get a Pap smear to check for abnormal cervical cells (sometimes called precancerous cells) that lead to cervical cancer. When these cells are caught early, they can be treated in order to prevent them from becoming cervical cancer.<br><br>
+<b>Gemini (May 21st - June 20th)</b><br>
+Work and friendships are keeping both your mind and calendar occupied this month, but that doesn’t mean you won’t find time for romance. The lunar eclipse mid-month is a sensitive one, so plan something emotionally cozy with a partner or swipe through the apps from the comfort of your couch. You might find yourself feeling especially nostalgic about love now too, especially once Mercury retrograde kicks off. But that’s a good thing—as walking down memory lane could help you see past relationships in a new light.<br><br>
 
-In most cases, you don’t need a Pap smear every year. If you have normal results, follow-up Pap smears are recommended every 3 years until you are 30 and then every 3 to 5 years (depending on whether HPV testing is available as well) until age 65. If you’ve had an abnormal Pap or a positive HPV test, you may need more frequent testing, so talk to your provider about the schedule that is best for you.<br><br>
+<b>Cancer (June 21st - July 22nd)</b><br>
+Adventure is in the air this month, and being open to new things in the bedroom and relationships in general is exactly what you need to spice things up, especially around the second week of March. Say yes to some passionate new experiences. The lunar eclipse mid-month brings big feelings to the surface, allowing you to speak from the heart and express your needs more thoroughly. Trust yourself.<br><br>
 
-Even if you’re up to date on your Pap, the well visit is a great time to answer all your burning questions about your sexual and reproductive health, make sure you have a birth control method that is working for you, talk about emergency contraception, and sometimes screen for health conditions like high blood pressure, high cholesterol, or diabetes.<br><br>
+<b>Leo (July 23rd - August 22nd)</b><br>
+You’ve got lots of emotions brewing in your heart during the first half of the month, as you’re sifting through some of the beneath-the-surface dynamics of your relationships. Don’t forget to set boundaries as you navigate these big feelings. However, try to get out of your head and get in touch with sensual pleasure during the lunar eclipse mid-month, as it could bring some sexy connections. The latter half of March brings out your adventurous streak, making it a great time for experimenting with new lovers, positions, or date spots.<br><br>
 
-<b>My family member had cervical, breast, ovarian, and/or prostate cancer. Do I need more frequent screening?</b><br>
-That depends on the type of cancer and who had it, but it’s a good idea to let your provider know and discuss your family history with them. Here are some things to keep in mind though:<br><br>
+<b>Virgo (August 23rd - September 22nd)</b><br>
+Relationships are under a microscope for you this month, but you can use this close-up look to infuse it all with more love and intimacy on a cellular level. Mid-month brings an opportunity to lock things down with someone who’s been casual or take a step toward deeper commitment with a current partner. During the latter third of the month, drill down into the core of your feelings in relationships and own them, especially once the empowering solar eclipse hits on March 29th.<br><br>
 
-<ul>
-  <li>In most cases, cervical cancer is caused by an HPV infection. So a family history of cervical cancer doesn’t necessarily mean you need more frequent Pap screening. The best way to prevent HPV infection and cervical cancer is with the HPV vaccine—and a well visit is a great time to get an HPV vaccine—it’s now available for everyone up to age 45.</li><br>
-  <li>Breast, ovarian, and prostate cancer can sometimes be related to genes that are passed down in families. Depending on your family history, you may consider screening for these genes. The well visit is a great time to talk to your provider about your family history and discuss whether these screenings are right for you.</li><br>
-  <li>A quick note about breast exams: If you do have a concern or a risk for breast cancer, like a family history, providers recommend a breast exam, but the truth is there isn’t good research that shows doing breast exams regularly for people under 25 or more than every few years for people who are under 40 helps prevent breast cancer.</li><br>
-</ul><br>
+<b>Libra (September 23rd - October 22nd)</b><br>
+Romantic Venus is retrograding in your relationship zone starting March 1st, and communication-focused Mercury will join the party two weeks later, giving you a chance to restructure the interpersonal dynamics in your love life and revisit past issues with partners with a more confident and empowered approach. Meaningful revelations of the heart come when Aries season starts on March 20th, setting the stage for the end-of-month solar eclipse, which should help you get more comfortable prioritizing your own needs.<br><br>
 
-<b>Do I still need a well visit if I’m not at risk for pregnancy right now?</b><br>
-Even if you are not at risk for pregnancy because you aren’t having sex right now or don’t have penis-in-vagina sex, an annual visit is a good time to check in with your provider about your sexual and reproductive health.<br><br>
+<b>Scorpio (October 23rd - November 21st)</b><br>
+Get ready to get your flirt on, because March is bringing all sorts of opportunities to pump more zest and passion into your life. Step out of your comfort zone in love around March 7th, as it’s a great time to try something new and adventurous with a partner. If you’re single, the mid-month lunar eclipse can help you branch out and open your mind to new people. Once the spring equinox hits on March 20th, look forward to some dreamy romantic fantasies and breakthroughs of the heart.<br><br>
 
-You can talk about your chances of getting pregnant in the future and how to prevent STIs. You can also talk about any problems you’re having with your period and discuss if birth control might help with them—people who aren’t at risk for pregnancy often use birth control for other reasons, like managing heavy periods and improving acne.<br><br>
+<b>Sagittarius (November 22nd - December 21st)</b><br>
+Lover planet Venus is retrograding through your sex and dating zone all month, bringing blasts from your romantic past back into your fantasies and DMs alike. Use this energy to help you learn from past mistakes—or perhaps give the hottie who got away a second chance. Things really heat up once Aries season starts on March 20th, especially during the solar eclipse at the end of the month. This fiery energy reminds you that relationships should be fun, so follow your heart.<br><br>
 
-And anyone who has a cervix should keep up with Pap smears, regardless of whether you could become pregnant.<br><br>
+<b>Capricorn (December 22nd - January 19th)</b><br>
+This month is a great time to share what’s on your heart, and you’ll be empowered to initiate some really frank and fruitful conversations with your partners around March 7th. Speak your truth and ask for what you need without hesitation. A mid-month lunar eclipse encourages you to loosen up and embrace the adventurous nature of love. Because remember, the heart isn’t an easy thing to control or predict! Sensitivities are high during the solar eclipse on March 29th, so be gentle with yourself and others.<br><br>
 
-If you’re not having sex right now but you’re considering having sex in the future, think about if you’ll be at risk for pregnancy or STIs. You can then discuss your future birth control and STI prevention needs with your provider during your well visit. That way you can be prepared if you do start having sex.<br><br>
-
-<b>I want to get pregnant, and I’m going to stop my birth control soon. Do I still need to have my well visit?</b><br>
-This is the perfect time for a well visit! You and your provider can discuss ways to start a pregnancy in the best health possible, such as starting folic acid supplementation before pregnancy to prevent some types of birth defects.<br><br>
-
-Your provider may order blood work, review any medications you’re taking to make sure they’re safe to continue during pregnancy, and suggest simple changes you can make to be as healthy as possible before getting pregnant. It’s also a good time to talk to your provider about where you can get prenatal care.<br><br>
-
-<b>I hate getting pelvic exams. Will I have to get one at a well visit?</b><br>
-If you hate getting pelvic exams, it makes sense that you’d be nervous about a well visit. But if you’re not due for a Pap smear, you may not need a pelvic exam at all—in fact, the entire well visit could be a fully-clothed conversation with your provider!<br><br>
-
-If your provider does recommend a pelvic exam, it’s still your choice whether you get one. Know that you can ask to discuss the exam with them beforehand so that you know exactly what’s going to happen. Let your provider know if you have a history of sexual assault or specific concerns about the exam. You can ask to bring a friend, play music during the exam, and/or have each step of the exam explained to you before it happens. You can also ask to stop a pelvic exam (or any exam) at any time, including right in the middle or when it’s almost over.<br><br>
-
-<b>Bottom line:</b> Most insurance covers an annual health exam, and the well visit can help you cover all your bases. Whether you need a Pap smear, want to start a new birth control (or need refills), have questions about your family health history or what tests might be recommended for you, or you just want to talk—call your provider and schedule a well visit today!<br><br>
-
-<b>Written by Jessica Cruz-Fehr</b><br><br>
-
-Jessica Cruz-Fehr is a Certified Nurse-Midwife currently working for a full-scope practice in Alaska. Her professional interests are postpartum care, mood disorders, contraception, and empowering shared decision-making in the birth process. When she’s not at work, she is hiking and running the trails in Alaska, spending time with her wife and kids, and baking vegan treats.`
+<b>Aquarius (January 20th - February 18th)</b><br>
+Love has a way of getting us lost in thought, so try to let your body do the talking through the first weeks of this month. You may find that old miscommunications with lovers start resurfacing for another round of discussion, thanks to Venus and Mercury retrograde. But the lunar eclipse mid-month is a time to say what’s on your heart and figure out how to set healthier boundaries. Two weeks later, a fiery solar eclipse helps you find your voice and confidence, so ask out your crush or tell your lover how you’re feeling.<br><br>`
 }
-,"choosing-a-new-health-care-provider": {
-  title: "Choosing a (new) health care provider",
-  subtitle: "Keep these questions in mind",
-  author: "Jessica Cruz-Fehr",
-  date: "Jan 11, 2022",
+
+,
+"2764-february-2025-horoscopes-turn-fantasies-into-reality": {
+  title: "February 2025 horoscopes: Turn fantasies into reality",
+  subtitle: "Happy birthday, Aquarius!",
+  author: "",
+  date: "Jan 31, 2025",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdUZCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--735724c4250dfa90e0f08a9ce768e493bf9630bb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/cropped%20patient%20final%20.jpg",
+  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcHRyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--72c11c03c9ba99539855959d83db85283862c71e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Aquarius-rectangular-static-1280x672.jpg",
   showSocialIcons: true,
-  content: `Whether you just moved, are ready for a change, or need to find your first provider, choosing a health care provider can feel daunting. This is especially true when you’re looking for a sexual health provider. But finding a provider that’s a good fit for you and your needs is one key to helping you get the care you deserve.<br><br>
+  content: `<b>Valentine’s Day is coming up</b>, and this February’s astrology is as sweet as a heart-shaped box of chocolates. The first week of the month brings a mystical, once-in-a-lifetime alignment of cosmic energies that can connect you with your destiny and turn fantasies into reality. A red-hot full moon two days before Valentine’s Day sets the stage for a passion-fueled celebration. And after nearly three months of backspinning, Mars, which represents energy, action, and desire, finally ends its retrograde on February 23rd, promising higher libidos, more confidence, and a deeper connection to your inner desires.<br><br>
 
-That might mean talking to friends or family about their experiences with their health care providers, checking with your insurance to find a provider in your area, or using our clinic finder to find a provider near you.<br><br>
+<b>Aquarius<br>January 20th–February 18th</b><br>
+Happy birthday season, Aquarius! The first few weeks of the month boost your confidence levels, making it a great time to share what’s in your heart and talk about your desires openly. The full moon mid-month brings loads of heat and passion to your relationships, setting the stage for a red-hot Valentine’s Day, whether you’re linked up or single. The new moon two weeks later is especially sensual, so explore the outer limits of your pleasures and fantasies.<br><br>
 
-Here are some things to think about and questions to ask yourself when deciding if a health care provider is right for you:<br><br>
+<b>Pisces<br>February 19th–March 19th</b><br>
+The first week of the month is one of the most magical and romantic periods of the year for you. Pay attention to the signs and symbols that the universe is giving you—particularly when it comes to your love life. You’ll feel more connected to your sensual side leading up to Valentine’s Day, and expressing your desires openly feels much easier once the day comes. Pisces season starts on February 19th, so use the end-of-month new moon to make a sexy birthday wish.<br><br>
 
-<b>Before you go:</b><br><br>
+<b>Aries<br>March 20th–April 19th</b><br>
+Get ready for a romantic month, Aries, because amorous Venus saunters into your sign on February 4th, infusing your aura with an irresistible magic. The first half of the month is packed with social opportunities, making it a great time to meet a sexy new face or introduce your lover(s) to your friends. The mid-month full moon brings passion to a climax, just in time for Valentine’s Day.<br><br>
 
-<b>Do they offer the services you need?</b><br>
-Are you looking for birth control? Do you need an abortion? Are you having irregular or painful periods and want to find out why? What you need can help determine the type of provider you should look for.<br><br>
+<b>Taurus<br>April 20th–May 20th</b><br>
+This month is an ideal time for you to deepen your relationships with friends, lovers, and family. A friends-with-benefits situation could unfold with magic during the first and last weeks of the month. You might want to take the next step and introduce your partner to your friends or go on a group date. If you’re seeking romance, hit up a Valentine’s Day singles event, as you’ll likely have some good luck. If there’s someone you’d like to ask out or a conversation you’d like to initiate with a lover, you’ll have more confidence to speak your truth during the last week of February.<br><br>
 
-For example, while a primary care provider might be able to test for STIs and give you a prescription for birth control, they may not be able to place IUDs or offer abortion care. So thinking about what services you might need can help you find the right provider. And if you’re not sure what services a provider offers, you can call before you make an appointment to ask.<br><br>
+<b>Gemini<br>May 21st–June 20th</b><br>
+You’re feeling adventurous during the first half of the month, and the steamy mid-month full moon will give you the confidence you need to ask for what you want. There’s no reason to hide your desires—ask and you very well might receive. Pisces season puts a fire under your career, but once Mars retrograde ends on the 23rd, you can channel your craving for variety into your sensual life by trying something new and wild.<br><br>
 
-<b>Do they have any special experience or expertise you need?</b><br>
-Asking friends or family for recommendations can be helpful. However, someone else’s perfect provider might not be perfect for you (and that’s okay).<br><br>
+<b>Cancer<br>June 21st–July 22nd</b><br>
+Love is a wild-hearted dream during the first week of February, so allow yourself to experiment with feelings, positions, and relationship dynamics that you’ve never experienced before. The mid-month full moon lights up your sensual side, so work through your stresses in the bedroom. Once sexy Mars wraps up its retrograde in your sign on the 23rd, you’ll feel even more open to sensual adventures, and the end-of-month new moon is the perfect time to indulge.<br><br>
 
-Think about if there are specific characteristics or skills you are looking for in a provider. For example, some providers have more experience with caring for people who’ve experienced trauma, people with certain medical conditions, or LGBTQ+ people. Figuring out what is most important to you can help narrow down your search.<br><br>
+<b>Leo<br>July 23rd–August 22nd</b><br>
+Romance is alive and well for you right now, so pour some extra energy into your relationships this month. You’ll feel an added sense of adventure, pushing you to try new things and be more open to experimenting—especially during the spicy full moon in your sign mid-month. Emotions deepen during the latter half of February, and the new moon at the end of the month can start you off on a new path of vulnerability in love.<br><br>
 
-<b>In the exam room:</b><br><br>
+<b>Virgo<br>August 23rd–September 22nd</b><br>
+You’ll be craving depth and intensity in your relationships from the first week of February onward, so seek out authentic connection over surface-level interactions. You’ll feel a lot more fulfilled. The latter half of the month—starting with Valentine’s Day—gets especially romantic, so look forward to a sweet glow-up in your relationships. The fantasy-laden new moon on February 27th is the perfect time to bring magic to a partnership or kick off something new and special.<br><br>
 
-<b>How do they talk to you?</b><br>
-Even simple interactions can let you know if you feel comfortable with another person. Pay attention to how a provider greets you. Did they introduce themselves? Did they make eye contact? Did they seem to be listening when you talked?<br><br>
+<b>Libra<br>September 23rd–October 22nd</b><br>
+Passion peaks during the first half of the month, especially once amorous Venus enters your relationship zone on February 4th. It’s a great time to spice things up with a current partner or initiate something hot and fun with someone new. The mid-month full moon lights up fresh flirtations, making for an emotionally connected and open-hearted Valentine’s Day. The new moon two weeks later opens up some room in your schedule for love.<br><br>
 
-<b>Do they respect you as the expert in your life?</b><br>
-Every person has different health care needs and preferences. This means that your provider listens to what is important to you and talks with you to make a plan for your care together instead of presenting a one-size-fits-all list of “shoulds” or “musts.”<br><br>
+<b>Scorpio<br>October 23rd–November 21st</b><br>
+Self-care is an important element of all things in your life this month, especially when it comes to love. Make sure you’re prioritizing rest, health, and wellness in your relationships and personal life alike. Starting on Valentine’s Day, February gets extra romantic, and the rest of the month will be filled with flirtatiousness and plenty of passion. Use the new moon on February 27th to manifest some date nights or pleasure-centric energy in love.<br><br>
 
-You may decide not to have a certain test or procedure or not to have an exam done in a certain way (or not at all), and that’s okay. A provider who respects you will discuss their recommendations and reasons for making them with you, and they will ultimately respect your right to make your own health care decisions even if they are different than their recommendations.<br><br>
+<b>Sagittarius<br>November 22nd–December 21st</b><br>
+Get some Valentine’s Day plans in order, because lover Venus hits your sex and dating zone on February 4th, making romantic connections flow with ease. The mid-month full moon lights up your free-spirited sense of adventure, giving you the confidence to pursue all sorts of exciting new dynamics in love. With this open-hearted energy comes the need for strong boundaries too, and setting those will be much easier once Mars retrograde ends on the 23rd.<br><br>
 
-<b>Are they willing to tailor physical exams to help you feel comfortable?</b><br>
-Some people are worried or scared about physical exams, especially pelvic exams. If you’ve had a particular exam before, think about what made you most comfortable (or uncomfortable) during it, and tell your provider about it.<br><br>
+<b>Capricorn<br>December 22nd–January 19th</b><br>
+Sensual energy is buzzing during the first half of the month, and you’ll also find that some destiny-tinged romantic connections could come up during the first week specifically. That random meet-cute or fateful coincidence could mean something more. The mid-month full moon brings up deep and secret desires. Talk them through with emotional openness and allow yourself to be vulnerable.<br><br>`
+}
 
-You may want to have a fully-clothed conversation prior to undressing for an exam, or maybe you want to do the exam first—it’s your choice! Some people like having each step of the exam explained to them as it’s happening, but others may not want to know the details and may be more comfortable putting in headphones or meditating until the exam is finished.<br><br>
+,"2727-your-2025-horoscopes-a-new-chapter-awaits": {
+  title: "Your 2025 horoscopes: A new chapter awaits!",
+  subtitle: "Welcome new opportunities for love, reflection, and growth",
+  author: "",
+  date: "Dec 27, 2024",
+  updated: "",
+  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHRyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7cd99dbd363566f24c6b7de3fe4123c4ffdf790c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-2183055972.jpg",
+  showSocialIcons: true,
+  content: `<b>Happy new year!</b><br>
+The astrology of 2024 imparted us with some important revelations of the heart, inspiring us to reconnect with our passions and ditch the relationship patterns that were holding us back. And in 2025, it’s time to take that red-hot confidence and charge ahead into the unknown. With both romance planet Venus and sex planet Mars retrograding this year, there’s plenty of opportunity for growth and reflection in our love lives. And with virtually every major planet switching signs, old storylines are coming to a close, while titillating new chapters are being written.<br><br>
 
-The right provider will listen to what’s important to you and tailor the exam so you are comfortable. It’s also okay to tell a provider to stop at any time during an exam, even after it’s started.<br><br>
+Make a resolution to get your birth control on lock, then peep the cosmic magic that’s to come in your horoscope for 2025. Cheers!<br><br>
 
-<b>Can they back up their recommendations with evidence?</b><br>
-As important as it is to have a provider who puts you at ease and whose personality clicks with yours, it is also important to know you’re receiving good care. This can be tricky—how can you tell if a provider’s recommendations are following standards and guidelines and are based on good evidence?<br><br>
+<b>Capricorn</b><br>
+December 22nd - January 19th<br><br>
 
-A good first step is simply to ask why they are making a certain recommendation, such as for a certain treatment, or for one type of birth control over another. Providers should be able to answer those questions in a way that makes sense to you. If you don’t understand, it’s always okay to ask for more information.<br><br>
+<b>What to expect in 2025:</b><br>
+Being productive and taking care of your responsibilities is important, but right now, it’s time to start exploring the growth potential within your relationships, too. If you keep an open heart, romantic surprises will bring a welcome perspective-check to your current priorities—and if you’re willing to take a chance, you’ll find that your love life can be your most meaningful mirror this year.<br><br>
 
-<b>Final thoughts:</b><br>
-Screening potential health care providers to find one that is a good fit for you might take extra work. But in the end, finding a provider you can trust and work with will make your health care visits more comfortable and help you be more in control of your care.<br><br>
+<b>Key dates:</b><br>
+Spend time reconnecting with the things that bring you passion in relationships through January and February. By June, lucky Jupiter hits your partnership zone for the first time in more than a decade, filling your love life with meaningful opportunities for growth, emotional connection, and new perspectives through the rest of the year. Late summer is simmering with romance, so dive head‑first into love when it presents itself.<br><br>
 
-<b>Written by Jessica Cruz-Fehr</b><br><br>
+<b>January forecast:</b><br>
+Happy birthday season and new year! Lustful Mars retrogrades into your relationship zone on January 6th, allowing you to reconnect with your desires in love. The full moon a week later is the perfect time to share your feelings with a partner or initiate a discussion about deepening commitment with someone casual. Communication comes easily through the rest of the month, so talk through whatever’s on your heart.<br><br>
 
-Jessica Cruz-Fehr is a Certified Nurse-Midwife currently working for a full-scope practice in Alaska. Her professional interests are postpartum care, mood disorders, contraception, and empowering shared decision-making in the birth process. When she’s not at work, she is hiking and running the trails in Alaska, spending time with her wife and kids, and baking vegan treats.`
+<b>Aquarius</b><br>
+January 20th - February 18th<br><br>
+
+<b>What to expect in 2025:</b><br>
+Transformational Pluto officially settles into your sign this year, bringing a deep sense of power and confidence that’ll vibrate into everything you touch. But you’ll want to balance the intensity of your feelings with some lightheartedness too—so indulge in passion, romance, and playfulness in sex and dating. It’s OK to enjoy what’s on the surface sometimes and simply have fun for fun’s sake.<br><br>
+
+<b>Key dates:</b><br>
+The eclipses in March and September have you exploring the unspoken dynamics of your relationships, inspiring you to rethink your boundaries and let go of old energetic ties. You may start dipping your toes into some unconventional romantic preferences or uncovering some sexy kinks throughout summer and fall, so keep an open mind. Summer’s Mercury retrograde is the perfect time to revisit past relationship drama and wrap it up once and for all.<br><br>
+
+<b>January forecast:</b><br>
+Your birthday’s coming up, so you have full cosmic permission to kick off the year by indulging. Romantic Venus hits your sensuality zone on January 2nd, helping you get out of your head and fully embody physical pleasure. Once Aquarius season starts on January 19th, be ready to take the spotlight and soak up some flirty attention. Make a sweet and sexy birthday wish under the new moon in your sign on January 29th.<br><br>
+
+<b>Pisces</b><br>
+February 19th - March 19th<br><br>
+
+<b>What to expect in 2025:</b><br>
+This year is sprinkled with pivotal moments of growth and fateful synchronicities from start to finish, all of which will help you level up—both personally and within your relationships. You’re completing some important cycles and coming out the other side with an empowered sense of intuition and maturity, so trust that you know how to make the right decisions in love and follow your heart.<br><br>
+
+<b>Key dates:</b><br>
+The first quarter of the year is buzzing with a bubbly feeling of romance and destiny, so look out for meaningful meet-cutes or other star-crossed connections. The eclipses in March and September challenge you to ditch controlling relationship dynamics and embody a greater sense of agency in relationships. Starting in June, opportunities to connect with passion are abundant, making this an especially steamy time for sex and dating.<br><br>
+
+<b>January forecast:</b><br>
+Mars retrograde might be slowing down energy in the bedroom this month, but be ready to catch some bedroom eyes regardless—as amorous Venus shimmies into your sign starting January 2nd, giving your aura an irresistible glow. The full moon on January 13th helps you reconnect with the things that turn you on, so spend some time experimenting and exploring via solo sex during the latter half of the month.<br><br>
+
+<b>Aries</b><br>
+March 20th - April 19th<br><br>
+
+<b>What to expect in 2025:</b><br>
+Your relationships have undergone a massive transformation over the past year—but so have you, Aries! So throughout the year ahead, you’ll be learning to open your heart to the dreamy magic of romance while also setting the boundaries necessary to maintain something sustainable within the fantasy. You’re evolving, and so is your heart.<br><br>
+
+<b>Key dates:</b><br>
+You’re doing a major review of your romantic life throughout early spring, so give yourself space to reconnect with what you truly value. This culminates in the solar eclipse in late March, which wraps up an important cycle in your relationships. From spring through fall, soften your intuition as you strengthen your boundaries—because both are pertinent to the health of your relationships.<br><br>
+
+<b>January forecast:</b><br>
+You’re feeling ambitious as you head into the new year, so you may feel more consumed by thoughts about work than romance—but you can use the full moon on January 13th as a chance to emotionally connect with a lover or send a sweet overdue text to a crush. You’ll be feeling much more ready to socialize and flirt during the last third of the month, and the new moon on January 29th could bring some fun new connections.<br><br>
+
+<b>Taurus</b><br>
+April 20th - May 20th<br><br>
+
+<b>What to expect in 2025:</b><br>
+This year is all about deepening communication, so start putting your feelings into words and connecting with your partner(s) on an intellectual level. Emotional intelligence is the vibe! You’ll find that talking things through helps you see your romantic life from new perspectives too, allowing you to let go of what’s no longer working for you. You need to make room in your heart for life’s exciting surprises.<br><br>
+
+<b>Key dates:</b><br>
+The eclipses in March and September teach you to let go of inhibitions when it comes to sex and dating, making it easy to connect with pleasures that are truly fulfilling. Conversations get deeper and spicier come summertime, and wearing your heart on your sleeve can lead to greater chemistry and intimacy. In November, Mercury retrograde brings a chance to mend old wounds in love, so don’t shy away from the past.<br><br>
+
+<b>January forecast:</b><br>
+This month kicks off on an exciting note, as you’re feeling especially social, adventurous, and open to exploring new things in love. The full moon on January 13th is a fabulous time to share what’s on your heart, so don’t be afraid to express your true feelings. Action in your career life will steal your attention during the latter half of the month, so let your lovers know you may need some time to refine your grind.<br><br>
+
+<b>Gemini</b><br>
+May 21st - June 20th<br><br>
+
+<b>What to expect in 2025:</b><br>
+You’ve been on a powerful journey of philosophical and mental growth, but this year, it’s time to get out of your head and drop into your body. You’re exploring sensual satisfaction in a new way, allowing yourself to indulge in all of life’s luxuries—so let yourself prioritize pleasure, whether you’re with a partner or flying solo. A little hedonism can be fun sometimes.<br><br>
+
+<b>Key dates:</b><br>
+Lucky Jupiter sparkles in your sign for the first half of the year, crystallizing a major glow-up and enhancing your manifestation powers. But by June, you’ll be more focused on exploring the magic of physical pleasure. Tap into some summertime sensuality! November’s Mercury retrograde brings a chance to rethink your philosophies on love and revisit past conversations about commitment. Leave room for feelings to change.<br><br>
+
+<b>January forecast:</b><br>
+Lusty Mars retrogrades into your sensuality zone on January 6th, so slow things down in the bedroom and listen more closely to what your body’s enjoying. The full moon on January 13th is a great time to explore your physical pleasure and indulge, either solo or with a partner. You’ll be craving adventure under the new moon two weeks later, so get out and try something new.<br><br>
+
+<b>Cancer</b><br>
+June 21st - July 22nd<br><br>
+
+<b>What to expect in 2025:</b><br>
+Magical new opportunities are unlocking in your life this year, Cancer, and you’re embarking on a titillating journey of mental, spiritual, and emotional growth. Be prepared to embrace some totally new experiences in relationships and beyond! Right now, your heart is opening wider than ever—and that’s good, because there’s an abundance of love and romance headed your way.<br><br>
+
+<b>Key dates:</b><br>
+Intimacy and emotional entanglements deepen as you kick off the year, but you’ll feel like a butterfly emerging from a cocoon once lucky Jupiter enters your sign in June for its once-in-a-decade visit. You’re attracting love, blessings, and opportunity like bees to honey. Mercury retrograde in November could bring back memories of lovers’ past, so use this as a chance to learn from your mistakes.<br><br>
+
+<b>January forecast:</b><br>
+Relationships are a big theme now, so once red-hot Mars retrogrades into your sign on January 6th, you’ll need to hold up a mirror to self-doubt and figure out how to stand up for your needs in love. The full moon in your sign on January 13th is the ideal time to open your heart and speak your truth. Once you talk through your feelings, you can use the new moon two weeks later as an excuse to set some revamped boundaries.<br><br>
+
+<b>Leo</b><br>
+July 23rd - August 22nd<br><br>
+
+<b>What to expect in 2025:</b><br>
+If surface-level love starts to lose its appeal, that’s because you’re being given the gift of perception this year, allowing you to see straight to heart of your desires. Relationships are taking on greater power and meaning in 2025, and the bonds you form with others are one of the most transformative forces in your life now. If you want love, move past the shallow end of the pool and get deep.<br><br>
+
+<b>Key dates:</b><br>
+Springtime vibes inspire you to reevaluate your philosophies on love and relationships, while summer’s Mercury retrograde prompts even further self-reflection. Dive into the revelations and you’ll come out the other side even more confident. Stay present with feelings during the lunar eclipse in September, as it opens the door to deeper emotional connections. November’s Mercury retrograde could put you in touch with a past lover for closure, or maybe even a second chance.<br><br>
+
+<b>January forecast:</b><br>
+You’re craving deeper and more vulnerable connections as the year begins, as romantic Venus starts lighting up your intimacy zone on January 2nd. The full moon on January 13th is an introspective one, perhaps best spent alone in bed with your favorite adult toys. Once Aquarius season starts a week later, your relationships are a bigger focus, and the new moon on January 29th could inspire a fresh discussion about commitment.<br><br>
+
+<b>Virgo</b><br>
+August 23rd - September 22nd<br><br>
+
+<b>What to expect in 2025:</b><br>
+You’re flushing away all that no longer serves you this year, Virgo, so prepare to shed your old skins to make space for more authentic and aligned relationships. You’ll have abundant opportunities to build spiritual and emotional bonds with your lover(s) and friends alike, so long as you’re willing to embrace some vulnerable new experiences.<br><br>
+
+<b>Key dates:</b><br>
+Romance feels like a dream in late January through early February, and the connection you make now might feel tinged with destiny. Venus retrograde in early spring brings you back to reality, but this allows you to make your fantasies more sustainable. The eclipses in March and September shake up your relationships, so drop your need for perfection and embrace the raw and messy emotions that true love requires. There’s no one right way to do romance, and this year is a time to find what works for you.<br><br>
+
+<b>January forecast:</b><br>
+Relationships are getting a glow-up this month, as amorous Venus hits your partnerships sector on January 2nd, making
+
+ it easy to attract what you want in love. By mid‑month, an influx of flirtations will fill your DMs—and perhaps light up your heart a little bit, too. Schedule some date nights during the last third of the month, especially around the new moon on January 29th.<br><br>
+
+<b>Libra</b><br>
+September 23rd - October 22nd<br><br>
+
+<b>What to expect in 2025:</b><br>
+Taking risks has been paying off for you lately, Libra, and this year brings no shortage of adventures in love and life in general. Mind-expanding new experiences will lead to heart-expanding connections, so look forward to new opportunities in your relationships and career alike. Prioritizing yourself in partnerships isn’t easy, but you’re finding your voice and feeling crystal-clear about what you want.<br><br>
+
+<b>Key dates:</b><br>
+Venus retrograde in March has you reflecting on relationship dynamics and seeing love from a new perspective, and the solar eclipse at the end of the month gives you the confidence you need to trust what you see. From spring through fall, committed Saturn and dreamy Neptune dip into your partnerships zone for the first time in decades, challenging you to keep a level head and maintain your boundaries even if you’ve got a stomach full of crush-induced butterflies.<br><br>
+
+<b>January forecast:</b><br>
+Between holiday exhaustion and work responsibilities, you may feel like kicking off the year in hermit mode—so go ahead and text your crushes from the comfort of your own bed. But once Aquarius season starts on January 19th, you’ll feel a lot more inspired to get out and have some flirty fun. The new moon on January 29th is the perfect time to kick off a new romance or initiate some sexy time with a lover.<br><br>
+
+<b>Scorpio</b><br>
+October 23rd - November 21st<br><br>
+
+<b>What to expect in 2025:</b><br>
+Feeling your deepest feelings also gives you the strength to soar to the highest heights—and this year will take you on a journey through the thrilling extremes of these experiences. New adventures sometimes require new rules, so think outside the box when it comes to love and be willing to try something different. Remember, your relationships shouldn’t be dictated by the status quo.<br><br>
+
+<b>Key dates:</b><br>
+Your sex life gets a meaningful glow-up during the first few months of the year—and if you open your heart to change, trust that passion will come flowing through. In fact, romance is blossoming in entirely new places all throughout 2025. The lunar eclipse in September challenges you to let go of possessive expectations in love and simply enjoy the vibe instead, while November’s Mercury retrograde holds a mirror to your desires.<br><br>
+
+<b>January forecast:</b><br>
+This year kicks off on a beautifully romantic note, as amorous Venus flutters into your sex and dating zone, making it easy to attract all that you desire in love. You may not be feeling as adventurous as usual, but the full moon on January 13th is a good time to gently open your heart to a new experience—but you can temper that with plenty of cuddle time in your romantic comfort zone during the latter half of the month.<br><br>
+
+<b>Sagittarius</b><br>
+November 22nd - December 21st<br><br>
+
+<b>What to expect in 2025:</b><br>
+This year, you’re peeking under the hood of your heart, examining all the nuts and bolts and mechanics that keep the passion flowing through your veins. And of course, you’ll find that relationships are a huge source of growth now—so say yes to new experiences in love and seize opportunities to create more intimacy and emotional closeness with your partner(s). There are endless possibilities in love, so expect the unexpected.<br><br>
+
+<b>Key dates:</b><br>
+Your sex life gets a cosmic makeover during March, so step back from your usual routine and pay attention to what really gets you excited—especially during the solar eclipse at the end of the month. Romance feels like a fantasy from spring through fall, but you’ll need to practice setting boundaries in order to protect the magic. You may start craving some non‑traditional relationship dynamics starting this summer, so be open to exploration and communicate your desires openly.<br><br>
+
+<b>January forecast:</b><br>
+After an eventful holiday season, you may feel more like Netflix‑and‑chilling with your lover(s) rather than getting dolled up for a date night out. Give yourself a chance to rest and enjoy cuddlier romantic connections. Listen to your heart during the full moon on January 13th, as this is a good time to set some gentle boundaries in love. If you’ve got secrets to share, the new moon two weeks later inspires meaningful conversations.<br>
+`
 }
 
 };
@@ -346,53 +453,57 @@ Jessica Cruz-Fehr is a Certified Nurse-Midwife currently working for a full-scop
 
 
 
-export const SelfLovearticlesTwo = [
+export const HoroscopearticlesTwo = [
   {
-    slug: "can-i-tell-if-someone-els",
-    category: "Health care",
-    title: "Why (and how) providers should get consent in the exam room",
-        subtitle: "Using the principles of explicit consent to give patients better care",
+    slug: "2715-november-2024-horoscopes-get-in-touch-with-your-deepest-desires",
+    category: "Horoscope",
+    title: "November 2024 horoscopes: Get in touch with your deepest desires",
+        subtitle: "It's Scorpio season",
 
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3NVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a64108d6732330dc40d38bd75effbb42a4749a69/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-958559804.jpg",
+      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazFwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9e21bb976eea05e5cedc285c67f0075da6d11908/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Scorpio1280x672.jpg",
     hasQuestionPattern: false,
   },
   {
-    slug: "is-telehealth-totally-impersonal",
-    category: "FAQ- Health care",
-    title: "Is telehealth totally impersonal?",
-      
+    slug: "2679-october-2024-horoscopes-embrace-the-mysterious-energy-of-spooky-season",
+    category: "FAQ- Horoscope",
+    title: "October 2024 horoscopes: Embrace the mysterious energy of spooky season",
+      subtitle: "Happy birthday, Libra!",
+
     image:
-      "https://www.bedsider.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
-    hasQuestionPattern: false,
-  },
-  {
-    slug: "5-times-you-should-go-see-a-provider-in-person",
-    category: " Health care",
-    title: "5 times you should go see a provider in person",
-    subtitle: "Telehealth is a game-changer, but sometimes you need to go old school",
-    image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb29VIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c6ee08f0cd89114a37fe83070da4efbe3fffe968/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-103058935_(3).jpg",
+      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEJvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fc3c888b316bf9810a5c21c642080694f6f897a0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Libra1280x672.jpg",
     hasQuestionPattern: false,
   },
   
+  
   {
-    slug: "getting-covered-101-how-to-get-health-insurance-during-open-enrollment",
-    category: " Health care",
-    title: "Getting covered 101: How to get health insurance during open enrollment",
-    subtitle: "Not sure if you need health insurance? Want insurance but not sure how to get it? We've got you covered.",
-    image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1lWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e0ca916e63164ac4d1943c78640d18f4205a5642/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/header_health_insurance_101.jpg",
+    slug: "2674-september-2024-horoscopes-fall-is-bringing-the-heat",
+    category: " Horoscope",
+    title: "September 2024 horoscopes: Fall is bringing the heat!",
+    subtitle: "Start putting the spice in pumpkin spice",
+    image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmRvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--775806631fcd859c37d5ee1922736e470c6e443b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Virgo1280x672.jpg",
     hasQuestionPattern: false,
   },
-{
-    slug: "why-not-to-buy-a-short-term-insurance-plan",
-    category: " Health care",
-    title: "Why NOT to buy a short-term insurance plan",
+
+  {
+    slug: "2637-august-2024-horoscopes-look-out-for-miscommunications-and-old-flames",
+    category: " Horoscope",
+    title: "August 2024 horoscopes: Look out for miscommunications and old flames",
     subtitle:
-      "Your guide to getting health insurance for 2021",
-    image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbE1WIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fc6882c991bd9a64ca313a3c13fde15fff3e8903/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Short-term_Insurance_001.jpg",
+      "Summer sparks could fly",
+    image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbTlvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--28302f250636a9540762ba7550e753418d8a4d4d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Leo1280x672%20(1).jpg",
     hasQuestionPattern: false,
-  }
+  },
+  {
+    slug: "2632-july-2024-horoscopes-lean-into-summer-flirtations",
+    category: " Horoscope",
+    title: "July 2024 horoscopes: Lean into summer flirtations",
+    subtitle:
+      "It's cancer season",
+    image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbFZvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b009cfb0c8c0f05702a50501392b9a95e247cbff/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Cancer1280x672.jpg",
+    hasQuestionPattern: false,
+  },
+  
 ];
 
 
@@ -406,205 +517,322 @@ export const SelfLovearticlesTwo = [
 
 
 // Full article contents, keyed by slug
-export const SelfLovearticleContentsTwo = {
- "can-i-tell-if-someone-els": {
-  title: "Why (and how) providers should get consent in the exam room",
-  subtitle: "Using the principles of explicit consent to give patients better care",
-  author: "By Jennifer Keller, MD MPH",
-  date: "Aug 10, 2021",
+export const HoroscopearticleContentsTwo = {
+ "2715-november-2024-horoscopes-get-in-touch-with-your-deepest-desires": {
+  title: "November 2024 horoscopes: Get in touch with your deepest desires",
+  subtitle: "It's Scorpio season",
+  author: "",
+  date: "Oct 25, 2024",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3NVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a64108d6732330dc40d38bd75effbb42a4749a69/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-958559804.jpg",
+  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazFwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9e21bb976eea05e5cedc285c67f0075da6d11908/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Scorpio1280x672.jpg",
   showSocialIcons: true,
-  content: `<i>This article originally appeared on Bedsider Providers. While it was written by a provider for other providers, we thought it might be helpful for our Bedsider readers to see as well. We want you to know we’re committed to addressing health disparities, and part of our approach to that work is through provider education.</i><br><br>
+  content: `<b>November 2024 horoscopes: Get in touch with your deepest desires</b><br>
+<i>It's Scorpio season</i><br><br>
 
-From the #metoo movement to reports of sexual assault being front and center on national television with the confirmation hearings of Supreme Court Justice Brett Kavanaugh, consent has been making the news headlines. Health care providers have an opportunity to provide a safe space to discuss enthusiastic consent in relationships and to model it in the exam room by obtaining explicit consent from our patients prior to performing intimate exams in the office. Consent is an important component of establishing a respectful and trusting relationship with your patient—one that improves satisfaction, adherence, and ultimately, outcomes.<br><br>
+The astrology of November kicks off with the smoldering and mysterious vibes of Scorpio season, and the intimate new moon on November 1st will put everyone in touch with their deepest desires. A craving for adventure and spontaneity takes over once Sagittarius season starts on November 21st, but lovers beware: Mercury retrograde starts a few days later, and this headache-inducing transit might force you to slow your roll. Beware of exes in your DMs and conversations that could go awry.<br><br>
 
-Obtaining consent for an exam does not need to mean having a patient sign a lengthy consent form before a pelvic exam is performed. It does involve asking and waiting for verbal permission to touch. <b>Here are a few practical examples of how you can incorporate the language of explicit consent in the exam room:</b><br><br>
+<b>Scorpio</b><br>
+October 23rd - November 21st<br>
+Happy birthday season, Scorpio! Make a sweet and sexy birthday wish under the new moon in your sign on November 1st. Your confidence is irresistible and your authenticity is shining. The full moon two weeks later brings a few surprises in your love life, so expect the unexpected in relationships. Change is good! The last third of the month gets you out of your head and into your body, so shake off any post-birthday blues with some fun sexcapades.<br><br>
 
-<b>1. Greet your patients when they’re fully clothed</b><br>
-Sending the message that you care about consent and welcome patients as equal participants in their health care starts before you walk through the door. If your staff asks a patient to undress before you even meet them, you’re taking away their opportunity to consent to each step. You also create a power imbalance where the clothed provider meets a vulnerable, half-clothed patient.<br><br>
+<b>Sagittarius</b><br>
+November 22nd - December 21st<br>
+Yap your way into your crush’s heart (or bed), as chatty planet Mercury joins love planet Venus in your sign on November 2nd, giving you a clever way with words and an irresistible aura. You may feel especially open to spontaneous hook-ups or sexual experimentation right now, too. Spice up your love life by trying something new and don’t be afraid to take the lead! Once your birthday season starts on November 21st, your lovers will be likely to oblige. You’re the star of the show.<br><br>
 
-<b>2. Ask before you touch instead of tell before you touch</b><br>
-Small changes like asking “Is it okay if I touch now?” instead of “Now you will feel my touch,” can make a huge difference in how safe and in control patients feel. You can also let patients defer the exam or remind them it can stop at any point.<br><br>
+<b>Capricorn</b><br>
+December 22nd - January 19th<br>
+A friends-with-benefits situation could turn into something more under the new moon on November 1st, or someone in your social group could suddenly catch your eye. Either way, hit the town with your crew for some flirty fun. The sensual new moon two weeks later is packed with passion, and some romantic surprises could be headed your way. Love planet Venus also starts sparkling in your sign mid-month, making it easy to manifest all of your wildest desires.<br><br>
 
-<b>3. Check in during the exam</b><br>
-Elevating the exam table 30 degrees allows eye contact. During the exam, ask “How are you doing?” or “Tell me if you want to stop.” Let patients know, “I’ll stop anytime you ask.” And if they ask you to stop, do so—immediately.<br><br>
+<b>Aquarius</b><br>
+January 20th - February 18th<br>
+Lusty Mars starts lighting up your relationship zone this month, so don’t wait around for your crush or partner to make the first move. If you want something out of love, go after it with gusto. Some sexy opportunities could arise from simply socializing and mingling with new people once Sagittarius season starts on November 21st. Embrace this free-spirited energy and allow yourself to be a little more spontaneous. Don’t default to saying “no” if your heart wants a “yes.”<br><br>
 
-<b>4. Offer a chaperone</b><br>
-Always offer a chaperone during intimate exams, regardless of your gender. Also, ask for permission before bringing in learners or assistants. Give patients the opportunity to decline privately—before the chaperone enters the room.<br><br>
+<b>Pisces</b><br>
+February 19th - March 19th<br>
+It’s time to broaden your horizons, Pisces—in love, sex, and beyond. Trying new things is a must under the new moon on November 1st, so do something out of the box to bring some zest into a relationship or chase a spark with someone new. The full moon two weeks later could prompt a sudden change of heart or bring about an unexpected conversation. The best way to handle things is by talking them through, so practice being radically honest with yourself and others.<br><br>
 
-<b>5. Stop if your patient says “no”</b><br>
-If a patient refuses an exam, do not pressure them. Work around it, create an alternate care plan, and explore their concerns respectfully. Listening and validating their feelings builds trust—and avoids violating consent.<br><br>
+<b>Aries</b><br>
+March 20th - April 19th<br>
+Get ready for a thrilling mojo boost, as lusty cosmic ruler Mars lights up your sex and dating sector starting November 3rd. Whether you’re single or in a relationship, it’s time to take the lead in the bedroom and bring more passion to your playtime. Unexpected sources of pleasure could emerge mid-month, so listen to your body without judgment. Once Sagittarius season starts on November 21st, focus on being more spontaneous in love.<br><br>
 
-<b>6. Consent applies to birth control too</b><br>
-Respect your patient’s contraceptive decisions, even if they don’t align with your preference. Patients may prioritize factors other than effectiveness. With methods like IUDs or implants, always remind patients that they can have them removed at any time—for any reason.<br><br>
+<b>Taurus</b><br>
+April 20th - May 20th<br>
+The new moon on November 1st is a great time to bring more intimacy to your relationships, whether through sex or just open-hearted conversations. The full moon two weeks later is full of unexpected excitement, so look out for some sexy surprises. The latter half of the month also finds love planet Venus in your adventure zone, so seek out new romantic experiences involving people, places, and perhaps even positions you’ve never tried before.<br><br>
 
-<b>7. Always get consent for an exam under anesthesia</b><br>
-Before performing pelvic exams under anesthesia, get explicit consent. Explain the reason, who will be present, and whether students or residents will participate. Learners must meet the patient and receive consent <b>before</b> anesthesia is administered.<br><br>
+<b>Gemini</b><br>
+May 21st - June 20th<br>
+Amorous Venus is in your partnership zone for the first half of the month, bringing some flirtiness to your love life and making it easy to find common ground with others. Once mid-month rolls around, you may be craving a deeper connection with your lovers, and the best way to create it is by letting yourself get a little more vulnerable. Mercury retrograde could cause some old issues in relationships to bubble up during the last week of November, so be willing to talk it through.<br><br>
 
-Respecting our patients by prioritizing communication and explicit consent in the exam room strengthens the patient-provider relationship and ultimately improves health. When patients feel heard and respected, they’re more likely to return for care—and more likely to speak up when something feels wrong.<br><br>
+<b>Cancer</b><br>
+June 21st - July 22nd<br>
+Romance is in the air this month, especially under the sultry new moon on November 1st. You’re getting in touch with the lighthearted and playful side of love right now, so follow your heart toward whatever turns you on. Relationships start feeling extra sweet mid-month, allowing you to get closer to a lover or create more connection with a crush with ease. If scheduling snags get in the way of date plans at the end of the month, blame Mercury retrograde. Flexibility is key.<br><br>
 
-<b>Written by Jennifer Keller, MD MPH</b><br><br>
+<b>Leo</b><br>
+July 23rd - August 22nd<br>
+Once sexy planet Mars zooms into your sign on November 3rd, expect your libido to skyrocket and your assertiveness to take center stage. You know what you want, and you’ve got the confidence necessary to chase it—so send that flirty text or take the lead with a lover. The last third of the month is glittering with romantic and passionate vibes, but Mercury retrograde could bring a ghost from your past back into the picture. Are they worth a second chance? Up to you!<br><br>
 
-Jennifer Keller, MD MPH is an Associate Professor of Obstetrics and Gynecology at The George Washington University School of Medicine and Health Sciences. Dr. Keller enjoys educating the next generation of health professionals and teaches medical students, resident physicians, and midwifery students about all things related to women’s health. When she’s not working, you can often find Dr. Keller run commuting to avoid sitting in traffic in Washington DC.`
+<b>Virgo</b><br>
+August 23rd - September 22nd<br>
+No need to be so reserved, Virgo—this month is full of flirtatious vibes and lots of opportunities for intimate conversations. The new moon on November 1st is ripe for heart-to-hearts, so share what’s on your mind and don’t be afraid to get vulnerable. The second half of the month is fabulous for dating new people or bringing a sweet spark back into an existing relationship. Not even Mercury retrograde can mess with your mojo now.<br><br>
+
+<b>Libra</b><br>
+September 23rd - October 22nd<br>
+The new moon on November 1st is a sensual one, and right now, sex can feel more like a spiritual experience if you’re with a partner who understands you. Prioritize pleasure and treat yourself at every opportunity. The full moon two weeks later highlights some of your less-obvious desires, and once Sagittarius season starts on November 21st, you may feel more ready to talk openly about what you want.<br>
+`
 }
 ,
-  "is-telehealth-totally-impersonal": {
-    title: "Is telehealth totally impersonal?",
-    subtitle: "",
+  "2679-october-2024-horoscopes-embrace-the-mysterious-energy-of-spooky-season": {
+    title: "October 2024 horoscopes: Embrace the mysterious energy of spooky season",
+    subtitle: "Happy birthday, Libra!",
     author: "",
-    date: "Jun 03, 2021",
+    date: "Sep 27, 2024",
     updated: "",
-    image: "",
+    image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEJvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fc3c888b316bf9810a5c21c642080694f6f897a0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Libra1280x672.jpg",
     showSocialIcons: true,
-    content: `No! There are so many different ways to use telehealth depending on what you’re looking to get out of the experience, but if you want to see and talk to a health care provider, there’s definitely an app for that, as they say.
+    content: `<b>October 2024 horoscopes: Embrace the mysterious energy of spooky season</b><br>
+<i>Happy birthday, Libra!</i><br><br>
 
-For more info on telehealth and what it can do for you (think: getting your birth control delivered to your door), here’s an article all about it.`,
+Trick or treat? The astrology of October is serving up a healthy dose of both! A solar eclipse in the partnerships-focused sign of Libra kicks things off on October 2nd, helping us break free of toxic relationship dynamics. Two weeks later, on October 17th, a fiery full moon challenges us to stand up for ourselves and assert our needs in love. Scorpio season comes around on October 22nd, which means raw emotions and radical vulnerability will reign supreme.<br><br>
+
+Embrace the dark and mysterious energy of spooky season, in romance and beyond. Oh, and make sure your birth control of choice is good to go—because the only scares you need this month are of the Halloween persuasion.<br><br>
+
+<b>Libra</b><br>
+September 23rd - October 22nd<br>
+Happy birthday season, Libra! The solar eclipse in your sign on October 2nd is helping you shed your old skin and release self-doubt—which will allow you to show up in your relationships with more confidence than ever before. The full moon two weeks later shines a light on any codependent tendencies that you may or may not have been aware of. Now’s a great time to set some healthy boundaries in love and speak up for your needs, even if it ruffles someone’s feathers.<br><br>
+
+<b>Scorpio</b><br>
+October 23rd - November 21st<br>
+Amorous planet Venus is in your sign for the first half of October, infusing your aura with an irresistible charm. Use this seductive magic to attract all that you desire! It’s an especially potent period if you’re looking to tap into your wild side or branch out of your romantic comfort zone—so don’t be afraid to shake things up. Your birthday season starts on October 22nd, and you have full cosmic permission to indulge in every pleasure available to you. Make your lovers splurge on something celebratory and special.<br><br>
+
+<b>Sagittarius</b><br>
+November 22nd - December 21st<br>
+The heartfelt solar eclipse on October 2nd is shaking up your social life, so don’t be surprised if a friends-with-benefits situation suddenly begins or ends. However, the real action in your love life hits two weeks later, as a feisty full moon lights up your sex and dating zone with climactic passions on October 17th, and amorous planet Venus slides into your sign on the very same day. Look forward to lots of romantic prospects and peak manifestation powers through the rest of the month.<br><br>
+
+<b>Capricorn</b><br>
+December 22nd - January 19th<br>
+Career shake-ups are keeping you busy through the first half of October, but make sure you’re able to squeeze in some social time, especially if you’re single. You may find that you meet someone special through mutual friends. Passionate Mars is in your relationship zone all month, so making the first move will come more naturally now. The full moon on October 17th is pulling you deep into a cloud of rose-colored nostalgia, so allow yourself to wander down memory lane without overly romanticizing relationships from the past.<br><br>
+
+<b>Aquarius</b><br>
+January 20th - February 18th<br>
+You love to challenge the status quo, and the solar eclipse on October 2nd is the perfect time to embrace your unorthodox streak in love. Let go of other people’s beliefs and ditch society’s rules about how to conduct relationships—that should be entirely up to you and your partner(s). Two weeks later, romantic planet Venus hits your social sector, making it a fabulous time to hit the town with friends and get your flirt on. A sexy-spooky costume and fun Halloween parties are a must.<br><br>
+
+<b>Pisces</b><br>
+February 19th - March 19th<br>
+Get ready to dive deep into your psyche and examine your relationships from the inside out, because the solar eclipse on October 2nd is asking you to look beneath the surface of your desires. You’re getting more comfortable with being vulnerable and embracing your truth, so put what you’ve learned into practice. Acting on your passions should be easier than usual, as lustful planet Mars is in your sex and dating zone all month. Your libido is high, and so is your confidence! And once Scorpio season starts on October 22nd, your adventurous streak will be, too.<br><br>
+
+<b>Aries</b><br>
+March 20th - April 19th<br>
+It’s time to flush out any partnerships that aren’t serving your growth anymore, Aries. The eclipse on October 2nd pushes you to set boundaries and implement the lessons you’ve learned about love. Sensitivities are high mid-month, but instead of acting on every trigger, try to lean into the feeling of vulnerability. The full moon in your sign on October 17th is testing the strength of your relationships, but it’s also teaching you to trust in your own power. You can handle more than you think.<br><br>
+
+<b>Taurus</b><br>
+April 20th - May 20th<br>
+Lover Venus is lighting up your relationship zone for the first half of the month, so focus on inviting more harmony, connection, and romance into your love life—especially during the days after the October 2nd eclipse. Sudden changes of heart could shake up a partnership mid-month, but don’t fear your feelings or run from the truth. Evolution is a good thing! Emotions run deep during the latter half of the month, so allow yourself to be more vulnerable and focus on trust.<br><br>
+
+<b>Gemini</b><br>
+May 21st - June 20th<br>
+The cozy autumn vibes are putting you in a romantic headspace, especially during the heartfelt eclipse on October 2nd. You might find yourself making some adjustments to your roster and seeking more balanced and respectful partners who more solidly meet your expectations—and finding them might come more easily than you think! Once amorous Venus enters your relationship sector mid-month, commitments could be on your mind. Are you looking to lock down a cuffing season fling? If so, now’s a good time.<br><br>
+
+<b>Cancer</b><br>
+June 21st - July 22nd<br>
+The eclipse on October 2nd is plunging you into nostalgia, so it might be time to loosen your grip on some memories of lost relationships. Learning from the past is good, but don’t let it hold so much power over you—especially since amorous planet Venus is in your romance zone for the first half of the month! Combined with lusty Mars being in your sign, this makes it a fabulous month for dating, hook-ups, or infusing current partnerships with more depth and fun. Chase after whatever lights up your passionate side.<br><br>
+
+<b>Leo</b><br>
+July 23rd - August 22nd<br>
+Communication is extra important to your relationships this month, Leo, so make an effort to put your feelings into words—especially during the eclipse on October 2nd. Holding things inside will only create resentment, so adopt an open-book policy in love. If you’re looking to flirt with some new faces, the latter half of the month is promising, as romantic planet Venus will be in your sex and dating sector, sweetening up your prospects. Get out and enjoy some amorous autumn fun.<br><br>
+
+<b>Virgo</b><br>
+August 23rd - September 22nd<br>
+Shake off any self-consciousness under the solar eclipse on October 2nd, as this lunation is here to help you feel deeper into your body, whether you’re solo or with a partner. Let go of your inhibitions so you can fully enjoy life’s sensual pleasures! You’ll dive even deeper into this introspective vibe during the full moon two weeks later, so explore the underbelly of your desires and figure out how to move forward without fear. Remember: Your pleasure is never something to be ashamed of.<br>
+`,
   },
 
-  "5-times-you-should-go-see-a-provider-in-person": {
-  title: "5 times you should go see a provider in person",
-  subtitle: "Telehealth is a game-changer, but sometimes you need to go old school",
-  author: "By : Emma McGowan",
-  date: "Nov 21, 2020",
-  updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb29VIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c6ee08f0cd89114a37fe83070da4efbe3fffe968/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-103058935_(3).jpg",
-  showSocialIcons: true,
-  content: `When you first consider telehealth, you might wonder: when do I actually need to go see a provider in person? Well, that’s a really good question!<br><br>
-
-Because, while telehealth is great for a lot of things, it’s not great for everything. It’s a perfect option for things like getting started on birth control or renewing a birth control prescription, getting tested and treated for STIs, and even getting treatment for UTIs and vaginal infections. But there are going to be times when you really do need to physically be in the doctor’s office in order to get the best health care possible.<br><br>
-
-<b>Here are five times you’ll need to get health care in person:</b><br><br>
-
-<b>1. To get an IUD, an implant, or the shot (or to remove an IUD or implant)</b><br>
-There are plenty of birth control options that you can start via telehealth, like the ring, the patch, and the pill. Others don’t require you to see a provider at all—think condoms, internal condoms, spermicide, fertility awareness methods, and withdrawal.<br><br>
-
-But to get an IUD, an implant, or the shot, you do need to see a provider in person. The same goes for removing an IUD or implant. There is a form of the shot called SubQ Depo that you can give yourself at home, but the standard shot (Depo-Provera) requires an in-person visit.<br><br>
-
-<b>2. To treat a recurring or difficult-to-treat infection</b><br>
-You can get tested and treated for many common infections through telehealth—STIs, UTIs, yeast infections, and BV among them. But if you’ve already been treated and symptoms persist or return, it’s time to go in person to ensure you’re getting the correct diagnosis and medication.<br><br>
-
-If this is your first time having symptoms, like a UTI or vaginal infection, it’s also better to get diagnosed in person.<br><br>
-
-<b>3. For most abortions</b><br>
-If you need an abortion, you’ll likely need to see a provider in person. Some services, like the TelAbortion study (in certain states) or Just The Pill (in Minnesota), offer medication abortion via telehealth—but these are limited.<br><br>
-
-For most people, in-person care is still necessary for abortion services.<br><br>
-
-<b>4. For your Pap smear</b><br>
-Pap smears test for abnormal cervical cells that could lead to cervical cancer. This can’t be done via telehealth. Some home HPV testing (like from Nurx) is available, but it’s not a full replacement for a Pap smear.<br><br>
-
-Most people should get a Pap every 3 years, but that may vary if you’ve had abnormal results. If you’re due for one and concerned about COVID-19, ask your provider if it’s safe to wait.<br><br>
-
-<b>5. To diagnose certain conditions, like PCOS or endometriosis, that require more extensive testing</b><br>
-Chronic conditions like PCOS, endometriosis, or fibroids often require in-person testing—pelvic exams, blood work, ultrasounds, and sometimes surgery. Telehealth is great for managing these conditions, but diagnosing them usually starts in the exam room.<br><br>
-
-A good first step is a telehealth check-in. Your provider can let you know if in-person follow-up is needed.<br><br>
-
-<b>The bottom line:</b><br>
-Going to see a health care provider while never leaving your couch is awesome—but sometimes you still have to put on pants and go in person. And that’s okay. Telehealth and in-person care go together like condoms and lube.<br><br>
-
-<b>Written by Emma McGowan</b><br><br>
-
-Emma McGowan is a veteran blogger who writes about startups and sex. She’s Bustle’s sex ed columnist at Sex IDK and a regular contributor to Bustle and Startups.co. Her work has appeared in Mashable, The Daily Dot’s The Kernel, Mic, and The Bold Italic. She’s a sex-positive feminist whose hobbies include making patterns and sewing, connecting with other women, and reading at least three books a week.`
-}
-,
-
-"getting-covered-101-how-to-get-health-insurance-during-open-enrollment": {
-  title: "Getting covered 101: How to get health insurance during open enrollment",
-  subtitle: "Not sure if you need health insurance? Want insurance but not sure how to get it? We've got you covered.",
+  "2674-september-2024-horoscopes-fall-is-bringing-the-heat": {
+  title: "September 2024 horoscopes: Fall is bringing the heat!",
+  subtitle: "Start putting the spice in pumpkin spice",
   author: "",
-  date: "Dec 19, 2018",
-  updated: " Updated: Nov 05, 2020",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1lWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e0ca916e63164ac4d1943c78640d18f4205a5642/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/header_health_insurance_101.jpg",
+  date: "Aug 30, 2024",
+  updated: "",
+  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmRvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--775806631fcd859c37d5ee1922736e470c6e443b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Virgo1280x672.jpg",
   showSocialIcons: true,
-  content: `
-<b>UPDATE:</b> President Biden has opened the enrollment period for the Affordable Care Act health insurance plans for 2022. You can now enroll until January 15, 2022, at <a href='https://www.healthcare.gov'>healthcare.gov</a>.<br><br>
-Some states have their own open enrollment periods and websites. Check if your state does.<br><br>
-—<br><br>
-<b>Still waiting to get health insurance?</b><br>
-Getting covered may seem complicated, but affordable, quality insurance is just a few steps away.<br><br>
-<b>Open enrollment</b> runs from November 1 to December 15 through HealthCare.gov.<br><br>
-<b>Does the Affordable Care Act still exist?</b><br>
-Yes. Despite attempts to repeal it, the ACA still stands.<br><br>
-<b>So what’s in it for me?</b><br>
-<b>1.</b> Stay on your parent or guardian’s plan until you’re 26.<br><br>
-<b>2.</b> Check-ups for $0. Preventive care is fully covered.<br><br>
-<b>3.</b> Coverage for pre-existing conditions. No more denial or price hikes.<br><br>
-<b>4.</b> Women’s health care with no copays. Including birth control and well-woman visits.<br><br>
-<b>5.</b> Affordable pricing. You may qualify for subsidies based on income.<br><br>
-<b>How to sign up:</b><br>
-Go to <a href='https://www.healthcare.gov'>HealthCare.gov</a>. You’ll need:<br>
-- Proof of household members<br>
-- Social Security numbers<br>
-- Annual income estimate<br>
-- Current policy numbers<br><br>
-<b>States with their own marketplace websites:</b><br>
-California<br>
-Colorado<br>
-Connecticut<br>
-DC<br>
-Idaho<br>
-Kentucky<br>
-Maine<br>
-Maryland<br>
-Massachusetts<br>
-Minnesota<br>
-Nevada<br>
-New Jersey<br>
-New Mexico<br>
-New York<br>
-Pennsylvania<br>
-Rhode Island<br>
-Vermont<br>
-Washington<br><br>
-<b>Bottom line:</b> Getting covered now protects you from debt and gives you access to free preventive care.<br><br>
-<i>Written by Adriana Scott, Engagement & Storybank Coordinator, Young Invincibles. Visit <a href='https://www.younginvincibles.org'>  style{{color:blue}}YoungInvincibles.org</a>.</i>
+  content: `<b>Romantic planet Venus spends most of September in its flirty home-base sign of Libra</b><br>
+So partnerships are getting a juicy late-summer glow-up this month. And once Venus enters sultry Scorpio during the autumn equinox on September 22nd, it’ll start putting the spice in pumpkin spice, too. Summer’s ending, but fall is bringing the heat! Just beware of sudden shake-ups in love, as there’s an emotional lunar eclipse on September 17th—so potential changes of heart are on the horizon for all zodiac signs.<br><br>
+
+<b>Virgo</b><br>
+August 23rd - September 22nd<br>
+Happy birthday season, Virgo! The new moon in your sign on September 2nd is ripe for manifestations, so make an opulent and sensual birthday wish. The lunar eclipse two weeks later is coming to shake up your relationships, giving you a major reality check and encouraging you to take off the rose-colored glasses in love. Once you can look at your partnerships through a realistic lens, you’ll know exactly what you need to do to make them stronger.<br><br>
+
+<b>Libra</b><br>
+September 23rd - October 22nd<br>
+Your charm is at an all-time high thanks to lover planet Venus gracing your sign through the first three weeks of September. No one can resist your allure right now. Mid-month is an especially exciting time for romance, and taking a risk in love could pay off big. Try something adventurous in the bedroom or open your heart to a suitor you may have initially overlooked. Once your birthday season starts on September 22nd, it’s party time, so let your flirty side come out to play.<br><br>
+
+<b>Scorpio</b><br>
+October 23rd - November 21st<br>
+Spend the new moon on September 2nd mingling with a fun group, either to meet a sexy someone or to spice up a relationship with some social time. The lunar eclipse two weeks later might burst the bubble on some of your dream crushes or romantic fantasies, but what if reality is even sweeter? Keep an open mind. Amorous Venus lights up your sign starting on September 22nd, making it easy to attract your every desire.<br><br>
+
+<b>Sagittarius</b><br>
+November 22nd - December 21st<br>
+You may have no choice but to act on the passions that’ve been brewing beneath the surface of your heart once lusty planet Mars hits your intimacy sector on September 4th. Go all in, but be sure to set boundaries in your relationships as needed, too. Mid-month, your social life is overflowing with flirty and romantic vibes, bringing the potential for an epic romance to blossom out of friendship. Hit the town and take advantage of the magic in the air.<br><br>
+
+<b>Capricorn</b><br>
+December 22nd - January 19th<br>
+The new moon on September 2nd inspires you to get more adventurous in love, so try something a little out of your comfort zone. Making bold moves now is just the beginning, as lusty Mars is zooming into your relationship zone two days later, revving up your mojo. Don’t wait for someone else to make the first move—the ball is in your court! If you need to drop some honesty on a lover, the lunar eclipse on September 17th is your chance to speak up.<br><br>
+
+<b>Aquarius</b><br>
+January 20th - February 18th<br>
+Open your heart to a more intimate and vulnerable connection with a lover under the new moon on September 2nd. A little more depth in relationships is probably just what you’re craving right now. Mid-month is one of your luckiest and most exciting periods of the year for romance, so be spontaneous when it comes to meeting new people or experimenting in bed. Who knows? The refreshing breeze of the autumn equinox might inspire you to step outside of your comfort zone even further.<br><br>
+
+<b>Pisces</b><br>
+February 19th - March 19th<br>
+The new moon on September 2nd is a good time to focus on fostering your relationships or starting up some new ones. You may have to make the first move, but that’ll be easy once carnal Mars zooms into your sex and dating zone a couple days later, boosting your libido and inspiring you to explore more passion with your partners. Check in with yourself and where you’re at in your love life under the lunar eclipse in your sign on September 17th. It may be time to let go of some old storylines.<br><br>
+
+<b>Aries</b><br>
+March 20th - April 19th<br>
+Partnerships are a priority all month long, so focus on strengthening your romantic bonds and being more diplomatic with your lovers. You may even feel the desire to commit more seriously to something you’ve been keeping casual, especially once the autumn equinox hits. Flirty conversations flow like champagne and love tastes as sweet as strawberries as Jupiter blows a kiss to amorous Venus in your relationship zone. Speak whatever’s on your heart.<br><br>
+
+<b>Taurus</b><br>
+April 20th - May 20th<br>
+The new moon on September 2nd fills your heart with butterflies, reminding you that the euphoria of a crush can sometimes be as healing as a fancy spa day. Maybe try both! The autumn chill of the equinox on September 22nd will make you want to get extra close with your lovers, emotionally and otherwise—so find ways to bring more intimacy, trust, and vulnerability to your relationships through the end of the month.<br><br>
+
+<b>Gemini</b><br>
+May 21st - June 20th<br>
+Flirty vibes reign supreme all month, so your beguiling gift of gab could score you a hot date or bring a little more lightheartedness into an existing relationship. Allow yourself to let go and have some fun. Mid-month brings one of the most romantic moments of the year for you and it’s an especially lucky time to woo a crush or re-seduce a partner. The final days of September give you an opportunity to speak whatever’s on your heart and mind, so share your fantasies.<br><br>
+
+<b>Cancer</b><br>
+June 21st - July 22nd<br>
+Passionate planet Mars is zooming into your sign on September 4th, boosting your libido for the rest of the month and giving you a sexy take-charge attitude in love. Go after what you want. Broadening your horizons is a must under the lunar eclipse on September 17th, so explore the outer edges of your comfort zone in relationships. A few days later, on the autumn equinox, amorous Venus hits your dating zone, lighting up your sex life with sensuality and sweetness.<br><br>
+
+<b>Leo</b><br>
+July 23rd - August 22nd<br>
+Get lost in sensuality under the new moon on September 2nd, as this earthy lunation wants you to get in touch with your body and indulge in pleasure. The lunar eclipse two weeks later puts you in your feelings, bringing some deep-buried emotions and desires to a swell. Embrace vulnerability and allow yourself to get more intimate with yourself and your lover(s) as you ring in the autumn equinox and transition into the darker half of the year.<br>
 `
 }
 ,
 
-"why-not-to-buy-a-short-term-insurance-plan": {
-  title: "Why NOT to buy a short-term insurance plan",
-  subtitle: "Your guide to getting health insurance for 2021",
-  author: "By Erin Hemlin",
-  date: "Oct 29, 2018",
-  updated: "Updated: Nov 05, 2020",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbE1WIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fc6882c991bd9a64ca313a3c13fde15fff3e8903/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Short-term_Insurance_001.jpg",
+"2632-july-2024-horoscopes-lean-into-summer-flirtations": {
+  title: "July 2024 horoscopes: Lean into summer flirtations",
+  subtitle: "It's cancer season",
+  author: "",
+  date: "Jun 28, 2024",
+  updated: "",
+  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbFZvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b009cfb0c8c0f05702a50501392b9a95e247cbff/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Cancer1280x672.jpg",
   showSocialIcons: true,
-  content: `
-<b>There’s been a lot of talk about the future of the Affordable Care Act (ACA)...</b><br><br>
-You might have heard about new options outside the ACA marketplace...<br><br>
-<b>What are short-term plans?</b><br>
-Short-term plans were originally intended...<br><br>
-<b>What should you watch out for?</b><br>
-If you’re considering buying short-term insurance...<br><br>
-<b>1. They don’t have to cover prescriptions, including birth control</b><br>
-This is a big deal for anyone who takes birth control...<br><br>
-<b>2. They don’t have to cover mental health</b><br>
-Short-term plans aren’t required to pay for mental health services...<br><br>
-<b>3. They don’t have to provide maternity coverage</b><br>
-Maternity coverage includes care for you when you’re pregnant...<br><br>
-<b>4. They don’t have to cover pre-existing conditions</b><br>
-Short-term plans are also not required to cover care for pre-existing conditions...<br><br>
-<b>5. They can set annual or lifetime limits</b><br>
-This means that if you were faced with a serious medical condition...<br><br>
-<b>So how do you know if you’re enrolling in a short-term plan or a comprehensive ACA plan?</b><br>
-If you are uninsured and looking to buy health insurance...<br><br>
-<b>Ask these questions:</b><br>
-- Will I be asked questions about my health status?<br>
-- Will my benefits be denied or will I be charged more because I have a health condition?<br>
-- Can this plan exclude any of the 10 essential health benefit categories?<br>
-- Are there any annual or lifetime limits on my coverage?<br><br>
-If the answer to any of the above is yes, you are not enrolling in an ACA-compliant plan.<br><br>
-<b>How can you get comprehensive insurance?</b><br>
-Go to healthcare.gov beginning November 1...<br><br>
-<b>Tips when signing up for insurance:</b><br>
-- Talk to a navigator or in-person assister...<br>
-- If you make less than 400% of the federal poverty level...<br>
-- Signing up for health insurance should be free...<br><br>
-Written by Erin Hemlin<br><br>
-Erin Hemlin is the Training and Consumer Education Director at Young Invincibles...`
+  content: `<b>July 2024 horoscopes: Lean into summer flirtations</b><br>
+<i>It's cancer season</i><br><br>
+
+Summertime is heating up, and the astrology of July is bringing everyone a perfect balance of sweet and sizzling cosmic opportunities. Soft and tender-hearted Cancer season has everyone floating in feelings and building emotional connections. But once the fierce and fiery energy of Leo season swoops in on June 22nd, it’s time to flaunt your sexiness and add some sass and sparkle to your summer flirtations. And don’t forget: wear sunscreen, stay hydrated, and use your birth control!<br><br>
+
+<b>Cancer</b><br>
+June 21st - July 22nd<br>
+Happy birthday season, Cancer! The new moon in your sign on July 5th is the perfect time to make a sweet and sexy birthday wish. And thanks to seductive Venus being in your sign, your magnetic pull is especially strong—so those wishes are likely to come true. The full moon two weeks later brings lots of depth and intensity to your relationships in the best way possible. Let the waves of emotion wash over you and embrace intimacy and connection.<br><br>
+
+<b>Leo</b><br>
+July 23rd - August 22nd<br>
+The midsummer energy of July is bringing out your vivacious side in full force, and once beauty-planet Venus hits your sign on July 11th, you’ll be in full baddie mode. No one will be able to resist your charms, so wield them accordingly! You have every reason to feel confident and sexy, especially once your birthday season starts on July 21st. All eyes are on you now, so bask in the attention and don’t be shy about giving your admirer(s) a show.<br><br>
+
+<b>Virgo</b><br>
+August 23rd - September 22nd<br>
+Summer’s the season of fun and exploration, so you may want to be a little more open to trying new things in the bedroom and beyond. Changing your usual routine can lead to sexy new experiences. Get out on the town for a flirt fest under the new moon on July 5th, because you could make some really sweet connections. The full moon two weeks later is bursting with romance, and you may uncover some feelings for someone that you didn’t realize had been brewing.<br><br>
+
+<b>Libra</b><br>
+September 23rd - October 22nd<br>
+This summer, be a little more assertive about your relationships and don’t be afraid to rock the boat. If you need to set a boundary, do it, Libra! Love feels more fun and exciting come mid-month, so it’s a fabulous time to enjoy some flirty summer nights with friends where you can mingle with new people. When it comes to your sex life, you may be eager to expand your horizons, so find ways to spice things up. Hooking up with new people in new places may be just the good time you need in your life.<br><br>
+
+<b>Scorpio</b><br>
+October 23rd - November 21st<br>
+The month is off to a lusty and lively start with the new moon on July 5th, which will open your heart and mind to new ways of loving. No more sitting around and hoping your relationships head in the “right” direction—get real about what you want and start steering that ship, captain. The full moon on July 21st is the perfect time to have some deep and intimate conversations about the future of a fling or your long-term goals with someone special.<br><br>
+
+<b>Sagittarius</b><br>
+November 22nd - December 21st<br>
+The summer sunshine has hot, sweaty nights on your mind—and the new moon on July 5th is a gorgeous time for some sensual and vulnerable moments with a lover. By mid-month, you’re feeling extra flirty and free-spirited, and exploring new people or new things will satiate your craving for excitement in love and romance. Passion explodes in your relationships once Leo season rolls around, so embrace your confidence as a lover and prepare to wow.<br><br>
+
+<b>Capricorn</b><br>
+December 22nd - January 19th<br>
+Your relationships get a sweet and sexy glow-up throughout the first half of this month, and the new moon on July 5th is an especially gorgeous time for new commitments, connections, or conversations in your relationship(s). The full moon in your sign two weeks later boosts your confidence, so bring that energy into romantic situations, too. Feel things deeply and let yourself linger in that scary but sexy feeling of vulnerability.<br><br>
+
+<b>Aquarius</b><br>
+January 20th - February 18th<br>
+This is a great time for thinking and talking more about what you want out of your love life right now, so get a little chattier with your partner(s). Conversations can be great foreplay, which is especially helpful come mid-month, as relationships will feel extra romantic and sensual. The sparkly vibes of Leo season have you feeling extra bold and sexy, so play the role of the pursuer when it comes to dating during the latter third of the month.<br><br>
+
+<b>Pisces</b><br>
+February 19th - March 19th<br>
+Sweet and succulent summer love is in the air during the first half of the month, especially during the ultra-romantic new moon on July 5th. Write a love poem or make a sexy playlist for your crush. The full moon two weeks later could bring a classic friends-to-lovers storyline to a climax, so look out for chemistry. It’s also the perfect time to give a committed partner a chance to get to know your crew a little better.<br><br>
+
+<b>Aries</b><br>
+March 20th - April 19th<br>
+The sensitive new moon on July 5th plunges you deep into your feelings, which might trigger some insecurities around love and relationships. Try not to take things too seriously! Luckily, you’ll be feeling yourself more by the middle of the month, so focus on playing the field or seducing your partner. Leo season’s sassiness promises more fun and flirtations, giving you plenty of opportunities to enjoy the summertime.<br><br>
+
+<b>Taurus</b><br>
+April 20th - May 20th<br>
+You’re feeling especially flirty for the first third of the month, Taurus, so put your sweet-talking sensibilities to good use under the new moon on July 5th. Just remember that there’s also potential for some meaningful heart-to-hearts. The full moon two weeks later inspires you to let loose and embrace your wild side. This is the perfect time to go on an adventurous date with a lover or try something new in the bedroom.<br><br>
+
+<b>Gemini</b><br>
+May 21st - June 20th<br>
+Sensuality dominates during the first third of the month, so the new moon on July 5th is the ideal time to connect with pleasure and seek comfort in your relationships. There’s a fun vibe shift mid-month, so strike up a conversation with a crush or chill with a partner under the stars. Lusty Mars lights up your sign on July 20th, so look forward to a spark-filled burst of motivation, passion, and sexual energy.<br>
+`
+}
+,
+
+"2637-august-2024-horoscopes-look-out-for-miscommunications-and-old-flames": {
+  title: "August 2024 horoscopes: Look out for miscommunications and old flames",
+  subtitle: "Summer sparks could fly",
+  author: "",
+  date: "Jul 26, 2024",
+  updated: "Updated: Nov 05, 2020",
+  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbTlvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--28302f250636a9540762ba7550e753418d8a4d4d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Leo1280x672%20(1).jpg",
+  showSocialIcons: true,
+  content: `<b>August 2024 horoscopes: Look out for miscommunications and old flames</b><br>
+<i>Summer sparks could fly</i><br><br>
+
+Red-hot Leo season brings the summertime passion to a fever pitch, and naturally, this fire sign is bringing some drama, too! Mercury retrograde hits on August 4th and will spin through our love lives until August 28th, so look out for miscommunications, scheduling snags, and ex-lovers popping up in your inbox. However, a flirty alignment between Mercury retrograde and love planet Venus brings a special opportunity to reconnect with an old flame, so if you use the backspin to your advantage, some summer sparks could fly.<br><br>
+
+<b>Leo</b><br>
+July 23rd - August 22nd<br>
+Happy birthday season, Leo! The new moon in your sign on August 4th is the perfect time to make a sexy birthday wish. Mercury retrograde starts that night, which could make it harder to sync schedules with your lover(s), but it won’t stop you from having a hot girl summer. The full moon two weeks later pushes relationships to the top of your priority list. To commit or not to commit? It’s time to make some decisions.<br><br>
+
+<b>Virgo</b><br>
+August 23rd - September 22nd<br>
+Your natural charms are especially enchanting this month, Virgo, as romantic Venus strolls into your sign on August 4th. Use your wiles to seduce your crush or make your partner(s) fall in love all over again. If there’s a sexy someone from the past you’d like a second chance with, the first week of Mercury retrograde is a lucky time to slide into their DMs. Once your birthday season starts on August 22nd, go ahead and be a little selfish. You deserve to be the star of the show.<br><br>
+
+<b>Libra</b><br>
+September 23rd - October 22nd<br>
+Put on your social butterfly wings, because it’s time to have some summer fun! The new moon on August 4th is your excuse to go party with a lover or hit the town solo to mingle with singles. A FWB situation could get messy mid-month due to Mercury retrograde, so be extra communicative if you’re mixing flirtation with friendship. The full moon on August 19th is bursting with passion and the potential for romance, so share your feelings openly.<br><br>
+
+<b>Scorpio</b><br>
+October 23rd - November 21st<br>
+Lusty Mars is in your chart’s intimacy zone all month, so you’re trading lighthearted summer flings for more passionate connections. But that doesn’t mean you can’t have some flirtatious fun! The topsy-turvy energy of Mercury retrograde could allow you to connect with a partner in a new way or to see a friend in a new light, so be open to finding love in unusual places. Virgo season is full of social energy, so group dates or sexy nights out are definitely the vibe.<br><br>
+
+<b>Sagittarius</b><br>
+November 22nd - December 21st<br>
+Your partnerships are fueled by passion and desire all month long thanks to carnal Mars lighting up your relationship zone—so if you want to add some spice to your love or sex life, it’s your turn to take charge. The new moon on August 4th gives you the confidence to get more adventurous in the bedroom and beyond, while the full moon two weeks later is an important time to speak your truth. Just make sure Mercury retrograde doesn’t mix up your messages.<br><br>
+
+<b>Capricorn</b><br>
+December 22nd - January 19th<br>
+You’re swimming in feelings under the new moon on August 4th, but being in touch with your emotions can help you set stronger boundaries in relationships. Listen to what your heart is telling you. Being vulnerable will pay off, because you’re feeling much more adventurous in love after the new moon. And by the time Virgo season rolls around, you’re opening your mind to new ways of approaching romance and relationships. Break out of your comfort zone.<br><br>
+
+<b>Aquarius</b><br>
+January 20th - February 18th<br>
+Your sex and dating zone is lit up by red-hot Mars all month long, so give in to your lustiest desires and go after whatever (and whomever) makes your heart flutter. The new moon on August 4th is a great time to ask for what you want in a relationship. Just beware of miscommunications, as Mercury retrograde is mixing signals! The full moon in your sign two weeks later brings your confidence to a peak, so shine your light.<br><br>
+
+<b>Pisces</b><br>
+February 19th - March 19th<br>
+Partnerships are a priority this month, so make time for romantic connections! Sweet Venus flutters into your relationship zone under the new moon on August 4th, making it easy to get closer to a lover. Mercury retrograde could bring some unhealed disagreements back up for review, but if you work through them now, you can move past them for good. Use the grounding energy of Virgo season to talk through any retrograde drama during the last week of the month.<br><br>
+
+<b>Aries</b><br>
+March 20th - April 19th<br>
+Summer is getting spicy, and the new moon on August 4th is the perfect time to make bold moves in romance. Flirt a little more heavily with your crush or surprise a lover with an over-the-top sexy date night. Thanks to Mercury retrograde, an ex-fling could come strolling back into your life mid-month. By the time the full moon rises on August 19th, you’ll know whether you want to try rekindling the flame.<br><br>
+
+<b>Taurus</b><br>
+April 20th - May 20th<br>
+Love planet Venus starts lighting up your romance zone on August 4th, bringing lots of inspiration for fun date nights—whether out on the town or in the bedroom. Mercury retrograde starts that night, so if there’s an old flame who’s still on your mind, this week is a good time to reach out and pursue a blast from the past. Once Virgo season starts on August 22nd, you’ll be feeling extra sexy, so let yourself be a little more playful in love.<br><br>
+
+<b>Gemini</b><br>
+May 21st - June 20th<br>
+Lusty Mars spends all month in your sign, turning up the volume on your libido and giving you lots of motivation to take initiative in sex and love. Make the first move! Confidently tell a crush or lover how you feel under the new moon on August 4th. Beware of miscommunications mid-month as Mercury retrograde could mix up some signals. The full moon on August 19th inspires you to break out of your comfort zone and add some spice to your love life. Get wild!<br><br>
+
+<b>Cancer</b><br>
+June 21st - July 22nd<br>
+Romantic Venus hits your communication zone on August 4th, so you might be feeling extra flirtatious. But Mercury retrograde starts the same day, so whether you’re having a heart-to-heart or sexting the night away, double-check to make sure your words come out right. The full moon on August 19th sends you deep into your emotions, so be radically honest with yourself and your lover(s) about your fears and feelings. There’s power in speaking your truth.<br>
+`
 }
 
 

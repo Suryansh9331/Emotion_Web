@@ -140,7 +140,7 @@ const STILayout = () => {
               Lifestyle & inspiration{"  "}
             </span>
             <span className="mx-2">›</span>
-            <span className="text-gray-500">Self-love & body positivity</span>
+            <span className="text-gray-500">Activism & Politics</span>
           </div>
         </div>
       </div>
@@ -148,23 +148,30 @@ const STILayout = () => {
       {/* Main Title Section */}
       <div className="bg-white py-8 px-4 sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto text-center">
-         <h1 className="text-3xl sm:text-4xl lg:text-5xl font-semibold text-[#028388] mb-2">
-            Self-love & body positivity
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-semibold text-[#028388] mb-2">
+            Activism & Politics
           </h1>
           {/* Wavy underline */}
           <div className="flex justify-center mb-6">
-            <svg width="500" height="24" viewBox="0 0 500 24" fill="none" xmlns="http://www.w3.org/2000/svg" className="max-w-full">
-              <path 
-                d="M0 12C25 4, 50 20, 75 12C100 4, 125 20, 150 12C175 4, 200 20, 225 12C250 4, 275 20, 300 12C325 4, 350 20, 375 12C400 4, 425 20, 450 12C475 4, 500 20, 500 12" 
-                stroke="#028388" 
-                strokeWidth="2.5" 
+            <svg
+              width="500"
+              height="24"
+              viewBox="0 0 500 24"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+              className="max-w-full"
+            >
+              <path
+                d="M0 12C25 4, 50 20, 75 12C100 4, 125 20, 150 12C175 4, 200 20, 225 12C250 4, 275 20, 300 12C325 4, 350 20, 375 12C400 4, 425 20, 450 12C475 4, 500 20, 500 12"
+                stroke="#028388"
+                strokeWidth="2.5"
                 fill="none"
                 strokeLinecap="round"
               />
             </svg>
           </div>
-          <p className="text-lg sm:text-xl text-gray-600 font-light">
-            Love yourself as much as we love you.
+          <p className="text-lg sm:text-xl text-gray-600 font-semibold">
+            Say it loud, say it proud.
           </p>
         </div>
       </div>
@@ -173,7 +180,7 @@ const STILayout = () => {
       <div className="relative rounded-lg overflow-hidden min-h-[400px] md:min-h-[600px] flex flex-col justify-center items-center p-8">
         {/* Background image with brightness filter */}
         <img
-          src="https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdTlzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f953648a613f4d32c61742b3bb67b7f6aff2637e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/no-revisions-LBcVO-ht5qM-unsplash.jpg"
+          src="https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3RyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cc25af86a0f7cfb2d0c4a340aff498d007f2960e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/hand%20holding%20protest%20sign.jpg"
           alt=""
           className="absolute inset-0 w-full h-full object-cover filter brightness-50"
         />
@@ -184,10 +191,10 @@ const STILayout = () => {
         {/* Content */}
         <div className="relative z-10 text-left text-white max-w-full mx-auto md:ml-32 md:mt-48">
           <p className="text-sm md:text-base font-bold tracking-wider uppercase mb-6 opacity-90">
-            Self-love & body positivity
+           Activism & Politics
           </p>
           <h2 className="text-2xl md:text-4xl lg:text-5xl font-bold leading-tight">
-            It’s never too late: A guide to coming out in your 20s and 30s{" "}
+            Concerned about reproductive rights in 2025? Here’s what you can do{" "}
           </h2>
         </div>
       </div>

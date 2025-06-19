@@ -1,4 +1,4 @@
-export const SelfLovearticles = [
+export const Inspirationarticles = [
   {
     slug: "how-to-tell-your-provider-that-you-re-polyamorous",
     category: "Health care",
@@ -58,7 +58,7 @@ export const SelfLovearticles = [
 
 
 // Full article contents, keyed by slug
-export const SelfLovearticleContents = {
+export const InspirationarticleContents = {
  "how-to-tell-your-provider-that-you-re-polyamorous": {
   title: "How to tell your provider that you’re polyamorous",
   subtitle: "How to tell your provider that you’re polyamorous",
@@ -346,7 +346,7 @@ Jessica Cruz-Fehr is a Certified Nurse-Midwife currently working for a full-scop
 
 
 
-export const SelfLovearticlesTwo = [
+export const InspirationarticlesTwo = [
   {
     slug: "can-i-tell-if-someone-els",
     category: "Health care",
@@ -406,7 +406,7 @@ export const SelfLovearticlesTwo = [
 
 
 // Full article contents, keyed by slug
-export const SelfLovearticleContentsTwo = {
+export const InspirationarticleContentsTwo = {
  "can-i-tell-if-someone-els": {
   title: "Why (and how) providers should get consent in the exam room",
   subtitle: "Using the principles of explicit consent to give patients better care",
