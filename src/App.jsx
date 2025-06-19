@@ -2543,23 +2543,19 @@ import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import ScrollToTop from "./components/ScrollToTop";
 
-
 //first sections import (Birth Control Section of main navbar)
 import ExploreBirthControl from "./pages/MainBirthControl/ExploreBirthControl/ExploreBirtchControl";
 import HowToGetBC from "./pages/MainBirthControl/HowToGetBC/HowToGetBC";
 
-
 import BirthControlArticles from "./pages/MainBirthControl/BirthControlArticles/BirthControlArticles";
- import BCArticleNews from "./pages/MainBirthControl/BirthControlArticles/BCArticleNews" 
-
-
+import BCArticleNews from "./pages/MainBirthControl/BirthControlArticles/BCArticleNews";
 
 // import All  pages of Sex And Wellnes Section of main navbar (Fourth Section of main Navbar)
 import ShwHome from "./pages/SHW/ShwHome";
 import PregnancyAndFertility from "./pages/Pregnancy-Fertility/PregnancyAndFertility";
 import HealthCare from "./pages/Health-Care/HealthCare";
 import PeriodsAndVagina from "./pages/PeriodsAndVagina/PeriodsAndVagina";
-// now importing All required component for these above 4 pages 
+// now importing All required component for these above 4 pages
 import ArticleNews from "./pages/SHW/ArticleNews";
 import ArticleNewsTwo from "./pages/SHW/ArticleNewsTwo";
 import STIArticlesLayout from "./pages/SHW/ArticleSection";
@@ -2580,8 +2576,7 @@ import HCArticleNewsTwo from "./pages/Health-Care/ArticleNewsTwo";
 import HCArticlesLayout from "./pages/Health-Care/ArticleSection";
 import HCArticlesLayoutTwo from "./pages/Health-Care/ArticleSectionTwo";
 
-
-// import All  pages of Sex And Relationship Section of main navbar (Third Section of main Navbar) 
+// import All  pages of Sex And Relationship Section of main navbar (Third Section of main Navbar)
 //1 .relationship page
 import Relationship from "./pages/Sex&Relationship/Realtionship/Relationship";
 // now importing All required component for these above  page
@@ -2590,7 +2585,6 @@ import RSArticleNewsTwo from "./pages/Sex&Relationship/Realtionship/ArticleNewsT
 import RSArticlesLayout from "./pages/Sex&Relationship/Realtionship/ArticleSection";
 import RSArticlesLayoutTwo from "./pages/Sex&Relationship/Realtionship/ArticleSectionTwo";
 
-
 // 2 .Masturbation page
 import Masturbation from "./pages/Sex&Relationship/Masturbation/Masturbation";
 // now importing All required component for these above  page
@@ -2598,7 +2592,6 @@ import MBArticleNews from "./pages/Sex&Relationship/Masturbation/ArticleNews";
 import MBArticleNewsTwo from "./pages/Sex&Relationship/Masturbation/ArticleNewsTwo";
 import MBArticlesLayout from "./pages/Sex&Relationship/Masturbation/ArticleSection";
 import MBArticlesLayoutTwo from "./pages/Sex&Relationship/Masturbation/ArticleSectionTwo";
-
 
 // 3 .DatingAndHookup page
 import DatingAndHookup from "./pages/Sex&Relationship/DatingAndHookup/DatingAndHookup";
@@ -2624,7 +2617,6 @@ import BSArticleNewsTwo from "./pages/Sex&Relationship/BetterSex/ArticleNewsTwo"
 import BSArticlesLayout from "./pages/Sex&Relationship/BetterSex/ArticleSection";
 import BSArticlesLayoutTwo from "./pages/Sex&Relationship/BetterSex/ArticleSectionTwo";
 
-
 // 6 . ViewAll page
 import ViewAll from "./pages/Sex&Relationship/ViewAll/ViewAll";
 // now importing All required component for these above  page
@@ -2633,8 +2625,7 @@ import ViewAllArticleNewsTwo from "./pages/Sex&Relationship/ViewAll/ArticleNewsT
 import ViewAllArticlesLayout from "./pages/Sex&Relationship/ViewAll/ArticleSection";
 import ViewAllArticlesLayoutTwo from "./pages/Sex&Relationship/ViewAll/ArticleSectionTwo";
 
-
-// importing  pages for self love and lifestyle  and body positivity page 
+// importing  pages for self love and lifestyle  and body positivity page
 
 import SelfLove from "./pages/LifestyleAndInspiration/SelfLove/SelfLove";
 // now importing All required component for these above  page
@@ -2643,15 +2634,12 @@ import SelfLoveArticleNewsTwo from "./pages/LifestyleAndInspiration/SelfLove/Art
 import SelfLoveArticlesLayout from "./pages/LifestyleAndInspiration/SelfLove/ArticleSection";
 import SelfLoveArticlesLayoutTwo from "./pages/LifestyleAndInspiration/SelfLove/ArticleSectionTwo";
 
-
 import ActivismAndPolitics from "./pages/LifestyleAndInspiration/ActivismAndPolitics/ActivismAndPolitics";
 // now importing All required component for these above  page
 import ActivismAndPoliticsArticleNews from "./pages/LifestyleAndInspiration/ActivismAndPolitics/ArticleNews";
 import ActivismAndPoliticsArticleNewsTwo from "./pages/LifestyleAndInspiration/ActivismAndPolitics/ArticleNewsTwo";
 import ActivismAndPoliticsArticlesLayout from "./pages/LifestyleAndInspiration/ActivismAndPolitics/ArticleSection";
 import ActivismAndPoliticsArticlesLayoutTwo from "./pages/LifestyleAndInspiration/ActivismAndPolitics/ArticleSectionTwo";
-
-
 
 import Horoscope from "./pages/LifestyleAndInspiration/Horoscope/Horoscope";
 // now importing All required component for these above  page
@@ -2660,7 +2648,6 @@ import HoroscopeArticleNewsTwo from "./pages/LifestyleAndInspiration/Horoscope/A
 import HoroscopeArticlesLayout from "./pages/LifestyleAndInspiration/Horoscope/ArticleSection";
 import HoroscopeArticlesLayoutTwo from "./pages/LifestyleAndInspiration/Horoscope/ArticleSectionTwo";
 
-
 import Inspiration from "./pages/LifestyleAndInspiration/Inspiration/Inspiration";
 // now importing All required component for these above  page
 import InspirationArticleNews from "./pages/LifestyleAndInspiration/Inspiration/ArticleNews";
@@ -2668,14 +2655,8 @@ import InspirationArticleNewsTwo from "./pages/LifestyleAndInspiration/Inspirati
 import InspirationArticlesLayout from "./pages/LifestyleAndInspiration/Inspiration/ArticleSection";
 import InspirationArticlesLayoutTwo from "./pages/LifestyleAndInspiration/Inspiration/ArticleSectionTwo";
 
-
-
-
-
-
 import Home from "./Home";
 import DynamicTabsComponent from "./Components2/TabSection/Tabs";
-
 
 import UID from "./pages/IUD/IUD";
 import BCD from "./pages/Birth-Control-Shot/BCD";
@@ -2700,8 +2681,7 @@ import AbortionProcedure from "./pages/Abortion/AbortionProcedure/AbortionProced
 import PvsP from "./pages/Abortion/PillvsProcedusre/PvsP";
 import AbortionFAQ from "./pages/Abortion/AbortionFAQ/FAQ";
 import ArticleContent from "./pages/Abortion/AbortionArticles/ArticleContent";
-import AbortionArticles from "./pages/Abortion/AbortionArticles/AbortionArticle"
-
+import AbortionArticles from "./pages/Abortion/AbortionArticles/AbortionArticle";
 
 const App = () => {
   return (
@@ -2723,56 +2703,133 @@ const App = () => {
           />
           <Route path="/health-care" element={<HealthCare />} />
 
-         
           {/* Routes for All Subpages of main  Sex&Relationship Section of main Navbar  */}
-           {/*1. relationship page And its sub Aritcles */}
-          <Route path="/sex-relationships/Relationships" element={<Relationship />} />
-          <Route path="/sex-relationships/Relationships/articles" element={<RSArticlesLayout />} />
-          <Route path="/sex-relationships/Relationships/articles/:slug" element={<RSArticleNews />} />
-          <Route path="/sex-relationships/Relationships/articles-two" element={<RSArticlesLayoutTwo />} />
-          <Route path="/sex-relationships/Relationships/articles-two/:slug" element={<RSArticleNewsTwo />} />
-         
+          {/*1. relationship page And its sub Aritcles */}
+          <Route
+            path="/sex-relationships/Relationships"
+            element={<Relationship />}
+          />
+          <Route
+            path="/sex-relationships/Relationships/articles"
+            element={<RSArticlesLayout />}
+          />
+          <Route
+            path="/sex-relationships/Relationships/articles/:slug"
+            element={<RSArticleNews />}
+          />
+          <Route
+            path="/sex-relationships/Relationships/articles-two"
+            element={<RSArticlesLayoutTwo />}
+          />
+          <Route
+            path="/sex-relationships/Relationships/articles-two/:slug"
+            element={<RSArticleNewsTwo />}
+          />
 
           {/*2. Masturbation page And its sub Aritcles */}
-          <Route path="/sex-relationships/Masturbation" element={<Masturbation />} />
-          <Route path="/sex-relationships/Masturbation/articles" element={<MBArticlesLayout />} />
-          <Route path="/sex-relationships/Masturbation/articles/:slug" element={<MBArticleNews />} />
-          <Route path="/sex-relationships/Masturbation/articles-two" element={<MBArticlesLayoutTwo />} />
-          <Route path="/sex-relationships/Masturbation/articles-two/:slug" element={<MBArticleNewsTwo />} />
-         
+          <Route
+            path="/sex-relationships/Masturbation"
+            element={<Masturbation />}
+          />
+          <Route
+            path="/sex-relationships/Masturbation/articles"
+            element={<MBArticlesLayout />}
+          />
+          <Route
+            path="/sex-relationships/Masturbation/articles/:slug"
+            element={<MBArticleNews />}
+          />
+          <Route
+            path="/sex-relationships/Masturbation/articles-two"
+            element={<MBArticlesLayoutTwo />}
+          />
+          <Route
+            path="/sex-relationships/Masturbation/articles-two/:slug"
+            element={<MBArticleNewsTwo />}
+          />
 
           {/*3. DatingAndHookup page And its sub Aritcles */}
-          <Route path="/sex-relationships/DatingAndHookup" element={<DatingAndHookup />} />
-          <Route path="/sex-relationships/DatingAndHookup/articles" element={<DAHArticlesLayout />} />
-          <Route path="/sex-relationships/DatingAndHookup/articles/:slug" element={<DAHArticleNews />} />
-          <Route path="/sex-relationships/DatingAndHookup/articles-two" element={<DAHArticlesLayoutTwo />} />
-          <Route path="/sex-relationships/DatingAndHookup/articles-two/:slug" element={<DAHArticleNewsTwo />} />
-         
-          
+          <Route
+            path="/sex-relationships/DatingAndHookup"
+            element={<DatingAndHookup />}
+          />
+          <Route
+            path="/sex-relationships/DatingAndHookup/articles"
+            element={<DAHArticlesLayout />}
+          />
+          <Route
+            path="/sex-relationships/DatingAndHookup/articles/:slug"
+            element={<DAHArticleNews />}
+          />
+          <Route
+            path="/sex-relationships/DatingAndHookup/articles-two"
+            element={<DAHArticlesLayoutTwo />}
+          />
+          <Route
+            path="/sex-relationships/DatingAndHookup/articles-two/:slug"
+            element={<DAHArticleNewsTwo />}
+          />
+
           {/*4. BoundariesAndconsent page And its sub Aritcles */}
-          <Route path="/sex-relationships/BoundariesAndconsent" element={<BoundariesAndconsent />} />
-          <Route path="/sex-relationships/BoundariesAndconsent/articles" element={<BACArticlesLayout />} />
-          <Route path="/sex-relationships/BoundariesAndconsent/articles/:slug" element={<BACArticleNews />} />
-          <Route path="/sex-relationships/BoundariesAndconsent/articles-two" element={<BACArticlesLayoutTwo />} />
-          <Route path="/sex-relationships/BoundariesAndconsent/articles-two/:slug" element={<BACArticleNewsTwo />} />
-         
-          
+          <Route
+            path="/sex-relationships/BoundariesAndconsent"
+            element={<BoundariesAndconsent />}
+          />
+          <Route
+            path="/sex-relationships/BoundariesAndconsent/articles"
+            element={<BACArticlesLayout />}
+          />
+          <Route
+            path="/sex-relationships/BoundariesAndconsent/articles/:slug"
+            element={<BACArticleNews />}
+          />
+          <Route
+            path="/sex-relationships/BoundariesAndconsent/articles-two"
+            element={<BACArticlesLayoutTwo />}
+          />
+          <Route
+            path="/sex-relationships/BoundariesAndconsent/articles-two/:slug"
+            element={<BACArticleNewsTwo />}
+          />
+
           {/*5. Better Sex page And its sub Aritcles */}
           <Route path="/sex-relationships/BetterSex" element={<BetterSex />} />
-          <Route path="/sex-relationships/BetterSex/articles" element={<BSArticlesLayout />} />
-          <Route path="/sex-relationships/BetterSex/articles/:slug" element={<BSArticleNews />} />
-          <Route path="/sex-relationships/BetterSex/articles-two" element={<BSArticlesLayoutTwo />} />
-          <Route path="/sex-relationships/BetterSex/articles-two/:slug" element={<BSArticleNewsTwo />} />
-         
-          
+          <Route
+            path="/sex-relationships/BetterSex/articles"
+            element={<BSArticlesLayout />}
+          />
+          <Route
+            path="/sex-relationships/BetterSex/articles/:slug"
+            element={<BSArticleNews />}
+          />
+          <Route
+            path="/sex-relationships/BetterSex/articles-two"
+            element={<BSArticlesLayoutTwo />}
+          />
+          <Route
+            path="/sex-relationships/BetterSex/articles-two/:slug"
+            element={<BSArticleNewsTwo />}
+          />
+
           {/*6. View all page And its sub Aritcles */}
           <Route path="/sex-relationships/ViewAll" element={<ViewAll />} />
-          <Route path="/sex-relationships/ViewAll/articles" element={<ViewAllArticlesLayout />} />
-          <Route path="/sex-relationships/ViewAll/articles/:slug" element={<ViewAllArticleNews />} />
-          <Route path="/sex-relationships/ViewAll/articles-two" element={<ViewAllArticlesLayoutTwo />} />
-          <Route path="/sex-relationships/ViewAll/articles-two/:slug" element={<ViewAllArticleNewsTwo />} />
-         
-         
+          <Route
+            path="/sex-relationships/ViewAll/articles"
+            element={<ViewAllArticlesLayout />}
+          />
+          <Route
+            path="/sex-relationships/ViewAll/articles/:slug"
+            element={<ViewAllArticleNews />}
+          />
+          <Route
+            path="/sex-relationships/ViewAll/articles-two"
+            element={<ViewAllArticlesLayoutTwo />}
+          />
+          <Route
+            path="/sex-relationships/ViewAll/articles-two/:slug"
+            element={<ViewAllArticleNewsTwo />}
+          />
+
           {/* routes for dynamic dataloading for eachPages of Sexual health and wellnessLink of Navbar */}
           <Route path="/articles" element={<STIArticlesLayout />} />
           <Route path="/articles/:slug" element={<ArticleNews />} />
@@ -2793,36 +2850,98 @@ const App = () => {
           <Route path="/HCarticles/:slug" element={<HCArticleNews />} />
           <Route path="/HCarticles-two" element={<HCArticlesLayoutTwo />} />
           <Route path="/HCarticles-two/:slug" element={<HCArticleNewsTwo />} />
-         
-         
-         {/* Self LOve And Body Positivity Section Pages */}
-          <Route path="/lifestyle-and-inspiration/self-love-and-body-positivity" element={<SelfLove />} />
-          <Route path="/lifestyle-and-inspiration/self-love-and-body-positivity/article" element={<SelfLoveArticlesLayout />} />
-          <Route path="/lifestyle-and-inspiration/self-love-and-body-positivity/articles/:slug" element={<SelfLoveArticleNews />} />
-          <Route path="/lifestyle-and-inspiration/self-love-and-body-positivity/article-two" element={<SelfLoveArticlesLayoutTwo />} />
-          <Route path="/lifestyle-and-inspiration/self-love-and-body-positivity/articles-two/:slug" element={<SelfLoveArticleNewsTwo />} />
-      
-         {/* Self LOve And Body Positivity Section Pages */}
-          <Route path="/lifestyle-and-inspiration/activism-politics" element={<ActivismAndPolitics />} />
-          <Route path="/lifestyle-and-inspiration/activism-politics/article" element={<ActivismAndPoliticsArticlesLayout />} />
-          <Route path="/lifestyle-and-inspiration/activism-politics/articles/:slug" element={<ActivismAndPoliticsArticleNews />} />
-          <Route path="/lifestyle-and-inspiration/activism-politics/articles-two" element={<ActivismAndPoliticsArticlesLayoutTwo />} />
-          <Route path="/lifestyle-and-inspiration/activism-politics/articles-two/:slug" element={<ActivismAndPoliticsArticleNewsTwo />} />
-         
-         {/* Self LOve And Body Positivity Section Pages */}
-          <Route path="/lifestyle-and-inspiration/horoscopes" element={<Horoscope />} />
-          <Route path="/lifestyle-and-inspiration/horoscopes/article" element={<HoroscopeArticlesLayout />} />
-          <Route path="/lifestyle-and-inspiration/horoscopes/articles/:slug" element={<HoroscopeArticleNews />} />
-          <Route path="/lifestyle-and-inspiration/horoscopes/articles-two" element={<HoroscopeArticlesLayoutTwo />} />
-          <Route path="/lifestyle-and-inspiration/horoscopes/articles-two/:slug" element={<HoroscopeArticleNewsTwo />} />
-         
-         
-         {/* Self LOve And Body Positivity Section Pages */}
-          <Route path="/lifestyle-and-inspiration/Inspiration" element={<Inspiration />} />
-          <Route path="/lifestyle-and-inspiration/Inspiration/article" element={<InspirationArticlesLayout />} />
-          <Route path="/lifestyle-and-inspiration/Inspiration/articles/:slug" element={<InspirationArticleNews />} />
-          <Route path="/lifestyle-and-inspiration/Inspiration/articles-two" element={<InspirationArticlesLayoutTwo />} />
-          <Route path="/lifestyle-and-inspiration/Inspiration/articles-two/:slug" element={<InspirationArticleNewsTwo />} />
+
+          {/* Self LOve And Body Positivity Section Pages */}
+          {/* 1 .self-love-and-body-positivity page */}
+          <Route
+            path="/lifestyle-and-inspiration/self-love-and-body-positivity"
+            element={<SelfLove />}
+          />
+          <Route
+            path="/lifestyle-and-inspiration/self-love-and-body-positivity/article"
+            element={<SelfLoveArticlesLayout />}
+          />
+          <Route
+            path="/lifestyle-and-inspiration/self-love-and-body-positivity/articles/:slug"
+            element={<SelfLoveArticleNews />}
+          />
+          <Route
+            path="/lifestyle-and-inspiration/self-love-and-body-positivity/article-two"
+            element={<SelfLoveArticlesLayoutTwo />}
+          />
+          <Route
+            path="/lifestyle-and-inspiration/self-love-and-body-positivity/articles-two/:slug"
+            element={<SelfLoveArticleNewsTwo />}
+          />
+
+          {/* 2 .activism  & politics page */}
+
+          <Route
+            path="/lifestyle-and-inspiration/activism-politics"
+            element={<ActivismAndPolitics />}
+          />
+          <Route
+            path="/lifestyle-and-inspiration/activism-politics/article"
+            element={<ActivismAndPoliticsArticlesLayout />}
+          />
+          <Route
+            path="/lifestyle-and-inspiration/activism-politics/articles/:slug"
+            element={<ActivismAndPoliticsArticleNews />}
+          />
+          <Route
+            path="/lifestyle-and-inspiration/activism-politics/articles-two"
+            element={<ActivismAndPoliticsArticlesLayoutTwo />}
+          />
+          <Route
+            path="/lifestyle-and-inspiration/activism-politics/articles-two/:slug"
+            element={<ActivismAndPoliticsArticleNewsTwo />}
+          />
+
+          {/* 3 .Horoscope page */}
+
+          <Route
+            path="/lifestyle-and-inspiration/horoscopes"
+            element={<Horoscope />}
+          />
+          <Route
+            path="/lifestyle-and-inspiration/horoscopes/article"
+            element={<HoroscopeArticlesLayout />}
+          />
+          <Route
+            path="/lifestyle-and-inspiration/horoscopes/articles/:slug"
+            element={<HoroscopeArticleNews />}
+          />
+          <Route
+            path="/lifestyle-and-inspiration/horoscopes/articles-two"
+            element={<HoroscopeArticlesLayoutTwo />}
+          />
+          <Route
+            path="/lifestyle-and-inspiration/horoscopes/articles-two/:slug"
+            element={<HoroscopeArticleNewsTwo />}
+          />
+
+          {/* 4 Inspiration page */}
+
+          <Route
+            path="/lifestyle-and-inspiration/Inspiration"
+            element={<Inspiration />}
+          />
+          <Route
+            path="/lifestyle-and-inspiration/Inspiration/article"
+            element={<InspirationArticlesLayout />}
+          />
+          <Route
+            path="/lifestyle-and-inspiration/Inspiration/articles/:slug"
+            element={<InspirationArticleNews />}
+          />
+          <Route
+            path="/lifestyle-and-inspiration/Inspiration/articles-two"
+            element={<InspirationArticlesLayoutTwo />}
+          />
+          <Route
+            path="/lifestyle-and-inspiration/Inspiration/articles-two/:slug"
+            element={<InspirationArticleNewsTwo />}
+          />
 
           {/* Redirect any unknown URL back to home */}
           <Route path="*" element={<Navigate to="/" replace />} />
@@ -2845,28 +2964,43 @@ const App = () => {
           <Route path="types/spermicide-gell" element={<SAG />} />
           <Route path="types/sterilization" element={<SAG />} />
           <Route path="types/emergency-contraception" element={<EC />} />
-          
-          
-          
-          
-          <Route path="/birth-control-option" element={<ExploreBirthControl />} />
-          <Route path="/birth-control/how-to-get-birth-control" element={<HowToGetBC />} />
-          
-          <Route path="/birth-control/articles" element={<BirthControlArticles />} />
-          <Route path="/birth-control/articles/:slug" element={<BCArticleNews />} />
 
+          <Route
+            path="/birth-control-option"
+            element={<ExploreBirthControl />}
+          />
+          <Route
+            path="/birth-control/how-to-get-birth-control"
+            element={<HowToGetBC />}
+          />
 
-          <Route path="/birth-control/reviews" element={< BCreviews/>} />
-          <Route path="/abortion/all-about-abortion" element={< AllAboutAbortion/>} />
-          <Route path="/abortion/abortion-pill" element={< AbortionPill/>} />
-          <Route path="/abortion/abortion-procedure" element={< AbortionProcedure/>} />
-          <Route path="/abortion/abortion-pill-vs-procedure" element={< PvsP/>} />
-          <Route path="/abortion/faqs" element={< AbortionFAQ/>} />
+          <Route
+            path="/birth-control/articles"
+            element={<BirthControlArticles />}
+          />
+          <Route
+            path="/birth-control/articles/:slug"
+            element={<BCArticleNews />}
+          />
 
-         <Route path="/abortion/articles" element={<AbortionArticles />} />
-         <Route path="/abortion/articles/:slug" element={<ArticleContent />} />
-       
-       
+          <Route path="/birth-control/reviews" element={<BCreviews />} />
+          <Route
+            path="/abortion/all-about-abortion"
+            element={<AllAboutAbortion />}
+          />
+          <Route path="/abortion/abortion-pill" element={<AbortionPill />} />
+          <Route
+            path="/abortion/abortion-procedure"
+            element={<AbortionProcedure />}
+          />
+          <Route
+            path="/abortion/abortion-pill-vs-procedure"
+            element={<PvsP />}
+          />
+          <Route path="/abortion/faqs" element={<AbortionFAQ />} />
+
+          <Route path="/abortion/articles" element={<AbortionArticles />} />
+          <Route path="/abortion/articles/:slug" element={<ArticleContent />} />
         </Routes>
       </div>
 
