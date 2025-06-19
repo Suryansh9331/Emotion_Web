@@ -2815,6 +2815,14 @@ const App = () => {
           <Route path="/lifestyle-and-inspiration/horoscopes/articles/:slug" element={<HoroscopeArticleNews />} />
           <Route path="/lifestyle-and-inspiration/horoscopes/articles-two" element={<HoroscopeArticlesLayoutTwo />} />
           <Route path="/lifestyle-and-inspiration/horoscopes/articles-two/:slug" element={<HoroscopeArticleNewsTwo />} />
+         
+         
+         {/* Self LOve And Body Positivity Section Pages */}
+          <Route path="/lifestyle-and-inspiration/Inspiration" element={<Inspiration />} />
+          <Route path="/lifestyle-and-inspiration/Inspiration/article" element={<InspirationArticlesLayout />} />
+          <Route path="/lifestyle-and-inspiration/Inspiration/articles/:slug" element={<InspirationArticleNews />} />
+          <Route path="/lifestyle-and-inspiration/Inspiration/articles-two" element={<InspirationArticlesLayoutTwo />} />
+          <Route path="/lifestyle-and-inspiration/Inspiration/articles-two/:slug" element={<InspirationArticleNewsTwo />} />
 
           {/* Redirect any unknown URL back to home */}
           <Route path="*" element={<Navigate to="/" replace />} />
