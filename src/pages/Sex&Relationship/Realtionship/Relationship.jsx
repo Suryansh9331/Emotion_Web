@@ -3,7 +3,7 @@ import RSArticlesLayout from "./ArticleSection";
 import RSArticlesLayoutTwo from "./ArticleSectionTwo";
 import FourthComponent from "./fourthComponent";
 import { Link } from "react-router-dom";
-
+import RelatedArticleComponent from "../../../components/RelatedArticleComponent/RelatedArticleComponent"
 const Relationship = () => {
   return (
     <div>
@@ -31,6 +31,7 @@ const Relationship = () => {
         </div>
       </div>
       <RSArticlesLayoutTwo />
+       <RelatedArticleComponent/>
       <div className="min-h-auto bg-white ">
      
       <main className=" py-12 bg-[#e5e5e5]">
@@ -44,7 +45,7 @@ const Relationship = () => {
               src="/action_promo_explorer_small-d788ee8243acf9c93c0e5c49313cb2ff6217219620acc6ce898193dd23211ac5.webp"
               alt=""
             />
-
+   
             {/* Text Content */}
             <div className="text-center lg:text-left lg:ml-26 px-8">
               <h3 className="text-5xl sm:text-4xl font-bold text-[#404040] mb-2">
@@ -66,6 +67,7 @@ const Relationship = () => {
         </div>
       </main>
     </div>
+     
       <SubscriptionForm />
     </div>
   );

@@ -3,6 +3,7 @@ import DAHArticlesLayout from "./ArticleSection";
 import DAHArticlesLayoutTwo from "./ArticleSectionTwo";
 import FourthComponent from "./fourthComponent";
 import { Link } from "react-router-dom";
+import RelatedArticleComponent from "../../../components/RelatedArticleComponent/RelatedArticleComponent"
 
 const DatingAndHookup = () => {
   return (
@@ -31,6 +32,7 @@ const DatingAndHookup = () => {
         </div>
       </div>
       <DAHArticlesLayoutTwo />
+       <RelatedArticleComponent/>
       <div className="min-h-auto bg-white ">
      
       <main className=" py-12 bg-[#e5e5e5]">

@@ -3,6 +3,8 @@ import BACArticlesLayout from "./ArticleSection";
 import BACArticlesLayoutTwo from "./ArticleSectionTwo";
 import FourthComponent from "./fourthComponent";
 import { Link } from "react-router-dom";
+import RelatedArticleComponent from "../../../components/RelatedArticleComponent/RelatedArticleComponent"
+
 
 const BoundariesAndconsent = () => {
   return (
@@ -31,6 +33,7 @@ const BoundariesAndconsent = () => {
         </div>
       </div>
       <BACArticlesLayoutTwo />
+       <RelatedArticleComponent/>
       <div className="min-h-auto bg-white ">
      
       <main className=" py-12 bg-[#e5e5e5]">
