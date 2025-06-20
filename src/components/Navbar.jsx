@@ -3559,7 +3559,7 @@ const Navbar = () => {
           label: "Explore birth control options",
           to: "/birth-control-option",
         },
-        { label: "Compare birth control", to: "/birth-control/compare" },
+        // { label: " ", to: "/birth-control/compare" },
         { label: "How to get birth control", to: "/birth-control/how-to-get-birth-control" },
         { label: "Birth control articles", to: "/birth-control/articles" },
         { label: "Birth control reviews", to: "/birth-control/reviews" },
