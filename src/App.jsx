@@ -2683,6 +2683,10 @@ import AbortionFAQ from "./pages/Abortion/AbortionFAQ/FAQ";
 import ArticleContent from "./pages/Abortion/AbortionArticles/ArticleContent";
 import AbortionArticles from "./pages/Abortion/AbortionArticles/AbortionArticle";
 
+// Find HEalth Care PAges
+import Findprovider from "./pages/FindHealthCare/Findprovider/Findprovider";
+import BirthControlOnline from "./pages/FindHealthCare/BirthControlOnline/BirthControlOnline";
+import HealthServicesCards from "./pages/FindHealthCare/viewAll/ViewAll"
 const App = () => {
   return (
     <div className="flex flex-col min-h-screen">
@@ -3001,6 +3005,11 @@ const App = () => {
 
           <Route path="/abortion/articles" element={<AbortionArticles />} />
           <Route path="/abortion/articles/:slug" element={<ArticleContent />} />
+
+          {/* Find Health Care Routes */}
+          <Route path ="/find-health-care/clinics" element ={<Findprovider/>}/>
+          <Route path ="/find-health-care/online-birth-control" element ={<BirthControlOnline/>}/>
+          <Route path ="/find-health-care" element ={<HealthServicesCards/>}/>
         </Routes>
       </div>
 

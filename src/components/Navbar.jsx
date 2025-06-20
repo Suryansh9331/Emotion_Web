@@ -3649,10 +3649,10 @@ const Navbar = () => {
       id: 6,
       title: "Find health care",
       dropdownItems: [
-        { label: "Providers", to: "/find-health-care/providers" },
-        { label: "Telehealth", to: "/find-health-care/telehealth" },
-        { label: "Insurance", to: "/find-health-care/insurance" },
-        { label: "Free clinics", to: "/find-health-care/clinics" },
+        { label: "Find a health care provider", to: "/find-health-care/clinics" },
+        { label: "Get birth control delivered", to: "/find-health-care/online-birth-control" },
+        { label: "Find abortion care", to: "https://www.abortionfinder.org/" },
+        { label: "View All ", to: "/find-health-care" },
       ],
     },
   ];
