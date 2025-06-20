@@ -3,6 +3,8 @@ import ActivismAndPoliticsArticlesLayout from "./ArticleSection";
 import ActivismAndPoliticsArticlesLayoutTwo from "./ArticleSectionTwo";
 import FourthComponent from "./fourthComponent";
 import { Link } from "react-router-dom";
+import RelatedArticleComponent from "../../../components/RelatedArticleComponent/RelatedArticleComponent"
+
 const ActivismAndPolitics = () => {
   return (
     <div>
@@ -30,6 +32,7 @@ const ActivismAndPolitics = () => {
         </div>
       </div>
       <ActivismAndPoliticsArticlesLayoutTwo />
+      <RelatedArticleComponent/>
      <div className="min-h-auto bg-white ">
      
       <main className=" py-12 bg-[#e5e5e5]">

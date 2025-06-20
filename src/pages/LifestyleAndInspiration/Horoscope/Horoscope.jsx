@@ -3,6 +3,8 @@ import HoroscopeArticlesLayout from "./ArticleSection";
 import HoroscopeArticlesLayoutTwo from "./ArticleSectionTwo";
 import FourthComponent from "./fourthComponent";
 import { Link } from "react-router-dom";
+import RelatedArticleComponent from "../../../components/RelatedArticleComponent/RelatedArticleComponent"
+
 const Horoscope = () => {
   return (
     <div>
@@ -30,6 +32,7 @@ const Horoscope = () => {
         </div>
       </div>
       <HoroscopeArticlesLayoutTwo />
+      <RelatedArticleComponent/>
      <div className="min-h-auto bg-white ">
      
       <main className=" py-12 bg-[#e5e5e5]">

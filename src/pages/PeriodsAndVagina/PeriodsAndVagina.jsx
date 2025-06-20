@@ -3,6 +3,8 @@ import PVArticlesLayout from "./ArticleSection";
 import PVArticleLayoutTwo from "./ArticleSectionTwo";
 import FourthComponent from "./fourthComponent";
 import { Link } from "react-router-dom";
+import RelatedArticleComponent from "../../components/RelatedArticleComponent/RelatedArticleComponent"
+
 const PeriodsAndVagina = () => {
   return (
     <div>
@@ -31,6 +33,8 @@ const PeriodsAndVagina = () => {
         </div>
       </div>
       <PVArticleLayoutTwo />
+       <RelatedArticleComponent/>
+
       <div className="min-h-auto bg-white ">
      
       <main className=" py-12 bg-[#e5e5e5]">

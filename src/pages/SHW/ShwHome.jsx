@@ -2,6 +2,8 @@ import SubscriptionForm from "../../components/FriskyComponent"
 import ArticlesSection from "./ArticleSection"
 import STIArticlesLayoutTwo from "./ArticleSectionTwo"
 import FourthComponent from "./fourthComponent"
+import RelatedArticleComponent from "../../components/RelatedArticleComponent/RelatedArticleComponent"
+
 
 const ShwHome = () => {
   return (
@@ -30,6 +32,8 @@ const ShwHome = () => {
            </div>
          </div>
          <STIArticlesLayoutTwo/>
+          <RelatedArticleComponent/>
+
            <div className="grid lg:grid-cols-2 gap-12 items-center lg:ml-6 md:ml-12">
             {/* Images Grid */}
              <img src="/action_promo_explorer_small-d788ee8243acf9c93c0e5c49313cb2ff6217219620acc6ce898193dd23211ac5.webp" alt=""/>

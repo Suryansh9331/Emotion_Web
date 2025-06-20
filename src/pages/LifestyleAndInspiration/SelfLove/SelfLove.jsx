@@ -3,6 +3,8 @@ import SelfLoveArticlesLayout from "./ArticleSection";
 import SelfLoveArticlesLayoutTwo from "./ArticleSectionTwo";
 import FourthComponent from "./fourthComponent";
 import { Link } from "react-router-dom";
+import RelatedArticleComponent from "../../../components/RelatedArticleComponent/RelatedArticleComponent"
+
 const SelfLove = () => {
   return (
     <div>
@@ -30,6 +32,7 @@ const SelfLove = () => {
         </div>
       </div>
       <SelfLoveArticlesLayoutTwo />
+      <RelatedArticleComponent/>
      <div className="min-h-auto bg-white ">
      
       <main className=" py-12 bg-[#e5e5e5]">

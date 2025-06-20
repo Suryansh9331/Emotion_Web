@@ -1100,7 +1100,7 @@ const GetRelatedArticlesData = (route) => {
 
     //  now comes to another section pages routes
 
-"/sex-relationships/Relationships": {
+    "/sex-relationships/Relationships": {
       mainTitle: "Related  Articles ",
       subtitle: "",
       accentColor: "#028388",
@@ -1151,7 +1151,7 @@ const GetRelatedArticlesData = (route) => {
         },
       ],
     },
-"/sex-relationships/Masturbation": {
+    "/sex-relationships/Masturbation": {
       mainTitle: "Related  Articles ",
       subtitle: "",
       accentColor: "#028388",
@@ -1202,7 +1202,7 @@ const GetRelatedArticlesData = (route) => {
         },
       ],
     },
-"/sex-relationships/DatingAndHookup": {
+    "/sex-relationships/DatingAndHookup": {
       mainTitle: "Related  Articles ",
       subtitle: "",
       accentColor: "#028388",
@@ -1253,7 +1253,7 @@ const GetRelatedArticlesData = (route) => {
         },
       ],
     },
-"/sex-relationships/BetterSex": {
+    "/sex-relationships/BetterSex": {
       mainTitle: "Related  Articles ",
       subtitle: "",
       accentColor: "#028388",
@@ -1304,7 +1304,213 @@ const GetRelatedArticlesData = (route) => {
         },
       ],
     },
-"/sex-relationships/BoundariesAndconsent": {
+    "/sex-relationships/BoundariesAndconsent": {
+      mainTitle: "Related  Articles ",
+      subtitle: "",
+      accentColor: "#028388",
+      buttonText: "view all birth control articles",
+      buttonLink: "/birth-control/articles",
+      articles: [
+        {
+          id: 1,
+          image:
+            "/reproductive-health-supplies-coalition-bymICwLq-E4-unsplash.jpg",
+
+          category: "Related Articles",
+          title:
+            "20 ways over-the-counter pills are changing access and control",
+          subtitle: "Spoiler alert: life can get a whole lot easier",
+          link: "/birth-control/articles/2816-20-ways-otc-birth-control-pills-change-the-game",
+        },
+        {
+          id: 2,
+          image:
+            "/reproductive-health-supplies-coalition-cHrcHdg2H9E-unsplash (1).jpg",
+
+          category: "IUD",
+          title: "Lorde is answering our birth control prayers",
+          subtitle:
+            "IUDs have the spotlight in Lorde’s summer album, and we’re so here for it!",
+          link: "/birth-control/articles/2815-lorde-is-answering-our-birth-control-prayers",
+        },
+        {
+          id: 3,
+          image: "/230912_PTD_CapitolHill-04c.jpg",
+
+          category: "BIRTH CONTROL",
+          title:
+            "We're saying Thanks, Birth Control! louder than ever this year",
+          subtitle: "12 years and counting",
+          link: "/birth-control/articles/2718-we-re-saying-thanks-birth-control-louder-than-ever-this-year",
+        },
+        {
+          id: 4,
+          image: "/Screenshot 2024-03-04 at 8.04.06 AM (1).png",
+
+          category: "BIRTH CONTROL PILL",
+          title:
+            "Everything you need to know about Opill, the new over-the-counter birth control pill",
+          subtitle: "Now in stores!",
+          link: "/birth-control/articles/2595-everything-you-need-to-know-about-opill-the-new-over-the-counter-birth-control-pill",
+        },
+      ],
+    },
+    
+    // now routes data for  Nexe Section
+    "/shw": {
+      mainTitle: "Related  Articles ",
+      subtitle: "",
+      accentColor: "#028388",
+      buttonText: "view all birth control articles",
+      buttonLink: "/birth-control/articles",
+      articles: [
+        {
+          id: 1,
+          image:
+            "/reproductive-health-supplies-coalition-bymICwLq-E4-unsplash.jpg",
+
+          category: "Related Articles",
+          title:
+            "20 ways over-the-counter pills are changing access and control",
+          subtitle: "Spoiler alert: life can get a whole lot easier",
+          link: "/birth-control/articles/2816-20-ways-otc-birth-control-pills-change-the-game",
+        },
+        {
+          id: 2,
+          image:
+            "/reproductive-health-supplies-coalition-cHrcHdg2H9E-unsplash (1).jpg",
+
+          category: "IUD",
+          title: "Lorde is answering our birth control prayers",
+          subtitle:
+            "IUDs have the spotlight in Lorde’s summer album, and we’re so here for it!",
+          link: "/birth-control/articles/2815-lorde-is-answering-our-birth-control-prayers",
+        },
+        {
+          id: 3,
+          image: "/230912_PTD_CapitolHill-04c.jpg",
+
+          category: "BIRTH CONTROL",
+          title:
+            "We're saying Thanks, Birth Control! louder than ever this year",
+          subtitle: "12 years and counting",
+          link: "/birth-control/articles/2718-we-re-saying-thanks-birth-control-louder-than-ever-this-year",
+        },
+        {
+          id: 4,
+          image: "/Screenshot 2024-03-04 at 8.04.06 AM (1).png",
+
+          category: "BIRTH CONTROL PILL",
+          title:
+            "Everything you need to know about Opill, the new over-the-counter birth control pill",
+          subtitle: "Now in stores!",
+          link: "/birth-control/articles/2595-everything-you-need-to-know-about-opill-the-new-over-the-counter-birth-control-pill",
+        },
+      ],
+    },
+    "/pregnancy-and-fertility": {
+      mainTitle: "Related  Articles ",
+      subtitle: "",
+      accentColor: "#028388",
+      buttonText: "view all birth control articles",
+      buttonLink: "/birth-control/articles",
+      articles: [
+        {
+          id: 1,
+          image:
+            "/reproductive-health-supplies-coalition-bymICwLq-E4-unsplash.jpg",
+
+          category: "Related Articles",
+          title:
+            "20 ways over-the-counter pills are changing access and control",
+          subtitle: "Spoiler alert: life can get a whole lot easier",
+          link: "/birth-control/articles/2816-20-ways-otc-birth-control-pills-change-the-game",
+        },
+        {
+          id: 2,
+          image:
+            "/reproductive-health-supplies-coalition-cHrcHdg2H9E-unsplash (1).jpg",
+
+          category: "IUD",
+          title: "Lorde is answering our birth control prayers",
+          subtitle:
+            "IUDs have the spotlight in Lorde’s summer album, and we’re so here for it!",
+          link: "/birth-control/articles/2815-lorde-is-answering-our-birth-control-prayers",
+        },
+        {
+          id: 3,
+          image: "/230912_PTD_CapitolHill-04c.jpg",
+
+          category: "BIRTH CONTROL",
+          title:
+            "We're saying Thanks, Birth Control! louder than ever this year",
+          subtitle: "12 years and counting",
+          link: "/birth-control/articles/2718-we-re-saying-thanks-birth-control-louder-than-ever-this-year",
+        },
+        {
+          id: 4,
+          image: "/Screenshot 2024-03-04 at 8.04.06 AM (1).png",
+
+          category: "BIRTH CONTROL PILL",
+          title:
+            "Everything you need to know about Opill, the new over-the-counter birth control pill",
+          subtitle: "Now in stores!",
+          link: "/birth-control/articles/2595-everything-you-need-to-know-about-opill-the-new-over-the-counter-birth-control-pill",
+        },
+      ],
+    },
+    "/health-care": {
+      mainTitle: "Related  Articles ",
+      subtitle: "",
+      accentColor: "#028388",
+      buttonText: "view all birth control articles",
+      buttonLink: "/birth-control/articles",
+      articles: [
+        {
+          id: 1,
+          image:
+            "/reproductive-health-supplies-coalition-bymICwLq-E4-unsplash.jpg",
+
+          category: "Related Articles",
+          title:
+            "20 ways over-the-counter pills are changing access and control",
+          subtitle: "Spoiler alert: life can get a whole lot easier",
+          link: "/birth-control/articles/2816-20-ways-otc-birth-control-pills-change-the-game",
+        },
+        {
+          id: 2,
+          image:
+            "/reproductive-health-supplies-coalition-cHrcHdg2H9E-unsplash (1).jpg",
+
+          category: "IUD",
+          title: "Lorde is answering our birth control prayers",
+          subtitle:
+            "IUDs have the spotlight in Lorde’s summer album, and we’re so here for it!",
+          link: "/birth-control/articles/2815-lorde-is-answering-our-birth-control-prayers",
+        },
+        {
+          id: 3,
+          image: "/230912_PTD_CapitolHill-04c.jpg",
+
+          category: "BIRTH CONTROL",
+          title:
+            "We're saying Thanks, Birth Control! louder than ever this year",
+          subtitle: "12 years and counting",
+          link: "/birth-control/articles/2718-we-re-saying-thanks-birth-control-louder-than-ever-this-year",
+        },
+        {
+          id: 4,
+          image: "/Screenshot 2024-03-04 at 8.04.06 AM (1).png",
+
+          category: "BIRTH CONTROL PILL",
+          title:
+            "Everything you need to know about Opill, the new over-the-counter birth control pill",
+          subtitle: "Now in stores!",
+          link: "/birth-control/articles/2595-everything-you-need-to-know-about-opill-the-new-over-the-counter-birth-control-pill",
+        },
+      ],
+    },
+    "/periods-and-vaginal-health": {
       mainTitle: "Related  Articles ",
       subtitle: "",
       accentColor: "#028388",
@@ -1356,6 +1562,212 @@ const GetRelatedArticlesData = (route) => {
       ],
     },
 
+
+// now routes data for LifeCycle & Inspiration Section Pages
+ "/lifestyle-and-inspiration/Inspiration": {
+      mainTitle: "Related  Articles ",
+      subtitle: "",
+      accentColor: "#028388",
+      buttonText: "view all birth control articles",
+      buttonLink: "/birth-control/articles",
+      articles: [
+        {
+          id: 1,
+          image:
+            "/reproductive-health-supplies-coalition-bymICwLq-E4-unsplash.jpg",
+
+          category: "Related Articles",
+          title:
+            "20 ways over-the-counter pills are changing access and control",
+          subtitle: "Spoiler alert: life can get a whole lot easier",
+          link: "/birth-control/articles/2816-20-ways-otc-birth-control-pills-change-the-game",
+        },
+        {
+          id: 2,
+          image:
+            "/reproductive-health-supplies-coalition-cHrcHdg2H9E-unsplash (1).jpg",
+
+          category: "IUD",
+          title: "Lorde is answering our birth control prayers",
+          subtitle:
+            "IUDs have the spotlight in Lorde’s summer album, and we’re so here for it!",
+          link: "/birth-control/articles/2815-lorde-is-answering-our-birth-control-prayers",
+        },
+        {
+          id: 3,
+          image: "/230912_PTD_CapitolHill-04c.jpg",
+
+          category: "BIRTH CONTROL",
+          title:
+            "We're saying Thanks, Birth Control! louder than ever this year",
+          subtitle: "12 years and counting",
+          link: "/birth-control/articles/2718-we-re-saying-thanks-birth-control-louder-than-ever-this-year",
+        },
+        {
+          id: 4,
+          image: "/Screenshot 2024-03-04 at 8.04.06 AM (1).png",
+
+          category: "BIRTH CONTROL PILL",
+          title:
+            "Everything you need to know about Opill, the new over-the-counter birth control pill",
+          subtitle: "Now in stores!",
+          link: "/birth-control/articles/2595-everything-you-need-to-know-about-opill-the-new-over-the-counter-birth-control-pill",
+        },
+      ],
+    },
+ "/lifestyle-and-inspiration/horoscopes": {
+      mainTitle: "Related  Articles ",
+      subtitle: "",
+      accentColor: "#028388",
+      buttonText: "view all birth control articles",
+      buttonLink: "/birth-control/articles",
+      articles: [
+        {
+          id: 1,
+          image:
+            "/reproductive-health-supplies-coalition-bymICwLq-E4-unsplash.jpg",
+
+          category: "Related Articles",
+          title:
+            "20 ways over-the-counter pills are changing access and control",
+          subtitle: "Spoiler alert: life can get a whole lot easier",
+          link: "/birth-control/articles/2816-20-ways-otc-birth-control-pills-change-the-game",
+        },
+        {
+          id: 2,
+          image:
+            "/reproductive-health-supplies-coalition-cHrcHdg2H9E-unsplash (1).jpg",
+
+          category: "IUD",
+          title: "Lorde is answering our birth control prayers",
+          subtitle:
+            "IUDs have the spotlight in Lorde’s summer album, and we’re so here for it!",
+          link: "/birth-control/articles/2815-lorde-is-answering-our-birth-control-prayers",
+        },
+        {
+          id: 3,
+          image: "/230912_PTD_CapitolHill-04c.jpg",
+
+          category: "BIRTH CONTROL",
+          title:
+            "We're saying Thanks, Birth Control! louder than ever this year",
+          subtitle: "12 years and counting",
+          link: "/birth-control/articles/2718-we-re-saying-thanks-birth-control-louder-than-ever-this-year",
+        },
+        {
+          id: 4,
+          image: "/Screenshot 2024-03-04 at 8.04.06 AM (1).png",
+
+          category: "BIRTH CONTROL PILL",
+          title:
+            "Everything you need to know about Opill, the new over-the-counter birth control pill",
+          subtitle: "Now in stores!",
+          link: "/birth-control/articles/2595-everything-you-need-to-know-about-opill-the-new-over-the-counter-birth-control-pill",
+        },
+      ],
+    },
+ "/lifestyle-and-inspiration/activism-politics": {
+      mainTitle: "Related  Articles ",
+      subtitle: "",
+      accentColor: "#028388",
+      buttonText: "view all birth control articles",
+      buttonLink: "/birth-control/articles",
+      articles: [
+        {
+          id: 1,
+          image:
+            "/reproductive-health-supplies-coalition-bymICwLq-E4-unsplash.jpg",
+
+          category: "Related Articles",
+          title:
+            "20 ways over-the-counter pills are changing access and control",
+          subtitle: "Spoiler alert: life can get a whole lot easier",
+          link: "/birth-control/articles/2816-20-ways-otc-birth-control-pills-change-the-game",
+        },
+        {
+          id: 2,
+          image:
+            "/reproductive-health-supplies-coalition-cHrcHdg2H9E-unsplash (1).jpg",
+
+          category: "IUD",
+          title: "Lorde is answering our birth control prayers",
+          subtitle:
+            "IUDs have the spotlight in Lorde’s summer album, and we’re so here for it!",
+          link: "/birth-control/articles/2815-lorde-is-answering-our-birth-control-prayers",
+        },
+        {
+          id: 3,
+          image: "/230912_PTD_CapitolHill-04c.jpg",
+
+          category: "BIRTH CONTROL",
+          title:
+            "We're saying Thanks, Birth Control! louder than ever this year",
+          subtitle: "12 years and counting",
+          link: "/birth-control/articles/2718-we-re-saying-thanks-birth-control-louder-than-ever-this-year",
+        },
+        {
+          id: 4,
+          image: "/Screenshot 2024-03-04 at 8.04.06 AM (1).png",
+
+          category: "BIRTH CONTROL PILL",
+          title:
+            "Everything you need to know about Opill, the new over-the-counter birth control pill",
+          subtitle: "Now in stores!",
+          link: "/birth-control/articles/2595-everything-you-need-to-know-about-opill-the-new-over-the-counter-birth-control-pill",
+        },
+      ],
+    },
+ "/lifestyle-and-inspiration/self-love-and-body-positivity": {
+      mainTitle: "Related  Articles ",
+      subtitle: "",
+      accentColor: "#028388",
+      buttonText: "view all birth control articles",
+      buttonLink: "/birth-control/articles",
+      articles: [
+        {
+          id: 1,
+          image:
+            "/reproductive-health-supplies-coalition-bymICwLq-E4-unsplash.jpg",
+
+          category: "Related Articles",
+          title:
+            "20 ways over-the-counter pills are changing access and control",
+          subtitle: "Spoiler alert: life can get a whole lot easier",
+          link: "/birth-control/articles/2816-20-ways-otc-birth-control-pills-change-the-game",
+        },
+        {
+          id: 2,
+          image:
+            "/reproductive-health-supplies-coalition-cHrcHdg2H9E-unsplash (1).jpg",
+
+          category: "IUD",
+          title: "Lorde is answering our birth control prayers",
+          subtitle:
+            "IUDs have the spotlight in Lorde’s summer album, and we’re so here for it!",
+          link: "/birth-control/articles/2815-lorde-is-answering-our-birth-control-prayers",
+        },
+        {
+          id: 3,
+          image: "/230912_PTD_CapitolHill-04c.jpg",
+
+          category: "BIRTH CONTROL",
+          title:
+            "We're saying Thanks, Birth Control! louder than ever this year",
+          subtitle: "12 years and counting",
+          link: "/birth-control/articles/2718-we-re-saying-thanks-birth-control-louder-than-ever-this-year",
+        },
+        {
+          id: 4,
+          image: "/Screenshot 2024-03-04 at 8.04.06 AM (1).png",
+
+          category: "BIRTH CONTROL PILL",
+          title:
+            "Everything you need to know about Opill, the new over-the-counter birth control pill",
+          subtitle: "Now in stores!",
+          link: "/birth-control/articles/2595-everything-you-need-to-know-about-opill-the-new-over-the-counter-birth-control-pill",
+        },
+      ],
+    },
 
   };
 

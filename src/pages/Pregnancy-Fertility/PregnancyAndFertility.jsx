@@ -3,6 +3,7 @@ import PFArticlesLayout from "./ArticleSection";
 import PFArticlesLayoutTwo from "./ArticleSectionTwo";
 import FourthComponent from "./fourthComponent";
 import { Link } from "react-router-dom";
+import RelatedArticleComponent from "../../components/RelatedArticleComponent/RelatedArticleComponent"
 
 const PregnancyAndFertility = () => {
   return (
@@ -31,6 +32,8 @@ const PregnancyAndFertility = () => {
         </div>
       </div>
       <PFArticlesLayoutTwo />
+       <RelatedArticleComponent/>
+
       <div className="min-h-auto bg-white ">
      
       <main className=" py-12 bg-[#e5e5e5]">
