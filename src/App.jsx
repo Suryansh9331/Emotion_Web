@@ -2686,7 +2686,17 @@ import AbortionArticles from "./pages/Abortion/AbortionArticles/AbortionArticle"
 // Find HEalth Care PAges
 import Findprovider from "./pages/FindHealthCare/Findprovider/Findprovider";
 import BirthControlOnline from "./pages/FindHealthCare/BirthControlOnline/BirthControlOnline";
-import HealthServicesCards from "./pages/FindHealthCare/viewAll/ViewAll"
+import HealthServicesCards from "./pages/FindHealthCare/viewAll/ViewAll";
+
+// Footer  Pages import
+import TermsOfUse from "./pages/FooterPages/TermsOfUse/TermsOfUse";
+import AboutUsSection from "./pages/FooterPages/AboutUsSection/AboutUsSection";
+import ContactSection from "./pages/FooterPages/ContactSection/ContactSection";
+import HealthCentreFinder from "./pages/FooterPages/HealthCentreFinder/HealthCentreFinder";
+import NewsLetterSignup from "./pages/FooterPages/NewsLetterSignup/NewsLetterSignup";
+import PrivacyPolicy from "./pages/FooterPages/PrivacyPolicy/PrivacyPolicy";
+import ReminderInterface from "./pages/FooterPages/ReminderInterface/ReminderInterface";
+
 const App = () => {
   return (
     <div className="flex flex-col min-h-screen">
@@ -3007,9 +3017,21 @@ const App = () => {
           <Route path="/abortion/articles/:slug" element={<ArticleContent />} />
 
           {/* Find Health Care Routes */}
-          <Route path ="/find-health-care/clinics" element ={<Findprovider/>}/>
-          <Route path ="/find-health-care/online-birth-control" element ={<BirthControlOnline/>}/>
-          <Route path ="/find-health-care" element ={<HealthServicesCards/>}/>
+          <Route path="/find-health-care/clinics" element={<Findprovider />} />
+          <Route
+            path="/find-health-care/online-birth-control"
+            element={<BirthControlOnline />}
+          />
+          <Route path="/find-health-care" element={<HealthServicesCards />} />
+
+          {/* footer links routes */}
+          <Route path="/termOfUse" element={<TermsOfUse />} />
+          <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+          <Route path="/about-us" element={<AboutUsSection />} />
+          <Route path="/contact" element={<ContactSection />} />
+          <Route path="/subscribe" element={<NewsLetterSignup />} />
+          <Route path="/appointment" element={<ReminderInterface />} />
+          <Route path="/health-center" element={<HealthCentreFinder />} />
         </Routes>
       </div>
 
