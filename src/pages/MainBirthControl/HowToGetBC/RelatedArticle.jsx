@@ -107,7 +107,7 @@ import { Link } from 'react-router-dom';
 
 const RelatedArticles = () => {
   return (
-    <div className="max-w-full mx-auto px-24 py-8 bg-[#f5f5f5] min-h-screen">
+    <div className="max-w-full mx-auto lg:px-24 px-6 py-8 bg-[#f5f5f5] min-h-screen">
       {/* Header */}
       <div className="mb-8">
         <div className="mb-6">

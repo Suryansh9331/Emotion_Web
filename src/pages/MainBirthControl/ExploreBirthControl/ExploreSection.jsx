@@ -166,178 +166,357 @@ const ExploreSection = () => {
 
   const [row1, row2, row3] = createRows(filteredMethods);
 
-  return (
-    <div className="max-w-full mx-auto p-24 bg-white font-sans">
-      {/* Header */}
-      <div className="mb-8">
-        <h1 className="text-3xl md:text-4xl font-bold text-[#028388] mb-2">
-          Explore birth control options
-        </h1>
-        <div className="w-full max-w-lg">
-          <svg viewBox="0 0 400 10" className="w-full h-3">
-            <path d="M0,5 Q100,0 200,5 T400,5" stroke="#14b8a6" strokeWidth="2" fill="none" />
-          </svg>
-        </div>
-      </div>
+//   return (
+//     <div className="max-w-full mx-auto lg:p-24  sm:p-2 bg-white font-sans">
+//       {/* Header */}
+//       <div className="mb-8">
+//         <h1 className="text-3xl md:text-4xl font-bold text-[#028388] mb-2">
+//           Explore birth control options
+//         </h1>
+//         <div className="w-full max-w-lg">
+//           <svg viewBox="0 0 400 10" className="w-full h-3">
+//             <path d="M0,5 Q100,0 200,5 T400,5" stroke="#14b8a6" strokeWidth="2" fill="none" />
+//           </svg>
+//         </div>
+//       </div>
 
-      {/* Filter Options */}
-      <div className="mb-8">
-        <p className="text-gray-600 font-medium mb-4 text-sm">Filter by:</p>
-        <div className="flex flex-wrap gap-2">
-          {filterOptions.map((option, index) => (
-            <button
-              key={index}
-              onClick={() => handleFilterClick(option.text)}
-              className={`px-3 py-2 rounded-full text-xs font-medium transition-all duration-200 flex items-center gap-1 ${
-                activeFilter === option.text
-                  ? 'bg-[#028388] text-white'
-                  : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
-              }`}
-            >
-              <span className="text-xs">{option.icon}</span>
-              <span>{option.text}</span>
-            </button>
-          ))}
-        </div>
-      </div>
+//       {/* Filter Options */}
+//       <div className="mb-8">
+//         <p className="text-gray-600 font-medium mb-4 text-sm">Filter by:</p>
+//         <div className="flex flex-wrap gap-2">
+//           {filterOptions.map((option, index) => (
+//             <button
+//               key={index}
+//               onClick={() => handleFilterClick(option.text)}
+//               className={`px-3 py-2 rounded-full text-xs font-medium transition-all duration-200 flex items-center gap-1 ${
+//                 activeFilter === option.text
+//                   ? 'bg-[#028388] text-white'
+//                   : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+//               }`}
+//             >
+//               <span className="text-xs">{option.icon}</span>
+//               <span>{option.text}</span>
+//             </button>
+//           ))}
+//         </div>
+//       </div>
 
-      {/* Birth Control Methods Grid - Exact Layout */}
-      <div className="mb-8">
-        {/* Row 1 */}
-        {row1.length > 0 && (
-        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-6 mb-24">
-          {row1.map((method) => (
-            <div
-              key={method.id}
-              className="flex flex-col items-center cursor-pointer group"
-              onClick={() => handleMethodClick(method.url)}
-            >
-              <div className="w-24 h-24 sm:w-28 sm:h-28 flex items-center justify-center mb-3 group-hover:scale-105 transition-all duration-200">
-                <img 
-                  src={method.image} 
-                  alt={method.title}
-                  className="w-full h-full object-cover rounded-lg"
-                  onError={(e) => {
-                    console.log(`Failed to load image: ${method.image}`);
-                    e.target.style.display = 'none';
-                    e.target.nextSibling.style.display = 'flex';
-                  }}
-                  onLoad={() => {
-                    console.log(`Successfully loaded: ${method.title}`);
-                  }}
-                />
-                <div className="w-16 h-16 sm:w-20 sm:h-20 bg-gray-200 rounded-lg items-center justify-center text-gray-400 text-xs hidden">
-                  {method.title}
-                </div>
-              </div>
-              <a
-                href={method.url}
-                onClick={(e) => {
-                  e.preventDefault();
-                  handleMethodClick(method.url);
-                }}
-                className="text-center text-sm font-medium text-[#028388] hover:text-teal-800 hover:underline transition-colors duration-200 leading-tight max-w-full px-1"
+//       {/* Birth Control Methods Grid - Exact Layout */}
+//       <div className="mb-8">
+//         {/* Row 1 */}
+//         {row1.length > 0 && (
+//         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-6 mb-24">
+//           {row1.map((method) => (
+//             <div
+//               key={method.id}
+//               className="flex flex-col items-center cursor-pointer group"
+//               onClick={() => handleMethodClick(method.url)}
+//             >
+//               <div className="w-24 h-24 sm:w-28 sm:h-28 flex items-center justify-center mb-3 group-hover:scale-105 transition-all duration-200">
+//                 <img 
+//                   src={method.image} 
+//                   alt={method.title}
+//                   className="w-full h-full object-cover rounded-lg"
+//                   onError={(e) => {
+//                     console.log(`Failed to load image: ${method.image}`);
+//                     e.target.style.display = 'none';
+//                     e.target.nextSibling.style.display = 'flex';
+//                   }}
+//                   onLoad={() => {
+//                     console.log(`Successfully loaded: ${method.title}`);
+//                   }}
+//                 />
+//                 <div className="w-16 h-16 sm:w-20 sm:h-20 bg-gray-200 rounded-lg items-center justify-center text-gray-400 text-xs hidden">
+//                   {method.title}
+//                 </div>
+//               </div>
+//               <a
+//                 href={method.url}
+//                 onClick={(e) => {
+//                   e.preventDefault();
+//                   handleMethodClick(method.url);
+//                 }}
+//                 className="text-center text-sm font-medium text-[#028388] hover:text-teal-800 hover:underline transition-colors duration-200 leading-tight max-w-full px-1"
+//               >
+//                 {method.title}
+//               </a>
+//             </div>
+//           ))}
+//         </div>
+//         )}
+
+//         {/* Row 2 */}
+//         {row2.length > 0 && (
+//         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-7 gap-4 mb-6">
+//           {row2.map((method) => (
+//             <div
+//               key={method.id}
+//               className="flex flex-col items-center cursor-pointer group"
+//               onClick={() => handleMethodClick(method.url)}
+//             >
+//               <div className="w-24 h-24 sm:w-28 sm:h-28 bg-white rounded-lg flex items-center justify-center mb-3 group-hover:scale-105 transition-all duration-200">
+//                 <img 
+//                   src={method.image} 
+//                   alt={method.title}
+//                   className="w-full h-full object-contain rounded-lg"
+//                   onError={(e) => {
+//                     console.log(`Failed to load image: ${method.image}`);
+//                     e.target.style.display = 'none';
+//                     e.target.nextSibling.style.display = 'flex';
+//                   }}
+//                   onLoad={() => {
+//                     console.log(`Successfully loaded: ${method.title}`);
+//                   }}
+//                 />
+//                 <div className="w-16 h-16 sm:w-20 sm:h-20 bg-gray-200 rounded-lg items-center justify-center text-gray-400 text-xs hidden">
+//                   {method.title}
+//                 </div>
+//               </div>
+//               <a
+//                 href={method.url}
+//                 onClick={(e) => {
+//                   e.preventDefault();
+//                   handleMethodClick(method.url);
+//                 }}
+//                 className="text-center text-sm font-medium text-[#028388] hover:text-teal-800 hover:underline transition-colors duration-200 leading-tight max-w-full px-1"
+//               >
+//                 {method.title}
+//               </a>
+//             </div>
+//           ))}
+//         </div>
+//         )}
+
+//         {/* Row 3 */}
+//         {row3.length > 0 && (
+//         <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-6">
+//           {row3.map((method) => (
+//             <div
+//               key={method.id}
+//               className="flex flex-col items-center cursor-pointer group"
+//               onClick={() => handleMethodClick(method.url)}
+//             >
+//               <div className="lg:w-40 lg:h-40 sm:w-34 sm:h-34 bg-white rounded-lg flex items-center justify-center mb-3 group-hover:scale-105 transition-all duration-200">
+//                 <img 
+//                   src={method.image} 
+//                   alt={method.title}
+//                   className="w-full h-full object-contain rounded-lg"
+//                   onError={(e) => {
+//                     console.log(`Failed to load image: ${method.image}`);
+//                     e.target.style.display = 'none';
+//                     e.target.nextSibling.style.display = 'flex';
+//                   }}
+//                   onLoad={() => {
+//                     console.log(`Successfully loaded: ${method.title}`);
+//                   }}
+//                 />
+//                 <div className="w-16 h-16 sm:w-20 sm:h-20 bg-gray-200 rounded-lg items-center justify-center text-gray-400 text-xs hidden">
+//                   {method.title}
+//                 </div>
+//               </div>
+//               <a
+//                 href={method.url}
+//                 onClick={(e) => {
+//                   e.preventDefault();
+//                   handleMethodClick(method.url);
+//                 }}
+//                 className="text-center text-sm font-medium text-[#028388] hover:text-teal-800 hover:underline transition-colors duration-200 leading-tight max-w-full px-1"
+//               >
+//                 {method.title}
+//               </a>
+//             </div>
+//           ))}
+//         </div>
+//         )}
+//       </div>
+
+//       {/* Compare Methods Button */}
+//       <div className="text-center lg:mt-22">
+//         <button className="bg-[#028388] text-white px-6 py-3 rounded-md font-medium hover:bg-teal-700 transition-colors duration-200 text-sm">
+//           compare methods
+//         </button>
+//       </div>
+//     </div>
+//   );
+// };
+
+
+
+return (
+    <div className="w-full bg-white font-sans">
+      {/* Fixed responsive container */}
+      <div className="px-4 py-6 sm:px-6 sm:py-8 md:px-8 md:py-10 lg:px-16 lg:py-16 xl:px-24 xl:py-24 max-w-7xl mx-auto">
+        
+        {/* Header */}
+        <div className="mb-6 sm:mb-8">
+          <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-[#028388] mb-2">
+            Explore birth control options
+          </h1>
+          <div className="w-full max-w-lg">
+            <svg viewBox="0 0 400 10" className="w-full h-3">
+              <path d="M0,5 Q100,0 200,5 T400,5" stroke="#14b8a6" strokeWidth="2" fill="none" />
+            </svg>
+          </div>
+        </div>
+
+        {/* Filter Options */}
+        <div className="mb-8">
+          <p className="text-gray-600 font-medium mb-4 text-sm">Filter by:</p>
+          <div className="flex flex-wrap gap-2">
+            {filterOptions.map((option, index) => (
+              <button
+                key={index}
+                onClick={() => handleFilterClick(option.text)}
+                className={`px-3 py-2 rounded-full text-xs font-medium transition-all duration-200 flex items-center gap-1 ${
+                  activeFilter === option.text
+                    ? 'bg-[#028388] text-white'
+                    : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+                }`}
               >
-                {method.title}
-              </a>
-            </div>
-          ))}
+                <span className="text-xs">{option.icon}</span>
+                <span>{option.text}</span>
+              </button>
+            ))}
+          </div>
         </div>
-        )}
 
-        {/* Row 2 */}
-        {row2.length > 0 && (
-        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-7 gap-4 mb-6">
-          {row2.map((method) => (
-            <div
-              key={method.id}
-              className="flex flex-col items-center cursor-pointer group"
-              onClick={() => handleMethodClick(method.url)}
-            >
-              <div className="w-24 h-24 sm:w-28 sm:h-28 bg-white rounded-lg flex items-center justify-center mb-3 group-hover:scale-105 transition-all duration-200">
-                <img 
-                  src={method.image} 
-                  alt={method.title}
-                  className="w-full h-full object-contain rounded-lg"
-                  onError={(e) => {
-                    console.log(`Failed to load image: ${method.image}`);
-                    e.target.style.display = 'none';
-                    e.target.nextSibling.style.display = 'flex';
-                  }}
-                  onLoad={() => {
-                    console.log(`Successfully loaded: ${method.title}`);
-                  }}
-                />
-                <div className="w-16 h-16 sm:w-20 sm:h-20 bg-gray-200 rounded-lg items-center justify-center text-gray-400 text-xs hidden">
-                  {method.title}
+        {/* Birth Control Methods Grid - FIXED RESPONSIVE LAYOUT */}
+        <div className="mb-8">
+          
+          {/* Row 1 - FIXED: Mobile 2 cols, Tablet 3 cols, Desktop 5 cols */}
+          {row1.length > 0 && (
+            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4 sm:gap-6 mb-24">
+              {row1.map((method) => (
+                <div
+                  key={method.id}
+                  className="flex flex-col items-center cursor-pointer group"
+                  onClick={() => handleMethodClick(method.url)}
+                >
+                  <div className="w-20 h-20 sm:w-24 sm:h-24 md:w-28 md:h-28 flex items-center justify-center mb-3 group-hover:scale-105 transition-all duration-200">
+                    <img 
+                      src={method.image} 
+                      alt={method.title}
+                      className="w-full h-full object-cover rounded-lg"
+                      onError={(e) => {
+                        console.log(`Failed to load image: ${method.image}`);
+                        e.target.style.display = 'none';
+                        e.target.nextSibling.style.display = 'flex';
+                      }}
+                      onLoad={() => {
+                        console.log(`Successfully loaded: ${method.title}`);
+                      }}
+                    />
+                    <div className="w-16 h-16 sm:w-20 sm:h-20 bg-gray-200 rounded-lg items-center justify-center text-gray-400 text-xs hidden">
+                      {method.title}
+                    </div>
+                  </div>
+                  <a
+                    href={method.url}
+                    onClick={(e) => {
+                      e.preventDefault();
+                      handleMethodClick(method.url);
+                    }}
+                    className="text-center text-sm font-medium text-[#028388] hover:text-teal-800 hover:underline transition-colors duration-200 leading-tight max-w-full px-1"
+                  >
+                    {method.title}
+                  </a>
                 </div>
-              </div>
-              <a
-                href={method.url}
-                onClick={(e) => {
-                  e.preventDefault();
-                  handleMethodClick(method.url);
-                }}
-                className="text-center text-sm font-medium text-[#028388] hover:text-teal-800 hover:underline transition-colors duration-200 leading-tight max-w-full px-1"
-              >
-                {method.title}
-              </a>
+              ))}
             </div>
-          ))}
-        </div>
-        )}
+          )}
 
-        {/* Row 3 */}
-        {row3.length > 0 && (
-        <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-6">
-          {row3.map((method) => (
-            <div
-              key={method.id}
-              className="flex flex-col items-center cursor-pointer group"
-              onClick={() => handleMethodClick(method.url)}
-            >
-              <div className="lg:w-40 lg:h-40 sm:w-34 sm:h-34 bg-white rounded-lg flex items-center justify-center mb-3 group-hover:scale-105 transition-all duration-200">
-                <img 
-                  src={method.image} 
-                  alt={method.title}
-                  className="w-full h-full object-contain rounded-lg"
-                  onError={(e) => {
-                    console.log(`Failed to load image: ${method.image}`);
-                    e.target.style.display = 'none';
-                    e.target.nextSibling.style.display = 'flex';
-                  }}
-                  onLoad={() => {
-                    console.log(`Successfully loaded: ${method.title}`);
-                  }}
-                />
-                <div className="w-16 h-16 sm:w-20 sm:h-20 bg-gray-200 rounded-lg items-center justify-center text-gray-400 text-xs hidden">
-                  {method.title}
+          {/* Row 2 - FIXED: Mobile 2 cols, Tablet 4 cols, Desktop 7 cols */}
+          {row2.length > 0 && (
+            <div className="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-5 lg:grid-cols-6 xl:grid-cols-7 gap-4 mb-6">
+              {row2.map((method) => (
+                <div
+                  key={method.id}
+                  className="flex flex-col items-center cursor-pointer group"
+                  onClick={() => handleMethodClick(method.url)}
+                >
+                  <div className="w-20 h-20 sm:w-24 sm:h-24 md:w-28 md:h-28 bg-white rounded-lg flex items-center justify-center mb-3 group-hover:scale-105 transition-all duration-200">
+                    <img 
+                      src={method.image} 
+                      alt={method.title}
+                      className="w-full h-full object-contain rounded-lg"
+                      onError={(e) => {
+                        console.log(`Failed to load image: ${method.image}`);
+                        e.target.style.display = 'none';
+                        e.target.nextSibling.style.display = 'flex';
+                      }}
+                      onLoad={() => {
+                        console.log(`Successfully loaded: ${method.title}`);
+                      }}
+                    />
+                    <div className="w-16 h-16 sm:w-20 sm:h-20 bg-gray-200 rounded-lg items-center justify-center text-gray-400 text-xs hidden">
+                      {method.title}
+                    </div>
+                  </div>
+                  <a
+                    href={method.url}
+                    onClick={(e) => {
+                      e.preventDefault();
+                      handleMethodClick(method.url);
+                    }}
+                    className="text-center text-sm font-medium text-[#028388] hover:text-teal-800 hover:underline transition-colors duration-200 leading-tight max-w-full px-1"
+                  >
+                    {method.title}
+                  </a>
                 </div>
-              </div>
-              <a
-                href={method.url}
-                onClick={(e) => {
-                  e.preventDefault();
-                  handleMethodClick(method.url);
-                }}
-                className="text-center text-sm font-medium text-[#028388] hover:text-teal-800 hover:underline transition-colors duration-200 leading-tight max-w-full px-1"
-              >
-                {method.title}
-              </a>
+              ))}
             </div>
-          ))}
-        </div>
-        )}
-      </div>
+          )}
 
-      {/* Compare Methods Button */}
-      <div className="text-center lg:mt-22">
-        <button className="bg-[#028388] text-white px-6 py-3 rounded-md font-medium hover:bg-teal-700 transition-colors duration-200 text-sm">
-          compare methods
-        </button>
+          {/* Row 3 - FIXED: Mobile 2 cols, Tablet 3 cols, Desktop 4 cols */}
+          {row3.length > 0 && (
+            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4 mb-6">
+              {row3.map((method) => (
+                <div
+                  key={method.id}
+                  className="flex flex-col items-center cursor-pointer group"
+                  onClick={() => handleMethodClick(method.url)}
+                >
+                  <div className="w-24 h-24 sm:w-32 sm:h-32 md:w-36 md:h-36 lg:w-40 lg:h-40 bg-white rounded-lg flex items-center justify-center mb-3 group-hover:scale-105 transition-all duration-200">
+                    <img 
+                      src={method.image} 
+                      alt={method.title}
+                      className="w-full h-full object-contain rounded-lg"
+                      onError={(e) => {
+                        console.log(`Failed to load image: ${method.image}`);
+                        e.target.style.display = 'none';
+                        e.target.nextSibling.style.display = 'flex';
+                      }}
+                      onLoad={() => {
+                        console.log(`Successfully loaded: ${method.title}`);
+                      }}
+                    />
+                    <div className="w-16 h-16 sm:w-20 sm:h-20 bg-gray-200 rounded-lg items-center justify-center text-gray-400 text-xs hidden">
+                      {method.title}
+                    </div>
+                  </div>
+                  <a
+                    href={method.url}
+                    onClick={(e) => {
+                      e.preventDefault();
+                      handleMethodClick(method.url);
+                    }}
+                    className="text-center text-sm font-medium text-[#028388] hover:text-teal-800 hover:underline transition-colors duration-200 leading-tight max-w-full px-1"
+                  >
+                    {method.title}
+                  </a>
+                </div>
+              ))}
+            </div>
+          )}
+        </div>
+
+        {/* Compare Methods Button */}
+        <div className="text-center lg:mt-22">
+          <button className="bg-[#028388] text-white px-6 py-3 rounded-md font-medium hover:bg-teal-700 transition-colors duration-200 text-sm">
+            compare methods
+          </button>
+        </div>
       </div>
     </div>
-  );
-};
-
+  )};
 export default ExploreSection;

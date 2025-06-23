@@ -114,8 +114,8 @@ const HowToGet = () => {
   };
 
   return (
-    <div className="bg-gray-50  py-12 md:px-12 md:py-16">
-      <div className="mx-auto px-28 max-w-full ">
+    <div className="bg-gray-50  py-12 sm:py-2 sm:py  md:py-16">
+      <div className="mx-auto lg:px-28 px-6 max-w-full ">
         {/* Title Section */}
         <div className="mb-8">
           <h1 className="text-4xl md:text-5xl font-bold text-[#028388] mb-3">
@@ -195,3 +195,5 @@ const HowToGet = () => {
 };
 
 export default HowToGet;
+
+

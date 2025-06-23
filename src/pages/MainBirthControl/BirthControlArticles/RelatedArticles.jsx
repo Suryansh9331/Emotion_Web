@@ -2,7 +2,7 @@ import React from 'react';
 
 const RelatedArticles = () => {
   return (
-    <div className="max-w-full mx-auto px-24 py-8 bg-gray-50 min-h-screen">
+    <div className="max-w-full mx-auto lg:px-24 px-2  py-8 bg-gray-50 min-h-screen">
       {/* Header */}
       <div className="mb-8">
 

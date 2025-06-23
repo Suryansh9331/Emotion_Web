@@ -27,7 +27,7 @@ const BirthControlReviews = () => {
   ];
 
   return (
-    <div className="max-w-full  mx-auto px-24 py-12 bg-white font-sans">
+    <div className="max-w-full  mx-auto lg:px-24 px-6 py-12 bg-white font-sans">
       {/* Main Heading with wavy underline */}
       <div className="mb-16">
         <h1 className="text-5xl font-normal text-[#028388] mb-3 tracking-tight">

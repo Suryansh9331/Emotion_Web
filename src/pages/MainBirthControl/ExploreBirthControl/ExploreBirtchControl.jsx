@@ -8,7 +8,7 @@ import ThreeTabSection from "./ThreeTabSection.jsx";
 import BirthControlReview from "./ReviewSection.jsx";
 const ExploreBirthControl  = () => {
   return (
-    <div className="w-full min-h-screen">
+    <div className=" ">
      
       <HeroBanner />
        <ExploreSection />

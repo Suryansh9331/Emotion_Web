@@ -3548,7 +3548,7 @@ import {
 const Navbar = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [expandedItem, setExpandedItem] = useState(null);
-  const [isSearchExpanded, setIsSearchExpanded] = useState(false);
+  // const [isSearchExpanded, setIsSearchExpanded] = useState(false);
 
   const navItems = [
     {
@@ -3674,7 +3674,7 @@ const Navbar = () => {
           </Link>
         </div>
 
-        <div className="flex flex-col sm:flex-row items-center gap-2 sm:gap-6 text-sm">
+        {/* <div className="flex flex-col sm:flex-row items-center gap-2 sm:gap-6 text-sm">
           <div className="flex items-center space-x-2 sm:space-x-3">
             <Link
               to="/signup"
@@ -3693,7 +3693,7 @@ const Navbar = () => {
           <button className="bg-[#0c9a8d] text-white px-4 py-1.5 rounded hover:bg-[#0a8a7d] transition-colors text-sm sm:text-base">
             español
           </button>
-        </div>
+        </div> */}
       </div>
     </div>
   );
@@ -3711,26 +3711,26 @@ const Navbar = () => {
     </div>
   );
 
-  const SearchBar = () => (
-    <div className="relative flex items-center pl-4">
-      {isSearchExpanded && (
-        <input
-          type="text"
-          className="w-48 px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:border-[#0c9a8d] transition-all duration-300"
-          placeholder="Search..."
-          autoFocus
-          onBlur={() => setIsSearchExpanded(false)}
-        />
-      )}
-      <button
-        className="ml-2 p-2 text-[#333] hover:text-[#0c9a8d] transition-colors flex items-center"
-        onClick={() => setIsSearchExpanded(!isSearchExpanded)}
-      >
-        <Search className="h-5 w-5" />
-        <span className="ml-2 hidden md:inline-block text-base">Search</span>
-      </button>
-    </div>
-  );
+  // const SearchBar = () => (
+  //   <div className="relative flex items-center pl-4">
+  //     {isSearchExpanded && (
+  //       <input
+  //         type="text"
+  //         className="w-48 px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:border-[#0c9a8d] transition-all duration-300"
+  //         placeholder="Search..."
+  //         autoFocus
+  //         onBlur={() => setIsSearchExpanded(false)}
+  //       />
+  //     )}
+  //     <button
+  //       className="ml-2 p-2 text-[#333] hover:text-[#0c9a8d] transition-colors flex items-center"
+  //       onClick={() => setIsSearchExpanded(!isSearchExpanded)}
+  //     >
+  //       <Search className="h-5 w-5" />
+  //       <span className="ml-2 hidden md:inline-block text-base">Search</span>
+  //     </button>
+  //   </div>
+  // );
 
   const MobileMenu = () => (
     <div className="lg:hidden">
@@ -3822,7 +3822,7 @@ const Navbar = () => {
                 </div>
               ))}
             </div>
-            <div className="mt-8 space-y-6">
+            {/* <div className="mt-8 space-y-6">
               <div className="flex justify-center">
                 <input
                   type="text"
@@ -3850,7 +3850,7 @@ const Navbar = () => {
                   español
                 </button>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       )}
@@ -3948,7 +3948,7 @@ const Navbar = () => {
         </div>
         <div className="flex items-center">
           <NavItem item={navItems[5]} />
-          <SearchBar />
+          {/* <SearchBar /> */}
         </div>
       </div>
     </div>
