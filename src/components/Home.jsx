@@ -68,7 +68,7 @@ import { Link } from 'react-router-dom';
 
 
 export default function BedsiderWebsite() {
-  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  // const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   return (
     <div className="min-h-screen bg-white ">
