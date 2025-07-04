@@ -119,9 +119,9 @@ export default function HealthCenterFinder() {
       <div className="bg-white py-8 px-4">
         <div className="max-w-3xl mx-auto">
           <p className="text-gray-600 text-sm md:text-base">
-            Bedsider lists these resources for your convenience, but we don&apos;t get to visit each provider or health
+            Bedsiderr lists these resources for your convenience, but we don&apos;t get to visit each provider or health
             center, so we can&apos;t make any endorsements or recommendations. Please use your best judgment when making
-            any health care decision. In order to be included in the Bedsider clinic finder, the office or clinic must
+            any health care decision. In order to be included in the Bedsiderr clinic finder, the office or clinic must
             counsel on or refer out for the full range of birth control methods and prescribe at least one hormonal
             method. The clinic may also be included if it provides abortion services.
           </p>

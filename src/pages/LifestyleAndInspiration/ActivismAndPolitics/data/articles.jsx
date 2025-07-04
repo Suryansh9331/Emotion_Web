@@ -5,7 +5,7 @@ export const ActivismAndPoliticsarticles = [
     title: "5 reasons why birth control should be over the counter",
     subtitle: "Let's free the pill, finally!",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcHhZIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f88119a8b93f779654d81ecf7f0ea3f60611b3d7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/FSVhwy9XsAE8eht.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcHhZIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f88119a8b93f779654d81ecf7f0ea3f60611b3d7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/FSVhwy9XsAE8eht.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -16,7 +16,7 @@ export const ActivismAndPoliticsarticles = [
     subtitle:
       "I heard that taking hormonal birth control is bad for the environment because of hormone-filled pee getting in the water.",
     image:
-      "https://www.bedsider.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
+      "https://www.Bedsiderr.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
     hasQuestionPattern: false,
   },
   {
@@ -26,7 +26,7 @@ export const ActivismAndPoliticsarticles = [
     subtitle:
       "The most restrictive abortion law in the country has taken effect, and Texans need our help",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1E4IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d2c5846aa7355160333991c772cb999e82b6c8b6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/large.png",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1E4IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d2c5846aa7355160333991c772cb999e82b6c8b6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/large.png",
     hasQuestionPattern: false,
   },
   {
@@ -36,7 +36,7 @@ export const ActivismAndPoliticsarticles = [
     subtitle:
       "Take action to ensure affordable birth control is available to everyone who needs it",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbThVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--938bf8de37b20c7abf2284a72952e6504d9e3feb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1244619414.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbThVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--938bf8de37b20c7abf2284a72952e6504d9e3feb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1244619414.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -45,7 +45,7 @@ export const ActivismAndPoliticsarticles = [
     title: "5 things you can do today to celebrate Juneteenth",
     subtitle: "Because it should be a national holiday",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcU1VIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5b02aa6ba57d71fa226bbb83daf92c113367ec35/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1142434150.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcU1VIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5b02aa6ba57d71fa226bbb83daf92c113367ec35/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1142434150.jpg",
     hasQuestionPattern: false,
   },
 ];
@@ -59,7 +59,7 @@ export const ActivismAndPoliticsarticleContents = {
     date: "May 27, 2020",
     updated: "Updated: May 04, 2022",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcHhZIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f88119a8b93f779654d81ecf7f0ea3f60611b3d7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/FSVhwy9XsAE8eht.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcHhZIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f88119a8b93f779654d81ecf7f0ea3f60611b3d7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/FSVhwy9XsAE8eht.jpg",
     showSocialIcons: true,
     content: `
 <h1>5 Reasons Why Birth Control Should Be Over the Counter</h1>
@@ -123,7 +123,7 @@ If you’d like to use a super effective method without any hormones, try the Pa
     date: "Sep 03, 2021",
     updated: "",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1E4IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d2c5846aa7355160333991c772cb999e82b6c8b6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/large.png",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1E4IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d2c5846aa7355160333991c772cb999e82b6c8b6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/large.png",
     showSocialIcons: true,
     content: `
 <h1>4 Things You Can Do for Texas Right Now</h1>
@@ -207,7 +207,7 @@ You can also use your voice and platforms to boost those working directly with i
     date: "Apr 30, 2021",
     updated: "",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbThVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--938bf8de37b20c7abf2284a72952e6504d9e3feb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1244619414.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbThVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--938bf8de37b20c7abf2284a72952e6504d9e3feb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1244619414.jpg",
     showSocialIcons: true,
     content: `<p>For nearly 10 years, the Affordable Care Act (ACA) contraceptive coverage requirement has helped millions of people get the birth control they need without out-of-pocket costs like co-pays and deductibles. But for nearly as long, legal challenges on behalf of employers who object to providing this coverage for their employees have threatened this critical benefit. In July of 2020, the Supreme Court allowed regulations put in place by the Trump administration to go into effect that permit nearly any employer to object to covering some or all methods of birth control. But the good news is that the Court essentially said that the Biden-Harris administration also has the authority to put in place new regulations to enforce the contraceptive coverage requirement. It’s time to take action. Here’s where things stand and how you can help make sure everyone has coverage for the birth control they need without cost barriers.</p><br>
 
@@ -248,9 +248,9 @@ The Supreme Court ruling that allowed these regulations to go into effect was a 
     date: "Jun 19, 2020",
     updated: "",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcU1VIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5b02aa6ba57d71fa226bbb83daf92c113367ec35/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1142434150.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcU1VIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5b02aa6ba57d71fa226bbb83daf92c113367ec35/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1142434150.jpg",
     showSocialIcons: true,
-    content: `<b>We here at Bedsider love any chance we can get to celebrate freedom in all its many forms.</b> So we’re super excited that today is Juneteenth! If you’re new to this holiday, no worries—this is literally the perfect day to learn all about it and celebrate it for the first time.<br><br>
+    content: `<b>We here at Bedsiderr love any chance we can get to celebrate freedom in all its many forms.</b> So we’re super excited that today is Juneteenth! If you’re new to this holiday, no worries—this is literally the perfect day to learn all about it and celebrate it for the first time.<br><br>
 
 <b>Juneteenth commemorates June 19, 1865</b>, the day that enslaved African-Americans in Galveston, Texas learned the Emancipation Proclamation had set them free two years earlier. Union army general Gordon Granger shared the news when he read aloud General Order No. 3 to proclaim liberty for all people in Texas and informed them the Civil War had ended two months prior. News took a lot longer to travel back then, and slave owners were taking advantage of that to keep people enslaved. Juneteenth (or Jubilee Day) celebrations began yearly among African-American communities in Texas in 1866. The unofficial holiday gradually spread around the country over the next century.<br><br>
 
@@ -274,7 +274,7 @@ Anti-racist books are all the rage right now. If you’re non-Black and you want
 Frankly, racism is exhausting. And while Juneteenth is a celebration of freedom, it was merely the beginning of a long battle for African-American equality. That fight rages on, and it’s going to take everyone to win it. We’re inspired by The Nap Ministry’s mission of “rest as resistance” for Black people. Meditate, go outside and take deep breaths, lose your worries in something beautiful. Get free where you are. Happy Juneteenth!<br><br>
 
 XOXO,<br>
-Bedsider<br><br>
+Bedsiderr<br><br>
 
 <b>P.S.</b> In case you need it, here’s a little something to make you laugh.`,
   },
@@ -289,7 +289,7 @@ export const ActivismAndPoliticsarticlesTwo = [
       "Tell your Governor and legislators you support expanding Medicaid in your state.",
 
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBams1IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e46eeb5c3a8e1610dcd8a8870193f7903f390082/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/get-on-top-header-dec7e08443ce52529dca787af5722d6ffcb3e82ccf261c71c106e2292ae84d2d.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBams1IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e46eeb5c3a8e1610dcd8a8870193f7903f390082/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/get-on-top-header-dec7e08443ce52529dca787af5722d6ffcb3e82ccf261c71c106e2292ae84d2d.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -300,7 +300,7 @@ export const ActivismAndPoliticsarticlesTwo = [
     subtitle: "And how it might also affect you if you’re not pregnant",
 
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdk1VIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--381b0f3c2bcc6276ed00ee1a8cd83d02c2fbf944/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1023082138_(2).jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdk1VIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--381b0f3c2bcc6276ed00ee1a8cd83d02c2fbf944/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1023082138_(2).jpg",
     hasQuestionPattern: false,
   },
   {
@@ -310,7 +310,7 @@ export const ActivismAndPoliticsarticlesTwo = [
     subtitle:
       "Vote.",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbEFWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f79b9382faa1945ad552171b28ead341660381df/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/veronica-colon-753557-unsplash-11.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbEFWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f79b9382faa1945ad552171b28ead341660381df/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/veronica-colon-753557-unsplash-11.jpg",
     hasQuestionPattern: false,
   },
 
@@ -322,7 +322,7 @@ export const ActivismAndPoliticsarticlesTwo = [
     subtitle:
       "From scripts to videos, we've got the tools you'll need to help protect affordable birth control for all.",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbEVWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--91b0bebce58032d2ce86bfb47e263a37af15042d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Title_X_large.png",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbEVWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--91b0bebce58032d2ce86bfb47e263a37af15042d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Title_X_large.png",
     hasQuestionPattern: false,
   },
  {
@@ -331,7 +331,7 @@ export const ActivismAndPoliticsarticlesTwo = [
     title: "Save birth control access for millions of Americans!",
     subtitle: "Think everyone should be able to plan their family regardless of their income? Tell Congress now.",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamM1IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4d075744c3234290439718206dcec3e9fc96d23a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/get-on-top-header-dec7e08443ce52529dca787af5722d6ffcb3e82ccf261c71c106e2292ae84d2d.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamM1IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4d075744c3234290439718206dcec3e9fc96d23a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/get-on-top-header-dec7e08443ce52529dca787af5722d6ffcb3e82ccf261c71c106e2292ae84d2d.jpg",
     hasQuestionPattern: false,
   },
 ];
@@ -346,7 +346,7 @@ export const ActivismAndPoliticsarticleContentsTwo = {
     date: "Dec 13, 2012",
     updated: "Updated: Oct 29, 2019",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBams1IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e46eeb5c3a8e1610dcd8a8870193f7903f390082/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/get-on-top-header-dec7e08443ce52529dca787af5722d6ffcb3e82ccf261c71c106e2292ae84d2d.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBams1IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e46eeb5c3a8e1610dcd8a8870193f7903f390082/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/get-on-top-header-dec7e08443ce52529dca787af5722d6ffcb3e82ccf261c71c106e2292ae84d2d.jpg",
     showSocialIcons: true,
     content: `<b>UPDATE:</b> President Biden has opened the enrollment period for the Affordable Care Act health insurance plans for 2022. You can now enroll in one of these plans until January 15, 2022, at healthcare.gov. Some states have their own open enrollment periods and websites for signing up. Check to see if your state does. We also have more information about how to get insurance and learn what kinds of plans to watch out for.<br><br>
 
@@ -404,7 +404,7 @@ Your Governor and state legislators need to hear from you—let them know that e
       date: "Sep 10, 2019",
       updated: "",
       image:
-        "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdk1VIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--381b0f3c2bcc6276ed00ee1a8cd83d02c2fbf944/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1023082138_(2).jpg",
+        "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdk1VIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--381b0f3c2bcc6276ed00ee1a8cd83d02c2fbf944/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1023082138_(2).jpg",
       showSocialIcons: true,
       content: `<b>The Trump administration’s gag rule has taken effect nationwide.</b> It affects all clinics that participate in the Title X program. If you want to take action on this issue and have your voice heard, join our campaign to protect Title X. Read on to find out more about what the gag rule means for you:<br><br>
 
@@ -434,7 +434,7 @@ This is a big deal because 19.5 million women already live in contraceptive dese
 The gag rule will also affect people who have been getting other services besides abortion from clinics that are staying open but opting out of the Title X program (like Planned Parenthood) because these clinics may have to start charging more for their services. Birth control that was once free may now come with a price tag. Call your clinic before you go to find out if anything has changed, like prices, the services they offer, or the hours that they’re open.<br><br>
 
 <b>How can you find a clinic where you can get an abortion?</b><br>
-Your best bet for finding an abortion provider is to use Bedsider’s clinic finder. Click on the orange plus sign next to “show health centers with…” and check the box for “provides abortions.” Providers at these clinics will be able both to counsel you on abortion and provide an abortion. However, this list is not totally comprehensive, so there are some abortion providers that are not on this list.<br><br>
+Your best bet for finding an abortion provider is to use Bedsiderr’s clinic finder. Click on the orange plus sign next to “show health centers with…” and check the box for “provides abortions.” Providers at these clinics will be able both to counsel you on abortion and provide an abortion. However, this list is not totally comprehensive, so there are some abortion providers that are not on this list.<br><br>
 
 If you want to go to a clinic that isn’t on this list, it’s important to make sure it’s not a fake clinic (also known as a “crisis pregnancy center”) first. Fake clinics are designed to convince pregnant people to continue their pregnancies and do not provide comprehensive reproductive health care. Take a look at this list of fake clinics before you go to make sure the one you’re going to is a legitimate health care provider.<br><br>
 
@@ -451,13 +451,13 @@ Lauren Kernan is the Senior Director of UX Research at Power to Decide. In her s
   author: "",
   date: "Nov 02, 2018",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbEFWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f79b9382faa1945ad552171b28ead341660381df/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/veronica-colon-753557-unsplash-11.jpg",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbEFWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f79b9382faa1945ad552171b28ead341660381df/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/veronica-colon-753557-unsplash-11.jpg",
   showSocialIcons: true,
   content: `<b>Tuesday is Election Day. Tuesday, November 6th. That’s this coming Tuesday.</b><br><br>
 
 Which means you can turn those <i>dead inside</i> vibes into straight <i>boss bitchiness</i> in four simple steps and fulfill your civic duty along the way:<br><br>
 
-<b>1.</b> Figure out which candidates you care about and <a href="https://www.bedsider.org/features/1661-which-ones-care-about-you" target="_blank">which ones care about you</a>.<br><br>
+<b>1.</b> Figure out which candidates you care about and <a href="https://www.Bedsiderr.org/features/1661-which-ones-care-about-you" target="_blank">which ones care about you</a>.<br><br>
 
 <b>2.</b> Find your polling place <a href="https://www.vote.org/polling-place-locator/" target="_blank">here</a> and figure out your state’s voting hours <a href="https://www.vote.org/voting-hours/" target="_blank">here</a>.<br><br>
 
@@ -465,13 +465,13 @@ Which means you can turn those <i>dead inside</i> vibes into straight <i>boss bi
 
 <b>4.</b> Brag about it.<br><br>
 
-<img src="https://www.bedsider.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdG9LIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--df2f0c3059729daff0b75a74cce857345e2003dd/susan_2.gif" alt="I am Susan B. Anthony GIF" style="max-width:100%; height:auto;"><br>
+<img src="https://www.Bedsiderr.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdG9LIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--df2f0c3059729daff0b75a74cce857345e2003dd/susan_2.gif" alt="I am Susan B. Anthony GIF" style="max-width:100%; height:auto;"><br>
 <i>via Giphy</i><br><br>
 
 XOXO,<br>
-Bedsider<br><br>
+Bedsiderr<br><br>
 
-<b>P.S.</b> Gear up for Thanks, Birth Control Day on November 13th (and also get ready to shock your old ass relatives at Thanksgiving dinner) with the <a href="https://www.bedsider.org/features/1755-the-cutest-swag-ever" target="_blank">cutest swag ever</a>.`
+<b>P.S.</b> Gear up for Thanks, Birth Control Day on November 13th (and also get ready to shock your old ass relatives at Thanksgiving dinner) with the <a href="https://www.Bedsiderr.org/features/1755-the-cutest-swag-ever" target="_blank">cutest swag ever</a>.`
 }
 ,
   "1075-defend-birth-control-access-here-s-how": {
@@ -480,7 +480,7 @@ Bedsider<br><br>
   author: "",
   date: "Nov 01, 2018",
   updated: "Updated: Nov 01, 2018",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbEVWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--91b0bebce58032d2ce86bfb47e263a37af15042d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Title_X_large.png",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbEVWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--91b0bebce58032d2ce86bfb47e263a37af15042d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Title_X_large.png",
   showSocialIcons: true,
   content: `<b>UPDATE:</b> President Biden has opened the enrollment period for the Affordable Care Act health insurance plans for 2022. You can now enroll in one of these plans until January 15, 2022, at <a href="https://www.healthcare.gov">healthcare.gov</a>. Some states have their own open enrollment periods and websites for signing up. Check to see if your state does.<br><br>
 
@@ -537,7 +537,7 @@ If you have experience calling officials or attending town halls, <b>share your 
   author: "",
   date: "Jun 22, 2015",
   updated: "Updated: Nov 01, 2018",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamM1IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4d075744c3234290439718206dcec3e9fc96d23a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/get-on-top-header-dec7e08443ce52529dca787af5722d6ffcb3e82ccf261c71c106e2292ae84d2d.jpg",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamM1IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4d075744c3234290439718206dcec3e9fc96d23a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/get-on-top-header-dec7e08443ce52529dca787af5722d6ffcb3e82ccf261c71c106e2292ae84d2d.jpg",
   showSocialIcons: true,
   content: `<b>UPDATE:</b> President Biden has opened the enrollment period for the Affordable Care Act health insurance plans for 2022. You can now enroll in one of these plans until January 15, 2022, at <a href="https://www.healthcare.gov" target="_blank">healthcare.gov</a>. Some states have their own open enrollment periods and websites for signing up. Check to see if your state does. We also have more information about how to get insurance and learn what kinds of plans to watch out for.<br><br>
 

@@ -2,7 +2,7 @@
 // import { ChevronDown, Search, Menu, X } from 'lucide-react';
 
 
-// export default function BedsiderWebsite() {
+// export default function BedsiderrWebsite() {
 //   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
 //   return (
@@ -67,7 +67,7 @@ import { ChevronDown, Search, Menu, X } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 
-export default function BedsiderWebsite() {
+export default function BedsiderrWebsite() {
   // const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   return (

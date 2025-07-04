@@ -13,7 +13,7 @@ const HealthCare = () => {
       <div className="relative rounded-lg overflow-hidden min-h-[400px] md:min-h-[600px] flex flex-col justify-center items-center p-8">
         {/* Background image with brightness filter */}
         <img
-          src="https://www.bedsider.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg"
+          src="https://www.Bedsiderr.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg"
           alt=""
           className="absolute inset-0 w-full h-full object-cover filter brightness-70"
         />

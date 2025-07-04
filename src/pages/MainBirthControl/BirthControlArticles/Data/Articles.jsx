@@ -8,7 +8,7 @@ export const BCarticles = [
     title: "20 ways OTC birth control pills change the game",
       subtitle: "Spoiler alert: life can get a whole lot easier",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3RzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d374812c15c14c24245a14b9657410e66c231ef/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/reproductive-health-supplies-coalition-bymICwLq-E4-unsplash.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3RzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d374812c15c14c24245a14b9657410e66c231ef/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/reproductive-health-supplies-coalition-bymICwLq-E4-unsplash.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -18,7 +18,7 @@ export const BCarticles = [
       "Lorde is answering our birth control prayers",
         subtitle: "IUDs have the spotlight in Lorde’s summer album, and we’re so here for it!",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc05zIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--64f67c90215b1ee616ce25a192b70c5127870bc5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/reproductive-health-supplies-coalition-cHrcHdg2H9E-unsplash%20(1).jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc05zIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--64f67c90215b1ee616ce25a192b70c5127870bc5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/reproductive-health-supplies-coalition-cHrcHdg2H9E-unsplash%20(1).jpg",
     hasQuestionPattern: false,
   },
   {
@@ -27,7 +27,7 @@ export const BCarticles = [
     title: "12 years and counting",
     subtitle: "We're saying Thanks, Birth Control! louder than ever this year",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBckZwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dad169b9fef0430c0279978cab09c82d689e9ef9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/230912_PTD_CapitolHill-04c.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBckZwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dad169b9fef0430c0279978cab09c82d689e9ef9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/230912_PTD_CapitolHill-04c.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -36,7 +36,7 @@ export const BCarticles = [
     title: "Everything you need to know about Opill, the new over-the-counter birth control pill",
     subtitle: 
       "Now in stores!",
-    image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcGhuIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a1fda66b611193a31b4bb5cc47e7f859cdcc435f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Screenshot%202024-03-04%20at%208.04.06%20AM.png",
+    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcGhuIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a1fda66b611193a31b4bb5cc47e7f859cdcc435f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Screenshot%202024-03-04%20at%208.04.06%20AM.png",
     hasQuestionPattern: false,
   },
   {
@@ -44,7 +44,7 @@ export const BCarticles = [
     category: "Birth Control",
     title: "All the ways we're saying Thanks, Birth Control! in 2023",
     subtitle: "🎵 Thank you for being a friend 🎵",
-    image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1JtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7b95e0f86debbead44da715892c06d6e3ac1f4ef/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1432965106.jpg",
+    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1JtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7b95e0f86debbead44da715892c06d6e3ac1f4ef/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1432965106.jpg",
     hasQuestionPattern: false,
   },
   
@@ -68,7 +68,7 @@ export const BCarticleContents = {
   author: "",
   date: "May 09, 2025",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3RzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d374812c15c14c24245a14b9657410e66c231ef/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/reproductive-health-supplies-coalition-bymICwLq-E4-unsplash.jpg",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3RzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d374812c15c14c24245a14b9657410e66c231ef/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/reproductive-health-supplies-coalition-bymICwLq-E4-unsplash.jpg",
   showSocialIcons: true,
   content: `<h1><b>20 ways OTC birth control pills change the game</b></h1>
 <p><i>Spoiler alert: life can get a whole lot easier</i></p>
@@ -162,7 +162,7 @@ export const BCarticleContents = {
   author: "",
   date: "May 02, 2025",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc05zIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--64f67c90215b1ee616ce25a192b70c5127870bc5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/reproductive-health-supplies-coalition-cHrcHdg2H9E-unsplash%20(1).jpg",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc05zIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--64f67c90215b1ee616ce25a192b70c5127870bc5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/reproductive-health-supplies-coalition-cHrcHdg2H9E-unsplash%20(1).jpg",
   showSocialIcons: true,
   content: `
 <b>Meg started it all by bringing us hot girl summer 🔥</b><br/><br/>
@@ -214,7 +214,7 @@ That’s cool too. There are tons of other birth control options. Check out our 
   author: "",
   date: "Nov 15, 2024",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBckZwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dad169b9fef0430c0279978cab09c82d689e9ef9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/230912_PTD_CapitolHill-04c.jpg",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBckZwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dad169b9fef0430c0279978cab09c82d689e9ef9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/230912_PTD_CapitolHill-04c.jpg",
   showSocialIcons: true,
   content: `
 It’s our 12th annual #ThxBirthControl Day, and this year, we’re not just grateful—we’re fired up.<br/>
@@ -224,28 +224,28 @@ Because frankly, our lives and our choices are ours to make, not theirs.<br/><br
 Here are some of the reasons we’re saying #ThxBirthControl in 2024, because we won’t stop talking about it and we won’t back down.<br/><br/>
 
 <b>1. Birth control isn’t just about preventing pregnancy.</b><br/>
-<img src="https://www.bedsider.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcE5wIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4ebe10ea8f26439acc661dcbaf66beb915ef38e7/Screenshot%202024-11-14%20at%204.59.28%E2%80%AFPM.png" alt="Birth Control Post 1" class="rounded-md my-4"/><br/>
+<img src="https://www.Bedsiderr.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcE5wIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4ebe10ea8f26439acc661dcbaf66beb915ef38e7/Screenshot%202024-11-14%20at%204.59.28%E2%80%AFPM.png" alt="Birth Control Post 1" class="rounded-md my-4"/><br/>
 
 <b>2. No one can tell us what to do with our bodies.</b><br/>
-<img src="https://www.bedsider.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcFpwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6bdb02149af93a7665f509acdcdf0852d340c485/no%20one%20tell%20me%20what%20to%20do.png" alt="Birth Control Post 2" class="rounded-md my-4"/><br/>
+<img src="https://www.Bedsiderr.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcFpwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6bdb02149af93a7665f509acdcdf0852d340c485/no%20one%20tell%20me%20what%20to%20do.png" alt="Birth Control Post 2" class="rounded-md my-4"/><br/>
 
 <b>3. It allows us to be HOT TO GO at all times. 🔥🔥🔥</b><br/>
-<img src="https://www.bedsider.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcGxwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e9a9db234c314e6451881c3587a7373f141d6ab6/Screenshot%202024-11-14%20at%204.50.03%E2%80%AFPM.png" alt="Birth Control Post 3" class="rounded-md my-4"/><br/>
+<img src="https://www.Bedsiderr.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcGxwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e9a9db234c314e6451881c3587a7373f141d6ab6/Screenshot%202024-11-14%20at%204.50.03%E2%80%AFPM.png" alt="Birth Control Post 3" class="rounded-md my-4"/><br/>
 
 <b>4. It gives us the freedom to have only babies with fur, if that’s what we want.</b><br/>
-<img src="https://www.bedsider.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcHhwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c3e71bdc01ab3511c34b9c36e7748bc45252b832/Screenshot%202024-11-14%20at%204.49.46%E2%80%AFPM.png" alt="Birth Control Post 4" class="rounded-md my-4"/><br/>
+<img src="https://www.Bedsiderr.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcHhwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c3e71bdc01ab3511c34b9c36e7748bc45252b832/Screenshot%202024-11-14%20at%204.49.46%E2%80%AFPM.png" alt="Birth Control Post 4" class="rounded-md my-4"/><br/>
 
 <b>5. Birth control can help us manage our health.</b><br/><br/>
-<img src="https://www.bedsider.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcUpwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d307ee855a4f9d53972acf01c3034567267a3c40/Screenshot%202024-11-14%20at%204.30.02%E2%80%AFPM.png" alt="Birth Control Post 4" class="rounded-md my-4"/><br/>
+<img src="https://www.Bedsiderr.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcUpwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d307ee855a4f9d53972acf01c3034567267a3c40/Screenshot%202024-11-14%20at%204.30.02%E2%80%AFPM.png" alt="Birth Control Post 4" class="rounded-md my-4"/><br/>
 
 <b>6. It is our right to have access to birth control.</b><br/><br/>
-<img src="https://www.bedsider.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcTlwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6ada9d786e287546a6280e638b842940db9219c3/Screenshot%202024-11-14%20at%209.03.20%E2%80%AFPM.png" alt="Birth Control Post 4" class="rounded-md my-4"/><br/>
+<img src="https://www.Bedsiderr.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcTlwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6ada9d786e287546a6280e638b842940db9219c3/Screenshot%202024-11-14%20at%209.03.20%E2%80%AFPM.png" alt="Birth Control Post 4" class="rounded-md my-4"/><br/>
 
 <b>7. We are powerful when we stand together.</b><br/><br/>
-<img src="https://www.bedsider.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVJwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--083c62cab1fd091d0de78364d0d6dc9a5c71df89/we%20are%20NOT%20backing%20down.png" alt="Birth Control Post 4" class="rounded-md my-4"/><br/>
+<img src="https://www.Bedsiderr.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVJwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--083c62cab1fd091d0de78364d0d6dc9a5c71df89/we%20are%20NOT%20backing%20down.png" alt="Birth Control Post 4" class="rounded-md my-4"/><br/>
 
 <b>8. And we are NOT backing down!</b>
-<img  src="https://www.bedsider.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVJwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--083c62cab1fd091d0de78364d0d6dc9a5c71df89/we%20are%20NOT%20backing%20down.png" alt="Birth Control Post 4" class="rounded-md my-4"/><br/>
+<img  src="https://www.Bedsiderr.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVJwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--083c62cab1fd091d0de78364d0d6dc9a5c71df89/we%20are%20NOT%20backing%20down.png" alt="Birth Control Post 4" class="rounded-md my-4"/><br/>
 
 
 `
@@ -258,7 +258,7 @@ Here are some of the reasons we’re saying #ThxBirthControl in 2024, because we
   author: "",
   date: "Mar 04, 2024",
   updated: " Updated: Mar 05, 2024",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcGhuIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a1fda66b611193a31b4bb5cc47e7f859cdcc435f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Screenshot%202024-03-04%20at%208.04.06%20AM.png",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcGhuIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a1fda66b611193a31b4bb5cc47e7f859cdcc435f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Screenshot%202024-03-04%20at%208.04.06%20AM.png",
   showSocialIcons: true,
   content: `
 <b>Opill, the new, long-awaited over-the-counter birth control pill, has hit the shelves!</b><br/><br/>
@@ -332,7 +332,7 @@ Taking a birth control pill every day works great for some people, but for other
   author: "",
   date: "Nov 17, 2023",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1JtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7b95e0f86debbead44da715892c06d6e3ac1f4ef/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1432965106.jpg",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1JtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7b95e0f86debbead44da715892c06d6e3ac1f4ef/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1432965106.jpg",
   showSocialIcons: true,
   content: `
 We’re turning up the volume on gratitude with our annual shout-out extravaganza: Thanks, Birth Control Day! It’s the day we come together, raise our voices, and share the myriad ways birth control has made our lives better.<br/><br/>
@@ -343,13 +343,13 @@ From the deeply personal stories to the cheerfully cheeky tweets, every declarat
 <iframe src="" width="325" height="580" frameborder="0" allowfullscreen class="my-4 rounded-md"></iframe><br/>
 
 <b>2. Because it’s literally helping us save the planet!</b><br/>
-<img src="https://www.bedsider.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0ptIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4dc7aaeeb5bf72285213fced20104793e6cbdb02/Screen%20Shot%202023-11-16%20at%2010.52.57%20PM.png" alt="Hot sex post" class="my-4 rounded-md"/><br/>
+<img src="https://www.Bedsiderr.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0ptIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4dc7aaeeb5bf72285213fced20104793e6cbdb02/Screen%20Shot%202023-11-16%20at%2010.52.57%20PM.png" alt="Hot sex post" class="my-4 rounded-md"/><br/>
 
 <b>3. Because we love our lives (complete with fur babies) as they are!!</b><br/>
 <iframe src="" width="325" height="580" frameborder="0" allowfullscreen class="my-4 rounded-md"></iframe><br/>
 
 <b>4. Because it’s gender neutral.</b><br/>
-<img src="https://www.bedsider.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjVtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ddb5340216199c7b50a285a221be88790ca8a3b3/Screen%20Shot%202023-11-16%20at%2010.46.08%20PM.png" alt="Gender neutral post" class="my-4 rounded-md"/><br/>
+<img src="https://www.Bedsiderr.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjVtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ddb5340216199c7b50a285a221be88790ca8a3b3/Screen%20Shot%202023-11-16%20at%2010.46.08%20PM.png" alt="Gender neutral post" class="my-4 rounded-md"/><br/>
 
 <b>5. For allowing us to follow our dreams.</b><br/>
 <img src="https://i.imgur.com/bN9LJG1.png" alt="Emily Eckert post" class="my-4 rounded-md"/><br/>
@@ -358,10 +358,10 @@ From the deeply personal stories to the cheerfully cheeky tweets, every declarat
 <iframe src="" width="325" height="580" frameborder="0" allowfullscreen class="my-4 rounded-md"></iframe><br/>
 
 <b>7. For giving us the space to make art.</b><br/>
-<img src="https://www.bedsider.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0JtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f473102d066cbc12ac6643ecd84242e9a34ce316/Screen%20Shot%202023-11-16%20at%2010.48.24%20PM.png" alt="Art expression post" class="my-4 rounded-md"/><br/>
+<img src="https://www.Bedsiderr.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0JtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f473102d066cbc12ac6643ecd84242e9a34ce316/Screen%20Shot%202023-11-16%20at%2010.48.24%20PM.png" alt="Art expression post" class="my-4 rounded-md"/><br/>
 
 <b>8. Because wanting to have smokin’ hot sex is reason enough!</b><br/>
-<img src="https://www.bedsider.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0ptIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4dc7aaeeb5bf72285213fced20104793e6cbdb02/Screen%20Shot%202023-11-16%20at%2010.52.57%20PM.png" alt="Hot sex post" class="my-4 rounded-md"/><br/>
+<img src="https://www.Bedsiderr.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0ptIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4dc7aaeeb5bf72285213fced20104793e6cbdb02/Screen%20Shot%202023-11-16%20at%2010.52.57%20PM.png" alt="Hot sex post" class="my-4 rounded-md"/><br/>
 `
 }
 
@@ -407,7 +407,7 @@ From the deeply personal stories to the cheerfully cheeky tweets, every declarat
 //         subtitle: "Using the principles of explicit consent to give patients better care",
 
 //     image:
-//       "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3NVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a64108d6732330dc40d38bd75effbb42a4749a69/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-958559804.jpg",
+//       "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3NVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a64108d6732330dc40d38bd75effbb42a4749a69/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-958559804.jpg",
 //     hasQuestionPattern: false,
 //   },
 //   {
@@ -416,7 +416,7 @@ From the deeply personal stories to the cheerfully cheeky tweets, every declarat
 //     title: "Is telehealth totally impersonal?",
       
 //     image:
-//       "https://www.bedsider.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
+//       "https://www.Bedsiderr.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
 //     hasQuestionPattern: false,
 //   },
 //   {
@@ -425,7 +425,7 @@ From the deeply personal stories to the cheerfully cheeky tweets, every declarat
 //     title: "5 times you should go see a provider in person",
 //     subtitle: "Telehealth is a game-changer, but sometimes you need to go old school",
 //     image:
-//       "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb29VIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c6ee08f0cd89114a37fe83070da4efbe3fffe968/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-103058935_(3).jpg",
+//       "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb29VIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c6ee08f0cd89114a37fe83070da4efbe3fffe968/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-103058935_(3).jpg",
 //     hasQuestionPattern: false,
 //   },
   
@@ -434,7 +434,7 @@ From the deeply personal stories to the cheerfully cheeky tweets, every declarat
 //     category: " Health care",
 //     title: "Getting covered 101: How to get health insurance during open enrollment",
 //     subtitle: "Not sure if you need health insurance? Want insurance but not sure how to get it? We've got you covered.",
-//     image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1lWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e0ca916e63164ac4d1943c78640d18f4205a5642/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/header_health_insurance_101.jpg",
+//     image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1lWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e0ca916e63164ac4d1943c78640d18f4205a5642/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/header_health_insurance_101.jpg",
 //     hasQuestionPattern: false,
 //   },
 // {
@@ -443,7 +443,7 @@ From the deeply personal stories to the cheerfully cheeky tweets, every declarat
 //     title: "Why NOT to buy a short-term insurance plan",
 //     subtitle:
 //       "Your guide to getting health insurance for 2021",
-//     image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbE1WIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fc6882c991bd9a64ca313a3c13fde15fff3e8903/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Short-term_Insurance_001.jpg",
+//     image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbE1WIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fc6882c991bd9a64ca313a3c13fde15fff3e8903/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Short-term_Insurance_001.jpg",
 //     hasQuestionPattern: false,
 //   }
 // ];
@@ -466,9 +466,9 @@ From the deeply personal stories to the cheerfully cheeky tweets, every declarat
 //   author: "By Jennifer Keller, MD MPH",
 //   date: "Aug 10, 2021",
 //   updated: "",
-//   image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3NVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a64108d6732330dc40d38bd75effbb42a4749a69/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-958559804.jpg",
+//   image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3NVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a64108d6732330dc40d38bd75effbb42a4749a69/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-958559804.jpg",
 //   showSocialIcons: true,
-//   content: `<i>This article originally appeared on Bedsider Providers. While it was written by a provider for other providers, we thought it might be helpful for our Bedsider readers to see as well. We want you to know we’re committed to addressing health disparities, and part of our approach to that work is through provider education.</i><br><br>
+//   content: `<i>This article originally appeared on Bedsiderr Providers. While it was written by a provider for other providers, we thought it might be helpful for our Bedsiderr readers to see as well. We want you to know we’re committed to addressing health disparities, and part of our approach to that work is through provider education.</i><br><br>
 
 // From the #metoo movement to reports of sexual assault being front and center on national television with the confirmation hearings of Supreme Court Justice Brett Kavanaugh, consent has been making the news headlines. Health care providers have an opportunity to provide a safe space to discuss enthusiastic consent in relationships and to model it in the exam room by obtaining explicit consent from our patients prior to performing intimate exams in the office. Consent is an important component of establishing a respectful and trusting relationship with your patient—one that improves satisfaction, adherence, and ultimately, outcomes.<br><br>
 
@@ -521,7 +521,7 @@ From the deeply personal stories to the cheerfully cheeky tweets, every declarat
 //   author: "By : Emma McGowan",
 //   date: "Nov 21, 2020",
 //   updated: "",
-//   image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb29VIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c6ee08f0cd89114a37fe83070da4efbe3fffe968/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-103058935_(3).jpg",
+//   image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb29VIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c6ee08f0cd89114a37fe83070da4efbe3fffe968/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-103058935_(3).jpg",
 //   showSocialIcons: true,
 //   content: `When you first consider telehealth, you might wonder: when do I actually need to go see a provider in person? Well, that’s a really good question!<br><br>
 
@@ -569,7 +569,7 @@ From the deeply personal stories to the cheerfully cheeky tweets, every declarat
 //   author: "",
 //   date: "Dec 19, 2018",
 //   updated: " Updated: Nov 05, 2020",
-//   image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1lWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e0ca916e63164ac4d1943c78640d18f4205a5642/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/header_health_insurance_101.jpg",
+//   image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1lWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e0ca916e63164ac4d1943c78640d18f4205a5642/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/header_health_insurance_101.jpg",
 //   showSocialIcons: true,
 //   content: `
 // <b>UPDATE:</b> President Biden has opened the enrollment period for the Affordable Care Act health insurance plans for 2022. You can now enroll until January 15, 2022, at <a href='https://www.healthcare.gov'>healthcare.gov</a>.<br><br>
@@ -623,7 +623,7 @@ From the deeply personal stories to the cheerfully cheeky tweets, every declarat
 //   author: "By Erin Hemlin",
 //   date: "Oct 29, 2018",
 //   updated: "Updated: Nov 05, 2020",
-//   image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbE1WIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fc6882c991bd9a64ca313a3c13fde15fff3e8903/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Short-term_Insurance_001.jpg",
+//   image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbE1WIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fc6882c991bd9a64ca313a3c13fde15fff3e8903/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Short-term_Insurance_001.jpg",
 //   showSocialIcons: true,
 //   content: `
 // <b>There’s been a lot of talk about the future of the Affordable Care Act (ACA)...</b><br><br>

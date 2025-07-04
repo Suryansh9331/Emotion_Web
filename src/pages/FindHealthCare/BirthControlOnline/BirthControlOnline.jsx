@@ -112,7 +112,7 @@ export default function BirthControlOnline() {
               fontFamily: 'system-ui, -apple-system, sans-serif'
             }}
           >
-            Bedsider lists these resources for your convenience, but we don't get to visit each provider or health center, so we can't make any endorsements or recommendations. Please use your best judgment when making any health care decisions. In order to be included in the Bedsider clinic finder, the office or clinic must counsel on or refer out for the full range of birth control methods and prescribe at least one hormonal method. The clinic may also be included if it provides abortion services.
+            Bedsiderr lists these resources for your convenience, but we don't get to visit each provider or health center, so we can't make any endorsements or recommendations. Please use your best judgment when making any health care decisions. In order to be included in the Bedsiderr clinic finder, the office or clinic must counsel on or refer out for the full range of birth control methods and prescribe at least one hormonal method. The clinic may also be included if it provides abortion services.
           </p>
         </div>
       </div>

@@ -19,21 +19,21 @@ export default function ContactSection() {
             We'd love to hear from you! Is there a birth control question you want to see answered on our site? Send 
             comments, feedback, requests, and suggestions to{' '}
             <a 
-              href="mailto:questions@bedsider.org" 
+              href="mailto:info@bedsiderr.com" 
               className="text-blue-600 hover:text-blue-800 underline transition-colors duration-200"
             >
-              questions@bedsider.org
+            info@bedsiderr.com
             </a>.
           </p>
 
           {/* Second paragraph */}
           <p className="text-sm sm:text-base">
-            For website support and questions about Bedsider mobile, please email{' '}
+            For website support and questions about Bedsiderr mobile, please email{' '}
             <a 
-              href="mailto:support@bedsider.org" 
+              href="mailto:info@bedsiderr.com" 
               className="text-blue-600 hover:text-blue-800 underline transition-colors duration-200"
             >
-              support@bedsider.org
+        info@bedsiderr.com
             </a>.
           </p>
 
@@ -41,10 +41,10 @@ export default function ContactSection() {
           <p className="text-sm sm:text-base">
             To opt-out of our SMS service, text "STOP" to (254) 414-2411. To get help, email us at{' '}
             <a 
-              href="mailto:support@bedsider.org" 
+              href="mailto:info@bedsiderr.com" 
               className="text-blue-600 hover:text-blue-800 underline transition-colors duration-200"
             >
-              support@bedsider.org
+        info@bedsiderr.com
             </a>. Message frequency ranges from daily to one message per month or less.
           </p>
 
@@ -71,7 +71,7 @@ export default function ContactSection() {
           {/* Email delivery paragraph */}
           <p className="text-sm sm:text-base">
             We'll always send an auto-reply email when you contact us. If you don't get one, it's possible your ISP or 
-            email software is blocking messages from Bedsider.org. Check your spam filter, contact your ISP, or read 
+            email software is blocking mesinfo@bedsiderr.com. Check your spam filter, contact your ISP, or read 
             the help section of your software to figure out how to change your email filter settings.
           </p>
 

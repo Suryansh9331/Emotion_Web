@@ -21,13 +21,13 @@
 // import FriskyFridaysSignup from "./components/FriskyComponent"
 // import HealthcareFinder from "./components/HealthFinder"
 // import HealthWellnessLayout from "./components/HealthWellnessLayout"
-// import BedsiderWebsite from "./components/Home"
+// import BedsiderrWebsite from "./components/Home"
 // import SexRelationshipsLayout from "./components/SeRelationLayout"
 // import ArticlesSection from "./components/SHW/ArticleSection"
 // import FourthComponent from "./components/SHW/fourthComponent"
 // import ShwHome from "./components/SHW/ShwHome"
 
-// export default function BedsiderWebsite() {
+// export default function BedsiderrWebsite() {
 //   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
 //   return (
@@ -38,7 +38,7 @@
 //           <div className="flex items-center gap-1">
 //             <span>Are you a provider? Visit </span>
 //             <a href="#" className="text-teal-700 font-medium hover:underline">
-//               Bedsider Providers
+//               Bedsiderr Providers
 //             </a>
 //             <span className="text-teal-700">↗</span>
 //           </div>
@@ -61,7 +61,7 @@
 //           <div className="flex justify-center mb-8">
 //             <div className="text-center">
 //               <h1 className="text-5xl sm:text-6xl md:text-7xl font-bold text-gray-800 tracking-wider">
-//                 BEDSIDER
+//                 Bedsiderr
 //               </h1>
 //               <p className="text-gray-600 mt-2 italic">We've got you covered</p>
 //             </div>

@@ -35,7 +35,7 @@
 //       quote: '"You know, you kinda have to bear through it until your uterus is like, \'okay, we\'re friends, we\'re gonna work together.\'"',
 //       videoId: 'dQw4w9WgXcQ',
 //       isFeatured: true,
-//       thumbnail: 'https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdndWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e8c32577ae4a7fef4f9fc775e797070bb3f18e25/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/1029.jpg'
+//       thumbnail: 'https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdndWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e8c32577ae4a7fef4f9fc775e797070bb3f18e25/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/1029.jpg'
 //     },
 //     {
 //       id: 2,
@@ -44,7 +44,7 @@
 //       subtitle: 'CONDOM',
 //       quote: '"It\'s usually very assumed that we\'re gonna need condoms..."',
 //       videoId: 'dQw4w9WgXcQ',
-//       thumbnail: 'https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdndWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e8c32577ae4a7fef4f9fc775e797070bb3f18e25/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/1029.jpg'
+//       thumbnail: 'https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdndWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e8c32577ae4a7fef4f9fc775e797070bb3f18e25/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/1029.jpg'
 //     },
 //     {
 //       id: 3,
@@ -53,7 +53,7 @@
 //       subtitle: 'SEXUALLY TRANSMITTED INFECTIONS (STDS, STIS)',
 //       quote: '"Before we had any sexual contact, we decided to go to the doctor together."',
 //       videoId: 'dQw4w9WgXcQ',
-//       thumbnail: 'https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdndWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e8c32577ae4a7fef4f9fc775e797070bb3f18e25/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/1029.jpg'
+//       thumbnail: 'https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdndWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e8c32577ae4a7fef4f9fc775e797070bb3f18e25/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/1029.jpg'
 //     },
 //     {
 //       id: 4,
@@ -62,7 +62,7 @@
 //       subtitle: 'IUD',
 //       quote: '"I love being able to say I haven\'t had a period since I was 17 years old."',
 //       videoId: 'dQw4w9WgXcQ',
-//       thumbnail: 'https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzRXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7a51c8a7b073b2045a9469eab7cb726b719279ef/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/1010.jpg'
+//       thumbnail: 'https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzRXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7a51c8a7b073b2045a9469eab7cb726b719279ef/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/1010.jpg'
 //     },
 //     {
 //       id: 5,
@@ -71,7 +71,7 @@
 //       subtitle: 'IMPLANT (NEXPLANON)',
 //       quote: '"It was super fast, super easy."',
 //       videoId: 'dQw4w9WgXcQ',
-//       thumbnail: 'https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzBXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10685d433e6c8982257dd1388165f5c7c0f9e370/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/1012.jpg'
+//       thumbnail: 'https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzBXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10685d433e6c8982257dd1388165f5c7c0f9e370/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/1012.jpg'
 //     },
 //     {
 //       id: 6,
@@ -80,7 +80,7 @@
 //       subtitle: 'BIRTH CONTROL PATCH',
 //       quote: '"It\'s the perfect level of hormones for me."',
 //       videoId: 'dQw4w9WgXcQ',
-//       thumbnail: 'https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzhXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--879b6e8d21b2b7888df2e692d32cb61f6d1391d1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Dara_full.png'
+//       thumbnail: 'https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzhXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--879b6e8d21b2b7888df2e692d32cb61f6d1391d1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Dara_full.png'
 //     }
 //   ];
 
@@ -283,7 +283,7 @@ const BirthControlReviews = () => {
       quote: '"You know, you kinda have to bear through it until your uterus is like, \'okay, we\'re friends, we\'re gonna work together.\'"',
       videoId: '5rj7ZAPtf4g?si=QyL-PA0h0wg1PSHR',
       isFeatured: true,
-      thumbnail: 'https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdndWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e8c32577ae4a7fef4f9fc775e797070bb3f18e25/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/1029.jpg'
+      thumbnail: 'https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdndWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e8c32577ae4a7fef4f9fc775e797070bb3f18e25/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/1029.jpg'
     },
     {
       id: 2,
@@ -292,7 +292,7 @@ const BirthControlReviews = () => {
       subtitle: 'CONDOM',
       quote: '"It\'s usually very assumed that we\'re gonna need condoms..."',
       videoId: 'N7_PT8LoCsc?si=sWtP2gEvDJmgAmbL',
-      thumbnail: 'https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdndWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e8c32577ae4a7fef4f9fc775e797070bb3f18e25/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/1029.jpg'
+      thumbnail: 'https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdndWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e8c32577ae4a7fef4f9fc775e797070bb3f18e25/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/1029.jpg'
     },
     {
       id: 3,
@@ -301,7 +301,7 @@ const BirthControlReviews = () => {
       subtitle: 'SEXUALLY TRANSMITTED INFECTIONS (STDS, STIS)',
       quote: '"Before we had any sexual contact, we decided to go to the doctor together."',
       videoId: '0hOqI7PNuZU?si=Z0KB2uhwpH3d51Zx',
-      thumbnail: 'https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdndWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e8c32577ae4a7fef4f9fc775e797070bb3f18e25/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/1029.jpg'
+      thumbnail: 'https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdndWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e8c32577ae4a7fef4f9fc775e797070bb3f18e25/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/1029.jpg'
     },
     {
       id: 4,
@@ -310,7 +310,7 @@ const BirthControlReviews = () => {
       subtitle: 'IUD',
       quote: '"I love being able to say I haven\'t had a period since I was 17 years old."',
       videoId: 'tNOcJoXOMA4?si=9wBOYP99xnGCq-_F',
-      thumbnail: 'https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzRXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7a51c8a7b073b2045a9469eab7cb726b719279ef/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/1010.jpg'
+      thumbnail: 'https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzRXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7a51c8a7b073b2045a9469eab7cb726b719279ef/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/1010.jpg'
     },
     {
       id: 5,
@@ -319,7 +319,7 @@ const BirthControlReviews = () => {
       subtitle: 'IMPLANT (NEXPLANON)',
       quote: '"It was super fast, super easy."',
       videoId: 'QWuQp_vU1JY?si=Jx4N212MvVmoSbb6',
-      thumbnail: 'https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzBXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10685d433e6c8982257dd1388165f5c7c0f9e370/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/1012.jpg'
+      thumbnail: 'https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzBXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10685d433e6c8982257dd1388165f5c7c0f9e370/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/1012.jpg'
     },
     {
       id: 6,
@@ -328,7 +328,7 @@ const BirthControlReviews = () => {
       subtitle: 'BIRTH CONTROL PATCH',
       quote: '"It\'s the perfect level of hormones for me."',
       videoId: 'KOdP7xDrIHw?si=lbVJ5OvBGZZ5t6L_',
-      thumbnail: 'https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzhXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--879b6e8d21b2b7888df2e692d32cb61f6d1391d1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Dara_full.png'
+      thumbnail: 'https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzhXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--879b6e8d21b2b7888df2e692d32cb61f6d1391d1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Dara_full.png'
     }
   ];
 

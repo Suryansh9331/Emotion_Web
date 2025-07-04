@@ -6,7 +6,7 @@ export const Abortionarticles = [
     subtitle: null,
 
     image:
-      "https://www.bedsider.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
+      "https://www.Bedsiderr.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
     hasQuestionPattern: false,
   },
   {
@@ -17,7 +17,7 @@ export const Abortionarticles = [
       "",
 
     image:
-      "https://www.bedsider.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
+      "https://www.Bedsiderr.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
     hasQuestionPattern: false,
   },
   {
@@ -26,7 +26,7 @@ export const Abortionarticles = [
     title: "Can I be sedated if I’m getting an abortion procedure?",
     
     image:
-      "https://www.bedsider.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
+      "https://www.Bedsiderr.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
     hasQuestionPattern: false,
   },
   {
@@ -35,7 +35,7 @@ export const Abortionarticles = [
     title: "What does “viability” mean?",
     subtitle: "",
     image:
-      "https://www.bedsider.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
+      "https://www.Bedsiderr.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
     hasQuestionPattern: false,
   },
  
@@ -45,7 +45,7 @@ export const Abortionarticles = [
     title: "Why Thanks, Birth Control Day matters more than ever this year",
     subtitle: "And how to make it the best ever",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBclZtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--40d64ec17fc70e3aa68e7022283b4635b8171f47/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-523793550%20(1).jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBclZtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--40d64ec17fc70e3aa68e7022283b4635b8171f47/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-523793550%20(1).jpg",
     hasQuestionPattern: false,
   },
   {
@@ -54,7 +54,7 @@ export const Abortionarticles = [
     title: "Six things you can do to help on the one-year anniversary of Roe v. Wade being overturned",
     subtitle: "Don’t give up, we still need your help!",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFZqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e040c2c66563581eee58f9158470d70960f4ed3a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1241532935.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFZqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e040c2c66563581eee58f9158470d70960f4ed3a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1241532935.jpg",
     hasQuestionPattern: false,
   },
  
@@ -64,7 +64,7 @@ export const Abortionarticles = [
     title: "Mourning while celebrating the 50th anniversary of Roe v. Wade",
     subtitle: "A bittersweet reminder of what we had and all we’ve lost",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmhmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--864bf44a0e3f4c6a91495b3a93dbd6a7310f7076/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1047330148.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmhmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--864bf44a0e3f4c6a91495b3a93dbd6a7310f7076/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1047330148.jpg",
     hasQuestionPattern: false,
   },
    {
@@ -73,7 +73,7 @@ export const Abortionarticles = [
     title: "Can I start Opill right after having an abortion?",
     subtitle: "I'm having irregular bleeding with a progestin-only birth control method.",
     image:
-      "https://www.bedsider.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
+      "https://www.Bedsiderr.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
     hasQuestionPattern: false,
   },
 ];
@@ -156,7 +156,7 @@ If you have a medication abortion (sometimes called “the abortion pill”), yo
     date: "Nov 10, 2023",
     updated: "",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBclZtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--40d64ec17fc70e3aa68e7022283b4635b8171f47/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-523793550%20(1).jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBclZtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--40d64ec17fc70e3aa68e7022283b4635b8171f47/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-523793550%20(1).jpg",
     showSocialIcons: true,
     content: `
 <b>Why This Year Matters More Than Ever</b><br><br>
@@ -187,7 +187,7 @@ Let your lawmakers know you support:<br>
 Call or email them. Share your values and urge them to back reproductive-rights legislation.<br><br>
 
 <b>3. Donate or Volunteer</b><br>
-Support organizations like <b>Power to Decide</b>. Your donations help sustain platforms like Bedsider.org and AbortionFinder.org.<br><br>
+Support organizations like <b>Power to Decide</b>. Your donations help sustain platforms like Bedsiderr.org and AbortionFinder.org.<br><br>
 Prefer giving your time? Volunteer at a local abortion clinic, possibly as an escort.<br><br>
 
 <b>4. Vote in Every Election</b><br>
@@ -207,7 +207,7 @@ Through collective action—whether by voting, donating, volunteering, or simply
     date: "Jun 23, 2023",
     updated: "",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFZqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e040c2c66563581eee58f9158470d70960f4ed3a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1241532935.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFZqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e040c2c66563581eee58f9158470d70960f4ed3a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1241532935.jpg",
     showSocialIcons: true,
     content: `
 <b>One Year Since Roe v. Wade Was Overturned</b><br><br>
@@ -232,7 +232,7 @@ If you know someone who needs an abortion—especially in a restricted state—t
 <b>3. Buy AbortionFinder Merch</b><br>
 Show your support and spread awareness by purchasing merch like our tote bag. Check out the store for more items to wear proudly.<br><br>
 
-<img src="https://www.bedsider.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdE5qIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--180037861e7bf7a1ff65208094180cf670d21972/PTD246.png" alt="AbortionFinder Merch" class="w-full h-auto mb-4"><br><br>
+<img src="https://www.Bedsiderr.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdE5qIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--180037861e7bf7a1ff65208094180cf670d21972/PTD246.png" alt="AbortionFinder Merch" class="w-full h-auto mb-4"><br><br>
 <b>4. Post on Social Media</b><br>
 We’ve made it easy. Just share one of our graphics and tag @AbortionFinder. Your post helps raise awareness and support the fight.<br><br>
 
@@ -254,7 +254,7 @@ There’s still a long road ahead, and we need your help. Don’t give up—we c
     date: "Jan 20, 2023",
     updated: "",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmhmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--864bf44a0e3f4c6a91495b3a93dbd6a7310f7076/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1047330148.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmhmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--864bf44a0e3f4c6a91495b3a93dbd6a7310f7076/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1047330148.jpg",
     showSocialIcons: true,
     content: `What should’ve been a moment of pure celebration—the 50th anniversary of Roe v. Wade, which is this Sunday, January 22—has become an occasion for mourning as well as bittersweet reflection on what this landmark case brought us over almost 50 years.
 <br>
@@ -273,7 +273,7 @@ export const AbortionarticlesTwo = [
           subtitle: "",
 
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakk5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8ff4ba326b9e06a31687c92f3edd599f95a168ea/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1027444054.jpeg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakk5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8ff4ba326b9e06a31687c92f3edd599f95a168ea/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1027444054.jpeg",
     hasQuestionPattern: false,
   },
   {
@@ -283,7 +283,7 @@ export const AbortionarticlesTwo = [
     subtitle: "We asked an expert so you don't have to",
 
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjRVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--08fee9633737d0c4a6769946c9223885c39829a6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1169607304.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjRVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--08fee9633737d0c4a6769946c9223885c39829a6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1169607304.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -292,7 +292,7 @@ export const AbortionarticlesTwo = [
     title: "If you have a vagina, you have vaginal discharge",
     subtitle: "What’s normal, what’s not, and when to see your health care provider",
     image:
-      "https://www.bedsider.org/assets/mobile/provider_perspectives_header-44b4f94e01ec610c3de2b52585ef601d43bb8196a7253ae8e24896c8838e380a.jpg",
+      "https://www.Bedsiderr.org/assets/mobile/provider_perspectives_header-44b4f94e01ec610c3de2b52585ef601d43bb8196a7253ae8e24896c8838e380a.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -302,7 +302,7 @@ export const AbortionarticlesTwo = [
     subtitle:
       "Hint: not flowers!",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdklVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--522139e2fb60e7448c7effc665b32f841c1d1d0a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1074280088.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdklVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--522139e2fb60e7448c7effc665b32f841c1d1d0a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1074280088.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -312,7 +312,7 @@ export const AbortionarticlesTwo = [
       "What to do when sex hurts",
     subtitle: "Dyspareunia, or pain during sex, is more common than you might think",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGtWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a4b33ec04272adf37a3340d4a907017fe99f06ac/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Closed_Body-pillow_146A3631.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGtWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a4b33ec04272adf37a3340d4a907017fe99f06ac/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Closed_Body-pillow_146A3631.jpg",
     hasQuestionPattern: false,
   },
 ];

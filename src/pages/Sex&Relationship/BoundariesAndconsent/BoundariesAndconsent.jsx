@@ -14,7 +14,7 @@ const BoundariesAndconsent = () => {
       <div className="relative rounded-lg overflow-hidden min-h-[400px] md:min-h-[600px] flex flex-col justify-center items-center p-8">
         {/* Background image with brightness filter */}
         <img
-          src="https://www.bedsider.org/assets/mobile/welcome/mobi-frisky-fridays-header-02f09eeeef1fb49fd2f2f3f33860e673b2d99ed93b89ef5453c089443f69442b.jpg"
+          src="https://www.Bedsiderr.org/assets/mobile/welcome/mobi-frisky-fridays-header-02f09eeeef1fb49fd2f2f3f33860e673b2d99ed93b89ef5453c089443f69442b.jpg"
           alt=""
           className="absolute inset-0 w-full h-full object-cover filter brightness-70"
         />

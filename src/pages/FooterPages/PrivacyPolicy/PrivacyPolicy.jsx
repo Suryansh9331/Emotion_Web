@@ -11,7 +11,7 @@ export default function PrivacyPolicy() {
         {/* Introduction */}
         <div className="space-y-4">
           <p className="text-gray-700 leading-relaxed">
-            Welcome to Bedsider.org and the Bedsider network (collectively, "Bedsider"). Bedsider is operated by Power
+            Welcome to Bedsiderr.org and the Bedsiderr network (collectively, "Bedsiderr"). Bedsiderr is operated by Power
             to Decide, the campaign to prevent unplanned pregnancy ("Power to Decide," "we," or "us"). This privacy
             policy also applies to AbortionFinder.org.
           </p>
@@ -25,9 +25,9 @@ export default function PrivacyPolicy() {
             <div>
               <h3 className="font-bold text-gray-900 mb-2">Personal Information.</h3>
               <p className="text-gray-700 leading-relaxed">
-                We may collect and store any information that you choose to enter through Bedsider. This includes
+                We may collect and store any information that you choose to enter through Bedsiderr. This includes
                 personal information, such as your name, e-mail address, telephone number, zip code, and date of birth,
-                and other information (personal and non-personal) about you that you may submit through Bedsider,
+                and other information (personal and non-personal) about you that you may submit through Bedsiderr,
                 including through any content that you provide. We may require that you provide some personal
                 information in order to participate in certain features we offer. In some cases, we may combine this
                 information with personal information we have collected about you from other sources.
@@ -37,9 +37,9 @@ export default function PrivacyPolicy() {
             <div>
               <h3 className="font-bold text-gray-900 mb-2">Automatic Information.</h3>
               <p className="text-gray-700 leading-relaxed">
-                We may automatically collect some information about your computer when you visit Bedsider.org or
+                We may automatically collect some information about your computer when you visit Bedsiderr.org or
                 AbortionFinder.org. For example, we may collect your IP address, Web browser software (such as Internet
-                Explorer), and referring web site. We also may collect information about your activity on Bedsider or
+                Explorer), and referring web site. We also may collect information about your activity on Bedsiderr or
                 AbortionFinder.org. We may combine this automatically-gathered information with other information,
                 including personal information we have collected about you. Without this information, we are not able to
                 provide you with all the requested services, and any differences in services are related to your
@@ -51,9 +51,9 @@ export default function PrivacyPolicy() {
             <div>
               <h3 className="font-bold text-gray-900 mb-2">Cookies.</h3>
               <p className="text-gray-700 leading-relaxed">
-                When you visit Bedsider or AbortionFinder.org, we may assign your computer a "cookie" (a small, unique
+                When you visit Bedsiderr or AbortionFinder.org, we may assign your computer a "cookie" (a small, unique
                 identifier text file) to remember who you are. We also may include other information in our cookie
-                files; for example, if you arrived at Bedsider via a link from a third-party site, we may include the
+                files; for example, if you arrived at Bedsiderr via a link from a third-party site, we may include the
                 URL of the linking page. In addition, we collect gender, age, and interest information from 3rd parties
                 using Google Analytics. We may combine the information we collect through cookies with other
                 information, including personal information we have gathered about your visit in aggregate to improve
@@ -75,7 +75,7 @@ export default function PrivacyPolicy() {
             <li>Responding to your questions and comments;</li>
             <li>
               Providing you with information, including advertising, about selected products and services offered by
-              Bedsider or others that may be of interest to you;
+              Bedsiderr or others that may be of interest to you;
             </li>
             <li>Facilitating communications between you, your friends, and other users;</li>
             <li>Soliciting information and feedback from you, including through surveys and questionnaires;</li>
@@ -100,7 +100,7 @@ export default function PrivacyPolicy() {
               that these third parties limit their use of your personal information to providing the service for which
               the information was shared;
             </li>
-            <li>To affiliates within the Bedsider and Power to Decide family;</li>
+            <li>To affiliates within the Bedsiderr and Power to Decide family;</li>
             <li>
               To respond to subpoenas, court orders, legal process, law enforcement requests, legal claims or government
               inquiries, and to protect and defend the rights, interests, safety, and security of Power to Decide, our
@@ -124,9 +124,9 @@ export default function PrivacyPolicy() {
           </ul>
           <p className="text-gray-700 leading-relaxed">
             Power to Decide does not, and will not without consent, sell your information to third parties. Power to
-            Decide does permit third parties to collect the information described above through Bedsider and discloses
+            Decide does permit third parties to collect the information described above through Bedsiderr and discloses
             such information with third parties for business purposes as described in this Privacy Policy, including but
-            not limited to providing advertising on Bedsider and elsewhere based on users' online activities over time
+            not limited to providing advertising on Bedsiderr and elsewhere based on users' online activities over time
             and across different sites, services, and devices (so-called "interest-based advertising"). The information
             practices of these third parties are not covered by this Privacy Policy.
           </p>
@@ -136,16 +136,16 @@ export default function PrivacyPolicy() {
         <section className="space-y-6">
           <h2 className="text-xl font-bold text-gray-900">Your Rights and Choices</h2>
           <p className="text-gray-700 leading-relaxed">
-            You can access, delete or update the personal information you have provided on Bedsider.org by contacting us
+            You can access, delete or update the personal information you have provided on Bedsiderr.org by contacting us
             at
-            <a href="mailto:info@bedsider.org" className="text-blue-600 hover:text-blue-800 underline">
-              info@bedsider.org
+            <a href="mailto:info@Bedsiderr.org" className="text-blue-600 hover:text-blue-800 underline">
+              info@Bedsiderr.org
             </a>
             .
           </p>
           <p className="text-gray-700 leading-relaxed">
             Website visitors who don't want their visit data reported by Google Analytics can install the Google
-            Analytics opt-out browser add-on. This add-on instructs the Google Analytics JavaScript running on Bedsider
+            Analytics opt-out browser add-on. This add-on instructs the Google Analytics JavaScript running on Bedsiderr
             (and other websites) to prohibit sending visit information to Google Analytics.
           </p>
           <p className="text-gray-700 leading-relaxed">
@@ -194,7 +194,7 @@ export default function PrivacyPolicy() {
         <section className="space-y-6">
           <h2 className="text-xl font-bold text-gray-900">External links</h2>
           <p className="text-gray-700 leading-relaxed">
-            If any part of Bedsider.org links you to other websites, those websites do not operate under this Privacy
+            If any part of Bedsiderr.org links you to other websites, those websites do not operate under this Privacy
             Policy. We recommend that you examine the privacy statements posted on those other sites to understand their
             procedures for collecting, using, and disclosing personal information.
           </p>
@@ -206,7 +206,7 @@ export default function PrivacyPolicy() {
           <p className="text-gray-700 leading-relaxed">
             We may update this Privacy Policy in the future. In the event that you provided an email address to use for
             account creation, we will notify you about material changes to this Privacy Policy by sending a notice to
-            the e-mail address you provided to us or by placing a prominent notice on Bedsider.org.
+            the e-mail address you provided to us or by placing a prominent notice on Bedsiderr.org.
           </p>
         </section>
 
@@ -218,8 +218,8 @@ export default function PrivacyPolicy() {
           </p>
           <div className="bg-gray-50 p-4 rounded-lg">
             <p className="text-gray-700">
-              <a href="mailto:info@bedsider.org" className="text-blue-600 hover:text-blue-800 underline">
-                info@bedsider.org
+              <a href="mailto:info@Bedsiderr.org" className="text-blue-600 hover:text-blue-800 underline">
+                info@Bedsiderr.org
               </a>
             </p>
             <p className="text-gray-700 mt-2">or by mail at:</p>

@@ -55,7 +55,7 @@
 // // // // // // //         <div className="text-sm">
 // // // // // // //           <span className="hidden sm:inline-block">Are you a provider? Visit </span>
 // // // // // // //           <a href="#" className="font-medium text-[#333] hover:underline inline-flex items-center">
-// // // // // // //             Bedsider Providers
+// // // // // // //             Bedsiderr Providers
 // // // // // // //             <ExternalLink className="ml-1 h-3 w-3" />
 // // // // // // //           </a>
 // // // // // // //         </div>
@@ -79,7 +79,7 @@
 // // // // // // //     <div className="flex justify-center py-4">
 // // // // // // //       <a href="#" className="flex flex-col items-center">
 // // // // // // //         <div className="text-[#333333] text-4xl md:text-5xl font-bold tracking-wider">
-// // // // // // //           BEDSIDER
+// // // // // // //           Bedsiderr
 // // // // // // //         </div>
 // // // // // // //         <div className="text-gray-500 text-sm italic mt-1">
 // // // // // // //           We've got you covered
@@ -328,7 +328,7 @@
 // // // // // //           <div className="text-sm">
 // // // // // //             <span className="hidden sm:inline-block">Are you a provider? Visit </span>
 // // // // // //             <a href="#" className="font-medium text-[#333] hover:underline inline-flex items-center">
-// // // // // //               Bedsider Providers
+// // // // // //               Bedsiderr Providers
 // // // // // //               <ExternalLink className="ml-1 h-3 w-3" />
 // // // // // //             </a>
 // // // // // //           </div>
@@ -353,7 +353,7 @@
 // // // // // //     <div className="flex justify-center py-8">
 // // // // // //       <a href="#" className="flex flex-col items-center">
 // // // // // //         <div className="text-[#333333] text-6xl font-bold tracking-wider">
-// // // // // //           BEDSIDER
+// // // // // //           Bedsiderr
 // // // // // //         </div>
 // // // // // //         <div className="text-gray-500 text-sm italic mt-2">
 // // // // // //           We've got you covered
@@ -604,7 +604,7 @@
 // // // // //           <div className="text-sm">
 // // // // //             <span className="hidden sm:inline-block">Are you a provider?  Visit </span>
 // // // // //             <a href="#" className="font-medium text-[#333] hover:underline inline-flex items-center ml-2">
-// // // // //               Bedsider Providers
+// // // // //               Bedsiderr Providers
 // // // // //               <ExternalLink className="ml-1 h-3 w-3" />
 // // // // //             </a>
 // // // // //           </div>
@@ -629,7 +629,7 @@
 // // // // //     <div className="flex justify-center py-8">
 // // // // //       <a href="#" className="flex flex-col items-center">
 // // // // //         <div className="text-[#333333] text-6xl font-bold tracking-wider">
-// // // // //           BEDSIDER
+// // // // //           Bedsiderr
 // // // // //         </div>
 // // // // //         <div className="text-gray-500 text-sm italic mt-2">
 // // // // //           We've got you covered
@@ -895,7 +895,7 @@
 // // // //           <div className="text-sm">
 // // // //             <span className="hidden sm:inline-block">Are you a provider? Visit </span>
 // // // //             <a href="#" className="font-medium text-[#333] hover:underline inline-flex items-center">
-// // // //               Bedsider Providers
+// // // //               Bedsiderr Providers
 // // // //               <ExternalLink className="ml-1 h-3 w-3" />
 // // // //             </a>
 // // // //           </div>
@@ -920,7 +920,7 @@
 // // // //     <div className="flex justify-center py-8">
 // // // //       <a href="#" className="flex flex-col items-center">
 // // // //         <div className="text-[#333333] text-6xl font-bold tracking-wider">
-// // // //           BEDSIDER
+// // // //           Bedsiderr
 // // // //         </div>
 // // // //         <div className="text-gray-500 text-sm italic mt-2">
 // // // //           We've got you covered
@@ -1348,7 +1348,7 @@
 // // //           <div className="text-sm">
 // // //             <span className="hidden sm:inline-block">Are you a provider? Visit </span>
 // // //             <a href="#" className="font-medium text-[#333] hover:underline inline-flex items-center">
-// // //               Bedsider Providers
+// // //               Bedsiderr Providers
 // // //               <ExternalLink className="ml-1 h-3 w-3" />
 // // //             </a>
 // // //           </div>
@@ -1373,7 +1373,7 @@
 // // //     <div className="flex justify-center py-8">
 // // //       <a href="#" className="flex flex-col items-center">
 // // //         <div className="text-[#333333] text-6xl font-bold tracking-wider">
-// // //           BEDSIDER
+// // //           Bedsiderr
 // // //         </div>
 // // //         <div className="text-gray-500 text-sm italic mt-2">
 // // //           We've got you covered
@@ -1773,7 +1773,7 @@
 // //           <div className="text-sm">
 // //             <span className="hidden sm:inline-block">Are you a provider? Visit </span>
 // //             <a href="#" className="font-medium text-[#333] hover:underline inline-flex items-center">
-// //               Bedsider Providers
+// //               Bedsiderr Providers
 // //               <ExternalLink className="ml-1 h-3 w-3" />
 // //             </a>
 // //           </div>
@@ -1798,7 +1798,7 @@
 // //     <div className="flex justify-center py-6 lg:py-8">
 // //       <a href="#" className="flex flex-col items-center">
 // //         <div className="text-[#333333] text-4xl md:text-5xl lg:text-6xl font-bold tracking-wider">
-// //           BEDSIDER
+// //           Bedsiderr
 // //         </div>
 // //         <div className="text-gray-500 text-sm italic mt-1 lg:mt-2">
 // //           We've got you covered
@@ -2189,7 +2189,7 @@
 //           <div className="text-sm">
 //             <span className="hidden sm:inline-block">Are you a provider? Visit </span>
 //             <a href="#" className="font-medium text-[#333] hover:underline inline-flex items-center">
-//               Bedsider Providers
+//               Bedsiderr Providers
 //               <ExternalLink className="ml-1 h-3 w-3" />
 //             </a>
 //           </div>
@@ -2214,7 +2214,7 @@
 //     <div className="flex justify-center py-6 lg:py-8">
 //       <a href="#" className="flex flex-col items-center">
 //         <div className="text-[#333333] text-4xl md:text-5xl lg:text-6xl font-bold tracking-wider">
-//           BEDSIDER
+//           Bedsiderr
 //         </div>
 //         <div className="text-gray-500 text-sm italic mt-1 lg:mt-2">
 //           We've got you covered
@@ -2630,7 +2630,7 @@
 //         <div>
 //           <span className="hidden sm:inline">Are you a provider? Visit </span>
 //           <a href="#" className="font-medium text-[#333] hover:underline inline-flex items-center">
-//             Bedsider Providers <ExternalLink className="ml-1 h-3 w-3"/>
+//             Bedsiderr Providers <ExternalLink className="ml-1 h-3 w-3"/>
 //           </a>
 //         </div>
 //         <div className="flex items-center space-x-4">
@@ -2929,7 +2929,7 @@
 //           <div className="text-sm">
 //             <span className="hidden sm:inline-block">Are you a provider? Visit </span>
 //             <a href="#" className="font-medium text-[#333] hover:underline inline-flex items-center">
-//               Bedsider Providers
+//               Bedsiderr Providers
 //               <ExternalLink className="ml-1 h-3 w-3" />
 //             </a>
 //           </div>
@@ -2954,7 +2954,7 @@
 //     <div className="flex justify-center py-8">
 //       <a href="#" className="flex flex-col items-center">
 //         <div className="text-[#333333] text-6xl font-bold tracking-wider">
-//           BEDSIDER
+//           Bedsiderr
 //         </div>
 //         <div className="text-gray-500 text-sm italic mt-2">
 //           We've got you covered
@@ -3294,7 +3294,7 @@
 //         <div className="text-sm">
 //           <span className="hidden sm:inline-block">Are you a provider? Visit </span>
 //           <Link to="/providers" className="font-medium text-[#333] hover:underline inline-flex items-center">
-//             Bedsider Providers
+//             Bedsiderr Providers
 //             <ExternalLink className="ml-1 h-3 w-3" />
 //           </Link>
 //         </div>
@@ -3313,7 +3313,7 @@
 //   const MainLogo = () => (
 //     <div className="flex justify-center py-8">
 //       <Link to="/" className="flex flex-col items-center">
-//         <div className="text-[#333333] text-6xl font-bold tracking-wider">BEDSIDER</div>
+//         <div className="text-[#333333] text-6xl font-bold tracking-wider">Bedsiderr</div>
 //         <div className="text-gray-500 text-sm italic mt-2">We&apos;ve got you covered</div>
 //       </Link>
 //     </div>
@@ -3559,7 +3559,7 @@ const Navbar = () => {
           label: "Explore birth control options",
           to: "/birth-control-option",
         },
-        // { label: " ", to: "/birth-control/compare" },
+      
         { label: "How to get birth control", to: "/birth-control/how-to-get-birth-control" },
         { label: "Birth control articles", to: "/birth-control/articles" },
         { label: "Birth control reviews", to: "/birth-control/reviews" },
@@ -3665,11 +3665,11 @@ const Navbar = () => {
             Are you a provider? Visit{" "}
           </span>
           <Link
-            to="/providers"
+            to="/contact"
             className="font-medium text-[#333] hover:underline inline-flex items-center text-sm sm:text-base"
           >
             <span className="sm:hidden">Providers</span>
-            <span className="hidden sm:inline">Bedsider Providers</span>
+            <span className="hidden sm:inline">Bedsiderr Providers</span>
             <ExternalLink className="ml-1 h-3 w-3" />
           </Link>
         </div>
@@ -3702,7 +3702,7 @@ const Navbar = () => {
     <div className="flex justify-center py-6">
       <Link to="/" className="flex flex-col items-center text-center">
         <div className="text-[#333333] text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold tracking-wide leading-tight">
-          BEDSIDER
+          Bedsiderr
         </div>
         <div className="text-gray-500 text-xs sm:text-sm italic mt-1">
           We&apos;ve got you covered

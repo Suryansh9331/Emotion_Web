@@ -9,7 +9,7 @@
 // //       <header className="bg-gray-100 py-4">
 // //         <div className="container mx-auto px-4 flex justify-between items-center">
 // //           <div className="flex items-center">
-// //             <h1 className="text-2xl md:text-3xl font-bold text-gray-800">BEDSIDER</h1>
+// //             <h1 className="text-2xl md:text-3xl font-bold text-gray-800">Bedsiderr</h1>
 // //             <p className="text-sm text-gray-600 ml-2 hidden sm:block">We've got you covered</p>
 // //           </div>
 
@@ -131,7 +131,7 @@
 // //               <ul className="space-y-2">
 // //                 <li>
 // //                   <Link to="#" className="hover:underline">
-// //                     About Bedsider
+// //                     About Bedsiderr
 // //                   </Link>
 // //                 </li>
 // //                 <li>
@@ -159,7 +159,7 @@
 // //             </p>
 // //             <div className="flex flex-wrap gap-4 justify-center md:justify-end">
 // //               <Link to="#" className="text-sm text-gray-700 hover:underline flex items-center">
-// //                 Bedsider Providers <ExternalLink size={14} className="ml-1" />
+// //                 Bedsiderr Providers <ExternalLink size={14} className="ml-1" />
 // //               </Link>
 // //               <Link to="#" className="text-sm text-gray-700 hover:underline">
 // //                 Terms of use
@@ -210,7 +210,7 @@
 //           {/* Logo */}
 //           <div className="flex items-center">
 //             <div className="text-2xl font-bold text-gray-800">
-//               BEDSIDER
+//               Bedsiderr
 //               <div className="text-xs text-gray-500 font-normal italic">
 //                 We've got you covered
 //               </div>
@@ -352,7 +352,7 @@
 //               <ul className="space-y-3">
 //                 <li>
 //                   <a href="#" className="text-gray-300 hover:text-white transition-colors duration-200">
-//                     About Bedsider
+//                     About Bedsiderr
 //                   </a>
 //                 </li>
 //                 <li>
@@ -387,7 +387,7 @@
 //                 href="#"
 //                 className="text-gray-700 hover:text-gray-900 transition-colors duration-200 flex items-center gap-1"
 //               >
-//                 Bedsider Providers
+//                 Bedsiderr Providers
 //                 <ExternalLink size={14} />
 //               </a>
 //               <a href="#" className="text-gray-700 hover:text-gray-900 transition-colors duration-200">
@@ -435,7 +435,7 @@ const Footer = () => {
           {/* Logo */}
           <div className="flex items-center">
             <div className="text-2xl font-bold text-gray-800">
-              BEDSIDER
+              Bedsiderr
               <div className="text-xs text-gray-500 font-normal italic">
                 We've got you covered
               </div>
@@ -576,7 +576,7 @@ const Footer = () => {
               <ul className="space-y-3">
                 <li>
                   <Link to="/about-us" className="text-gray-300 hover:text-white transition-colors duration-200">
-                    About Bedsider
+                    About Bedsiderr
                   </Link>
                 </li>
                 <li>
@@ -611,7 +611,7 @@ const Footer = () => {
                 to="#" 
                 className="text-gray-700 hover:text-gray-900 transition-colors duration-200 flex items-center gap-1"
               >
-                Bedsider Providers
+                Bedsiderr Providers
                 <ExternalLink size={14} />
               </a> */}
               <Link to="/termOfUse" className="text-gray-700 hover:text-gray-900 transition-colors duration-200">

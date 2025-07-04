@@ -5,7 +5,7 @@ export const Inspirationarticles = [
     title: "10 songs for your music festival playlist",
       subtitle: "Fun? Flirting? Music? Oh, it’s *so* festival season!",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2xzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4df7f55d212726f43a206fe461257c20fc5113f4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-671712039.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2xzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4df7f55d212726f43a206fe461257c20fc5113f4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-671712039.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -15,7 +15,7 @@ export const Inspirationarticles = [
       "Ready to kick off your spring?",
         subtitle: "Five of our favorite articles to help you embrace the new season",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbnBzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3e21cde845ff4c522e18cc2e5b4d9ca3be262cb1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Woman%20with%20sunflower%202.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbnBzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3e21cde845ff4c522e18cc2e5b4d9ca3be262cb1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Woman%20with%20sunflower%202.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -24,7 +24,7 @@ export const Inspirationarticles = [
     title: "10 love songs for your Valentine's playlist",
     subtitle: "Songs that make you swoon",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdU5yIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e835d34619dff5d698023fb67db0807b6b6addf6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/love%20song%20playlist%20.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdU5yIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e835d34619dff5d698023fb67db0807b6b6addf6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/love%20song%20playlist%20.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -33,7 +33,7 @@ export const Inspirationarticles = [
     title: "3 ways to level up your successes in 2025",
     subtitle:
       "New year, same you! In a higher resolution",
-    image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3hyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--411c623fc9b41fe4b4fd30be26894d80d86b54e8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/level%20up%202025.jpg",
+    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3hyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--411c623fc9b41fe4b4fd30be26894d80d86b54e8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/level%20up%202025.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -41,7 +41,7 @@ export const Inspirationarticles = [
     category: "Inspiration",
     title: "3 ways you and your partner can make cabin fever even hotter",
     subtitle: "It’s time to get creative, babes",
-    image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2hyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0b28ef871c6445e7d77ae9544bdd23a338a1adbd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/couple%20at%20cabin%20kissing.jpg",
+    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2hyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0b28ef871c6445e7d77ae9544bdd23a338a1adbd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/couple%20at%20cabin%20kissing.jpg",
     hasQuestionPattern: false,
   },
   
@@ -65,12 +65,12 @@ export const InspirationarticleContents = {
   author: "Apr 18, 2025",
   date: "",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2xzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4df7f55d212726f43a206fe461257c20fc5113f4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-671712039.jpg",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2xzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4df7f55d212726f43a206fe461257c20fc5113f4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-671712039.jpg",
   showSocialIcons: true,
   content: `<b>10 songs for your music festival playlist</b><br>
 <i>Fun? Flirting? Music? Oh, it’s <u>so</u> festival season!</i><br><br>
 
-Whether you’re gearing up for a day of fun in the sun at a festival like Coachella, or getting ready for a night out on the town, we’ve got a playlist that’s perfect for a little flirting under the sun or stars. You can also listen to the playlist on Bedsider’s Spotify account!<br><br>
+Whether you’re gearing up for a day of fun in the sun at a festival like Coachella, or getting ready for a night out on the town, we’ve got a playlist that’s perfect for a little flirting under the sun or stars. You can also listen to the playlist on Bedsiderr’s Spotify account!<br><br>
 
 <b>1. “Abracadabra” by Lady Gaga</b><br>
 “Hold me in your heart tonight, in the magic of the dark moonlight.”<br>
@@ -134,7 +134,7 @@ For more tips on enjoying festival season safely, check out our <a href="#">fest
   author: "",
   date: "Apr 04, 2025",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbnBzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3e21cde845ff4c522e18cc2e5b4d9ca3be262cb1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Woman%20with%20sunflower%202.jpg",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbnBzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3e21cde845ff4c522e18cc2e5b4d9ca3be262cb1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Woman%20with%20sunflower%202.jpg",
   showSocialIcons: true,
   content: `<b>Ready to kick off your spring?</b><br>
 <i>Five of our favorite articles to help you embrace the new season</i><br><br>
@@ -164,12 +164,12 @@ April 22nd is Earth Day, and we’re here to inspire you to plan a special date 
   author: "",
   date: "Feb 14, 2025",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdU5yIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e835d34619dff5d698023fb67db0807b6b6addf6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/love%20song%20playlist%20.jpg",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdU5yIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e835d34619dff5d698023fb67db0807b6b6addf6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/love%20song%20playlist%20.jpg",
   showSocialIcons: true,
   content: `<b>10 love songs for your Valentine's playlist</b><br>
 <i>Songs that make you swoon</i><br><br>
 
-It’s Valentine’s Day, the most romantic day of the year! Here are 10 swoon-worthy love songs for your playlist. You can also listen to them on Bedsider’s Spotify or YouTube channel!<br><br>
+It’s Valentine’s Day, the most romantic day of the year! Here are 10 swoon-worthy love songs for your playlist. You can also listen to them on Bedsiderr’s Spotify or YouTube channel!<br><br>
 
 <b>1. “See You Again (feat. Kali Uchis)” by Tyler, The Creator</b><br>
 “I wonder if you look both ways when you cross my mind.”<br>
@@ -229,7 +229,7 @@ A 1950s-style ballad about spending life’s final moments together.<br>
   author: "",
   date: "Jan 24, 2025",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3hyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--411c623fc9b41fe4b4fd30be26894d80d86b54e8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/level%20up%202025.jpg",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3hyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--411c623fc9b41fe4b4fd30be26894d80d86b54e8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/level%20up%202025.jpg",
   showSocialIcons: true,
   content: `<b>3 ways to level up your successes in 2025</b><br>
 <i>New year, same you! In a higher resolution</i><br><br>
@@ -262,7 +262,7 @@ Of course, there might be other things about 2024 that you wouldn’t mind conti
   author: "",
   date: "Jan 17, 2025",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2hyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0b28ef871c6445e7d77ae9544bdd23a338a1adbd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/couple%20at%20cabin%20kissing.jpg",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2hyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0b28ef871c6445e7d77ae9544bdd23a338a1adbd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/couple%20at%20cabin%20kissing.jpg",
   showSocialIcons: true,
   content: `<b>3 ways you and your partner can make cabin fever even hotter</b><br>
 <i>It’s time to get creative, babes</i><br><br>
@@ -330,7 +330,7 @@ export const InspirationarticlesTwo = [
         subtitle: "It's a lot!",
 
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcTVvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c90c448aa87da364dd833111194c851e81a0dbfa/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1254527459.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcTVvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c90c448aa87da364dd833111194c851e81a0dbfa/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1254527459.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -340,7 +340,7 @@ export const InspirationarticlesTwo = [
         subtitle: "Get ready for the Pink Pony Club",
 
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBblZvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e4b1f975de7f2674feceecb0c7e3f4d7a4af3e9f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/club.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBblZvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e4b1f975de7f2674feceecb0c7e3f4d7a4af3e9f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/club.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -349,7 +349,7 @@ export const InspirationarticlesTwo = [
     title: "An introvert's guide to going out",
     subtitle: "It's okay to be a wallflower",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUpvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ba1a377611f88cd755ccc43a2a0133f8664ff4d2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/introvert's%20guide.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUpvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ba1a377611f88cd755ccc43a2a0133f8664ff4d2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/introvert's%20guide.jpg",
     hasQuestionPattern: false,
   },
   
@@ -358,7 +358,7 @@ export const InspirationarticlesTwo = [
     category: " Inspiration",
     title: "5 things to do for Pride besides partying",
     subtitle: "Parties and parades aren’t the only way to celebrate",
-    image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1JvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--92bb042d98ef262b9af44e00af41edb67811c8d8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Gay%20hands.jpg",
+    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1JvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--92bb042d98ef262b9af44e00af41edb67811c8d8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Gay%20hands.jpg",
     hasQuestionPattern: false,
   },
 {
@@ -367,7 +367,7 @@ export const InspirationarticlesTwo = [
     title: "Summer, here we come!",
     subtitle:
       "It's never too early to start celebrating the sexiest season",
-    image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakZvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--70d05472def1031e2e20a64697739125f05438e3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1640093094.jpg",
+    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakZvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--70d05472def1031e2e20a64697739125f05438e3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1640093094.jpg",
     hasQuestionPattern: false,
   }
 ];
@@ -390,7 +390,7 @@ export const InspirationarticleContentsTwo = {
   author: "",
   date: "Aug 23, 2024",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcTVvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c90c448aa87da364dd833111194c851e81a0dbfa/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1254527459.jpg",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcTVvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c90c448aa87da364dd833111194c851e81a0dbfa/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1254527459.jpg",
   showSocialIcons: true,
   content: `Yep, it’s a lot like the American one, but these particular fools have British accents. Which does help a little to be honest. But the accents don’t stop things from getting REAL awkward on <i>Love Is Blind UK</i>. Here are the five absolute worst (aka best) moments:<br><br>
 
@@ -421,9 +421,9 @@ So, all in all, kind of boring.
     author: "",
     date: "Aug 02, 2024",
     updated: "",
-    image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBblZvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e4b1f975de7f2674feceecb0c7e3f4d7a4af3e9f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/club.jpg",
+    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBblZvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e4b1f975de7f2674feceecb0c7e3f4d7a4af3e9f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/club.jpg",
     showSocialIcons: true,
-    content: `2024 has seen a rise of Sapphic pop artists in the mainstream. From Chappell Roan to Amaarae, these musicians are loud, proud, and driving all the girls wild! Summer’s not over yet, so here’s 15 songs to ride out the rest of the season. You can listen to this playlist on Bedsider’s official Spotify account!<br><br>
+    content: `2024 has seen a rise of Sapphic pop artists in the mainstream. From Chappell Roan to Amaarae, these musicians are loud, proud, and driving all the girls wild! Summer’s not over yet, so here’s 15 songs to ride out the rest of the season. You can listen to this playlist on Bedsiderr’s official Spotify account!<br><br>
 
 <b>1. “LUNCH” by Billie Eilish</b><br>
 “It’s a craving, not a crush.”<br>
@@ -510,7 +510,7 @@ Lucid shoots her shot in this dreamy, direct confession to a pretty girl.<br>
   author: "By Jordan Purcell ",
   date: "Jul 12, 2024",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUpvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ba1a377611f88cd755ccc43a2a0133f8664ff4d2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/introvert's%20guide.jpg",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUpvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ba1a377611f88cd755ccc43a2a0133f8664ff4d2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/introvert's%20guide.jpg",
   showSocialIcons: true,
   content: `Going out can be intimidating, especially when staying home in a teddy bear onesie and watching Netflix sounds really great. But variety is the spice of life! Getting out of your comfort zone and having new experiences can be a great way to meet new friends, find a new favorite spot, or simply have an occasion to put on a cute outfit. Whether you’re hanging out with friends or flying solo, here are some tips for going out as an introvert.<br><br>
 
@@ -541,7 +541,7 @@ You got this!<br><br>
 
 <i>Written by Jordan Purcell</i><br><br>
 
-<i>Jordan Purcell (she/her) is the Digital Programs Coordinator for Bedsider. Jordan has a wealth of knowledge and experience in sexual and reproductive health. Jordan graduated from Vanderbilt University, where she worked as a peer sex educator and a student assistant for the Office of LGBTQI Life. Jordan previously worked for the Florida Adolescent/Young Adult Sexual Health Network, where she created sexual health education content for LGBTQ+ youth in Florida.</i>
+<i>Jordan Purcell (she/her) is the Digital Programs Coordinator for Bedsiderr. Jordan has a wealth of knowledge and experience in sexual and reproductive health. Jordan graduated from Vanderbilt University, where she worked as a peer sex educator and a student assistant for the Office of LGBTQI Life. Jordan previously worked for the Florida Adolescent/Young Adult Sexual Health Network, where she created sexual health education content for LGBTQ+ youth in Florida.</i>
 `
 }
 ,
@@ -552,7 +552,7 @@ You got this!<br><br>
   author: "By Jordan Purcell ",
   date: "Jun 07, 2024",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1JvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--92bb042d98ef262b9af44e00af41edb67811c8d8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Gay%20hands.jpg",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1JvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--92bb042d98ef262b9af44e00af41edb67811c8d8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Gay%20hands.jpg",
   showSocialIcons: true,
   content: `<b>Want to celebrate Pride but not really a party person?</b><br><br>
 Here are five ways to show your support for the LGBTQ+ community that don’t involve going to the club or dealing with huge crowds.<br><br>
@@ -597,7 +597,7 @@ With
   author: "",
   date: "May 24, 2024",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakZvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--70d05472def1031e2e20a64697739125f05438e3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1640093094.jpg",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakZvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--70d05472def1031e2e20a64697739125f05438e3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1640093094.jpg",
   showSocialIcons: true,
   content: `<b>While summer doesn’t technically start for another month, we consider Memorial Day its unofficial beginning.</b><br><br>
 And this year, we’re kicking off the season with a collection of some of our favorite articles about summer:<br><br>

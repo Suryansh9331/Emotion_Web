@@ -4,7 +4,7 @@ export const PFarticles = [
     category: "FAQs - Pregnancy & fertility",
     title: "What should I do if I have a pregnancy loss?",
     image:
-      "https://www.bedsider.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
+      "https://www.Bedsiderr.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
     hasQuestionPattern: false,
   },
   {
@@ -39,7 +39,7 @@ export const PFarticles = [
     category: "Pregnancy & fertility",
     title: "8 ways you can support your pregnant BFF",
     subtitle: "Get ready for your auntie era!",
-    image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUZyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--143983d250872da0d61eb4b8860edd4fe53dabf2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/8%20ways%20you%20can%20support%20your%20pregnant%20BFF.jpg",
+    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUZyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--143983d250872da0d61eb4b8860edd4fe53dabf2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/8%20ways%20you%20can%20support%20your%20pregnant%20BFF.jpg",
     hasQuestionPattern: false,
   },
   
@@ -81,7 +81,7 @@ Once you have had a miscarriage, it's possible to get pregnant again right away.
     date: "Mar 14, 2013",
     updated: "Updated: Jan 31, 2025",
     image:
-      "https://www.bedsider.org/assets/mobile/provider_perspectives_header-44b4f94e01ec610c3de2b52585ef601d43bb8196a7253ae8e24896c8838e380a.jpg",
+      "https://www.Bedsiderr.org/assets/mobile/provider_perspectives_header-44b4f94e01ec610c3de2b52585ef601d43bb8196a7253ae8e24896c8838e380a.jpg",
     showSocialIcons: true,
     content: `
 We got so many questions about pregnancy scares in the comments of the original “Um, can I get pregnant if…?” that we decided it was time for part 2.  
@@ -167,7 +167,7 @@ When not seeing patients, she enjoys cooking, playing guitar, and traveling with
     date: "Jan 28, 2011",
     updated: "Updated: Jan 31, 2025",
     image:
-      "https://www.bedsider.org/assets/mobile/provider_perspectives_header-44b4f94e01ec610c3de2b52585ef601d43bb8196a7253ae8e24896c8838e380a.jpg",
+      "https://www.Bedsiderr.org/assets/mobile/provider_perspectives_header-44b4f94e01ec610c3de2b52585ef601d43bb8196a7253ae8e24896c8838e380a.jpg",
     showSocialIcons: true,
     content: `
 Pregnancy scares: most people have one at some point. Even when you know how pregnancy happens, most textbooks don’t cover what specific sex acts could result in pregnancy.  
@@ -293,7 +293,7 @@ Outside of work, she enjoys cooking, playing guitar, and traveling with her fami
     date: "Jan 10, 2025",
     updated: "",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUZyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--143983d250872da0d61eb4b8860edd4fe53dabf2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/8%20ways%20you%20can%20support%20your%20pregnant%20BFF.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUZyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--143983d250872da0d61eb4b8860edd4fe53dabf2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/8%20ways%20you%20can%20support%20your%20pregnant%20BFF.jpg",
     showSocialIcons: true,
     content: `
 Congratulations! You just found out your bestie is pregnant and planning to parent, and that means you’re about to be an honorary auntie!  
@@ -418,7 +418,7 @@ export const PFarticlesTwo = [
     category: "Pregnancy & fertility",
     title: "How can I help? A doula’s tips for when someone you love is trying to get pregnant",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0pvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d037dd30813b0c6d5be720e3a36f194c97715cc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/TTC%20support.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0pvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d037dd30813b0c6d5be720e3a36f194c97715cc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/TTC%20support.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -474,7 +474,7 @@ export const PFarticleContentsTwo = {
     date: "Sep 11, 2024",
     updated: "",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0pvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d037dd30813b0c6d5be720e3a36f194c97715cc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/TTC%20support.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0pvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d037dd30813b0c6d5be720e3a36f194c97715cc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/TTC%20support.jpg",
     showSocialIcons: true,
     content: `
 When you're focused on trying to prevent pregnancy, it’s easy to overlook what it's like for someone who's trying to conceive (TTC).  
@@ -573,7 +573,7 @@ Outside of work, she loves restaurant-hopping, teaching dance, and snuggling wit
   author: "By Merrie Warden, MD, MPH ",
   date: "Feb 04, 2013",
   updated: "Updated: Sep 11, 2024",
-  image: "https://www.bedsider.org/assets/mobile/provider_perspectives_header-44b4f94e01ec610c3de2b52585ef601d43bb8196a7253ae8e24896c8838e380a.jpg",
+  image: "https://www.Bedsiderr.org/assets/mobile/provider_perspectives_header-44b4f94e01ec610c3de2b52585ef601d43bb8196a7253ae8e24896c8838e380a.jpg",
   showSocialIcons: true,
   content: `Pregnancy is possible any time sperm has a chance to meet up with an egg. That can happen if you’re having sex and not using birth control, including condoms, and sperm gets inside the vagina or onto the vulva, where it can then travel into the vagina. (Pregnancy can also happen if you’re using birth control, but it is much less likely.) Typically, pregnancy happens when someone with a penis ejaculates into the vagina or onto the vulva of another person. Ejaculation is when semen, a whitish fluid containing sperm, comes out of the penis.<br><br>
 
@@ -673,7 +673,7 @@ The good news is that you can’t get pregnant just from being in the water with
   author: "By : Tina Raine-Bennett, MD, MPH",
   date: "Apr 22, 2010",
   updated: "Updated: Apr 05, 2024",
-  image: "https://www.bedsider.org/assets/mobile/provider_perspectives_header-44b4f94e01ec610c3de2b52585ef601d43bb8196a7253ae8e24896c8838e380a.jpg",
+  image: "https://www.Bedsiderr.org/assets/mobile/provider_perspectives_header-44b4f94e01ec610c3de2b52585ef601d43bb8196a7253ae8e24896c8838e380a.jpg",
   showSocialIcons: true,
   content: `
 In the U.S., about three in four sexually active people under 30 who have a uterus are using some type of birth control. Many of them ask me, does using birth control now hurt my chances of getting pregnant in the future? Sigh of relief: it does not.<br><br>
@@ -682,7 +682,7 @@ All reversible birth control methods—the pill (prescription and OTC versions),
 
 Let’s look, for example, at how long it takes for people to get pregnant when they quit the pill compared to when they quit non-hormonal fertility awareness methods (FAM, sometimes called natural family planning). A big study of over 2,000 people who quit the pill after using it for an average of seven years found that 21% were pregnant in one month and 79% were pregnant in a year. Those who stopped using FAM had very similar rates of pregnancy, with 20–25% pregnant in one month and 80% pregnant in a year. In other words, people who quit the pill get pregnant just as fast as other women, even if they’ve used the pill for years.<br><br>
 
-<img src="https://www.bedsider.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamdLIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5d5e668e03a3e4319a27a2a05409d6783ac8441f/Percent_of_young_women_pregnant_over_time_by_the_birth_control_they_quit.jpg" alt="Pregnancy rate graph by method" style="width:100%; max-width:600px; display:block; margin:20px auto;"><br><br>
+<img src="https://www.Bedsiderr.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamdLIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5d5e668e03a3e4319a27a2a05409d6783ac8441f/Percent_of_young_women_pregnant_over_time_by_the_birth_control_they_quit.jpg" alt="Pregnancy rate graph by method" style="width:100%; max-width:600px; display:block; margin:20px auto;"><br><br>
 
 People who quit the patch, ring, or IUD get pregnant at similar rates. Contrary to popular myth, modern IUDs do not hurt your future fertility. For some people who stop using the implant or the shot (Depo-Provera), it can take a few extra months to start normal menstrual cycles again. There may be a delay of up to two months after stopping the implant and up to six months after stopping the shot, but this varies from person to person, and most people get pregnant soon after stopping these methods.<br><br>
 

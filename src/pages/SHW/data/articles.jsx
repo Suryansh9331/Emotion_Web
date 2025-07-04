@@ -4,7 +4,7 @@ export const articles = [
     category: "FAQS – SEXUALLY TRANSMITTED INFECTIONS (STDS, STIS)",
     title: "How do I get tested for STIs?",
     image:
-      "https://www.bedsider.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
+      "https://www.Bedsiderr.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
     hasQuetionPattern: false,
   },
   {
@@ -13,7 +13,7 @@ export const articles = [
     title:
       "If I'm using another method of birth control, do I still have to use condoms?",
     image:
-      "https://www.bedsider.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
+      "https://www.Bedsiderr.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
     hasQuestionPattern: false,
   },
   {
@@ -306,7 +306,7 @@ export const articleContents = {
   author: `By: Robin Watkins, CNM, WHNP-BC`,
   date: "Aug 30, 2022",
   updated: "Updated: Aug 21, 2024",
-  image: "https://www.bedsider.org/assets/mobile/provider_perspectives_header-44b4f94e01ec610c3de2b52585ef601d43bb8196a7253ae8e24896c8838e380a.jpg",
+  image: "https://www.Bedsiderr.org/assets/mobile/provider_perspectives_header-44b4f94e01ec610c3de2b52585ef601d43bb8196a7253ae8e24896c8838e380a.jpg",
   showSocialIcons: true,
   content: `You might remember back in 2022, when people around the world, including in the U.S., were diagnosed with infections from mpox, previously called monkeypox. Mpox is back in the news in 2024.<br/><br/>
 
@@ -381,7 +381,7 @@ When she is not talking sex, placing IUDs, or asking One Key Question, you can f
     author: "By : Emma McGowan ",
     date: "Feb 28, 2023",
     updated: "",
-    image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcEpnIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5c17e55e9723c3a712e1c1e21a5c61e8d8ca16d8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1256087897.jpg",
+    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcEpnIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5c17e55e9723c3a712e1c1e21a5c61e8d8ca16d8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1256087897.jpg",
     showSocialIcons: true,
     content: `Ah, chlamydia! It’s such a pretty-sounding name—like a type of orchid or maybe a Greek goddess—for a not-very-nice infection. Chlamydia is the most common bacterial sexually transmitted infection (STI), with an estimated 2.86 million infections per year according to the CDC. It’s especially common in people under the age of 25, people with vaginas, and people with penises who have sex with other people with penises.<br/><br/>
 
@@ -421,7 +421,7 @@ Emma McGowan is a veteran blogger who writes about startups and sex. She’s Bus
   author: "By: Britanny Burr",
   date: "Oct 14, 2022",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3RjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--591f19eeb49ae14f4b92435cd624ab8485d47f7a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1312297068.jpg",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3RjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--591f19eeb49ae14f4b92435cd624ab8485d47f7a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1312297068.jpg",
   showSocialIcons: true,
   content: `
 Are you splashing around in the dating pool right now? Whether you’re looking for longer-term connections or exploring physical relationships with new sexual partners, there’s so much fun to be had. But with the excitement of the new and mysterious come the complexities of the new and mysterious.<br/><br/>
@@ -510,7 +510,7 @@ export const articlesTwo = [
     category: "FAQS – SEXUALLY TRANSMITTED INFECTIONS (STDS, STIS)",
     title: "Can I tell if someone else has an STI?",
     image:
-      "https://www.bedsider.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
+      "https://www.Bedsiderr.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
     hasQuestionPattern: false,
   },
   {
@@ -518,7 +518,7 @@ export const articlesTwo = [
     category: "FAQS – SEXUALLY TRANSMITTED INFECTIONS (STDS, STIS)",
     title: "How common are STLs?",
     image:
-      "https://www.bedsider.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
+      "https://www.Bedsiderr.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
     hasQuestionPattern: false,
   },
   {
@@ -527,7 +527,7 @@ export const articlesTwo = [
     title: "What's the difference between STIs and STDs?",
     subtitle: "Don't panic, just get the facts",
     image:
-      "https://www.bedsider.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
+      "https://www.Bedsiderr.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
     hasQuestionPattern: false,
   },
   {
@@ -536,7 +536,7 @@ export const articlesTwo = [
     title: "Herpes: What it is,how it's spread, and how to manage it",
     subtitle:
       "It's common to have no symptoms, but if left untreated, it can be serious",
-    image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa01rIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--87847a2524cc248dfe7ce9f308102085cbbbda75/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/at%20ease%20bed_01.jpg",
+    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa01rIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--87847a2524cc248dfe7ce9f308102085cbbbda75/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/at%20ease%20bed_01.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -544,7 +544,7 @@ export const articlesTwo = [
     category: "SEXUALLY TRANSMITTED INFECTIONS (STDS, STIS)",
     title: "What does it really mean to be diagnosed with HPV?",
     subtitle: "We promise, it doesn't have to be awkward",
-    image: "https://www.bedsider.org/assets/mobile/provider_perspectives_header-44b4f94e01ec610c3de2b52585ef601d43bb8196a7253ae8e24896c8838e380a.jpg",
+    image: "https://www.Bedsiderr.org/assets/mobile/provider_perspectives_header-44b4f94e01ec610c3de2b52585ef601d43bb8196a7253ae8e24896c8838e380a.jpg",
     hasQuestionPattern: false,
   },
 ];
@@ -752,7 +752,7 @@ To protect yourself from STIs, use condoms or internal condoms, get tested regul
   author: " By : Emma McGowan ",
   date: "Jun 08, 2021",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa01rIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--87847a2524cc248dfe7ce9f308102085cbbbda75/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/at%20ease%20bed_01.jpg",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa01rIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--87847a2524cc248dfe7ce9f308102085cbbbda75/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/at%20ease%20bed_01.jpg",
   showSocialIcons: true,
  content: `Of all the STIs, herpes might be the most misunderstood. From dire warnings and photos of serious infections in high school sex ed to jokes made on sitcoms to passing comments from friends, we’re constantly getting the message that getting herpes is the worst thing that could ever happen to a person. But that’s more about STI stigma than it is about the reality of living with herpes.<br/><br/>
 
@@ -814,7 +814,7 @@ Emma McGowan is a veteran blogger who writes about startups and sex... Her hobbi
     author: "By : Talitha L. Bruney, MD",
     date: "Jan 28, 2021",
     updated: "",
-    image: "https://www.bedsider.org/assets/mobile/provider_perspectives_header-44b4f94e01ec610c3de2b52585ef601d43bb8196a7253ae8e24896c8838e380a.jpg",
+    image: "https://www.Bedsiderr.org/assets/mobile/provider_perspectives_header-44b4f94e01ec610c3de2b52585ef601d43bb8196a7253ae8e24896c8838e380a.jpg",
     showSocialIcons: true,
    content: `It seems like everybody’s talking about human papillomavirus (HPV) these days. From flyers in your health care provider’s office to ads in subway cars, information about HPV is everywhere. And that’s a good thing because HPV is one of the most common sexually transmitted infections (STIs) out there. In fact, the CDC reports that almost everyone who is sexually active will get HPV in their lifetime unless they are vaccinated.<br><br>
 

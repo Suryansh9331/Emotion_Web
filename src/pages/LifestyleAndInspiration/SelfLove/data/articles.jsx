@@ -5,7 +5,7 @@ export const SelfLovearticles = [
     title: "5 things you can do to stop scrolling",
       subtitle: "For when “touching grass” won’t work",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWhyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0504b61361044e0f7a11b7737773682a4dcf2f01/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/phone%20on%20table.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWhyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0504b61361044e0f7a11b7737773682a4dcf2f01/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/phone%20on%20table.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -15,7 +15,7 @@ export const SelfLovearticles = [
       "Yes, fat people can expect to be sexually celebrated, worshiped & adored",
         subtitle: "How body positivity changed my view of what I deserve",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1ZwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--144e80b99074367f85cfe2523da197de87bdaab6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/couple%20virgie%20article.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1ZwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--144e80b99074367f85cfe2523da197de87bdaab6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/couple%20virgie%20article.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -24,7 +24,7 @@ export const SelfLovearticles = [
     title: "Why I stopped dating people who comment on others’ bodies",
     subtitle: "And how it changed my life",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3BvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ba3d3a9c00f60424a755fbdb9f9084c46cd676ee/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/body%20love.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3BvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ba3d3a9c00f60424a755fbdb9f9084c46cd676ee/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/body%20love.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -33,7 +33,7 @@ export const SelfLovearticles = [
     title: "How to turn down plans like a pro so you can have a date night with yourself",
     subtitle:
       "Because you're the most important person in your life",
-    image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVpvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a6bf8b37dfd2ffc0924b0cbd805e8046036cfb9f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1370783722.jpg",
+    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVpvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a6bf8b37dfd2ffc0924b0cbd805e8046036cfb9f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1370783722.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -41,7 +41,7 @@ export const SelfLovearticles = [
     category: "Self-love & body positivity",
     title: "Now is the perfect time to embrace your natural body hair and here’s why",
     subtitle: "This winter, let's prioritize comfiness",
-    image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDVuIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--22b0276d8db2bbb8b5adec781dd09bef28d6d7d1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Body%20Hair%202.jpg",
+    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDVuIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--22b0276d8db2bbb8b5adec781dd09bef28d6d7d1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Body%20Hair%202.jpg",
     hasQuestionPattern: false,
   },
   
@@ -65,7 +65,7 @@ export const SelfLovearticleContents = {
   author: "",
   date: "Feb 21, 2025",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWhyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0504b61361044e0f7a11b7737773682a4dcf2f01/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/phone%20on%20table.jpg",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWhyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0504b61361044e0f7a11b7737773682a4dcf2f01/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/phone%20on%20table.jpg",
   showSocialIcons: true,
   content: `
 <h1>5 Things You Can Do to Stop Scrolling</h1>
@@ -104,7 +104,7 @@ It’s so easy to get sucked into social media and the worlds inside our phones 
   author: "",
   date: "Oct 11, 2024",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1ZwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--144e80b99074367f85cfe2523da197de87bdaab6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/couple%20virgie%20article.jpg",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1ZwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--144e80b99074367f85cfe2523da197de87bdaab6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/couple%20virgie%20article.jpg",
   showSocialIcons: true,
   content: `By Virgie Tovar
 
@@ -146,7 +146,7 @@ Author and activist Virgie Tovar started the hashtag campaign #LoseHateNotWeight
   author: "",
   date: "Sep 20, 2024",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3BvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ba3d3a9c00f60424a755fbdb9f9084c46cd676ee/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/body%20love.jpg",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3BvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ba3d3a9c00f60424a755fbdb9f9084c46cd676ee/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/body%20love.jpg",
   showSocialIcons: true,
   content: `By Virgie Tovar
 
@@ -187,7 +187,7 @@ Author and activist Virgie Tovar started the hashtag campaign #LoseHateNotWeight
   author: "",
   date: "May 10, 2024",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVpvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a6bf8b37dfd2ffc0924b0cbd805e8046036cfb9f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1370783722.jpg",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVpvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a6bf8b37dfd2ffc0924b0cbd805e8046036cfb9f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1370783722.jpg",
   showSocialIcons: true,
   content: `
 <h1>How to Turn Down Plans Like a Pro So You Can Have a Date Night With Yourself</h1>
@@ -243,7 +243,7 @@ When scrolling through Instagram stories of your friends living it up at the lat
   author: "",
   date: "Jan 19, 2024",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDVuIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--22b0276d8db2bbb8b5adec781dd09bef28d6d7d1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Body%20Hair%202.jpg",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDVuIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--22b0276d8db2bbb8b5adec781dd09bef28d6d7d1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Body%20Hair%202.jpg",
   showSocialIcons: true,
   content: `As the deep freeze of the winter months sets in, many of us are seeking warmth by hiding out under cozy blankets, drinking hot chocolate, and cuddling with our partners. However, there’s an underrated source of warmth that we can’t forget about, and guess what? It’s all over your body. Yep, you got it: body hair!
 <br><br>
@@ -285,7 +285,7 @@ export const SelfLovearticlesTwo = [
         subtitle: "Best V-Day ever",
 
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdnhmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a512ae6b3d65e250f60ffaa37913e02cad7ff525/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1221962880.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdnhmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a512ae6b3d65e250f60ffaa37913e02cad7ff525/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1221962880.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -295,7 +295,7 @@ export const SelfLovearticlesTwo = [
           subtitle: "If it all feels too hard, you’re not alone",
 
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdlZaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--85a5a73efe7afc7213de68ea1d8579260f098422/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/at%20home_02.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdlZaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--85a5a73efe7afc7213de68ea1d8579260f098422/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/at%20home_02.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -304,7 +304,7 @@ export const SelfLovearticlesTwo = [
     title: "7 body parts whose names you need to practice saying",
     subtitle: "Yes, we’re giving you homework",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbzQ5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--73e12ae6dc74fea0032d94e804fda92eb337ce21/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-916194700.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbzQ5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--73e12ae6dc74fea0032d94e804fda92eb337ce21/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-916194700.jpg",
     hasQuestionPattern: false,
   },
   
@@ -313,7 +313,7 @@ export const SelfLovearticlesTwo = [
     category: " Self-love & body positivity",
     title: "7 rules for a body-positive college experience",
     subtitle: "Everything you need to know as a freshman",
-    image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjQ4IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4c6f02c9ef0f122ceaaa058020cb65110799d080/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1330214106.jpg",
+    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjQ4IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4c6f02c9ef0f122ceaaa058020cb65110799d080/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1330214106.jpg",
     hasQuestionPattern: false,
   },
 {
@@ -322,7 +322,7 @@ export const SelfLovearticlesTwo = [
     title: "7 self-care activities that only take 5 minutes",
     subtitle:
       "And will make you feel a little bit better",
-    image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbTg4IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4a4ae56cefeb65f30e6a72249b73d7824ed65ffd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1190158331.jpg",
+    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbTg4IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4a4ae56cefeb65f30e6a72249b73d7824ed65ffd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1190158331.jpg",
     hasQuestionPattern: false,
   }
 ];
@@ -345,7 +345,7 @@ export const SelfLovearticleContentsTwo = {
   author: "",
   date: "Feb 10, 2023",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdnhmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a512ae6b3d65e250f60ffaa37913e02cad7ff525/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1221962880.jpg",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdnhmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a512ae6b3d65e250f60ffaa37913e02cad7ff525/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1221962880.jpg",
   showSocialIcons: true,
   content: `
 <h1>How to Put Yourself First This Valentine's Day</h1>
@@ -389,7 +389,7 @@ How many of us have wished someone would plan a romantic night for us, only to b
   author: "",
   date: "Jul 22, 2022",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdlZaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--85a5a73efe7afc7213de68ea1d8579260f098422/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/at%20home_02.jpg",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdlZaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--85a5a73efe7afc7213de68ea1d8579260f098422/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/at%20home_02.jpg",
   showSocialIcons: true,
   content: `
 <h1>How to Take Care of Yourself Right Now</h1>
@@ -434,7 +434,7 @@ It’s amazing how much ordering in your favorite pizza or going to get your fav
   author: "",
   date: "Oct 01, 2021",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbzQ5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--73e12ae6dc74fea0032d94e804fda92eb337ce21/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-916194700.jpg",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbzQ5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--73e12ae6dc74fea0032d94e804fda92eb337ce21/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-916194700.jpg",
   showSocialIcons: true,
   content: `Someday, maybe not soon, but someday, you will need to go to a health care provider because one or more of the areas listed below needs medical attention. On that day, you really do not want to be saying to your doctor things like, “My coochie meow meow itches” or, “My dingleberries have a rash.” Not only will your provider not know what you’re talking about, but it’s just not a great look for an adult to be too embarrassed to say the names of their own body parts.
 <br><br>
@@ -462,7 +462,7 @@ So yeah, you’ve got homework. Practice saying each of the words on this list 1
   author: "By Virgie Tovar, Author and Activist",
   date: "Sep 14, 2021",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjQ4IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4c6f02c9ef0f122ceaaa058020cb65110799d080/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1330214106.jpg",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjQ4IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4c6f02c9ef0f122ceaaa058020cb65110799d080/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1330214106.jpg",
   showSocialIcons: true,
   content: `
 <h1>7 Rules for a Body-Positive College Experience</h1>
@@ -526,7 +526,7 @@ Virgie Tovar started the hashtag campaign #LoseHateNotWeight and is the author o
   author: "",
   date: "Sep 10, 2021",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbTg4IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4a4ae56cefeb65f30e6a72249b73d7824ed65ffd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1190158331.jpg",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbTg4IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4a4ae56cefeb65f30e6a72249b73d7824ed65ffd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1190158331.jpg",
   showSocialIcons: true,
   content: `
 <h1>7 Self-Care Activities That Only Take 5 Minutes</h1>

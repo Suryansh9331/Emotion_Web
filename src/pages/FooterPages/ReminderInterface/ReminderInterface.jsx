@@ -62,7 +62,7 @@ export default function ReminderInterface() {
       <footer className="bg-white py-4 border-t border-gray-200">
         <div className="container mx-auto px-4">
           <p className="text-sm text-gray-700">
-            To opt-out of our SMS service, text "STOP" to (254) 414-2411. To get help, email us at support@bedsider.org.
+            To opt-out of our SMS service, text "STOP" to (254) 414-2411. To get help, email us at support@Bedsiderr.org.
             <span className="block mt-1 md:inline md:mt-0">
               Supported Carriers: AT&T, Boost, Carolina West (ACG), Cincinnati Bell, Cellular South, Cellcom,
               Cricket/Leap, GetLisa/ClearSky, MetroPCS, Nextel, nTelos, Sprint, T-Mobile, U.S. Cellular, Verizon

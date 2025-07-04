@@ -2,14 +2,14 @@
 // import SubscriptionForm from "./components/FriskyComponent"
 // import HealthcareFinder from "./components/HealthFinder"
 // import HealthWellnessLayout from "./components/HealthWellnessLayout"
-// import BedsiderWebsite from "./components/Home"
+// import BedsiderrWebsite from "./components/Home"
 // import SexRelationshipsLayout from "./components/SeRelationLayout"
 
 
 // const Home = () => {
 //   return (
 //     <div>
-//       <BedsiderWebsite/>  
+//       <BedsiderrWebsite/>  
 //       <HealthcareFinder/>
 //       <BirthControlLayout/>
 //       <SexRelationshipsLayout/>
@@ -26,14 +26,14 @@ import BirthControlLayout from "./components/BirthComponent"
 import SubscriptionForm from "./components/FriskyComponent"
 import HealthcareFinder from "./components/HealthFinder"
 import HealthWellnessLayout from "./components/HealthWellnessLayout"
-import BedsiderWebsite from "./components/Home"
+import BedsiderrWebsite from "./components/Home"
 import SexRelationshipsLayout from "./components/SeRelationLayout"
 
 
 const Home = () => {
   return (
     <div>
-      <BedsiderWebsite/>  
+      <BedsiderrWebsite/>  
       <HealthcareFinder/>
       <BirthControlLayout/>
       <SexRelationshipsLayout/>

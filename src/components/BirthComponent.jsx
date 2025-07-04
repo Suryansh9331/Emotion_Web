@@ -8,7 +8,7 @@
 //         <h1 className="text-2xl md:text-3xl lg:text-4xl text-gray-700 font-normal mb-8 text-center">
 //           Read the latest on birth control, sex, and more.
 //         </h1>
-        
+
 //         <div className="mb-6">
 //           <h2 className="text-2xl md:text-3xl text-teal-500 font-normal mb-1">Birth control</h2>
 //           <div className="w-16 h-0.5 bg-teal-500"></div>
@@ -98,8 +98,6 @@
 
 // export default BirthControlLayout;
 
-
-
 import { Link } from "react-router-dom";
 
 const BirthControlLayout = () => {
@@ -110,9 +108,11 @@ const BirthControlLayout = () => {
         <h1 className="text-3xl md:text-4xl lg:text-5xl text-gray-700 font-normal mb-8 text-center">
           Read the latest on birth control, sex, and more.
         </h1>
-        
+
         <div className="mb-6">
-          <h2 className="text-3xl md:text-4xl text-teal-500 font-normal mb-1">Birth control</h2>
+          <h2 className="text-3xl md:text-4xl text-teal-500 font-normal mb-1">
+            Birth control
+          </h2>
           <div className="w-16 h-0.5 bg-teal-500"></div>
         </div>
       </div>
@@ -121,21 +121,34 @@ const BirthControlLayout = () => {
         {/* Article 1 */}
         <Link to="/types/birth-control-pill">
           <div className="flex gap-4 bg-white rounded-lg p-4 shadow-sm">
-            <img src='/reproductive-health-supplies-coalition-bymICwLq-E4-unsplash.jpg' alt='img1' className='w-44 h-44'/>
+            <img
+              src="/reproductive-health-supplies-coalition-bymICwLq-E4-unsplash.jpg"
+              alt="img1"
+              className="w-44 h-44"
+            />
             <div className="flex-1">
-              <p className="text-gray-400 text-sm uppercase tracking-wide mb-1">BIRTH CONTROL PILL</p>
+              <p className="text-gray-400 text-sm uppercase tracking-wide mb-1">
+                BIRTH CONTROL PILL
+              </p>
               <h3 className="text-gray-800 font-medium text-base md:text-lg leading-tight">
-                Innovative ways over-the-counter birth control pills empower reproductive autonomy
+                Innovative ways over-the-counter birth control pills empower
+                reproductive autonomy
               </h3>
             </div>
           </div>
         </Link>
         {/* Article 2 */}
         <div className="flex gap-4 bg-white rounded-lg p-4 shadow-sm">
-          <img src='/reproductive-health-supplies-coalition-cHrcHdg2H9E-unsplash (1).jpg' alt='' className='w-44 h-44'/>
+          <img
+            src="/reproductive-health-supplies-coalition-cHrcHdg2H9E-unsplash (1).jpg"
+            alt=""
+            className="w-44 h-44"
+          />
           <Link to="/types/iud">
             <div className="flex-1">
-              <p className="text-gray-400 text-sm uppercase tracking-wide mb-1">IUD</p>
+              <p className="text-gray-400 text-sm uppercase tracking-wide mb-1">
+                IUD
+              </p>
               <h3 className="text-gray-800 font-medium text-base md:text-lg leading-tight">
                 How public voices are shaping awareness about IUD benefits.
               </h3>
@@ -146,11 +159,18 @@ const BirthControlLayout = () => {
         {/* Article 3 */}
         <Link to="/types/patch">
           <div className="flex gap-4 bg-white rounded-lg p-4 shadow-sm">
-            <img src='/230912_PTD_CapitolHill-04c.jpg' alt='' className='h-44 w-44'/>
+            <img
+              src="/230912_PTD_CapitolHill-04c.jpg"
+              alt=""
+              className="h-44 w-44"
+            />
             <div className="flex-1">
-              <p className="text-gray-400 text-sm uppercase tracking-wide mb-1">BIRTH CONTROL Patch</p>
+              <p className="text-gray-400 text-sm uppercase tracking-wide mb-1">
+                BIRTH CONTROL Patch
+              </p>
               <h3 className="text-gray-800 font-medium text-base md:text-lg leading-tight">
-                Why the birth control patch is a game-changer in modern contraception
+                Why the birth control patch is a game-changer in modern
+                contraception
               </h3>
             </div>
           </div>
@@ -158,11 +178,18 @@ const BirthControlLayout = () => {
         {/* Article 4 */}
         <Link to="/types/birth-control-pill">
           <div className="flex gap-4 bg-white rounded-lg p-4 shadow-sm">
-            <img src='/Screenshot 2024-03-04 at 8.04.06 AM (1).png' alt='' className='h-44 w-44'/>
+            <img
+              src="/Screenshot 2024-03-04 at 8.04.06 AM (1).png"
+              alt=""
+              className="h-44 w-44"
+            />
             <div className="flex-1">
-              <p className="text-gray-400 text-sm uppercase tracking-wide mb-1">BIRTH CONTROL PILL</p>
+              <p className="text-gray-400 text-sm uppercase tracking-wide mb-1">
+                BIRTH CONTROL PILL
+              </p>
               <h3 className="text-gray-800 font-medium text-base md:text-lg leading-tight">
-                Why the birth control pill remains the most reliable option for modern family planning
+                Why the birth control pill remains the most reliable option for
+                modern family planning
               </h3>
             </div>
           </div>
@@ -171,23 +198,18 @@ const BirthControlLayout = () => {
 
       {/* View All Button */}
       <div className="text-left">
-        <button className="bg-teal-500 hover:bg-teal-600 text-white px-6 py-3 rounded-lg font-medium transition-colors text-lg">
-          view all birth control articles
-        </button>
+        <Link to = "/birth-control/articles">
+          {" "}
+          <button className="bg-teal-500 hover:bg-teal-600 text-white cursor-pointer px-6 py-3 rounded-lg font-medium transition-colors text-lg">
+            view all birth control articles
+          </button>
+        </Link>
       </div>
     </div>
   );
 };
 
 export default BirthControlLayout;
-
-
-
-
-
-
-
-
 
 // import { Link } from "react-router-dom";
 
@@ -199,7 +221,7 @@ export default BirthControlLayout;
 //         <h1 className="text-2xl md:text-3xl lg:text-4xl text-gray-700 font-normal mb-8 text-center">
 //           Read the latest on birth control, sex, and more.
 //         </h1>
-        
+
 //         <div className="mb-6">
 //           <h2 className="text-2xl md:text-3xl text-teal-500 font-normal mb-1">Birth control</h2>
 //           <div className="w-16 h-0.5 bg-teal-500"></div>
@@ -300,8 +322,6 @@ export default BirthControlLayout;
 
 // export default BirthControlLayout;
 
-
-
 // // export default function BirthControlLayout() {
 // //   return (
 // //     <div className="min-h-screen bg-gradient-to-br from-gray-50 via-white to-teal-50/30">
@@ -311,7 +331,7 @@ export default BirthControlLayout;
 // //           <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl text-gray-700 font-light mb-8 sm:mb-12 text-center leading-tight max-w-5xl mx-auto">
 // //             Read the latest on birth control, sex, and more.
 // //           </h1>
-          
+
 // //           <div className="text-center sm:text-left max-w-4xl mx-auto">
 // //             <div className="inline-block">
 // //               <h2 className="text-3xl sm:text-4xl lg:text-5xl text-teal-600 font-light mb-3 sm:mb-4">
@@ -329,9 +349,9 @@ export default BirthControlLayout;
 // //             <div className="bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-500 hover:scale-[1.02] border border-gray-100 hover:border-teal-200">
 // //               <div className="flex flex-col sm:flex-row">
 // //                 <div className="w-full sm:w-2/5 relative overflow-hidden">
-// //                   <img 
-// //                     src='/reproductive-health-supplies-coalition-bymICwLq-E4-unsplash.jpg' 
-// //                     alt='Birth control pills and contraceptive methods' 
+// //                   <img
+// //                     src='/reproductive-health-supplies-coalition-bymICwLq-E4-unsplash.jpg'
+// //                     alt='Birth control pills and contraceptive methods'
 // //                     className='object-cover h-48 sm:h-full w-full group-hover:scale-110 transition-transform duration-700'
 // //                   />
 // //                   <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
@@ -356,9 +376,9 @@ export default BirthControlLayout;
 // //             <div className="bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-500 hover:scale-[1.02] border border-gray-100 hover:border-teal-200">
 // //               <div className="flex flex-col sm:flex-row">
 // //                 <div className="w-full sm:w-2/5 relative overflow-hidden">
-// //                   <img 
-// //                     src='/reproductive-health-supplies-coalition-cHrcHdg2H9E-unsplash (1).jpg' 
-// //                     alt='IUD contraceptive device information' 
+// //                   <img
+// //                     src='/reproductive-health-supplies-coalition-cHrcHdg2H9E-unsplash (1).jpg'
+// //                     alt='IUD contraceptive device information'
 // //                     className='object-cover h-48 sm:h-full w-full group-hover:scale-110 transition-transform duration-700'
 // //                   />
 // //                   <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
@@ -383,9 +403,9 @@ export default BirthControlLayout;
 // //             <div className="bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-500 hover:scale-[1.02] border border-gray-100 hover:border-teal-200">
 // //               <div className="flex flex-col sm:flex-row">
 // //                 <div className="w-full sm:w-2/5 relative overflow-hidden">
-// //                   <img 
-// //                     src='/230912_PTD_CapitolHill-04c.jpg' 
-// //                     alt='Birth control patch information and advocacy' 
+// //                   <img
+// //                     src='/230912_PTD_CapitolHill-04c.jpg'
+// //                     alt='Birth control patch information and advocacy'
 // //                     className='object-cover h-48 sm:h-full w-full group-hover:scale-110 transition-transform duration-700'
 // //                   />
 // //                   <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
@@ -410,9 +430,9 @@ export default BirthControlLayout;
 // //             <div className="bg-white rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-500 hover:scale-[1.02] border border-gray-100 hover:border-teal-200">
 // //               <div className="flex flex-col sm:flex-row">
 // //                 <div className="w-full sm:w-2/5 relative overflow-hidden">
-// //                   <img 
-// //                     src='/Screenshot 2024-03-04 at 8.04.06 AM (1).png' 
-// //                     alt='Modern birth control pill options and planning' 
+// //                   <img
+// //                     src='/Screenshot 2024-03-04 at 8.04.06 AM (1).png'
+// //                     alt='Modern birth control pill options and planning'
 // //                     className='object-cover h-48 sm:h-full w-full group-hover:scale-110 transition-transform duration-700'
 // //                   />
 // //                   <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>

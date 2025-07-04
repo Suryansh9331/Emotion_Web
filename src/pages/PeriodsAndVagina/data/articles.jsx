@@ -6,7 +6,7 @@ export const PVarticles = [
     subtitle: "Foods beneficial to your vaginal health",
 
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVlYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9c1aaf5d2abb5a7b72f8b38cf3ef48ca8a488051/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/orange_FB.png",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVlYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9c1aaf5d2abb5a7b72f8b38cf3ef48ca8a488051/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/orange_FB.png",
     hasQuestionPattern: false,
   },
   {
@@ -17,7 +17,7 @@ export const PVarticles = [
       "Will birth control change my period? Depending on your method, it might.",
 
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbXRGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e3d7e2f9d5344bdf7cc9d5c14555f1ce2ef479f9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/period%20image%20resized.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbXRGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e3d7e2f9d5344bdf7cc9d5c14555f1ce2ef479f9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/period%20image%20resized.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -26,7 +26,7 @@ export const PVarticles = [
     title: "How can birth control help an ovarian cyst?",
     
     image:
-      "https://www.bedsider.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
+      "https://www.Bedsiderr.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
     hasQuestionPattern: false,
   },
   {
@@ -35,7 +35,7 @@ export const PVarticles = [
     title: "What is ovarian cyst? ",
     subtitle: "So many pregnancy myths to bust, so little time…",
     image:
-      "https://www.bedsider.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
+      "https://www.Bedsiderr.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
     hasQuestionPattern: false,
   },
   {
@@ -44,7 +44,7 @@ export const PVarticles = [
     title: "Can ibuprofen help reduce heavy periods and irregular bleeding?",
     subtitle: "I'm having irregular bleeding with a progestin-only birth control method.",
     image:
-      "https://www.bedsider.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
+      "https://www.Bedsiderr.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
     hasQuestionPattern: false,
   },
 ];
@@ -59,7 +59,7 @@ export const PVarticleContents = {
   author: "",
   date: "Feb 18, 2022",
   updated: "",
-  image: "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVlYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9c1aaf5d2abb5a7b72f8b38cf3ef48ca8a488051/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/orange_FB.png",
+  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVlYIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9c1aaf5d2abb5a7b72f8b38cf3ef48ca8a488051/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/orange_FB.png",
   showSocialIcons: true,
   content: `<b>We shared nutrition hacks for better sex.</b> (Because bloated sex is rarely the best sex.) Now we’re exploring foods to eat that are beneficial for your vagina because we want you—and your downstairs—happy and healthy. <i>(Pro tip: these don’t go in your vagina.)</i><br><br>
 
@@ -113,7 +113,7 @@ If you add just a few of these to your eating routine, your vagina is gonna than
     date: "Feb 15, 2022",
     updated: "",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbXRGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e3d7e2f9d5344bdf7cc9d5c14555f1ce2ef479f9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/period%20image%20resized.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbXRGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e3d7e2f9d5344bdf7cc9d5c14555f1ce2ef479f9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/period%20image%20resized.jpg",
     showSocialIcons: true,
     content: `
 <b>Birth control and your period</b><br>
@@ -278,7 +278,7 @@ export const PVarticlesTwo = [
           subtitle: "",
 
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakk5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8ff4ba326b9e06a31687c92f3edd599f95a168ea/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1027444054.jpeg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakk5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8ff4ba326b9e06a31687c92f3edd599f95a168ea/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1027444054.jpeg",
     hasQuestionPattern: false,
   },
   {
@@ -288,7 +288,7 @@ export const PVarticlesTwo = [
     subtitle: "We asked an expert so you don't have to",
 
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjRVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--08fee9633737d0c4a6769946c9223885c39829a6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1169607304.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjRVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--08fee9633737d0c4a6769946c9223885c39829a6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1169607304.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -297,7 +297,7 @@ export const PVarticlesTwo = [
     title: "If you have a vagina, you have vaginal discharge",
     subtitle: "What’s normal, what’s not, and when to see your health care provider",
     image:
-      "https://www.bedsider.org/assets/mobile/provider_perspectives_header-44b4f94e01ec610c3de2b52585ef601d43bb8196a7253ae8e24896c8838e380a.jpg",
+      "https://www.Bedsiderr.org/assets/mobile/provider_perspectives_header-44b4f94e01ec610c3de2b52585ef601d43bb8196a7253ae8e24896c8838e380a.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -307,7 +307,7 @@ export const PVarticlesTwo = [
     subtitle:
       "Hint: not flowers!",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdklVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--522139e2fb60e7448c7effc665b32f841c1d1d0a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1074280088.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdklVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--522139e2fb60e7448c7effc665b32f841c1d1d0a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1074280088.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -317,7 +317,7 @@ export const PVarticlesTwo = [
       "What to do when sex hurts",
     subtitle: "Dyspareunia, or pain during sex, is more common than you might think",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGtWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a4b33ec04272adf37a3340d4a907017fe99f06ac/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Closed_Body-pillow_146A3631.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGtWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a4b33ec04272adf37a3340d4a907017fe99f06ac/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Closed_Body-pillow_146A3631.jpg",
     hasQuestionPattern: false,
   },
 ];
@@ -344,7 +344,7 @@ export const PVarticleContentsTwo = {
     date: "Sep 23, 2021",
     updated: "",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakk5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8ff4ba326b9e06a31687c92f3edd599f95a168ea/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1027444054.jpeg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakk5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8ff4ba326b9e06a31687c92f3edd599f95a168ea/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1027444054.jpeg",
     showSocialIcons: true,
     content: `
 <b>TW: discussion of weight and BMI</b><br><br>
@@ -432,7 +432,7 @@ When not advocating, she enjoys making cocktails for friends or doing crossword 
     date: "Jan 22, 2021",
     updated: "",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjRVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--08fee9633737d0c4a6769946c9223885c39829a6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1169607304.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjRVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--08fee9633737d0c4a6769946c9223885c39829a6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1169607304.jpg",
     showSocialIcons: true,
     content: `
 You may have heard or read somewhere that the vagina is <b>“self-cleaning.”</b><br><br>
@@ -490,7 +490,7 @@ Think of your vagina like a little plant:
 </ul><br>
 
 <b>XOXO,</b><br>
-<b>Bedsider</b><br><br>
+<b>Bedsiderr</b><br><br>
 
 <b>P.S.</b> Something feel off down there? Here’s what to expect from a visit to your provider.
     `
@@ -504,7 +504,7 @@ Think of your vagina like a little plant:
     date: "Dec 22, 2020",
     updated: "",
     image:
-      "https://www.bedsider.org/assets/mobile/provider_perspectives_header-44b4f94e01ec610c3de2b52585ef601d43bb8196a7253ae8e24896c8838e380a.jpg",
+      "https://www.Bedsiderr.org/assets/mobile/provider_perspectives_header-44b4f94e01ec610c3de2b52585ef601d43bb8196a7253ae8e24896c8838e380a.jpg",
     showSocialIcons: true,
     content: `
 <b>What is normal vaginal discharge?</b><br><br>
@@ -596,7 +596,7 @@ When not working, Sylvia enjoys:
     date: "Sep 13, 2019",
     updated: "",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdklVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--522139e2fb60e7448c7effc665b32f841c1d1d0a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1074280088.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdklVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--522139e2fb60e7448c7effc665b32f841c1d1d0a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1074280088.jpg",
     showSocialIcons: true,
     content: `
 We hear this question (and misinformation on this topic) ALL THE TIME, and we decided that today is the day we’re going to answer it.  
@@ -666,7 +666,7 @@ Lauren Kernan is the Senior Director of UX Research at Power to Decide. In her s
     date: "Jun 04, 2019",
     updated: "",
     image:
-      "https://www.bedsider.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGtWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a4b33ec04272adf37a3340d4a907017fe99f06ac/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Closed_Body-pillow_146A3631.jpg",
+      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGtWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a4b33ec04272adf37a3340d4a907017fe99f06ac/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Closed_Body-pillow_146A3631.jpg",
     showSocialIcons: true,
     content: `
 Sex is all about feeling great—until it doesn’t feel great. Unfortunately, dyspareunia (pain during sex) is more common than you might think. In fact, it’s so common that 3 out of every 4 people with vaginas experience it at some point in their lives.
