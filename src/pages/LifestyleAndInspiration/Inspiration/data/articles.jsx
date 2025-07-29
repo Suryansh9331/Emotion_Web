@@ -5,7 +5,7 @@ export const Inspirationarticles = [
     title: "10 songs for your music festival playlist",
       subtitle: "Fun? Flirting? Music? Oh, it’s *so* festival season!",
     image:
-      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2xzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4df7f55d212726f43a206fe461257c20fc5113f4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-671712039.jpg",
+      "/Lifestyle&Inspiration/Inspiration/Article1.png",
     hasQuestionPattern: false,
   },
   {
@@ -15,7 +15,7 @@ export const Inspirationarticles = [
       "Ready to kick off your spring?",
         subtitle: "Five of our favorite articles to help you embrace the new season",
     image:
-      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbnBzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3e21cde845ff4c522e18cc2e5b4d9ca3be262cb1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Woman%20with%20sunflower%202.jpg",
+      "/Lifestyle&Inspiration/Inspiration/Article2.png",
     hasQuestionPattern: false,
   },
   {
@@ -24,7 +24,7 @@ export const Inspirationarticles = [
     title: "10 love songs for your Valentine's playlist",
     subtitle: "Songs that make you swoon",
     image:
-      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdU5yIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e835d34619dff5d698023fb67db0807b6b6addf6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/love%20song%20playlist%20.jpg",
+      "/Lifestyle&Inspiration/Inspiration/Article3.png",
     hasQuestionPattern: false,
   },
   {
@@ -33,7 +33,7 @@ export const Inspirationarticles = [
     title: "3 ways to level up your successes in 2025",
     subtitle:
       "New year, same you! In a higher resolution",
-    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3hyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--411c623fc9b41fe4b4fd30be26894d80d86b54e8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/level%20up%202025.jpg",
+    image: "/Lifestyle&Inspiration/Inspiration/Article4.png",
     hasQuestionPattern: false,
   },
   {
@@ -41,7 +41,7 @@ export const Inspirationarticles = [
     category: "Inspiration",
     title: "3 ways you and your partner can make cabin fever even hotter",
     subtitle: "It’s time to get creative, babes",
-    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2hyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0b28ef871c6445e7d77ae9544bdd23a338a1adbd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/couple%20at%20cabin%20kissing.jpg",
+    image: "/Lifestyle&Inspiration/Inspiration/Article5.png",
     hasQuestionPattern: false,
   },
   
@@ -65,66 +65,66 @@ export const InspirationarticleContents = {
   author: "Apr 18, 2025",
   date: "",
   updated: "",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2xzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4df7f55d212726f43a206fe461257c20fc5113f4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-671712039.jpg",
+  image: "/Lifestyle&Inspiration/Inspiration/Article1.png",
   showSocialIcons: true,
   content: `<b>10 songs for your music festival playlist</b><br>
-<i>Fun? Flirting? Music? Oh, it’s <u>so</u> festival season!</i><br><br>
+<i>Fun? Flirting? Music? Oh, it's <u>so</u> festival season!</i><br><br>
 
-Whether you’re gearing up for a day of fun in the sun at a festival like Coachella, or getting ready for a night out on the town, we’ve got a playlist that’s perfect for a little flirting under the sun or stars. You can also listen to the playlist on Bedsiderr’s Spotify account!<br><br>
+Whether you're gearing up for a day of fun in the sun at a festival like Coachella, or getting ready for a night out on the town, we've got a playlist that's perfect for a little flirting under the sun or stars. You can also listen to the playlist on Bedsiderr's Spotify account!<br><br>
 
-<b>1. “Abracadabra” by Lady Gaga</b><br>
-“Hold me in your heart tonight, in the magic of the dark moonlight.”<br>
+<b>1. "Abracadabra" by Lady Gaga</b><br>
+"Hold me in your heart tonight, in the magic of the dark moonlight."<br>
 Lady Gaga rings in a new era with this dance track about finding magic in the dark.<br>
-<iframe width="100%" height="200" src="https://www.youtube.com/embed" frameborder="0" allowfullscreen></iframe><br><br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/vBynw9Isr28?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>2. “Wanna Be” by GloRilla and Megan Thee Stallion</b><br>
-“I don’t need insurance ‘cause you can’t wreck me.”<br>
+<b>2. "Wanna Be" by GloRilla and Megan Thee Stallion</b><br>
+"I don't need insurance 'cause you can't wreck me."<br>
 GloRilla and Megan Thee Stallion hype each other up in this anthem about not settling in love.<br>
-<iframe width="100%" height="200" src="https://www.youtube.com/embed" frameborder="0" allowfullscreen></iframe><br><br>
+<iframe width="100%" height="315 " src="https://www.youtube.com/embed/BT_83vSP1es?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>3. “Back to Me” by The Marías</b><br>
-“I’ll be there in a hurry, baby come back to me.”<br>
+<b>3. "Back to Me" by The Marías</b><br>
+"I'll be there in a hurry, baby come back to me."<br>
 This artist laments about the struggles of wanting to get back with your ex.<br>
-<iframe width="100%" height="200" src="https://www.youtube.com/embed" frameborder="0" allowfullscreen></iframe><br><br>
+<iframe width="100%" height="315 " src="https://www.youtube.com/embed/vPBOq0wdET0?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>4. “Genius” by Ravyn Lenae</b><br>
-“Paradise takes a little patience.”<br>
+<b>4. "Genius" by Ravyn Lenae</b><br>
+"Paradise takes a little patience."<br>
 Lenae sings about the ups and downs of trying to make a relationship work.<br>
-<iframe width="100%" height="100" src="https://www.youtube.com/embed" frameborder="0" allowfullscreen></iframe><br><br>
+<iframe width="100%" height="315 %" src="https://www.youtube.com/embed/SzDAQk1lmac?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>5. “Guess ft. Billie Eilish” by Charli XCX</b><br>
-“You want to know what I got going on down there.”<br>
+<b>5. "Guess ft. Billie Eilish" by Charli XCX</b><br>
+"You want to know what I got going on down there."<br>
 In this cheeky song, Charli and Billie tease about knowing the color of their underwear.<br>
-<iframe width="100%" height="100" src="https://www.youtube.com/embed" frameborder="0" allowfullscreen></iframe><br><br>
+<iframe width="100%" height="315 " src="https://www.youtube.com/embed/huGd4efgdPA?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>6. “Feel It” by d4vd</b><br>
-“Told her that I love her but she thinking it’s a game.”<br>
+<b>6. "Feel It" by d4vd</b><br>
+"Told her that I love her but she thinking it's a game."<br>
 This singer is on a mission to win back his ex.<br>
-<iframe width="100%" height="100" src="https://www.youtube.com/embed" frameborder="0" allowfullscreen></iframe><br><br>
+<iframe width="100%" height="315 " src="https://www.youtube.com/embed/_z0WqL90RVI?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>7. “Cupid’s Girl” by MARINA</b><br>
-“I’m looking for a lover and you’re on the top of my list.”<br>
-MARINA wants to shoot her crush with cupid’s arrow in this whimsical song.<br>
-<iframe width="100%" height="100" src="https://www.youtube.com/embed" frameborder="0" allowfullscreen></iframe><br><br>
+<b>7. "Cupid's Girl" by MARINA</b><br>
+"I'm looking for a lover and you're on the top of my list."<br>
+MARINA wants to shoot her crush with cupid's arrow in this whimsical song.<br>
+<iframe width="100%" height="315 " src="https://www.youtube.com/embed/01SXq0As3v4?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>8. “PUSH 2 START” by Tyla</b><br>
-“Only serve it up if you deserve me.“<br>
-If you want to be Tyla’s lover, you’re going to have to put in the effort.<br>
-<iframe width="100%" height="100" src="https://www.youtube.com/embed" frameborder="0" allowfullscreen></iframe><br><br>
+<b>8. "PUSH 2 START" by Tyla</b><br>
+"Only serve it up if you deserve me."<br>
+If you want to be Tyla's lover, you're going to have to put in the effort.<br>
+<iframe width="100%" height="315 " src="https://www.youtube.com/embed/uLK2r3sG4lE?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>9. “Made For Me” by Muni Long</b><br>
-"Twin, where have you been?”<br>
+<b>9. "Made For Me" by Muni Long</b><br>
+"Twin, where have you been?"<br>
 Muni Long sings about feeling seen and understood in her relationship.<br>
-<iframe width="100%" height="100" src="https://www.youtube.com/embed" frameborder="0" allowfullscreen></iframe><br><br>
+<iframe width="100%" height="315 " src="https://www.youtube.com/embed/7FrUC4dpm7Y?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>10. “Rockstar” by Lisa</b><br>
-”I’m stealing diamonds, make them chase me for the thrill.”<br>
+<b>10. "Rockstar" by Lisa</b><br>
+"I'm stealing diamonds, make them chase me for the thrill."<br>
 In this banger, Lisa boasts about her fame, fortune, and success.<br>
-<iframe width="100%" height="100" src="https://www.youtube.com/embed" frameborder="0" allowfullscreen></iframe><br><br>
+<iframe width="100%" height="315 " src="https://www.youtube.com/embed/UOzoIG6T7_o?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
 <b>Bonus Reminder:</b><br>
-Don’t forget to take care of yourself out there!<br>
-Make sure to pack some SPF to keep your skin glowing, water to stay hydrated, your birth control so you’re ready if you have a little steamy fun, and chapstick or gloss to keep those lips smoochable.<br>
+Don't forget to take care of yourself out there!<br>
+Make sure to pack some SPF to keep your skin glowing, water to stay hydrated, your birth control so you're ready if you have a little steamy fun, and chapstick or gloss to keep those lips smoochable.<br>
 For more tips on enjoying festival season safely, check out our <a href="#">festival survival guide</a>.<br>
 `
 }
@@ -134,7 +134,7 @@ For more tips on enjoying festival season safely, check out our <a href="#">fest
   author: "",
   date: "Apr 04, 2025",
   updated: "",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbnBzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3e21cde845ff4c522e18cc2e5b4d9ca3be262cb1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Woman%20with%20sunflower%202.jpg",
+  image: "/Lifestyle&Inspiration/Inspiration/Article2.png",
   showSocialIcons: true,
   content: `<b>Ready to kick off your spring?</b><br>
 <i>Five of our favorite articles to help you embrace the new season</i><br><br>
@@ -164,62 +164,62 @@ April 22nd is Earth Day, and we’re here to inspire you to plan a special date 
   author: "",
   date: "Feb 14, 2025",
   updated: "",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdU5yIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e835d34619dff5d698023fb67db0807b6b6addf6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/love%20song%20playlist%20.jpg",
+  image: "/Lifestyle&Inspiration/Inspiration/Article3.png",
   showSocialIcons: true,
   content: `<b>10 love songs for your Valentine's playlist</b><br>
 <i>Songs that make you swoon</i><br><br>
 
-It’s Valentine’s Day, the most romantic day of the year! Here are 10 swoon-worthy love songs for your playlist. You can also listen to them on Bedsiderr’s Spotify or YouTube channel!<br><br>
+It's Valentine's Day, the most romantic day of the year! Here are 10 swoon-worthy love songs for your playlist. You can also listen to them on Bedsiderr's Spotify or YouTube channel!<br><br>
 
-<b>1. “See You Again (feat. Kali Uchis)” by Tyler, The Creator</b><br>
-“I wonder if you look both ways when you cross my mind.”<br>
-In this ballad, Tyler fantasizes about his dream lover and wonders if they’ll ever meet.<br>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/PLACEHOLDER1" frameborder="0" allowfullscreen></iframe><br><br>
+<b>1. "See You Again (feat. Kali Uchis)" by Tyler, The Creator</b><br>
+"I wonder if you look both ways when you cross my mind."<br>
+In this ballad, Tyler fantasizes about his dream lover and wonders if they'll ever meet.<br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/NmvVhovjJI0?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>2. “Red Wine Supernova” by Chappell Roan</b><br>
-“I heard you like magic? I got a wand and a rabbit!”<br>
+<b>2. "Red Wine Supernova" by Chappell Roan</b><br>
+"I heard you like magic? I got a wand and a rabbit!"<br>
 This cheeky pop song invites a situationship over for some fun.<br>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/PLACEHOLDER2" frameborder="0" allowfullscreen></iframe><br><br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/VS6ixn2berk?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>3. “Call Me Please” by jomm</b><br>
-“I want you to spend some time with me, nobody else, just you and me.”<br>
+<b>3. "Call Me Please" by jomm</b><br>
+"I want you to spend some time with me, nobody else, just you and me."<br>
 Ever waited by the phone? This artist sure has!<br>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/PLACEHOLDER3" frameborder="0" allowfullscreen></iframe><br><br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/jmoeucA1mfs?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>4. “Can’t Get Out Of This Mood” by Samara Joy</b><br>
-“Last night your lips were too appealing.”<br>
+<b>4. "Can't Get Out Of This Mood" by Samara Joy</b><br>
+"Last night your lips were too appealing."<br>
 A jazzy ode to falling in love despite hesitation.<br>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/PLACEHOLDER4" frameborder="0" allowfullscreen></iframe><br><br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/HxgSzKd-teI?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>5. “The Only Exception” by Paramore</b><br>
-“But darling, you are the only exception.”<br>
+<b>5. "The Only Exception" by Paramore</b><br>
+"But darling, you are the only exception."<br>
 This tearjerker explores love despite heartbreak.<br>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/PLACEHOLDER5" frameborder="0" allowfullscreen></iframe><br><br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/-J7J_IWUhls?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>6. “Butterflies” by Kacey Musgraves</b><br>
-“I was hiding in doubt until you brought me out of my chrysalis.”<br>
+<b>6. "Butterflies" by Kacey Musgraves</b><br>
+"I was hiding in doubt until you brought me out of my chrysalis."<br>
 A country star finds love that lifts her up.<br>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/PLACEHOLDER6" frameborder="0" allowfullscreen></iframe><br><br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/BM5Xa1FvNQQ?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>7. “We Might Even Be Falling In Love (Duet)” by Victoria Monét</b><br>
-“And it feels like I’m gonna know you for the rest of my life.”<br>
+<b>7. "We Might Even Be Falling In Love (Duet)" by Victoria Monét</b><br>
+"And it feels like I'm gonna know you for the rest of my life."<br>
 A slow dance-worthy duet with Bryson Tiller.<br>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/PLACEHOLDER7" frameborder="0" allowfullscreen></iframe><br><br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/N95G82SpCFE?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>8. “All I See Is Him” by Jude York</b><br>
-“He’s like a 4 AM sunrise, lights up every room.”<br>
+<b>8. "All I See Is Him" by Jude York</b><br>
+"He's like a 4 AM sunrise, lights up every room."<br>
 A heartfelt wedding song written for a fan.<br>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/PLACEHOLDER8" frameborder="0" allowfullscreen></iframe><br><br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/cCB5fLGV8B4?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>9. “Francesca” by Hozier</b><br>
-“How could you think, darlin’, I’d scare so easily?”<br>
-Inspired by Dante’s Inferno, Hozier sings of eternal love.<br>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/PLACEHOLDER9" frameborder="0" allowfullscreen></iframe><br><br>
+<b>9. "Francesca" by Hozier</b><br>
+"How could you think, darlin', I'd scare so easily?"<br>
+Inspired by Dante's Inferno, Hozier sings of eternal love.<br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/K1u_hL11auM?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>10. “Die With A Smile” by Lady Gaga & Bruno Mars</b><br>
-“If the world was ending I’d wanna be next to you.”<br>
-A 1950s-style ballad about spending life’s final moments together.<br>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/PLACEHOLDER10" frameborder="0" allowfullscreen></iframe><br>
+<b>10. "Die With A Smile" by Lady Gaga & Bruno Mars</b><br>
+"If the world was ending I'd wanna be next to you."<br>
+A 1950s-style ballad about spending life's final moments together.<br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/kPa7bsKwL-c?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br>
 `
 }
 ,
@@ -229,7 +229,7 @@ A 1950s-style ballad about spending life’s final moments together.<br>
   author: "",
   date: "Jan 24, 2025",
   updated: "",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3hyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--411c623fc9b41fe4b4fd30be26894d80d86b54e8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/level%20up%202025.jpg",
+  image: "/Lifestyle&Inspiration/Inspiration/Article4.png",
   showSocialIcons: true,
   content: `<b>3 ways to level up your successes in 2025</b><br>
 <i>New year, same you! In a higher resolution</i><br><br>
@@ -262,7 +262,7 @@ Of course, there might be other things about 2024 that you wouldn’t mind conti
   author: "",
   date: "Jan 17, 2025",
   updated: "",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2hyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0b28ef871c6445e7d77ae9544bdd23a338a1adbd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/couple%20at%20cabin%20kissing.jpg",
+  image: "/Lifestyle&Inspiration/Inspiration/Article5.png",
   showSocialIcons: true,
   content: `<b>3 ways you and your partner can make cabin fever even hotter</b><br>
 <i>It’s time to get creative, babes</i><br><br>
@@ -330,7 +330,7 @@ export const InspirationarticlesTwo = [
         subtitle: "It's a lot!",
 
     image:
-      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcTVvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c90c448aa87da364dd833111194c851e81a0dbfa/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1254527459.jpg",
+      "/Lifestyle&Inspiration/Inspiration/Article6.png",
     hasQuestionPattern: false,
   },
   {
@@ -340,7 +340,7 @@ export const InspirationarticlesTwo = [
         subtitle: "Get ready for the Pink Pony Club",
 
     image:
-      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBblZvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e4b1f975de7f2674feceecb0c7e3f4d7a4af3e9f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/club.jpg",
+      "/Lifestyle&Inspiration/Inspiration/Article7.png",
     hasQuestionPattern: false,
   },
   {
@@ -349,7 +349,7 @@ export const InspirationarticlesTwo = [
     title: "An introvert's guide to going out",
     subtitle: "It's okay to be a wallflower",
     image:
-      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUpvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ba1a377611f88cd755ccc43a2a0133f8664ff4d2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/introvert's%20guide.jpg",
+      "/Lifestyle&Inspiration/Inspiration/Article8.png",
     hasQuestionPattern: false,
   },
   
@@ -358,7 +358,7 @@ export const InspirationarticlesTwo = [
     category: " Inspiration",
     title: "5 things to do for Pride besides partying",
     subtitle: "Parties and parades aren’t the only way to celebrate",
-    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1JvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--92bb042d98ef262b9af44e00af41edb67811c8d8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Gay%20hands.jpg",
+    image: "/Lifestyle&Inspiration/Inspiration/Article9.png",
     hasQuestionPattern: false,
   },
 {
@@ -367,7 +367,7 @@ export const InspirationarticlesTwo = [
     title: "Summer, here we come!",
     subtitle:
       "It's never too early to start celebrating the sexiest season",
-    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakZvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--70d05472def1031e2e20a64697739125f05438e3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1640093094.jpg",
+    image: "/Lifestyle&Inspiration/Inspiration/Article10.png",
     hasQuestionPattern: false,
   }
 ];
@@ -390,7 +390,7 @@ export const InspirationarticleContentsTwo = {
   author: "",
   date: "Aug 23, 2024",
   updated: "",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcTVvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c90c448aa87da364dd833111194c851e81a0dbfa/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1254527459.jpg",
+  image: "/Lifestyle&Inspiration/Inspiration/Article6.png",
   showSocialIcons: true,
   content: `Yep, it’s a lot like the American one, but these particular fools have British accents. Which does help a little to be honest. But the accents don’t stop things from getting REAL awkward on <i>Love Is Blind UK</i>. Here are the five absolute worst (aka best) moments:<br><br>
 
@@ -421,85 +421,84 @@ So, all in all, kind of boring.
     author: "",
     date: "Aug 02, 2024",
     updated: "",
-    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBblZvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e4b1f975de7f2674feceecb0c7e3f4d7a4af3e9f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/club.jpg",
+    image: "/Lifestyle&Inspiration/Inspiration/Article7.png",
     showSocialIcons: true,
-    content: `2024 has seen a rise of Sapphic pop artists in the mainstream. From Chappell Roan to Amaarae, these musicians are loud, proud, and driving all the girls wild! Summer’s not over yet, so here’s 15 songs to ride out the rest of the season. You can listen to this playlist on Bedsiderr’s official Spotify account!<br><br>
+    content: `2024 has seen a rise of Sapphic pop artists in the mainstream. From Chappell Roan to Amaarae, these musicians are loud, proud, and driving all the girls wild! Summer's not over yet, so here's 15 songs to ride out the rest of the season. You can listen to this playlist on Bedsiderr's official Spotify account!<br><br>
 
-<b>1. “LUNCH” by Billie Eilish</b><br>
-“It’s a craving, not a crush.”<br>
-Eilish took the term “eating someone out” literally, saying that the girl she’s seeing tastes like she might be the one for her.<br>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID" frameborder="0" allowfullscreen></iframe><br><br>
+<b>1. "LUNCH" by Billie Eilish</b><br>
+"It's a craving, not a crush."<br>
+Eilish took the term "eating someone out" literally, saying that the girl she's seeing tastes like she might be the one for her.<br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/MB3VkzPdgLA?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>2. “Naked in Manhattan” by Chappell Roan</b><br>
-“An inch away from more than just friends.”<br>
+<b>2. "Naked in Manhattan" by Chappell Roan</b><br>
+"An inch away from more than just friends."<br>
 This midwest princess reminisces about falling in love and having sex for the first time.<br>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID" frameborder="0" allowfullscreen></iframe><br><br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/nXZuv1T8bfg?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>3. “After Hours” by Kehlani</b><br>
-“You ain’t gotta go, you can stay for a little while.”<br>
+<b>3. "After Hours" by Kehlani</b><br>
+"You ain't gotta go, you can stay for a little while."<br>
 Kehlani is not afraid to ask someone to stay after the party is over.<br>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID" frameborder="0" allowfullscreen></iframe><br><br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/6qatTTscK4c?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>4. “For the girls” by Hayley Kiyoko</b><br>
-“Take a dip, join the fun.”<br>
+<b>4. "For the girls" by Hayley Kiyoko</b><br>
+"Take a dip, join the fun."<br>
 This upbeat bop is a celebration of girls coming together and having some sweet summer fun.<br>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID" frameborder="0" allowfullscreen></iframe><br><br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/mu-yapbIpoY?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>5. “Blush” by Siena Liggins</b><br>
-“Do you need to catch your breath? It’s okay if you say yes.”<br>
-Liggins can’t help teasing her crush. There’s nothing better than making a cute girl blush.<br>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID" frameborder="0" allowfullscreen></iframe><br><br>
+<b>5. "Blush" by Siena Liggins</b><br>
+"Do you need to catch your breath? It's okay if you say yes."<br>
+Liggins can't help teasing her crush. There's nothing better than making a cute girl blush.<br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/SvVH94bwDns?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>6. “Becky’s So Hot” by FLETCHER</b><br>
-“She’s the one I should hate, but I wanna know how she tastes.”<br>
-Jealousy and infatuation go hand in hand in this pop rock song about an ex’s new girlfriend.<br>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID" frameborder="0" allowfullscreen></iframe><br><br>
+<b>6. "Becky's So Hot" by FLETCHER</b><br>
+"She's the one I should hate, but I wanna know how she tastes."<br>
+Jealousy and infatuation go hand in hand in this pop rock song about an ex's new girlfriend.<br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/98CpVsXyQhE?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>7. “All My Girls Like To Fight” by Hope Tala</b><br>
-“Ghost of all my old lovers around, be quiet, don’t make a sound.”<br>
+<b>7. "All My Girls Like To Fight" by Hope Tala</b><br>
+"Ghost of all my old lovers around, be quiet, don't make a sound."<br>
 This artist likes her girls scrappy—you might have to fight all her exes to win her heart.<br>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID" frameborder="0" allowfullscreen></iframe><br><br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/FWme81uDHiw?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>8. “This Hell” by Rina Sawayama</b><br>
-“We’re burning up together baby, that makes two.”<br>
-A cheeky bop poking fun at the idea that being LGBTQ+ is a sin. If gays go to hell, it’s gonna be lit! 🔥<br>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID" frameborder="0" allowfullscreen></iframe><br><br>
+<b>8. "This Hell" by Rina Sawayama</b><br>
+"We're burning up together baby, that makes two."<br>
+A cheeky bop poking fun at the idea that being LGBTQ+ is a sin. If gays go to hell, it's gonna be lit! 🔥<br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ekauErew4Bs?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>9. “Lipstick Lover” by Janelle Monáe</b><br>
-”I’ll do anything for my lipstick lover.”<br>
+<b>9. "Lipstick Lover" by Janelle Monáe</b><br>
+"I'll do anything for my lipstick lover."<br>
 Perfect to vibe to by the poolside while Janelle drops bars from *The Age of Pleasure*.<br>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID" frameborder="0" allowfullscreen></iframe><br><br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Y7S6wLP_vsY?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>10. “Vest & Boxers” by Lava La Rue</b><br>
-”I can be the Rue to your Jules.”<br>
+<b>10. "Vest & Boxers" by Lava La Rue</b><br>
+"I can be the Rue to your Jules."<br>
 Lava La Rue is catching feelings—but does her girl feel the same way?<br>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID" frameborder="0" allowfullscreen></iframe><br><br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/dFv6JJf41wE?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>11. “PAIN” by King Princess</b><br>
-“‘Cause I can’t help turning my love into pain.”<br>
+<b>11. "PAIN" by King Princess</b><br>
+"'Cause I can't help turning my love into pain."<br>
 King Princess dives into insecurity and abandonment in this banger.<br>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID" frameborder="0" allowfullscreen></iframe><br><br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/NG3LPrqNStM?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>12. “What I Want” by Muna</b><br>
-“I want the fireworks, I want the chemistry, I want that girl right over there to want to date me.”<br>
+<b>12. "What I Want" by Muna</b><br>
+"I want the fireworks, I want the chemistry, I want that girl right over there to want to date me."<br>
 A club-ready anthem of self-acceptance and going after what you want.<br>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID" frameborder="0" allowfullscreen></iframe><br><br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ysQl74R_Tog?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>13. “Co-Star” by Amaarae</b><br>
-”Baby, what’s your sign?”<br>
+<b>13. "Co-Star" by Amaarae</b><br>
+"Baby, what's your sign?"<br>
 Looking for a summer fling? Amaarae is letting the stars guide her to the right girl.<br>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID" frameborder="0" allowfullscreen></iframe><br><br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/4Dk21erUpvw?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>14. “More Than A Friend” by girli</b><br>
-“I have you close but I want more, I want your t-shirt on the floor.”<br>
+<b>14. "More Than A Friend" by girli</b><br>
+"I have you close but I want more, I want your t-shirt on the floor."<br>
 An honest take on crushing hard on your bestie.<br>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID" frameborder="0" allowfullscreen></iframe><br><br>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/qAcD6sIt7lc?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>
 
-<b>15. “girl ur so pretty” by Ambar Lucid</b><br>
-“I won’t disappoint I swear, I’m not playing games, this ain’t truth or dare.”<br>
+<b>15. "girl ur so pretty" by Ambar Lucid</b><br>
+"I won't disappoint I swear, I'm not playing games, this ain't truth or dare."<br>
 Lucid shoots her shot in this dreamy, direct confession to a pretty girl.<br>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID" frameborder="0" allowfullscreen></iframe><br><br>
-`,
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/3Msj5WNcEl0?showinfo=0&rel=0&playsinline=1" frameborder="0" allowfullscreen></iframe><br><br>`,
   },
 
  
@@ -510,7 +509,7 @@ Lucid shoots her shot in this dreamy, direct confession to a pretty girl.<br>
   author: "By Jordan Purcell ",
   date: "Jul 12, 2024",
   updated: "",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUpvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ba1a377611f88cd755ccc43a2a0133f8664ff4d2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/introvert's%20guide.jpg",
+  image: "/Lifestyle&Inspiration/Inspiration/Article8.png",
   showSocialIcons: true,
   content: `Going out can be intimidating, especially when staying home in a teddy bear onesie and watching Netflix sounds really great. But variety is the spice of life! Getting out of your comfort zone and having new experiences can be a great way to meet new friends, find a new favorite spot, or simply have an occasion to put on a cute outfit. Whether you’re hanging out with friends or flying solo, here are some tips for going out as an introvert.<br><br>
 
@@ -552,7 +551,7 @@ You got this!<br><br>
   author: "By Jordan Purcell ",
   date: "Jun 07, 2024",
   updated: "",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1JvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--92bb042d98ef262b9af44e00af41edb67811c8d8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Gay%20hands.jpg",
+  image: "/Lifestyle&Inspiration/Inspiration/Article9.png",
   showSocialIcons: true,
   content: `<b>Want to celebrate Pride but not really a party person?</b><br><br>
 Here are five ways to show your support for the LGBTQ+ community that don’t involve going to the club or dealing with huge crowds.<br><br>
@@ -597,7 +596,7 @@ With
   author: "",
   date: "May 24, 2024",
   updated: "",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakZvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--70d05472def1031e2e20a64697739125f05438e3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1640093094.jpg",
+  image: "/Lifestyle&Inspiration/Inspiration/Article10.png",
   showSocialIcons: true,
   content: `<b>While summer doesn’t technically start for another month, we consider Memorial Day its unofficial beginning.</b><br><br>
 And this year, we’re kicking off the season with a collection of some of our favorite articles about summer:<br><br>
