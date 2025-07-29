@@ -5,7 +5,7 @@ export const Horoscopearticles = [
     title: "May 2025 horoscopes: Get ready for some springtime fun",
       subtitle: "It’s gonna be May",
     image:
-      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbzFzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a98f3f46d7d1371be8c767f9aa8cc3fa6c52bf02/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Taurus1280x672.jpg",
+      "/Lifestyle&Inspiration/Horoscope/Article1.png",
     hasQuestionPattern: false,
   },
   {
@@ -15,7 +15,7 @@ export const Horoscopearticles = [
       "April 2025 horoscopes: Warm days, hot nights",
         subtitle: "Happy Aries season!",
     image:
-      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazlzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cb302c2e6b9b6cde4200c1772cbf3064a2236420/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Aries1280-672.jpg",
+      "/Lifestyle&Inspiration/Horoscope/Article2.png",
     hasQuestionPattern: false,
   },
   {
@@ -24,7 +24,7 @@ export const Horoscopearticles = [
     title: "March 2025 horoscopes: Reconnect with your pleasures",
     subtitle: "It's pisces season",
     image:
-      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdXhyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--98f87c2756753201e6c7390921942f5397699bf7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Pisces1280x672.jpg",
+      "/Lifestyle&Inspiration/Horoscope/Article3.png",
     hasQuestionPattern: false,
   },
   {
@@ -33,7 +33,7 @@ export const Horoscopearticles = [
     title: "February 2025 horoscopes: Turn fantasies into reality",
     subtitle:
       "Happy birthday, Aquarius!",
-    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcHRyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--72c11c03c9ba99539855959d83db85283862c71e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Aquarius-rectangular-static-1280x672.jpg",
+    image: "/Lifestyle&Inspiration/Horoscope/Article4.png",
     hasQuestionPattern: false,
   },
   {
@@ -41,7 +41,7 @@ export const Horoscopearticles = [
     category: "Horoscope",
     title: "Your 2025 horoscopes: A new chapter awaits!",
     subtitle: "Welcome new opportunities for love, reflection, and growth",
-    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHRyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7cd99dbd363566f24c6b7de3fe4123c4ffdf790c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-2183055972.jpg",
+    image: "/Lifestyle&Inspiration/Horoscope/Article5.png",
     hasQuestionPattern: false,
   },
   
@@ -65,7 +65,7 @@ export const HoroscopearticleContents = {
   author: "",
   date: "Apr 25, 2025",
   updated: "",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbzFzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a98f3f46d7d1371be8c767f9aa8cc3fa6c52bf02/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Taurus1280x672.jpg",
+  image: "/Lifestyle&Inspiration/Horoscope/Article1.png",
   showSocialIcons: true,
   content: `<b>The sensual vibes of Taurus season are reigning supreme during the first few weeks of May, but there’s still a whole lot of spiciness going on that promises red-hot sparks of passion in everyone’s love life.</b><br><br>
 
@@ -114,7 +114,7 @@ You’re attracting love and attention everywhere you go right now, thanks to al
   author: "",
   date: "Mar 28, 2025",
   updated: "",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazlzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cb302c2e6b9b6cde4200c1772cbf3064a2236420/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Aries1280-672.jpg",
+  image: "/Lifestyle&Inspiration/Horoscope/Article2.png",
   showSocialIcons: true,
   content: `<b>Spring has sprung</b>, so shake off the lingering chill of any cuffing season misfires and start embracing the refreshing and sensual magic of this brand new season.<br><br>
 
@@ -165,7 +165,7 @@ Both Venus and Mercury are retrograding in your sign as the month begins, so whi
   author: "",
   date: "Feb 28, 2025",
   updated: "",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdXhyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--98f87c2756753201e6c7390921942f5397699bf7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Pisces1280x672.jpg",
+  image: "/Lifestyle&Inspiration/Horoscope/Article3.png",
   showSocialIcons: true,
   content: `<b>Big things are happening in the cosmos this month</b>, so get ready for some titillating twists and turns that’ll affect love, sex, and beyond.<br><br>
 
@@ -217,7 +217,7 @@ Love has a way of getting us lost in thought, so try to let your body do the tal
   author: "",
   date: "Jan 31, 2025",
   updated: "",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcHRyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--72c11c03c9ba99539855959d83db85283862c71e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Aquarius-rectangular-static-1280x672.jpg",
+  image: "/Lifestyle&Inspiration/Horoscope/Article4.png",
   showSocialIcons: true,
   content: `<b>Valentine’s Day is coming up</b>, and this February’s astrology is as sweet as a heart-shaped box of chocolates. The first week of the month brings a mystical, once-in-a-lifetime alignment of cosmic energies that can connect you with your destiny and turn fantasies into reality. A red-hot full moon two days before Valentine’s Day sets the stage for a passion-fueled celebration. And after nearly three months of backspinning, Mars, which represents energy, action, and desire, finally ends its retrograde on February 23rd, promising higher libidos, more confidence, and a deeper connection to your inner desires.<br><br>
 
@@ -264,7 +264,7 @@ Sensual energy is buzzing during the first half of the month, and you’ll also 
   author: "",
   date: "Dec 27, 2024",
   updated: "",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHRyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7cd99dbd363566f24c6b7de3fe4123c4ffdf790c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-2183055972.jpg",
+  image: "/Lifestyle&Inspiration/Horoscope/Article5.png",
   showSocialIcons: true,
   content: `<b>Happy new year!</b><br>
 The astrology of 2024 imparted us with some important revelations of the heart, inspiring us to reconnect with our passions and ditch the relationship patterns that were holding us back. And in 2025, it’s time to take that red-hot confidence and charge ahead into the unknown. With both romance planet Venus and sex planet Mars retrograding this year, there’s plenty of opportunity for growth and reflection in our love lives. And with virtually every major planet switching signs, old storylines are coming to a close, while titillating new chapters are being written.<br><br>
@@ -461,7 +461,7 @@ export const HoroscopearticlesTwo = [
         subtitle: "It's Scorpio season",
 
     image:
-      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazFwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9e21bb976eea05e5cedc285c67f0075da6d11908/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Scorpio1280x672.jpg",
+      "/Lifestyle&Inspiration/Horoscope/Article6.png",
     hasQuestionPattern: false,
   },
   {
@@ -471,7 +471,7 @@ export const HoroscopearticlesTwo = [
       subtitle: "Happy birthday, Libra!",
 
     image:
-      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEJvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fc3c888b316bf9810a5c21c642080694f6f897a0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Libra1280x672.jpg",
+      "/Lifestyle&Inspiration/Horoscope/Article7.png",
     hasQuestionPattern: false,
   },
   
@@ -481,7 +481,7 @@ export const HoroscopearticlesTwo = [
     category: " Horoscope",
     title: "September 2024 horoscopes: Fall is bringing the heat!",
     subtitle: "Start putting the spice in pumpkin spice",
-    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmRvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--775806631fcd859c37d5ee1922736e470c6e443b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Virgo1280x672.jpg",
+    image: "/Lifestyle&Inspiration/Horoscope/Article8.png",
     hasQuestionPattern: false,
   },
 
@@ -491,7 +491,7 @@ export const HoroscopearticlesTwo = [
     title: "August 2024 horoscopes: Look out for miscommunications and old flames",
     subtitle:
       "Summer sparks could fly",
-    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbTlvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--28302f250636a9540762ba7550e753418d8a4d4d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Leo1280x672%20(1).jpg",
+    image: "/Lifestyle&Inspiration/Horoscope/Article9.png",
     hasQuestionPattern: false,
   },
   {
@@ -500,7 +500,7 @@ export const HoroscopearticlesTwo = [
     title: "July 2024 horoscopes: Lean into summer flirtations",
     subtitle:
       "It's cancer season",
-    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbFZvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b009cfb0c8c0f05702a50501392b9a95e247cbff/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Cancer1280x672.jpg",
+    image: "/Lifestyle&Inspiration/Horoscope/Article10.png",
     hasQuestionPattern: false,
   },
   
@@ -524,7 +524,7 @@ export const HoroscopearticleContentsTwo = {
   author: "",
   date: "Oct 25, 2024",
   updated: "",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazFwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9e21bb976eea05e5cedc285c67f0075da6d11908/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Scorpio1280x672.jpg",
+  image: "/Lifestyle&Inspiration/Horoscope/Article6.png",
   showSocialIcons: true,
   content: `<b>November 2024 horoscopes: Get in touch with your deepest desires</b><br>
 <i>It's Scorpio season</i><br><br>
@@ -587,7 +587,7 @@ The new moon on November 1st is a sensual one, and right now, sex can feel more 
     author: "",
     date: "Sep 27, 2024",
     updated: "",
-    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdEJvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fc3c888b316bf9810a5c21c642080694f6f897a0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Libra1280x672.jpg",
+    image: "/Lifestyle&Inspiration/Horoscope/Article7.png",
     showSocialIcons: true,
     content: `<b>October 2024 horoscopes: Embrace the mysterious energy of spooky season</b><br>
 <i>Happy birthday, Libra!</i><br><br>
@@ -652,7 +652,7 @@ Shake off any self-consciousness under the solar eclipse on October 2nd, as this
   author: "",
   date: "Aug 30, 2024",
   updated: "",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmRvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--775806631fcd859c37d5ee1922736e470c6e443b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Virgo1280x672.jpg",
+  image: "/Lifestyle&Inspiration/Horoscope/Article8.png",
   showSocialIcons: true,
   content: `<b>Romantic planet Venus spends most of September in its flirty home-base sign of Libra</b><br>
 So partnerships are getting a juicy late-summer glow-up this month. And once Venus enters sultry Scorpio during the autumn equinox on September 22nd, it’ll start putting the spice in pumpkin spice, too. Summer’s ending, but fall is bringing the heat! Just beware of sudden shake-ups in love, as there’s an emotional lunar eclipse on September 17th—so potential changes of heart are on the horizon for all zodiac signs.<br><br>
@@ -714,7 +714,7 @@ Get lost in sensuality under the new moon on September 2nd, as this earthy lunat
   author: "",
   date: "Jun 28, 2024",
   updated: "",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbFZvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b009cfb0c8c0f05702a50501392b9a95e247cbff/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Cancer1280x672.jpg",
+  image: "/Lifestyle&Inspiration/Horoscope/Article10.png",
   showSocialIcons: true,
   content: `<b>July 2024 horoscopes: Lean into summer flirtations</b><br>
 <i>It's cancer season</i><br><br>
@@ -778,7 +778,7 @@ Sensuality dominates during the first third of the month, so the new moon on Jul
   author: "",
   date: "Jul 26, 2024",
   updated: "Updated: Nov 05, 2020",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbTlvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--28302f250636a9540762ba7550e753418d8a4d4d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Leo1280x672%20(1).jpg",
+  image: "/Lifestyle&Inspiration/Horoscope/Article9.png",
   showSocialIcons: true,
   content: `<b>August 2024 horoscopes: Look out for miscommunications and old flames</b><br>
 <i>Summer sparks could fly</i><br><br>
