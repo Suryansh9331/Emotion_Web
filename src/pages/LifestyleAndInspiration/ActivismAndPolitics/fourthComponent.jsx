@@ -180,7 +180,7 @@ const STILayout = () => {
       <div className="relative rounded-lg overflow-hidden min-h-[400px] md:min-h-[600px] flex flex-col justify-center items-center p-8">
         {/* Background image with brightness filter */}
         <img
-          src="https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3RyIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cc25af86a0f7cfb2d0c4a340aff498d007f2960e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/hand%20holding%20protest%20sign.jpg"
+          src="/Lifestyle&Inspiration/Activism&Politics/Banner1.png"
           alt=""
           className="absolute inset-0 w-full h-full object-cover filter brightness-50"
         />
