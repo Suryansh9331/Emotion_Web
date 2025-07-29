@@ -511,11 +511,11 @@ return (
         </div>
 
         {/* Compare Methods Button */}
-        <div className="text-center lg:mt-22">
+        {/* <div className="text-center lg:mt-22">
           <button className="bg-[#028388] text-white px-6 py-3 rounded-md font-medium hover:bg-teal-700 transition-colors duration-200 text-sm">
             compare methods
           </button>
-        </div>
+        </div> */}
       </div>
     </div>
   )};

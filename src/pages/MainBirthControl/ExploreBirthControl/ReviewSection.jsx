@@ -7,21 +7,21 @@ const BirthControlReviews = () => {
       id: 1,
       category: "CONDOM",
       title: "Why use condoms?",
-      image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmdWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--df0163ef84bb955af19a8d40572928b3a08ebc8c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/1031.jpg",
+      image: "/10-reasons-you-should-be-using-condoms.png",
       url: "/birth-control/reviews"
     },
     {
       id: 2,
       category: "SEXUALLY TRANSMITTED INFECTIONS (STDS, STIS)",
       title: "How do you protect against STIs?",
-      image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdndWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e8c32577ae4a7fef4f9fc775e797070bb3f18e25/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/1029.jpg",
+      image: "/OIP.webp",
       url: "/birth-control/reviews"
     },
     {
       id: 3,
       category: "IUD",
       title: "Ellie, 27, IUD",
-      image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzRXIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7a51c8a7b073b2045a9469eab7cb726b719279ef/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/1010.jpg",
+      image: "/download.webp",
       url: "/birth-control/reviews"
     }
   ];

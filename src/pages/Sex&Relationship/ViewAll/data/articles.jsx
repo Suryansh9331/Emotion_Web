@@ -49,14 +49,6 @@ export const ViewAllarticles = [
 
 
 
-
-
-
-
-
-
-
-
 // Full article contents, keyed by slug
 export const ViewAllarticleContents = {
  "how-to-tell-your-provider-that-you-re-polyamorous": {

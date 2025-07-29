@@ -5,9 +5,9 @@ export const RSarticles = [
     title: "How to tell your provider that you’re polyamorous",
       subtitle: "5 tips for getting through the awkwardness to get the best care possible",
     image:
-      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWRvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ad46886c0f120f378d0d93710e1f6b611db21443/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Patient%20talk%20with%20doctor.jpghttps://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWRvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ad46886c0f120f378d0d93710e1f6b611db21443/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Patient%20talk%20with%20doctor.jpg",
+      "/SexAndRelationship/imgi_7_broken heart.jpg",
     hasQuestionPattern: false,
-  },
+  },  
   {
     slug: "sexual-health-services-you-can-get-from-the-comfort-of-your-own-home",
     category: "Health care",
@@ -15,7 +15,7 @@ export const RSarticles = [
       "7 sexual health services you can get from the comfort of your own home",
         subtitle: "Telehealth can make your life so much easier",
     image:
-      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjRVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bed2cccb37e1772149686042339cd81d367a0d72/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-726775319.jpg",
+      "/SexAndRelationship/imgi_10_5 reasons why your single era might be your best-2.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -41,19 +41,10 @@ export const RSarticles = [
     category: "Health care",
     title: "Choosing a (new) health care provider",
     subtitle: "Keep these questions in mind",
-    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdUZCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--735724c4250dfa90e0f08a9ce768e493bf9630bb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/cropped%20patient%20final%20.jpg",
+    image: "",
     hasQuestionPattern: false,
   },
-  
-];
-
-
-
-
-
-
-
-
+];    
 
 
 
@@ -354,7 +345,7 @@ export const RSarticlesTwo = [
         subtitle: "Using the principles of explicit consent to give patients better care",
 
     image:
-      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3NVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a64108d6732330dc40d38bd75effbb42a4749a69/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-958559804.jpg",
+      "/SexAndRelationship/imgi_5_forever_cover_image.jpg",
     hasQuestionPattern: false,
   },
   {

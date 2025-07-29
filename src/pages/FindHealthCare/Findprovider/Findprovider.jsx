@@ -110,7 +110,7 @@ export default function Findprovider() {
           </h2>
           
           {/* Add health center button */}
-          <button 
+          <h2 
             className="inline-flex items-center px-6 py-3 border-2 font-medium rounded-md transition-all duration-200 focus:outline-none"
             style={{ 
               borderColor: '#028388',
@@ -129,7 +129,7 @@ export default function Findprovider() {
             <svg className="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
             </svg>
-          </button>
+          </h2>
           
           {/* Disclaimer text */}
           <div className="mt-12 max-w-3xl mx-auto" >

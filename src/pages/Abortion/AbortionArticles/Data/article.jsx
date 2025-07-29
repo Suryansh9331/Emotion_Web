@@ -6,7 +6,7 @@ export const Abortionarticles = [
     subtitle: null,
 
     image:
-      "https://www.Bedsiderr.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
+      "/SHW/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
     hasQuestionPattern: false,
   },
   {
@@ -17,7 +17,7 @@ export const Abortionarticles = [
       "",
 
     image:
-      "https://www.Bedsiderr.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
+      "/SHW/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
     hasQuestionPattern: false,
   },
   {
@@ -26,7 +26,7 @@ export const Abortionarticles = [
     title: "Can I be sedated if I’m getting an abortion procedure?",
     
     image:
-      "https://www.Bedsiderr.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
+      "/SHW/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
     hasQuestionPattern: false,
   },
   {
@@ -35,7 +35,7 @@ export const Abortionarticles = [
     title: "What does “viability” mean?",
     subtitle: "",
     image:
-      "https://www.Bedsiderr.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
+      "/SHW/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
     hasQuestionPattern: false,
   },
  
@@ -45,7 +45,7 @@ export const Abortionarticles = [
     title: "Why Thanks, Birth Control Day matters more than ever this year",
     subtitle: "And how to make it the best ever",
     image:
-      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBclZtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--40d64ec17fc70e3aa68e7022283b4635b8171f47/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-523793550%20(1).jpg",
+      "/bithcontrolarticle/imgi_33_GettyImages-523793550 (1).jpg",
     hasQuestionPattern: false,
   },
   {
@@ -54,7 +54,7 @@ export const Abortionarticles = [
     title: "Six things you can do to help on the one-year anniversary of Roe v. Wade being overturned",
     subtitle: "Don’t give up, we still need your help!",
     image:
-      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFZqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e040c2c66563581eee58f9158470d70960f4ed3a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1241532935.jpg",
+      "/Abortion/imgi_6_GettyImages-1241532935.jpg",
     hasQuestionPattern: false,
   },
  
@@ -64,7 +64,7 @@ export const Abortionarticles = [
     title: "Mourning while celebrating the 50th anniversary of Roe v. Wade",
     subtitle: "A bittersweet reminder of what we had and all we’ve lost",
     image:
-      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmhmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--864bf44a0e3f4c6a91495b3a93dbd6a7310f7076/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1047330148.jpg",
+      "/Abortion/imgi_7_GettyImages-1047330148.jpg",
     hasQuestionPattern: false,
   },
    {
@@ -73,7 +73,7 @@ export const Abortionarticles = [
     title: "Can I start Opill right after having an abortion?",
     subtitle: "I'm having irregular bleeding with a progestin-only birth control method.",
     image:
-      "https://www.Bedsiderr.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
+      "/Abortion/imgi_8_GettyImages-879057644.jpg",
     hasQuestionPattern: false,
   },
 ];
@@ -156,7 +156,7 @@ If you have a medication abortion (sometimes called “the abortion pill”), yo
     date: "Nov 10, 2023",
     updated: "",
     image:
-      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBclZtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--40d64ec17fc70e3aa68e7022283b4635b8171f47/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-523793550%20(1).jpg",
+      "/bithcontrolarticle/imgi_33_GettyImages-523793550 (1).jpg",
     showSocialIcons: true,
     content: `
 <b>Why This Year Matters More Than Ever</b><br><br>
@@ -207,7 +207,7 @@ Through collective action—whether by voting, donating, volunteering, or simply
     date: "Jun 23, 2023",
     updated: "",
     image:
-      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFZqIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e040c2c66563581eee58f9158470d70960f4ed3a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1241532935.jpg",
+      "/Abortion/imgi_6_GettyImages-1241532935.jpg",
     showSocialIcons: true,
     content: `
 <b>One Year Since Roe v. Wade Was Overturned</b><br><br>
@@ -232,7 +232,7 @@ If you know someone who needs an abortion—especially in a restricted state—t
 <b>3. Buy AbortionFinder Merch</b><br>
 Show your support and spread awareness by purchasing merch like our tote bag. Check out the store for more items to wear proudly.<br><br>
 
-<img src="https://www.Bedsiderr.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdE5qIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--180037861e7bf7a1ff65208094180cf670d21972/PTD246.png" alt="AbortionFinder Merch" class="w-full h-auto mb-4"><br><br>
+<img src="/Abortion/PTD246.png" alt="AbortionFinder Merch" class="w-full h-auto mb-4"><br><br>
 <b>4. Post on Social Media</b><br>
 We’ve made it easy. Just share one of our graphics and tag @AbortionFinder. Your post helps raise awareness and support the fight.<br><br>
 
@@ -254,7 +254,7 @@ There’s still a long road ahead, and we need your help. Don’t give up—we c
     date: "Jan 20, 2023",
     updated: "",
     image:
-      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmhmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--864bf44a0e3f4c6a91495b3a93dbd6a7310f7076/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1047330148.jpg",
+      "/Abortion/imgi_7_GettyImages-1047330148.jpg",
     showSocialIcons: true,
     content: `What should’ve been a moment of pure celebration—the 50th anniversary of Roe v. Wade, which is this Sunday, January 22—has become an occasion for mourning as well as bittersweet reflection on what this landmark case brought us over almost 50 years.
 <br>

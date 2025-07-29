@@ -1,14 +1,11 @@
 export const BCarticles = [
- 
-  
-  
-    {
+  {
     slug: "2816-20-ways-otc-birth-control-pills-change-the-game",
     category: "Birth control pill",
     title: "20 ways OTC birth control pills change the game",
       subtitle: "Spoiler alert: life can get a whole lot easier",
     image:
-      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3RzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d374812c15c14c24245a14b9657410e66c231ef/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/reproductive-health-supplies-coalition-bymICwLq-E4-unsplash.jpg",
+      "/bithcontrolarticle/imgi_26_stefanie-jockschat-L5VKK2lNcqA-unsplash.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -18,7 +15,7 @@ export const BCarticles = [
       "Lorde is answering our birth control prayers",
         subtitle: "IUDs have the spotlight in Lorde’s summer album, and we’re so here for it!",
     image:
-      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc05zIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--64f67c90215b1ee616ce25a192b70c5127870bc5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/reproductive-health-supplies-coalition-cHrcHdg2H9E-unsplash%20(1).jpg",
+      "/bithcontrolarticle/imgi_27_provider_perspectives_header-44b4f94e01ec610c3de2b52585ef601d43bb8196a7253ae8e24896c8838e380a.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -27,7 +24,7 @@ export const BCarticles = [
     title: "12 years and counting",
     subtitle: "We're saying Thanks, Birth Control! louder than ever this year",
     image:
-      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBckZwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dad169b9fef0430c0279978cab09c82d689e9ef9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/230912_PTD_CapitolHill-04c.jpg",
+      "/bithcontrolarticle/imgi_30_230912_PTD_CapitolHill-04c.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -36,7 +33,7 @@ export const BCarticles = [
     title: "Everything you need to know about Opill, the new over-the-counter birth control pill",
     subtitle: 
       "Now in stores!",
-    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcGhuIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a1fda66b611193a31b4bb5cc47e7f859cdcc435f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Screenshot%202024-03-04%20at%208.04.06%20AM.png",
+    image: "/bithcontrolarticle/imgi_33_GettyImages-523793550 (1).jpg",
     hasQuestionPattern: false,
   },
   {
@@ -44,20 +41,10 @@ export const BCarticles = [
     category: "Birth Control",
     title: "All the ways we're saying Thanks, Birth Control! in 2023",
     subtitle: "🎵 Thank you for being a friend 🎵",
-    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1JtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7b95e0f86debbead44da715892c06d6e3ac1f4ef/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1432965106.jpg",
+    image: "/bithcontrolarticle/imgi_28_reproductive-health-supplies-coalition-bymICwLq-E4-unsplash.jpg",
     hasQuestionPattern: false,
   },
-  
 ];
-
-
-
-
-
-
-
-
-
 
 
 // Full article contents, keyed by slug
@@ -68,12 +55,11 @@ export const BCarticleContents = {
   author: "",
   date: "May 09, 2025",
   updated: "",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3RzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d374812c15c14c24245a14b9657410e66c231ef/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/reproductive-health-supplies-coalition-bymICwLq-E4-unsplash.jpg",
+  image: "",
   showSocialIcons: true,
   content: `<h1><b>20 ways OTC birth control pills change the game</b></h1>
 <p><i>Spoiler alert: life can get a whole lot easier</i></p>
 <br>
-
 <p>
   We’ll tell it to you straight: we stan the 
   <a href="#">birth control pill</a> (sometimes called “the pill”). She really has been THAT girl for over 60 years now. 
@@ -162,7 +148,7 @@ export const BCarticleContents = {
   author: "",
   date: "May 02, 2025",
   updated: "",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc05zIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--64f67c90215b1ee616ce25a192b70c5127870bc5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/reproductive-health-supplies-coalition-cHrcHdg2H9E-unsplash%20(1).jpg",
+  image: "/bithcontrolarticle/imgi_28_reproductive-health-supplies-coalition-bymICwLq-E4-unsplash.jpg",
   showSocialIcons: true,
   content: `
 <b>Meg started it all by bringing us hot girl summer 🔥</b><br/><br/>
@@ -214,7 +200,7 @@ That’s cool too. There are tons of other birth control options. Check out our 
   author: "",
   date: "Nov 15, 2024",
   updated: "",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBckZwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dad169b9fef0430c0279978cab09c82d689e9ef9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/230912_PTD_CapitolHill-04c.jpg",
+  image: "/bithcontrolarticle/imgi_30_230912_PTD_CapitolHill-04c.jpg",
   showSocialIcons: true,
   content: `
 It’s our 12th annual #ThxBirthControl Day, and this year, we’re not just grateful—we’re fired up.<br/>
@@ -224,28 +210,28 @@ Because frankly, our lives and our choices are ours to make, not theirs.<br/><br
 Here are some of the reasons we’re saying #ThxBirthControl in 2024, because we won’t stop talking about it and we won’t back down.<br/><br/>
 
 <b>1. Birth control isn’t just about preventing pregnancy.</b><br/>
-<img src="https://www.Bedsiderr.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcE5wIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4ebe10ea8f26439acc661dcbaf66beb915ef38e7/Screenshot%202024-11-14%20at%204.59.28%E2%80%AFPM.png" alt="Birth Control Post 1" class="rounded-md my-4"/><br/>
+<img src="/birth-control-for-everyone-banner-01-2-1024x324.webp" alt="Birth Control Post 1" class="rounded-md my-4"/><br/>
 
 <b>2. No one can tell us what to do with our bodies.</b><br/>
-<img src="https://www.Bedsiderr.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcFpwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6bdb02149af93a7665f509acdcdf0852d340c485/no%20one%20tell%20me%20what%20to%20do.png" alt="Birth Control Post 2" class="rounded-md my-4"/><br/>
+<img src="/OIP (1).webp" alt="Birth Control Post 2" class="rounded-md my-4"/><br/>
 
 <b>3. It allows us to be HOT TO GO at all times. 🔥🔥🔥</b><br/>
-<img src="https://www.Bedsiderr.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcGxwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e9a9db234c314e6451881c3587a7373f141d6ab6/Screenshot%202024-11-14%20at%204.50.03%E2%80%AFPM.png" alt="Birth Control Post 3" class="rounded-md my-4"/><br/>
+<img src="https://th.bing.com/th/id/OIP.ulj8w5SRDVW_n9cqoSsEtgHaEJ?w=294&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Birth Control Post 3" class="rounded-md my-4"/><br/>
 
 <b>4. It gives us the freedom to have only babies with fur, if that’s what we want.</b><br/>
-<img src="https://www.Bedsiderr.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcHhwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c3e71bdc01ab3511c34b9c36e7748bc45252b832/Screenshot%202024-11-14%20at%204.49.46%E2%80%AFPM.png" alt="Birth Control Post 4" class="rounded-md my-4"/><br/>
+<img src="https://cdn.quotesgram.com/img/73/71/1564771918-319c5611b25b07b7fe9e88916a37319a.jpg" alt="Birth Control Post 4" class="rounded-md my-4"/><br/>
 
 <b>5. Birth control can help us manage our health.</b><br/><br/>
-<img src="https://www.Bedsiderr.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcUpwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d307ee855a4f9d53972acf01c3034567267a3c40/Screenshot%202024-11-14%20at%204.30.02%E2%80%AFPM.png" alt="Birth Control Post 4" class="rounded-md my-4"/><br/>
+<img src="https://hersmartchoice.com/wp-content/uploads/2023/04/02-1.jpg" alt="Birth Control Post 4" class="rounded-md my-4"/><br/>
 
 <b>6. It is our right to have access to birth control.</b><br/><br/>
-<img src="https://www.Bedsiderr.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcTlwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6ada9d786e287546a6280e638b842940db9219c3/Screenshot%202024-11-14%20at%209.03.20%E2%80%AFPM.png" alt="Birth Control Post 4" class="rounded-md my-4"/><br/>
+<img src="/OIPAS (2).webp" alt="Birth Control Post 4" class="rounded-md my-4"/><br/>
 
 <b>7. We are powerful when we stand together.</b><br/><br/>
-<img src="https://www.Bedsiderr.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVJwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--083c62cab1fd091d0de78364d0d6dc9a5c71df89/we%20are%20NOT%20backing%20down.png" alt="Birth Control Post 4" class="rounded-md my-4"/><br/>
+<img src="/brick-blocks-with-red-words-we-are-stronger-together-beautiful-red-background-business-concept_606207-897.avif" alt="Birth Control Post 4" class="rounded-md my-4"/><br/>
 
 <b>8. And we are NOT backing down!</b>
-<img  src="https://www.Bedsiderr.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVJwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--083c62cab1fd091d0de78364d0d6dc9a5c71df89/we%20are%20NOT%20backing%20down.png" alt="Birth Control Post 4" class="rounded-md my-4"/><br/>
+<img  src="https://tse4.mm.bing.net/th/id/OIP.PSYI4onF8QN0FY_7z0P5ZAHaC9?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Birth Control Post 4" class="rounded-md my-4"/><br/>
 
 
 `
@@ -258,7 +244,7 @@ Here are some of the reasons we’re saying #ThxBirthControl in 2024, because we
   author: "",
   date: "Mar 04, 2024",
   updated: " Updated: Mar 05, 2024",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcGhuIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a1fda66b611193a31b4bb5cc47e7f859cdcc435f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Screenshot%202024-03-04%20at%208.04.06%20AM.png",
+  image: "/bithcontrolarticle/imgi_31_Screenshot 2024-03-04 at 8.04.06 AM.png",
   showSocialIcons: true,
   content: `
 <b>Opill, the new, long-awaited over-the-counter birth control pill, has hit the shelves!</b><br/><br/>
@@ -332,7 +318,7 @@ Taking a birth control pill every day works great for some people, but for other
   author: "",
   date: "Nov 17, 2023",
   updated: "",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1JtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7b95e0f86debbead44da715892c06d6e3ac1f4ef/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1432965106.jpg",
+  image: "/bithcontrolarticle/imgi_28_reproductive-health-supplies-coalition-bymICwLq-E4-unsplash.jpg",
   showSocialIcons: true,
   content: `
 We’re turning up the volume on gratitude with our annual shout-out extravaganza: Thanks, Birth Control Day! It’s the day we come together, raise our voices, and share the myriad ways birth control has made our lives better.<br/><br/>
@@ -340,28 +326,28 @@ We’re turning up the volume on gratitude with our annual shout-out extravaganz
 From the deeply personal stories to the cheerfully cheeky tweets, every declaration is a celebration. Dive into 2023’s 11th annual jubilee and discover the chorus of thank-yous echoing across our vibrant community! Here’s why people are saying #ThxBirthControl in 2023:<br/><br/>
 
 <b>1. For all the different ways it can help us.</b><br/>
-<iframe src="" width="325" height="580" frameborder="0" allowfullscreen class="my-4 rounded-md"></iframe><br/>
+<img src="/bithcontrolarticle/imgi_30_230912_PTD_CapitolHill-04c.jpg" alt="Hot sex post" class="my-4 rounded-md"/><br/>
 
 <b>2. Because it’s literally helping us save the planet!</b><br/>
-<img src="https://www.Bedsiderr.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0ptIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4dc7aaeeb5bf72285213fced20104793e6cbdb02/Screen%20Shot%202023-11-16%20at%2010.52.57%20PM.png" alt="Hot sex post" class="my-4 rounded-md"/><br/>
+<img src="https://th.bing.com/th/id/OIP.Q740t4qCor1IxK4bDlo15wHaHa?w=197&h=197&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3" alt="Hot sex post" class="my-4 rounded-md"/><br/>
 
 <b>3. Because we love our lives (complete with fur babies) as they are!!</b><br/>
-<iframe src="" width="325" height="580" frameborder="0" allowfullscreen class="my-4 rounded-md"></iframe><br/>
+<img src="https://th.bing.com/th/id/OIP.Q740t4qCor1IxK4bDlo15wHaHa?w=197&h=197&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3" alt="Hot sex post" class="my-4 rounded-md"/><br/>
 
 <b>4. Because it’s gender neutral.</b><br/>
-<img src="https://www.Bedsiderr.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjVtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ddb5340216199c7b50a285a221be88790ca8a3b3/Screen%20Shot%202023-11-16%20at%2010.46.08%20PM.png" alt="Gender neutral post" class="my-4 rounded-md"/><br/>
+<img src="https://tse1.mm.bing.net/th/id/OIP.qLLecMAQZwALfPVvJnSwSwAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Gender neutral post" class="my-4 rounded-md"/><br/>
 
 <b>5. For allowing us to follow our dreams.</b><br/>
-<img src="https://i.imgur.com/bN9LJG1.png" alt="Emily Eckert post" class="my-4 rounded-md"/><br/>
+<img src="/OIPFollowDream (2).webp" alt="Emily Eckert post" class="my-4 rounded-md"/><br/>
 
 <b>6. Because there are SO MANY OPTIONS.</b><br/>
-<iframe src="" width="325" height="580" frameborder="0" allowfullscreen class="my-4 rounded-md"></iframe><br/>
+<img src="/OIPmanyOption (2).webp" alt="Emily Eckert post" class="my-4 rounded-md"/><br/>
 
 <b>7. For giving us the space to make art.</b><br/>
-<img src="https://www.Bedsiderr.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0JtIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f473102d066cbc12ac6643ecd84242e9a34ce316/Screen%20Shot%202023-11-16%20at%2010.48.24%20PM.png" alt="Art expression post" class="my-4 rounded-md"/><br/>
+<img src="/OIPuiu.jpg" alt="Art expression post" class="my-4 rounded-md"/><br/>
 
-<b>8. Because wanting to have smokin’ hot sex is reason enough!</b><br/>
-<img src="https://www.Bedsiderr.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0ptIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4dc7aaeeb5bf72285213fced20104793e6cbdb02/Screen%20Shot%202023-11-16%20at%2010.52.57%20PM.png" alt="Hot sex post" class="my-4 rounded-md"/><br/>
+<b>8. Because wanting to have smoking hot sex is reason enough!</b><br/>
+<img src="/OIPsmoke.jpg" alt="Hot sex post" class="my-4 rounded-md"/><br/>
 `
 }
 

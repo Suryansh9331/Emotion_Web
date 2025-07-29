@@ -5,7 +5,7 @@ export const HCarticles = [
     title: "How to tell your provider that you’re polyamorous",
       subtitle: "5 tips for getting through the awkwardness to get the best care possible",
     image:
-      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWRvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ad46886c0f120f378d0d93710e1f6b611db21443/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Patient%20talk%20with%20doctor.jpghttps://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWRvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ad46886c0f120f378d0d93710e1f6b611db21443/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Patient%20talk%20with%20doctor.jpg",
+      "/SexAndRelationship/imgi_7_broken heart.jpg",
     hasQuestionPattern: false,
   },
   {
@@ -65,7 +65,7 @@ export const HCarticleContents = {
   author: "By : Kae Burdo",
   date: "Jul 19, 2024",
   updated: "Updated: Mar 23, 2025",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWRvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ad46886c0f120f378d0d93710e1f6b611db21443/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Patient%20talk%20with%20doctor.jpg",
+  image: "Emotion_Web/public/SexAndRelationship/imgi_7_broken heart.jpg",
   showSocialIcons: true,
   content: `I’ve been some flavor of consensually non-monogamous for over 15 years. During those years, I have had to come out as poly to psychiatrists, therapists, primary care physicians, surgeons, specialists, and nurse practitioners.<br><br>
 
@@ -413,7 +413,7 @@ export const HCarticleContentsTwo = {
   author: "By Jennifer Keller, MD MPH",
   date: "Aug 10, 2021",
   updated: "",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3NVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a64108d6732330dc40d38bd75effbb42a4749a69/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-958559804.jpg",
+  image: "/SexAndRelationship/imgi_5_forever_cover_image.jpg",
   showSocialIcons: true,
   content: `<i>This article originally appeared on Bedsiderr Providers. While it was written by a provider for other providers, we thought it might be helpful for our Bedsiderr readers to see as well. We want you to know we’re committed to addressing health disparities, and part of our approach to that work is through provider education.</i><br><br>
 
