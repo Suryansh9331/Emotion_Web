@@ -161,7 +161,7 @@ const STILayout = () => {
       <div className="relative rounded-lg overflow-hidden min-h-[400px] md:min-h-[600px] flex flex-col justify-center items-center p-8">
         {/* Background image with brightness filter */}
         <img
-          src="https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa2xzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--391408530b81f4f1f17d620b22247fe5d619a498/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/couple%20in%20bed%20photo.jpg"
+          src="/Sex&Relationship/Boundaries&Consent/Banner1.png"
           alt=""
           className="absolute inset-0 w-full h-full object-cover filter brightness-50"
         />
