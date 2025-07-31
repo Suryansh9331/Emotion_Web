@@ -5,7 +5,7 @@ export const DAHarticles = [
     title: "How to tell your provider that you’re polyamorous",
       subtitle: "5 tips for getting through the awkwardness to get the best care possible",
     image:
-      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWRvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ad46886c0f120f378d0d93710e1f6b611db21443/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Patient%20talk%20with%20doctor.jpghttps://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWRvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ad46886c0f120f378d0d93710e1f6b611db21443/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Patient%20talk%20with%20doctor.jpg",
+      "/Sex&Relationship/Dating&Hookup/Article1.png",
     hasQuestionPattern: false,
   },
   {
@@ -15,7 +15,7 @@ export const DAHarticles = [
       "7 sexual health services you can get from the comfort of your own home",
         subtitle: "Telehealth can make your life so much easier",
     image:
-      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjRVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bed2cccb37e1772149686042339cd81d367a0d72/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-726775319.jpg",
+      "/Sex&Relationship/Dating&Hookup/Article2.png",
     hasQuestionPattern: false,
   },
   {
@@ -24,7 +24,7 @@ export const DAHarticles = [
     title: "The best tips we’ve ever gotten from health care providers",
     subtitle: "Pass it on",
     image:
-      "/SHW/provider_perspectives_header-44b4f94e01ec610c3de2b52585ef601d43bb8196a7253ae8e24896c8838e3.jpg",
+      "/Sex&Relationship/Dating&Hookup/Article3.png",
     hasQuestionPattern: false,
   },
   {
@@ -33,7 +33,7 @@ export const DAHarticles = [
     title: "Dreading your annual exam? Here’s why you should go",
     subtitle:
       "And how to make it work for you",
-    image: "/SHW/provider_perspectives_header-44b4f94e01ec610c3de2b52585ef601d43bb8196a7253ae8e24896c8838e3.jpg",
+    image: "/Sex&Relationship/Dating&Hookup/Article4.png",
     hasQuestionPattern: false,
   },
   {
@@ -41,7 +41,7 @@ export const DAHarticles = [
     category: "Health care",
     title: "Choosing a (new) health care provider",
     subtitle: "Keep these questions in mind",
-    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdUZCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--735724c4250dfa90e0f08a9ce768e493bf9630bb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/cropped%20patient%20final%20.jpg",
+    image: "/Sex&Relationship/Dating&Hookup/Article5.png",
     hasQuestionPattern: false,
   },
   
@@ -65,7 +65,7 @@ export const DAHarticleContents = {
   author: "By : Kae Burdo",
   date: "Jul 19, 2024",
   updated: "Updated: Mar 23, 2025",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWRvIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ad46886c0f120f378d0d93710e1f6b611db21443/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Patient%20talk%20with%20doctor.jpg",
+  image: "/Sex&Relationship/Dating&Hookup/Article1.png",
   showSocialIcons: true,
   content: `I’ve been some flavor of consensually non-monogamous for over 15 years. During those years, I have had to come out as poly to psychiatrists, therapists, primary care physicians, surgeons, specialists, and nurse practitioners.<br><br>
 
@@ -120,7 +120,7 @@ When they’re not sparking important conversations about mental health, gender,
   author: "By Emma McGowan",
   date: "Mar 17, 2020",
   updated: "Updated: May 18, 2023",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjRVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bed2cccb37e1772149686042339cd81d367a0d72/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-726775319.jpg",
+  image: "/Sex&Relationship/Dating&Hookup/Article2.png",
   showSocialIcons: true,
   content: `One of the big advantages of telehealth is that it allows you to take care of more intimate health care stuff without having to actually go into the doctor’s office, look someone in the eye, and talk about why you need to get tested. (For example.)<br><br>
 
@@ -168,7 +168,7 @@ Emma McGowan is a veteran blogger who writes about startups and sex. She’s Bus
   author: "",
   date: "May 05, 2023",
   updated: "",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHRpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7046e9754e1f3814bd9b3498bdc59eb02f7f7cff/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-1430317161.jpg",
+  image: "/Sex&Relationship/Dating&Hookup/Article3.png",
   showSocialIcons: true,
   content: `Over the years we’ve passed along so much great advice and info from sexual and reproductive health care providers. Here are just a few of our favorite tips:<br><br>
 
@@ -200,7 +200,7 @@ Actually, it’s not just okay to get a new provider if yours isn’t right for 
   author: "By Jessica Cruz-Fehr",
   date: "Mar 07, 2023",
   updated: "",
-  image: "https://www.Bedsiderr.org/assets/mobile/provider_perspectives_header-44b4f94e01ec610c3de2b52585ef601d43bb8196a7253ae8e24896c8838e380a.jpg",
+  image: "/Sex&Relationship/Dating&Hookup/Article4.png",
   showSocialIcons: true,
   content: `Are you dreading your “annual exam”? Not sure how often you need to see a health care provider? Wondering if you can avoid pelvic exams forever? Knowing more about what to expect and how to prepare can help. Even if there’s nothing wrong, you should still see a provider about your sexual and reproductive health needs every year.<br><br>
 
@@ -262,7 +262,7 @@ Jessica Cruz-Fehr is a Certified Nurse-Midwife currently working for a full-scop
   author: "Jessica Cruz-Fehr",
   date: "Jan 11, 2022",
   updated: "",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdUZCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--735724c4250dfa90e0f08a9ce768e493bf9630bb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/cropped%20patient%20final%20.jpg",
+  image: "/Sex&Relationship/Dating&Hookup/Article5.png",
   showSocialIcons: true,
   content: `Whether you just moved, are ready for a change, or need to find your first provider, choosing a health care provider can feel daunting. This is especially true when you’re looking for a sexual health provider. But finding a provider that’s a good fit for you and your needs is one key to helping you get the care you deserve.<br><br>
 
@@ -354,7 +354,7 @@ export const DAHarticlesTwo = [
         subtitle: "Using the principles of explicit consent to give patients better care",
 
     image:
-      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3NVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a64108d6732330dc40d38bd75effbb42a4749a69/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-958559804.jpg",
+      "/Sex&Relationship/Dating&Hookup/Article6.png",
     hasQuestionPattern: false,
   },
   {
@@ -363,7 +363,7 @@ export const DAHarticlesTwo = [
     title: "Is telehealth totally impersonal?",
       
     image:
-      "https://www.Bedsiderr.org/assets/twentyone/faq_question_marks-12cc02f534646e9c41b2b62dd380b297bab076af0f938789e53822a88e551b81.svg",
+      "/Sex&Relationship/Dating&Hookup/Article7.png",
     hasQuestionPattern: false,
   },
   {
@@ -372,7 +372,7 @@ export const DAHarticlesTwo = [
     title: "5 times you should go see a provider in person",
     subtitle: "Telehealth is a game-changer, but sometimes you need to go old school",
     image:
-      "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb29VIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c6ee08f0cd89114a37fe83070da4efbe3fffe968/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-103058935_(3).jpg",
+      "/Sex&Relationship/Dating&Hookup/Article8.png",
     hasQuestionPattern: false,
   },
   
@@ -381,7 +381,7 @@ export const DAHarticlesTwo = [
     category: " Health care",
     title: "Getting covered 101: How to get health insurance during open enrollment",
     subtitle: "Not sure if you need health insurance? Want insurance but not sure how to get it? We've got you covered.",
-    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1lWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e0ca916e63164ac4d1943c78640d18f4205a5642/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/header_health_insurance_101.jpg",
+    image: "/Sex&Relationship/Dating&Hookup/Article9.png",
     hasQuestionPattern: false,
   },
 {
@@ -390,7 +390,7 @@ export const DAHarticlesTwo = [
     title: "Why NOT to buy a short-term insurance plan",
     subtitle:
       "Your guide to getting health insurance for 2021",
-    image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbE1WIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fc6882c991bd9a64ca313a3c13fde15fff3e8903/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Short-term_Insurance_001.jpg",
+    image: "/Sex&Relationship/Dating&Hookup/Article10.png",
     hasQuestionPattern: false,
   }
 ];
@@ -413,7 +413,7 @@ export const DAHarticleContentsTwo = {
   author: "By Jennifer Keller, MD MPH",
   date: "Aug 10, 2021",
   updated: "",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3NVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a64108d6732330dc40d38bd75effbb42a4749a69/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-958559804.jpg",
+  image: "/Sex&Relationship/Dating&Hookup/Article6.png",
   showSocialIcons: true,
   content: `<i>This article originally appeared on Bedsiderr Providers. While it was written by a provider for other providers, we thought it might be helpful for our Bedsiderr readers to see as well. We want you to know we’re committed to addressing health disparities, and part of our approach to that work is through provider education.</i><br><br>
 
@@ -455,7 +455,7 @@ Jennifer Keller, MD MPH is an Associate Professor of Obstetrics and Gynecology a
     author: "",
     date: "Jun 03, 2021",
     updated: "",
-    image: "",
+    image: "/Sex&Relationship/Dating&Hookup/Article7.png",
     showSocialIcons: true,
     content: `No! There are so many different ways to use telehealth depending on what you’re looking to get out of the experience, but if you want to see and talk to a health care provider, there’s definitely an app for that, as they say.
 
@@ -468,7 +468,7 @@ For more info on telehealth and what it can do for you (think: getting your birt
   author: "By : Emma McGowan",
   date: "Nov 21, 2020",
   updated: "",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb29VIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c6ee08f0cd89114a37fe83070da4efbe3fffe968/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-103058935_(3).jpg",
+  image: "/Sex&Relationship/Dating&Hookup/Article8.png",
   showSocialIcons: true,
   content: `When you first consider telehealth, you might wonder: when do I actually need to go see a provider in person? Well, that’s a really good question!<br><br>
 
@@ -516,7 +516,7 @@ Emma McGowan is a veteran blogger who writes about startups and sex. She’s Bus
   author: "",
   date: "Dec 19, 2018",
   updated: " Updated: Nov 05, 2020",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1lWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e0ca916e63164ac4d1943c78640d18f4205a5642/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/header_health_insurance_101.jpg",
+  image: "/Sex&Relationship/Dating&Hookup/Article9.png",
   showSocialIcons: true,
   content: `
 <b>UPDATE:</b> President Biden has opened the enrollment period for the Affordable Care Act health insurance plans for 2022. You can now enroll until January 15, 2022, at <a href='https://www.healthcare.gov'>healthcare.gov</a>.<br><br>
