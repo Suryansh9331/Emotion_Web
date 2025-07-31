@@ -127,7 +127,7 @@ const handleFeedbackClick = (type) => {
         {PFarticle.image && (
           <div className="px-6 py-4">
             <img
-              srS={PFarticle.image}
+              src={PFarticle.image}
               alt={PFarticle.title}
               className="w-full h-64 md:h-96 object-cover rounded-none"
             />
