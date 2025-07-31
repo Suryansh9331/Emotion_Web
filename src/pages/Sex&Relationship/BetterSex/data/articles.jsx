@@ -413,7 +413,7 @@ export const BSarticleContentsTwo = {
   author: "By Jennifer Keller, MD MPH",
   date: "Aug 10, 2021",
   updated: "",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3NVIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a64108d6732330dc40d38bd75effbb42a4749a69/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/GettyImages-958559804.jpg",
+  image: "/Sex&Relationship/BetterSex/Article6.png",
   showSocialIcons: true,
   content: `<i>This article originally appeared on Bedsiderr Providers. While it was written by a provider for other providers, we thought it might be helpful for our Bedsiderr readers to see as well. We want you to know we’re committed to addressing health disparities, and part of our approach to that work is through provider education.</i><br><br>
 
@@ -455,7 +455,7 @@ Jennifer Keller, MD MPH is an Associate Professor of Obstetrics and Gynecology a
     author: "",
     date: "Jun 03, 2021",
     updated: "",
-    image: "",
+    image: "/Sex&Relationship/BetterSex/Article7.png",
     showSocialIcons: true,
     content: `No! There are so many different ways to use telehealth depending on what you’re looking to get out of the experience, but if you want to see and talk to a health care provider, there’s definitely an app for that, as they say.
 
@@ -570,7 +570,7 @@ Washington<br><br>
   author: "By Erin Hemlin",
   date: "Oct 29, 2018",
   updated: "Updated: Nov 05, 2020",
-  image: "/Sex&Relationship/BetterSex/Article1.png",
+  image: "/Sex&Relationship/BetterSex/Article10.png",
   showSocialIcons: true,
   content: `
 <b>There’s been a lot of talk about the future of the Affordable Care Act (ACA)...</b><br><br>
