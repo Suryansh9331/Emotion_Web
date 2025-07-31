@@ -12,7 +12,7 @@ const Relationship = () => {
       <div className="relative rounded-lg overflow-hidden min-h-[400px] md:min-h-[600px] flex flex-col justify-center items-center p-8">
         {/* Background image with brightness filter */}
         <img
-          src="https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHhwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--874145a538cc3b8db78b692285aa15827c2dcbd9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/how%20to%20help%20your%20long%20distance%20relationship%20thrive.jpg"
+          src="/Sex&Relationship/Relationship/Banner2.png"
           alt=""
           className="absolute inset-0 w-full h-full object-cover filter brightness-70"
         />

@@ -161,7 +161,7 @@ const STILayout = () => {
       <div className="relative rounded-lg overflow-hidden min-h-[400px] md:min-h-[600px] flex flex-col justify-center items-center p-8">
         {/* Background image with brightness filter */}
         <img
-          src="/SexAndRelationship/imgi_4_domingo-alvarez-e-Cs3y8Mn6-Gk-unsplash.jpg"
+          src="/Sex&Relationship/Relationship/Banner1.png"
           alt=""
           className="absolute inset-0 w-full h-full object-cover filter brightness-50"
         />
