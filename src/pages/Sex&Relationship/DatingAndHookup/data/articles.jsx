@@ -570,7 +570,7 @@ Washington<br><br>
   author: "By Erin Hemlin",
   date: "Oct 29, 2018",
   updated: "Updated: Nov 05, 2020",
-  image: "https://www.Bedsiderr.org/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbE1WIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fc6882c991bd9a64ca313a3c13fde15fff3e8903/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZmRHOWZabWxzYkZzSGFRTDRBbWtDa0FFPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--a3ab3c05229ad5f0864920d0b6b36ed3f914792c/Short-term_Insurance_001.jpg",
+  image: "/Sex&Relationship/Dating&Hookup/Article10.png",
   showSocialIcons: true,
   content: `
 <b>There’s been a lot of talk about the future of the Affordable Care Act (ACA)...</b><br><br>
